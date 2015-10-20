@@ -20,11 +20,11 @@ public class TagText {
 	static final String USER = "root";
 	static final String PASS = "ratneshchandak";
 
-	static void findPOC(String s,Long sentenceId) throws ClassNotFoundException, SQLException {
+	static void findPOC(String s, Long sentenceId) throws ClassNotFoundException, SQLException {
 
 		String[] Stringparts = s.split("/");
-	//	System.out.println("outside loop :" + Stringparts[0]);
-	//	System.out.println("outside loop :" + Stringparts[1]);
+		// System.out.println("outside loop :" + Stringparts[0]);
+		// System.out.println("outside loop :" + Stringparts[1]);
 
 		Connection conn = null;
 		Statement stmt = null;
@@ -35,19 +35,12 @@ public class TagText {
 		conn = (Connection) DriverManager.getConnection(DB_URL, USER, PASS);
 		stmt = (Statement) conn.createStatement();
 
-		String sql = "SELECT id from partofspeech where tag =" + '"' + Stringparts[1] + '"';
-		rs = stmt.executeQuery(sql);
-
-		Long posId;
-		while (rs.next()) {
-			posId = rs.getLong("id");
-			sql = "INSERT INTO tagwords VALUES(NULL,?,?,?)";
-			ps = conn.prepareStatement(sql);
-			ps.setString(1, Stringparts[0]);
-			ps.setLong(2, posId);
-			ps.setLong(3, sentenceId);
-			ps.executeUpdate();
-		}
+		String sql = "INSERT INTO tagwords VALUES(NULL,?,?,?)";
+		ps = conn.prepareStatement(sql);
+		ps.setString(1, Stringparts[0]);
+		ps.setString(2, Stringparts[1]);
+		ps.setLong(3, sentenceId);
+		ps.executeUpdate();
 		stmt.close();
 		conn.close();
 	}
@@ -73,16 +66,16 @@ public class TagText {
 		Long id;
 		while (rs.next()) {
 			id = rs.getLong("id");
-			System.out.println("id="+id+"\n");
+			System.out.println("id=" + id + "\n");
 			reviewsentence = rs.getString("sentence");
-			reviewsentence=reviewsentence.replaceAll("[^a-zA-Z0-9 '-]", " ");
+			reviewsentence = reviewsentence.replaceAll("[^a-zA-Z0-9 '-]", " ");
 			taggedReview = tagger.tagString(reviewsentence);
 			System.out.println(taggedReview);
 			StringTokenizer st = new StringTokenizer(taggedReview);
 			while (st.hasMoreTokens()) {
 				String term = st.nextToken();
 				System.out.println(term);
-				findPOC(term,id);
+				findPOC(term, id);
 			}
 		}
 

@@ -29,7 +29,7 @@ public class breakReviewIntoSentence {
 		conn = (Connection) DriverManager.getConnection(DB_URL, USER, PASS);
 		stmt = (Statement) conn.createStatement();
 
-		String sql = "SELECT id,reviewText from electronicsreview";
+		String sql = "SELECT id,reviewText from electronics_review";
 		rs = stmt.executeQuery(sql);
 
 		Long reviewId;
