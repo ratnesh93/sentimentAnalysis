@@ -21,6 +21,11 @@ public class temp {
 		    start = end, end = iterator.next()) {
 		  System.out.println(source.substring(start,end));
 		}
+		
+		String a="abc";
+		String b="def";
+		String c=a+" "+b;
+		System.out.println(c);
 			
 	}
 
