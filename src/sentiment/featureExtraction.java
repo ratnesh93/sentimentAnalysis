@@ -51,7 +51,7 @@ public class featureExtraction {
 			while (rs.next()) {
 
 				sentenceId = rs.getLong("sentenceId");
-				word = rs.getString("word");
+				word = rs.getString("word").toLowerCase();
 				tagId = rs.getLong("id");
 
 				if (prevtagId == (tagId - 1L) && sentenceId == prevsentenceId) {
