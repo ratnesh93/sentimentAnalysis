@@ -1,10 +1,13 @@
 package sentiment;
 
+import java.io.IOException;
 import java.text.BreakIterator;
 import java.util.Locale;
 
+import edu.stanford.nlp.tagger.maxent.MaxentTagger;
+
 public class temp {
-	public static void main(String[] args) {
+	public static void main(String[] args) throws ClassNotFoundException, IOException {
 
 		String str = "Hi !!! all ? my name. is r.c. Hope u I.E. are well The number is 2.2 and I am doing good.";
 		String[] sentenceHolder = str.split("[/?|/.|/!][^a-zA-Z0-9]");
@@ -13,7 +16,7 @@ public class temp {
 		}	
 
 		BreakIterator iterator = BreakIterator.getSentenceInstance(Locale.US);
-		String source = "This is a test. This is a T.L.A. test. Now with a Dr. in it. Hi !!! all ? my name. is r.c. Hope u I.E. are well The number is 2.2 and I am doing good.";
+		String source = "This is a test t.v. This is a T.L.A. test. Now with a Dr. in it. Hi !!! all ? my name. is r.c. Hope u I.E. are well The number is 2.2 and I am doing good.";
 		iterator.setText(source);
 		int start = iterator.first();
 		for (int end = iterator.next();
@@ -27,6 +30,12 @@ public class temp {
 		String c=a+" "+b;
 		System.out.println(c);
 			
+		//wordnet w;
+		MaxentTagger tagger = new MaxentTagger("taggers/bidirectional-distsim-wsj-0-18.tagger");
+		String reviewsentence="Iphone 6s sucks and is worst then nexus 6";
+		String taggedReview = tagger.tagString(reviewsentence);
+		System.out.println(taggedReview);
+		
 	}
 
 }
