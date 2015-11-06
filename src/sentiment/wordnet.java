@@ -1,22 +1,22 @@
-package sentiment;
+/*package sentiment;
 import edu.smu.tspell.wordnet.Synset;
 import edu.smu.tspell.wordnet.WordNetDatabase;
 
-/**
+*//**
  * Displays word forms and definitions for synsets containing the word form
  * specified on the command line. To use this application, specify the word
  * form that you wish to view synsets for, as in the following example which
  * displays all synsets containing the word form "airplane":
  * <br>
  * java TestJAWS airplane
- */
+ *//*
 public class wordnet
 {
 
-	/**
+	*//**
 	 * Main entry point. The command-line arguments are concatenated together
 	 * (separated by spaces) and used as the word form to look up.
-	 */
+	 *//*
 	public static void main(String[] args)
 	{
 		if (args.length > 0)
@@ -62,4 +62,4 @@ public class wordnet
 		}
 	}
 
-}
+}*/

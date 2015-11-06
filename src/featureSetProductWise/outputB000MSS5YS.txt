@@ -1,0 +1,12 @@
+thing:80
+music:81
+cassette:81
+quality:85
+boom:91
+box:123
+unit:139
+radio:152
+player:158
+bass:190
+boombox:204
+sound:289

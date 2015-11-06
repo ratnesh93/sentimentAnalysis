@@ -1,4 +1,4 @@
-package sentiment;
+/*package sentiment;
 
 import java.io.IOException;
 import java.text.BreakIterator;
@@ -39,3 +39,4 @@ public class temp {
 	}
 
 }
+*/

@@ -1,0 +1,8 @@
+time:117
+quality:117
+set:154
+screen:156
+price:177
+delivery:177
+picture:343
+tv:815

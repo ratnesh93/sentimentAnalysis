@@ -1,0 +1,9 @@
+chargers:68
+hours:70
+camera:88
+product:90
+time:117
+charge:201
+battery:216
+charger:523
+batteries:834

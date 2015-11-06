@@ -1,0 +1,8 @@
+shortwave:102
+time:104
+radios:122
+quality:163
+stations:183
+reception:202
+antenna:243
+radio:860

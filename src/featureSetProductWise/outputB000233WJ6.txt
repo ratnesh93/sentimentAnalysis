@@ -1,0 +1,14 @@
+wall:31
+job:31
+plug:34
+foot:36
+price:40
+length:40
+quality:45
+outlet:50
+product:51
+cords:53
+cable:99
+power:128
+extension:151
+cord:237
