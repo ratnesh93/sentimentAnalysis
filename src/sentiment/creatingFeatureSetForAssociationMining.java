@@ -53,16 +53,20 @@ public class creatingFeatureSetForAssociationMining {
 				word = rs2.getString("word");
 				word = word.toLowerCase();
 				if (sentenceId != prevsentenceId && prevsentenceId!=-99L){
+					writer.write(buffer.toString());
 					writer.newLine();
 					buffer = new StringBuilder();
+
 				}
-				if(buffer.indexOf(word)==-1){
-					buffer.replace(0, buffer.length(), word+" ");
-					//buffer.append(word+" ");
-					writer.write(buffer.toString());
+
+				if(!buffer.toString().contains(word)){
+					//buffer.replace(0, buffer.length(), word+" ");
+					buffer.append(word+" ");
 				}
 				prevsentenceId = sentenceId;
 			}
+			writer.write(buffer.toString());
+			
 			if (writer != null)
 				writer.close();
 
