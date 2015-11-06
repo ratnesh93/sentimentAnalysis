@@ -1,0 +1,9 @@
+firmware:102
+quality:106
+internet:112
+unit:113
+product:114
+device:115
+time:142
+tv:151
+player:690

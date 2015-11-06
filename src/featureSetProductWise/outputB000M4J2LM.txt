@@ -1,0 +1,10 @@
+time:64
+price:71
+cameras:71
+photos:72
+memory:83
+battery:87
+picture:95
+quality:120
+pictures:274
+camera:760

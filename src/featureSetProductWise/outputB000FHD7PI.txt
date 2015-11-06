@@ -1,0 +1,11 @@
+power:67
+product:68
+volume:69
+quality:74
+batteries:74
+cd:77
+unit:115
+player:138
+boombox:156
+sound:177
+radio:239

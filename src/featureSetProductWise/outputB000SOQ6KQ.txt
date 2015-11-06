@@ -1,0 +1,12 @@
+watch:66
+machine:73
+items:73
+job:78
+time:87
+product:96
+glasses:101
+unit:126
+cleaning:150
+water:206
+cleaner:231
+jewelry:321

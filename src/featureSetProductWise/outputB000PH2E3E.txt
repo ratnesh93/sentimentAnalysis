@@ -1,0 +1,11 @@
+years:58
+xpad:71
+cooling:76
+fans:92
+fan:106
+pad:113
+computer:116
+heat:144
+product:147
+lap:202
+laptop:546

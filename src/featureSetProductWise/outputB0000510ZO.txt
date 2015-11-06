@@ -1,0 +1,13 @@
+monitor:27
+projector:32
+tv:44
+product:45
+length:45
+computer:45
+quality:50
+price:51
+cords:57
+cables:97
+cable:169
+power:212
+cord:218
