@@ -37,10 +37,6 @@ public class breakReviewIntoSentence {
 		while (rs.next()) {
 			reviewId = rs.getLong("id");
 			reviewText = rs.getString("reviewText");
-
-			// splitting into sentences
-			// String[] sentenceHolder =
-			// reviewText.split("[/?|/.|/!][^a-zA-Z0-9]");
 			BreakIterator iterator = BreakIterator.getSentenceInstance(Locale.US);
 			iterator.setText(reviewText);
 			int start = iterator.first();

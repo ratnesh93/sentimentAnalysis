@@ -24,7 +24,6 @@ public class creatingFeatureSetForAssociationMining {
 		Connection conn = null;
 		Statement stmt = null, stmt2 = null;
 		ResultSet rs = null, rs2 = null;
-	//	java.sql.PreparedStatement ps = null;
 
 		Class.forName("com.mysql.jdbc.Driver");
 		conn = (Connection) DriverManager.getConnection(DB_URL, USER, PASS);
@@ -56,11 +55,9 @@ public class creatingFeatureSetForAssociationMining {
 					writer.write(buffer.toString());
 					writer.newLine();
 					buffer = new StringBuilder();
-
 				}
 
 				if(!buffer.toString().contains(word)){
-					//buffer.replace(0, buffer.length(), word+" ");
 					buffer.append(word+" ");
 				}
 				prevsentenceId = sentenceId;

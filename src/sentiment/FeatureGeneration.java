@@ -54,9 +54,9 @@ public class FeatureGeneration {
 			stmt.close();
 			conn.close();
 		}
+		
 		public static String fileToPath(String filename) throws UnsupportedEncodingException{
 			URL url = MainTestFPGrowth_strings_saveToFile.class.getResource(filename);
 			 return java.net.URLDecoder.decode(url.getPath(),"UTF-8");
 		}
-		
 }

@@ -23,12 +23,9 @@ public class TagText {
 	static void findPOC(String s, Long sentenceId) throws ClassNotFoundException, SQLException {
 
 		String[] Stringparts = s.split("/");
-		// System.out.println("outside loop :" + Stringparts[0]);
-		// System.out.println("outside loop :" + Stringparts[1]);
 
 		Connection conn = null;
 		Statement stmt = null;
-		ResultSet rs = null;
 		java.sql.PreparedStatement ps = null;
 
 		Class.forName("com.mysql.jdbc.Driver");
@@ -66,11 +63,9 @@ public class TagText {
 		Long id;
 		while (rs.next()) {
 			id = rs.getLong("id");
-			System.out.println("id=" + id + "\n");
 			reviewsentence = rs.getString("sentence");
 			reviewsentence = reviewsentence.replaceAll("[^a-zA-Z0-9 '-]", " ");
 			taggedReview = tagger.tagString(reviewsentence);
-			System.out.println(taggedReview);
 			StringTokenizer st = new StringTokenizer(taggedReview);
 			while (st.hasMoreTokens()) {
 				String term = st.nextToken();

@@ -32,7 +32,7 @@ public class partofspeech {
 				"Particle", "Symbol", "to", "Interjection", "Verb, base form", "Verb, past tense",
 				"Verb, gerund or present participle", "Verb, past participle", "Verb, non-3rd person singular present",
 				"Verb, 3rd person singular present", "Wh-determiner", "Wh-pronoun", "Possessive wh-pronoun",
-				"Wh-adverb", "", "" };
+				"Wh-adverb" };
 		String[] tag = { "CC", "CD", "DT", "EX", "FW", "IN", "JJ", "JJR", "JJS", "LS", "MD", "NN", "NNS", "NP", "NPS",
 				"PDT", "POS", "PP", "PP$", "RB", "RBR", "RBS", "RP", "SYM", "TO", "UH", "VB", "VBD", "VBG", "VBN",
 				"VBP", "VBZ", "WDT", "WP", "WP$", "WRB" };
