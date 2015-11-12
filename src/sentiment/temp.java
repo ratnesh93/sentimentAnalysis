@@ -1,5 +1,7 @@
-/*package sentiment;
 
+
+package sentiment;
+import rita.RiWordNet;
 import java.io.IOException;
 import java.text.BreakIterator;
 import java.util.Locale;
@@ -36,7 +38,19 @@ public class temp {
 		String taggedReview = tagger.tagString(reviewsentence);
 		System.out.println(taggedReview);
 		
+		RiWordNet wordnet = new RiWordNet("C:/Program Files (x86)/WordNet/2.1");
+	//	RiWordNet wordnet=new RiWordNet();
+		String[] antonyms=wordnet.getAllAntonyms("quirky", "a");
+		String[] synonyms = wordnet.getAllSynonyms("quirky", "a");
+		System.out.println("antonyms");
+		for(int i=0;i<antonyms.length;i++){
+			System.out.println(antonyms[i]);
+		}
+		System.out.println("synonmys");
+		for(int i=0;i<synonyms.length;i++){
+			System.out.println(synonyms[i]);
+		}
+		
 	}
 
 }
-*/
