@@ -1,18 +1,148 @@
 package sentiment;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.HashMap;
+
 import rita.RiWordNet;
 
 public class wordnet2 {
+	
+	// JDBC driver name and database URL
+	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
+	static final String DB_URL = "jdbc:mysql://localhost/sentiment";
 
-	public static void main(String[] args){
+	// Database credentials
+	static final String USER = "root";
+	static final String PASS = "ratneshchandak";
+	
+	public static void main(String[] args) throws ClassNotFoundException, SQLException {
+		// TODO Auto-generated method stub
 		RiWordNet wordnet = new RiWordNet("C:/Program Files (x86)/WordNet/2.1");
-		String[] antonyms=wordnet.getAllAntonyms("good", "a");
-		String[] synonyms = wordnet.getAllSynonyms("good", "a");
-		for(int i=0;i<antonyms.length;i++){
-			System.out.println(antonyms[i]);
+		
+		Connection conn = null;
+		Statement stmt = null, stmt2 = null;
+		ResultSet rs = null, rs2 = null;
+		java.sql.PreparedStatement ps = null;
+
+		Class.forName("com.mysql.jdbc.Driver");
+		conn = (Connection) DriverManager.getConnection(DB_URL, USER, PASS);
+		stmt = (Statement) conn.createStatement();
+		stmt2 = (Statement) conn.createStatement();
+		
+		String sql="select word,Polarity from polarity";
+		rs=stmt.executeQuery(sql);
+		
+		HashMap<String,Integer> seedlist = new HashMap<String,Integer>();
+		String word="";
+		Integer polarity;
+		while(rs.next()){
+			word=rs.getString("word");
+			polarity=rs.getInt("Polarity");
+			seedlist.put(word, polarity);
 		}
-		System.out.println("synonmys");
-		for(int i=0;i<synonyms.length;i++){
-			System.out.println(synonyms[i]);
+		System.out.println(seedlist.size());
+		int lActiveList = 0;
+		
+		
+		sql="SELECT distinct opinionWord FROM sentiment.opinion";
+		rs2=stmt2.executeQuery(sql);
+		word="";
+		ArrayList<String> activelist = new ArrayList<String>();
+		//ArrayList<Boolean> visited = new ArrayList<Boolean>();
+		//String[] activelist = new String[2000];
+		
+		System.out.println(rs2.getFetchSize());
+		while(rs2.next()){
+			word=rs2.getString("opinionWord");
+			activelist.add(word);
+			lActiveList++;
 		}
+		boolean[] visited = new boolean[2000];
+		int rem=0;
+		int prev=lActiveList;
+		
+		for(int i=0;i<lActiveList;i++){
+			visited[i]=false;
+		}
+		int count=0;
+		int extra=0;
+		while(extra<2){
+			
+			//System.out.println(extra);
+			if(rem==prev)
+				extra++;
+			rem=0;
+			for(int i=0;i<lActiveList;i++){
+				
+				if(!visited[i]){
+					if(seedlist.containsKey(activelist.get(i))){
+						count++;
+						visited[i]=true;
+						prev--;
+					}
+						
+					else{
+						String[] antonyms=wordnet.getAllAntonyms(activelist.get(i), "a");
+						String[] synonyms = wordnet.getAllSynonyms(activelist.get(i), "a");
+						
+						int lAntonyms = antonyms.length;
+						int lSynonyms = synonyms.length;
+						boolean gotfromSysnonym=false;
+						for(int j=0;j<lSynonyms;j++){
+							if(seedlist.containsKey(synonyms[j])){
+								polarity = seedlist.get(synonyms[j]);
+								//System.out.println("word= "+activelist[i]+" polarity =" +polarity);
+								seedlist.put(activelist.get(i), polarity);
+								
+								sql = "INSERT INTO polarity VALUES(?,?)";
+								ps = conn.prepareStatement(sql);
+								ps.setString(1, activelist.get(i));
+								ps.setInt(2, polarity);
+								ps.executeUpdate();
+								
+								visited[i]=true;
+								gotfromSysnonym=true;
+								prev--;
+								count++;
+								break;
+							}
+						}
+						if(!gotfromSysnonym){
+							for(int j=0;j<lAntonyms;j++){
+								if(seedlist.containsKey(antonyms[j])){
+									polarity = seedlist.get(antonyms[j]);
+									//System.out.println("word= "+activelist[i]+" polarity =" +polarity);
+									seedlist.put(activelist.get(i), polarity);
+									
+									sql = "INSERT INTO polarity VALUES(?,?)";
+									ps = conn.prepareStatement(sql);
+									ps.setString(1, activelist.get(i));
+									ps.setInt(2, polarity);
+									ps.executeUpdate();
+									
+									visited[i]=true;
+									prev--;
+									count++;
+									break;
+								}
+							}
+						}
+					}
+				}
+				if(!visited[i]){
+					rem++;
+				}
+			}
+			if(rem!=prev)
+				extra=0;
+			System.out.println("rem = "+rem);
+			System.out.println("prev = "+prev);
+		}
+		System.out.println("count = "+count);
 	}
+
 }
