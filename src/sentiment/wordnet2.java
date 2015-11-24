@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 import rita.RiWordNet;
-
+//you have to install Wordnet software from their official site and give the installation directory while initializing
 public class wordnet2 {
 	
 	// JDBC driver name and database URL
@@ -19,19 +19,29 @@ public class wordnet2 {
 	static final String USER = "root";
 	static final String PASS = "ratneshchandak";
 	
+	public static void addToDB(String opinion,Integer polarity) throws SQLException{
+		java.sql.PreparedStatement ps = null;
+		String sql = "INSERT INTO polarity VALUES(?,?)";
+		Connection conn = null;
+		conn = (Connection) DriverManager.getConnection(DB_URL, USER, PASS);
+		ps = conn.prepareStatement(sql);
+		ps.setString(1, opinion);
+		ps.setInt(2, polarity);
+		ps.executeUpdate();
+		conn.close();
+	}
+	
 	public static void main(String[] args) throws ClassNotFoundException, SQLException {
 		// TODO Auto-generated method stub
 		RiWordNet wordnet = new RiWordNet("C:/Program Files (x86)/WordNet/2.1");
 		
 		Connection conn = null;
-		Statement stmt = null, stmt2 = null;
-		ResultSet rs = null, rs2 = null;
-		java.sql.PreparedStatement ps = null;
+		Statement stmt = null;
+		ResultSet rs = null;
 
 		Class.forName("com.mysql.jdbc.Driver");
 		conn = (Connection) DriverManager.getConnection(DB_URL, USER, PASS);
 		stmt = (Statement) conn.createStatement();
-		stmt2 = (Statement) conn.createStatement();
 		
 		String sql="select word,Polarity from polarity";
 		rs=stmt.executeQuery(sql);
@@ -49,15 +59,14 @@ public class wordnet2 {
 		
 		
 		sql="SELECT distinct opinionWord FROM sentiment.opinion";
-		rs2=stmt2.executeQuery(sql);
+		rs=stmt.executeQuery(sql);
 		word="";
 		ArrayList<String> activelist = new ArrayList<String>();
 		//ArrayList<Boolean> visited = new ArrayList<Boolean>();
 		//String[] activelist = new String[2000];
 		
-		System.out.println(rs2.getFetchSize());
-		while(rs2.next()){
-			word=rs2.getString("opinionWord");
+		while(rs.next()){
+			word=rs.getString("opinionWord");
 			activelist.add(word);
 			lActiveList++;
 		}
@@ -70,7 +79,9 @@ public class wordnet2 {
 		}
 		int count=0;
 		int extra=0;
-		while(extra<2){
+		int prevSeedListLength=seedlist.size();
+		int activeSeedListLength;
+		while(true){
 			
 			//System.out.println(extra);
 			if(rem==prev)
@@ -98,12 +109,36 @@ public class wordnet2 {
 								//System.out.println("word= "+activelist[i]+" polarity =" +polarity);
 								seedlist.put(activelist.get(i), polarity);
 								
-								sql = "INSERT INTO polarity VALUES(?,?)";
-								ps = conn.prepareStatement(sql);
-								ps.setString(1, activelist.get(i));
-								ps.setInt(2, polarity);
-								ps.executeUpdate();
-								
+								sql="select word from polarity where word=" + "'" + activelist.get(i) + "'";
+								rs = stmt.executeQuery(sql);
+								if (!rs.next()) {
+									addToDB(activelist.get(i), polarity);
+								}
+								String[] antonymsActive = wordnet.getAllAntonyms(activelist.get(i), "a");
+								String[] synonymsActive = wordnet.getAllSynonyms(activelist.get(i), "a");
+								// inserting antonyms with opposite polarity
+								for (int k = 0; k < antonymsActive.length; k++) {
+									sql = "select word from polarity where word=" + "'" + antonymsActive[k] + "'";
+									rs = stmt.executeQuery(sql);
+									if(!seedlist.containsKey(antonymsActive[k])){
+										seedlist.put(antonymsActive[k], -polarity);
+									}
+									if (!rs.next()) {
+										addToDB(antonymsActive[k], -polarity);
+									}
+								}
+								// inserting synonyms with same polarity
+								for (int k = 0; k < synonymsActive.length; k++) {
+									if(!seedlist.containsKey(synonymsActive[k])){
+										seedlist.put(synonymsActive[k], polarity);
+									}
+									
+									sql = "select word from polarity where word=" + "'" + synonymsActive[k] + "'";
+									rs = stmt.executeQuery(sql);
+									if (!rs.next()) {
+										addToDB(synonymsActive[k], polarity);
+									}
+								}
 								visited[i]=true;
 								gotfromSysnonym=true;
 								prev--;
@@ -116,13 +151,41 @@ public class wordnet2 {
 								if(seedlist.containsKey(antonyms[j])){
 									polarity = seedlist.get(antonyms[j]);
 									//System.out.println("word= "+activelist[i]+" polarity =" +polarity);
-									seedlist.put(activelist.get(i), polarity);
+									seedlist.put(activelist.get(i), -polarity);
 									
-									sql = "INSERT INTO polarity VALUES(?,?)";
-									ps = conn.prepareStatement(sql);
-									ps.setString(1, activelist.get(i));
-									ps.setInt(2, polarity);
-									ps.executeUpdate();
+									sql="select word from polarity where word=" + "'" + activelist.get(i) + "'";
+									rs = stmt.executeQuery(sql);
+									if (!rs.next()) {
+										addToDB(activelist.get(i), -polarity);
+									}
+									
+									String[] antonymsActive = wordnet.getAllAntonyms(activelist.get(i), "a");
+									String[] synonymsActive = wordnet.getAllSynonyms(activelist.get(i), "a");
+									// inserting antonyms with opposite polarity
+									for (int k = 0; k < antonymsActive.length; k++) {
+										if(!seedlist.containsKey(antonymsActive[k])){
+											seedlist.put(antonymsActive[k], polarity);
+										}
+										
+										sql = "select word from polarity where word=" + "'" + antonymsActive[k] + "'";
+										rs = stmt.executeQuery(sql);
+										if (!rs.next()) {
+											addToDB(antonymsActive[k], polarity);
+										}
+									}
+									// inserting synonyms with same polarity
+									for (int k = 0; k < synonymsActive.length; k++) {
+										
+										if(!seedlist.containsKey(synonymsActive[k])){
+											seedlist.put(synonymsActive[k], -polarity);
+										}
+										
+										sql = "select word from polarity where word=" + "'" + synonymsActive[k] + "'";
+										rs = stmt.executeQuery(sql);
+										if (!rs.next()) {
+											addToDB(synonymsActive[k], -polarity);
+										}
+									}
 									
 									visited[i]=true;
 									prev--;
@@ -137,10 +200,12 @@ public class wordnet2 {
 					rem++;
 				}
 			}
-			if(rem!=prev)
-				extra=0;
-			System.out.println("rem = "+rem);
-			System.out.println("prev = "+prev);
+			activeSeedListLength=seedlist.size();
+			if(activeSeedListLength==prevSeedListLength){
+				System.out.println("rem = "+rem);
+				System.out.println("prev = "+prev);
+				break;
+			}
 		}
 		System.out.println("count = "+count);
 	}

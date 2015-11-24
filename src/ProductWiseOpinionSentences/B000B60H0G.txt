@@ -1,0 +1,825 @@
+
+------------------------------------------------------------------
+feature : firmware, positive Score : 41 and negative Score :-7
+------------------------------------------------------------------
+positive sentences : 
+1. I see how some reviewers say how much better the player performs with firmware updates, well that makes me ask the question "better than what?" 
+2. What an utter piece of junk - I had all kinds of software issues even after applying the latest firmware update. 
+3. It just ejects them.When I called Samsung's customer service line (and to be fair, I got through to a person immediately and she was very nice and helpful), they helped me reset the machine and make sure it had the latest firmware. 
+4. I picked up a 1gb Kingston flash drive for $3 locally and am using that for the BD-Live without any problems.So, in summary, it seems from prior reviews that earlier firmwares had some issues, but the latest and greatest firmware seems to have all but eliminated these.  
+5. Issues experienced in first month:1) Firmware (master operating code for the device) will not upgrade over Internet - it downloads, turns off on its own as it's supposed to for upgrade, but does NOT complete upgrade (yes, I do have a working connection and device confirms Internet connectivity)2) Samsung knows about the problem - I called them and the offered to send me a CD that will upgrade the firmware...ETA 9 business days...until then, it's a decent looking piece of furniture (NOT customer oriented company - Samsung should ship this overnight to address the problem, not in 2 weeks!!)
+6. This info should be available along with the firmware version (that is available) in the setup/status menu or the special menu (tray open and press/hold info button).  
+7. I owned the one its replacing (BDP 1600) and I would be very careful about their firmware updates, they actually ruin the bluray player.  
+8. Hopefully Samsung will overcome their misleading advertising with AllShare's capabilities and fix this issue in future firmware updates, but their technical support says as of now it's "just not possible."
+9. I have not used all the applications yet, but looking forward for video streaming though my server.Edit.I had it now for a while, and the quality of the picture is stunning. up scaling is excellent, I been watching HD movies through VUDU streaming, WOW, fast streaming, excellent quality picture, great sound, no lagging or slowness,by the way firmware update took few minutes and it was very easy to be done, plug the Ethernet and go to setting and choose update firmware or when you try to play a movie it will do that for you if you had Ethernet pluged in.youtube is great, streaming music and video through you tube was easy and fast with good quality.I'm not sure why people complaining above, if you bought the device in America and you are trying to upgrade firmware in different country of course you are going to have problems.I purchased mine at Costco for $145 with 3 years warranty.some people says it is slow, well, it is a small player not a media center, if you are looking for something fast get an xbox360 or ps3, I mainly bought this for HD quality not for streaming and using all these apps or playing games.
+10. I have not used all the applications yet, but looking forward for video streaming though my server.Edit.I had it now for a while, and the quality of the picture is stunning. up scaling is excellent, I been watching HD movies through VUDU streaming, WOW, fast streaming, excellent quality picture, great sound, no lagging or slowness,by the way firmware update took few minutes and it was very easy to be done, plug the Ethernet and go to setting and choose update firmware or when you try to play a movie it will do that for you if you had Ethernet pluged in.youtube is great, streaming music and video through you tube was easy and fast with good quality.I'm not sure why people complaining above, if you bought the device in America and you are trying to upgrade firmware in different country of course you are going to have problems.I purchased mine at Costco for $145 with 3 years warranty.some people says it is slow, well, it is a small player not a media center, if you are looking for something fast get an xbox360 or ps3, I mainly bought this for HD quality not for streaming and using all these apps or playing games.
+11. After I installed the new software/firmware using the built in update system over the attached network the Avatar disk still would not play. 
+12. They will also not let you download and install an old version of the firmware.That said, the rest of the player is wonderful.  
+13. I also did all the firmware updates that were available. 
+14. Two other complaints I have on it is it takes a long time to load video streaming services and newer 3D Blu Ray discs take a long time to get firmware updates to play. 
+15. Be sure to keep up with the latest firmware updates.
+16. Downloaded the new firmware (v1009.1 from April 02, 2010) from Samsung's support site, and loaded it via a USB stick (this was very easy to do). 
+17. Plugging in my router to it and getting the firmware updates was quick and painless. 
+18. The firmware updates were successful but didn't seem to resolve any of my problems.  
+19. I have heard good things about samsung br players generally except for slowness to release firmware updates for known issues.  
+20. I went through all reasonable debug steps, including swapping HDMI cables, using different HDMI inputs on my TV, applying all available firmware updates, etc.  
+21. I bought THE player exclusively for playing back stuff like AVI and MKV only to realize that 9 out of 10 of my videos had sync problem that do not occur when playing back on the PC.It functions well enough as a DVD/Bluray player, but not much else.Samsung support did not return my email about the issue and the latest firmware doesn't fix the issue.I would not recommend this player.
+22. I tried to resolve this issue by downgrading the firmware or waiting for a new update that re-enabled this feature. 
+23. We bought a different model and we went to do one of their wireless firmware updates and it bricked the unit.  
+24. They couldn't even fix the bricking their own firmware upgrade did!  
+25. When she finally stopped talking long enough for me to tell her the error, she said it meant I had the latest firmware. 
+26. I have applied the latest firmware by Samsung.  
+27. I was impressed that it had frequent firmware updates. 
+28. The first Blu-Ray disk I purchased wanted an upgrade to the firmware and there isnt anything on samsung's website higher than what I have.The network broke after 3 weeks and no no Netflix.I wouldn't recommend this product to anyone
+29. After the latest firmware upgrade the picture would not only freeze, but would also scramble the picture.
+30. I was able to get DHCP immediately and set up all the online services including getting the latest firmware.I am also pretty impressed that it plays back DIVX files either from your home network or from a USB stick. 
+31. It is a world of difference what the latest firmware updates do.I have two problems with this player however. 
+32. It's played all of the blu-ray discs I've put in (though I've had to wait a week or so for firmware updates when some new movies have been released), but if I pause playback for more than a minute or so it locks up tight and has to be power cycled to restart play.For non-disc playback, it's inconsistent with its handling of MKV video files.  
+33. Has the latest firmware, etc. 
+34. Browsing dlna was slow at first, but applied firmware update and is much quicker.  
+35. Everything was working EXCEPT they couldn't get it to connect to the internet.I downloaded the latest firmware update onto a jump drive and it updated flawlessly. 
+36. The company is diligent with firmware upgrades but my original problems remain.  
+37. The firmware has been updated multiple times with no change.  
+
+negative sentences : 
+1. Sound comes in two channels, this is probably the main difference to c6500 which has more.So in general, I am very happy with the player, but not five stars because the software seems a bit of a "rush job"; the firmware wasn't right and there are other subtle signs that don't matter much per se but undermine overall impression of the product. 
+2. Now all the 4:3 content in Netflix is stretched to fill the 16:9 screen, and it looks horrible.As of firmware .1018.0, the aspect ratio for Netflix streaming in 4:3 (letterbox, standard definition) is broken.  
+3. I am running most recent firmware dated from 12/10.I have no issues with following reported problems that pre-dated this firmware release:1.  
+4. The latest firmware (not software) update provided this ability.  
+5. I'm not saying I'll never buy anything from them again, but I'll continue to monitor this situation and see if they ever bother to step up to the plate and fix it... and not just in future products, but in the firmware updates of existing products.... and I'll scour the web for information to ensure that any products I consider buying work as they should, all features work as advertised, and perform up to the standards any reasonable user would expect.
+6. I did have one point where I was unable to upgrade firmware via the players own network connection... 
+7. Yes, it had the same bad experience of locking itself down that hundreds of people have posted the same issues on...no resets/firmware updgrades could fix it.  
+
+------------------------------------------------------------------
+feature : quality, positive Score : 78 and negative Score :-7
+------------------------------------------------------------------
+positive sentences : 
+1. Pros:The player works very well and streaming quality is just as good as our Roku player.VUDU quality and seamless speed leaves the other PPV movie services far behind.Netflix works just fine.Pre Christmas season price was reasonable by comparison (though x-mas season deals may trump this one)Cons:You must purchase the separately sold USB WIFI dongle in or to make the streaming work.The interface speed for this machine is comparatively slow.The You tube application is downright irritatingSamsung has far fewer apps in its app store than Roku right now (though this may change).No Hulu yet.Advice:Buy the player new on Amazon, then buy the WIFI dongle used on an online auction site (from a highly rated seller).  
+2. As a blu ray player no problems .DVDs are the problem.Almost everytime I load a dvd it wont load or get's to the FBI warning screen and just sits there until I open it again and then reload.DVD quality is great. 
+3. I have not used all the applications yet, but looking forward for video streaming though my server.Edit.I had it now for a while, and the quality of the picture is stunning. up scaling is excellent, I been watching HD movies through VUDU streaming, WOW, fast streaming, excellent quality picture, great sound, no lagging or slowness,by the way firmware update took few minutes and it was very easy to be done, plug the Ethernet and go to setting and choose update firmware or when you try to play a movie it will do that for you if you had Ethernet pluged in.youtube is great, streaming music and video through you tube was easy and fast with good quality.I'm not sure why people complaining above, if you bought the device in America and you are trying to upgrade firmware in different country of course you are going to have problems.I purchased mine at Costco for $145 with 3 years warranty.some people says it is slow, well, it is a small player not a media center, if you are looking for something fast get an xbox360 or ps3, I mainly bought this for HD quality not for streaming and using all these apps or playing games.
+4. I have not used all the applications yet, but looking forward for video streaming though my server.Edit.I had it now for a while, and the quality of the picture is stunning. up scaling is excellent, I been watching HD movies through VUDU streaming, WOW, fast streaming, excellent quality picture, great sound, no lagging or slowness,by the way firmware update took few minutes and it was very easy to be done, plug the Ethernet and go to setting and choose update firmware or when you try to play a movie it will do that for you if you had Ethernet pluged in.youtube is great, streaming music and video through you tube was easy and fast with good quality.I'm not sure why people complaining above, if you bought the device in America and you are trying to upgrade firmware in different country of course you are going to have problems.I purchased mine at Costco for $145 with 3 years warranty.some people says it is slow, well, it is a small player not a media center, if you are looking for something fast get an xbox360 or ps3, I mainly bought this for HD quality not for streaming and using all these apps or playing games.
+5. I have not used all the applications yet, but looking forward for video streaming though my server.Edit.I had it now for a while, and the quality of the picture is stunning. up scaling is excellent, I been watching HD movies through VUDU streaming, WOW, fast streaming, excellent quality picture, great sound, no lagging or slowness,by the way firmware update took few minutes and it was very easy to be done, plug the Ethernet and go to setting and choose update firmware or when you try to play a movie it will do that for you if you had Ethernet pluged in.youtube is great, streaming music and video through you tube was easy and fast with good quality.I'm not sure why people complaining above, if you bought the device in America and you are trying to upgrade firmware in different country of course you are going to have problems.I purchased mine at Costco for $145 with 3 years warranty.some people says it is slow, well, it is a small player not a media center, if you are looking for something fast get an xbox360 or ps3, I mainly bought this for HD quality not for streaming and using all these apps or playing games.
+6. I have owned it for more than a week so far, first BR player, the picture quality on my 720p samsung is amazing. the details the quality is fab.I love the weather widget that comes with it. 
+7. I have owned it for more than a week so far, first BR player, the picture quality on my 720p samsung is amazing. the details the quality is fab.I love the weather widget that comes with it. 
+8. However, for the price, and what is available as an alternative (with much higher playback quality), this unit fails for your home theatre streaming requirements.Yet another reason why this device fails: it has a very short time span between being paused and going into device shut down. 
+9. DVD and Blu-Ray quality is very good and Internet streaming from my Netflix account is actually better quality than it was when I hooked up my Vista based laptop using the same HDMI connection. 
+10. DVD and Blu-Ray quality is very good and Internet streaming from my Netflix account is actually better quality than it was when I hooked up my Vista based laptop using the same HDMI connection. 
+11. Excellent audio and PQ quality. 
+12. As for the old, it's an expensive dvd player.I would have thought this player was an exception to Samsungs quality, except many of my Samsung products that I have purchased after 2009 are failing, and more importantly, when you call Samsung you get the run around. 
+13. The picture quality is great.  
+14. The picture quality is excellent, and I really like the features of being able to stream video through the device.  
+15. I, however, have found them to be nothing short of over-priced for a product with a lower quality than I would expect. 
+16. I watched Batman (1989) and Inception amazing quality it upconverts dvd quite well. 
+17. The picture quality is great but sometimes when we try to use it, we have to unplug every cord and wait a few minutes, sometimes we have to do this several times before it will recognize the DVD or Bluray.  
+18. Pros:The player works very well and streaming quality is just as good as our Roku player.VUDU quality and seamless speed leaves the other PPV movie services far behind.Netflix works just fine.Pre Christmas season price was reasonable by comparison (though x-mas season deals may trump this one)Cons:You must purchase the separately sold USB WIFI dongle in or to make the streaming work.The interface speed for this machine is comparatively slow.The You tube application is downright irritatingSamsung has far fewer apps in its app store than Roku right now (though this may change).No Hulu yet.Advice:Buy the player new on Amazon, then buy the WIFI dongle used on an online auction site (from a highly rated seller).  
+19. What nice quality Vudu has going for it, so once a week we pick a special movie from Vudu's racks and watch it here together, my wife and I do this, and it's mucho specialized and wonderful to experience!
+20. The picture quality on blu-rays look amazing however. 
+21. Absolutely no complaints here, since this is the most important function of a Blu-Ray player and other brands have been given bad reviews because of poor video quality.As is sound - ***** , especially as the BD-C5500 has a fiber optic output. 
+22. With prices getting to $135 and lower, I finally opted to migrate to Blu-Ray.Playback image quality is FANTASTIC. ***** Top-notch; very crisp and with detailed color.  
+23. There is very little internal memory for buffering though, so there is no forgiveness if your connection isn't fast enough.The bluray disc player also worked very well, the bluray disc loaded quickly and I am very happy with picture and sound quality. 
+24. The picture quality is great and audio is great. 
+25. And it started turning subtitles on by itself and the only way I could turn it off is by shutting down the player then opening and closing the disc tray.Samsung in general has been going down in quality over the past few years.  
+26. The movie picture quality was good.My biggest issues with this device so far are when I am trying to type band names into pandora, it seems slow and unresponsive.  
+27. It loads movies faster than my older Panasonic Blu-ray and I am generally happy with the quality of the picture, sound, performance.The netflix performance is another issue, to the point I am going to throw in the towel and order a Roku player.  
+28. Our new blue-ray disc player is superior in quality and sound.  
+29. I was looking for the best picture quality and access to Netflex in an affordable price range.  
+30. Although the picture & sound quality is really good we are Sadly Disappointed in this product because for us it has very limited use as it!!!
+31. I am very happy with the quality of the product & how well it functions as a DVD player. 
+32. Very easy to setup, I updated the firmware with no issues at all, the main interface its user-friendly, the remote its OK and if you already have a Samsung TV you're all set to control both devices with one remote, the picture quality its just superb!
+33. The sounds is high quality, picture perfect, easy set up and has the ability to up load photos. 
+34. Not all of my blurays take so long to unfreeze the title menu, but just one is enough for me.Picture quality--great. 
+35. The picture quality of Netflix is very good however. 
+36. Do not expect Blu-ray quality.  
+37. It appears that here in the Seattle area Comcast is slowing down the connection so that the resulting video quality is about the same as a DVD or slightly worse.  
+38. Quite amazing technology picked up at Best Buy for just $99.For all - the quality for bluray is perfect for 1080i (my TV's max capacity) but the DVD upscale leads something to be desired. 
+39. Picture quality was poor (not sharp and somewhat jittery). 
+40. (on a 16 mbps down load) If you want good video quality and don't mind a little extra work to watch NetFlix on your TV this is a great player.
+41. The 1080p Blu-ray quality on this player is pretty much identical to those I just listed.As a basic Blu-ray player and streaming device, it is well worth every penny.  
+42. The picture quality for blu-rays might be better than the PS3 and DVD upscaling is great too. 
+43. The video/audio quality was excellent and I had no streaming problems but the price was a little absurd. 
+44. Also, the blu ray picture quality is GREAT, and the remote control has nice big buttons and a logical layout.This device has a lot of promise but doesn't quite cut the mustard for me when it comes to media streaming.  
+45. -Nice picture, sound, and overall quality.
+46. I have to say though that the dvd upscalling quality is not as good as my sony s350. 
+47. The blu ray picture and sound quality is very good just as good as my older sony s350. 
+48. And we love movies, so Blu-ray has been a pleasure.Blu-ray - combined with our Toshiba Regza, the picture quality is very fine indeed. 
+49. I have honestly never encountered a machine of such poor quality.  
+50. Picture quality is great and we were able to set up Netflix on it right away. 
+51. Quality control from Warehouse Deals, though, leaves something to be desired. 
+52. Blu-ray discs load quickly on this unit and the picture quality and performance is amazing on my set.  
+53. Quality of picture is great especially with internet streaming. 
+54. pix quality is excellent.  
+55. pix quality still outstanding. menu navigation slow like an old dog. changing rating to 4.
+56. The quality of upconverting regular DVD's to 1080p was decent. 
+57. I just plugged in the network cable, powered on the player and after a few guided steps I was able to enjoy the movies in my instant queue and Pandora web radio.Upscaling quality is really good, the only thing I don't like when playing DVDs is that the player doesn't restart from where you left but every time it starts playing the movie from the beginning.I still have to try Blue Ray, YouTube and the USB connection... too many features and too little time!
+58. The Blu-Ray picture quality is great, and it even seems to improve quality on normal DVDs compared to my old DVD player. 
+59. The Blu-Ray picture quality is great, and it even seems to improve quality on normal DVDs compared to my old DVD player. 
+60. Playing audio and video files from USB or network isn't bad, but some video types were unsupported, and creating a playlist or doing a search doesn't seem to be possible.Overall this is a solid player with great picture quality, fast load times, and a generally intuitive interface/remote. 
+61. With HDMI connection, picture quality is excellent on our Samsung monitor. 
+62. It has a great Netfli interface and has a great Bluray picture quality.
+63. Slow load times, very poor connectiving issues such as when using Netflix(and  we have ultra high speed cable Internet service running with a high quality CISCO router). 
+
+negative sentences : 
+1. Have had no problems, quality is great but then again I've a few years on me.
+2. Very occasionally, the player will reconnect during playback and throttle down to a lower quality. 
+3. It works well with our Samsung TV and though we don't have any Blu Ray discs yet, it has great picture and sound quality.  
+4. The player is fairly cheap and the video quality seems just fine.  
+5. They were quick to solve the problem but if they just had better quality control this would not have happened.
+6. Streams with no hiccups, and excellent quality.Netflix streaming works well, but only able to browse and stream items already in queue.  
+7. I was not impressed AT ALL with the quality of the image. 
+
+------------------------------------------------------------------
+feature : internet, positive Score : 41 and negative Score :-26
+------------------------------------------------------------------
+positive sentences : 
+1. Now I am able to receive Net-Flicks and several other internet programs.  
+2. I do not have internet yet, so I am not able to take advantage of its remarkable internet functions, but soon I will. 
+3. It's a decent BluRay player so I gave it two stars, but the reason I bought this unit was for the Internet apps, which are a real disappointment. 
+4. I have a very fast internet connection running straight into the player. 
+5. My wife and I were in the market for a non-expensive BluRay player last year, and our eye fell on this model.It's a decent enough player, allowing for DLNA connections (allowing us to stream movies and music off my PC), which also has a fairly limited amount of internet apps.The device plays DVDs OK (gotta be honest, I *LOVE* the option to skip the incessant and normally unskippable previews by pressing either one of the disk menu buttons), we've had no problems playing any BluRay disks...But we use it mostly to connect to NetFlix, VuduPlus and YouTube, and *that* is where this device fails, big time. 
+6. Turns out, the BD-Cxxxx models (manufactured/distributed in 2010) need a factory reset after each firmware update, in order for *some* of the internet apps to be fully available again (the issue is mostly with NetFlix).Which means that ALL account information we entered (and that's no fun task with the remote) is gone and lost, and has to be entered again, in order for ONE app to become functional again... a truly tedious task, seeing that the remote has a tendency to either not send a keypress, or send multiple presses at once, which is jarring when you're attempting to enter an account name or password.Apparently, the BD-Dxxxx models (2011) do not have this problem, if the Samsung service rep is to be believed.
+7. Ok so I'll just have to watch the dvd's of the new movies until my internet gets installed. 
+8. I would suppose that on a perfect day when the stars and Internet are in perfect alignment, this player will show a streamed Netflix video.  
+9. The internet features work great, although there is a slight lag in the user interface, but it is not too bad. 
+10. DVD and Blu-Ray quality is very good and Internet streaming from my Netflix account is actually better quality than it was when I hooked up my Vista based laptop using the same HDMI connection. 
+11. When turned on, discs autoboot, which is annoying if you want to go to Internet mode because the remote buttons don't work until the main menu loads on the disc, which can take around a minute on some discs.Speaking of the remote, another issue is incomplete functionality with my Dish Network remote. 
+12. CONS:As of right now, I can see no cons.We don't have high speed internet due to our location but rely on satellite internet, so I haven't hooked up the system to the internet. 
+13. It starts quickly and has a lot of internet connectivity.Has worked just great so far.
+14. After 2 weeks of troubleshooting, I finally was able to get the player to connect to internet on my own (had to unplug the adapter, reset my router/modem and reset the player.) 
+15. I'd highly recommend this player for anyone looking for a BD player with added internet capabilities.btw, the main buttons on the remote glow in the dark! 
+16. The unit streams very well, I can only assume the people that complain it does not have spotty internet connections. 
+17. I spent hours uploading to a disc as recommended by customer service (I have very slow internet service. 
+18. Your online experience will vary largely based on the speed of your internet connection, but if you have a solid internet connection with some good bandwidth, this device will work really well.Overall I have really enjoyed this device, so much so that I just recently purchased a second one to give as a gift.There are much better players out there, but for the price this unit is hard to beat.
+19. Using the same internet on the same TV - I can get an MLB game to run flawlessly on a Roku or Apple TV wired or wirelessly while it just buffers on this thing.  
+20. Internet/networking is great feature.
+21. If you have a smart phone with internet, it will only take you 2 minutes to open Netflix and input the code, but for those of you who don't have internet on their phones, you will have to turn on your computer and input the registration code before being able to stream on the player.  
+22. It is not for those who are looking for a player they can use as a media hub for connecting devices and for those expecting wireless internet out of the box.
+23. The main menu has 5 internet apps shown by default, and these are put there by Samsung and can't be changed. 
+24. Slow load times, very poor connectiving issues such as when using Netflix(and  we have ultra high speed cable Internet service running with a high quality CISCO router). 
+25. Everything was working EXCEPT they couldn't get it to connect to the internet.I downloaded the latest firmware update onto a jump drive and it updated flawlessly. 
+26. Strangely, you have to enable this device for the internet through Samsung's own server. 
+27. The player is fantastic I like just about everything about it...........however everyplace I looked it was "wireless Internet Ready (Wireless LAN Adapter Not Included" so I purchased a NETGEAR WPN111 here on amazon and wasted [...]. 
+28. Internet is fine, DVD player is the problem. 
+29. Pros: Plays quite a few different video file formats from a USB flash drive, supports SRT and IDX subtitles, Region free DVD (I have issues every now and then from Asian and European discs), Internet capability, remote controls basic basic TV functions.Cons: slow remote response and startup, random aspect ratio issues, lower resolution videos seem jittery (but extremely clear) due to video upscaling, USB playback requires several steps, number pad on remote does not work for TV (only channel +/-, volume +/-, mute, and power)This is a pretty good player overall. 
+30. I'm pleased with the initial catalog of internet applications and it will only be icing on the cake if they release more.  
+31. Quality of picture is great especially with internet streaming. 
+32. Have yet to find a device with netflix interface as good as the Xbox 360.Pandora streaming sounds great, and is a nice, and quick setup for a party mix.Can apply firmware updates via internet.Remote supplied has large buttons and text, for those who do not use a universal remote.
+
+negative sentences : 
+1. If you want to check your guide do yourself a favor and switch to the DVR.The other "Internet @ TV" apps are mostly fluff. 
+2. This is probably due to my Internet connection (10Mbps/5Mbps) being congested, but the problem is that there is no way to back out of the connection screen without turning the player completely off and then back on. 
+3. Again, probably due to Internet congestion. 
+4. I must say that although the Chromecast Netflix app is a little buggy, it loads programming at least 10x faster than Samsung, and is less prone to hangups, buffer interruptions and outright instances of being unable to connect to the Internet (at least, the Samsung "tells" us it can't connect...every other device in the house has no issues doing so. 
+5. This Samsung BD-C5500 Bluray player and internet device is pathetic. 
+6. I've never been able to use the misc internet apps/games because the player locked up every time I picked one, so i stopped trying.I really wanted to rate it 2 stars but I have liked it as a player, I'm considering swapping it with the living room blu-ray, but because it has completely failed for the primary purchase reason (and streaming netflix is a pretty major feature Samsung touts) I think 3 stars is a fair compromise.  
+7. Samsung makes products with a good feature list, but obviously lacks expertise in  user experience design.There are too many small issues with this device to list them all -- such as the HDMI protocol crashing because it is not being quite compatible with my LG LCD television, the shape of the CD tray making it tricky to pick up disks, and the obnoxious jingle that plays every time the player is turned on.As for the internet services, other than the Netflix player, the rest seems to mostly be junk -- such as clunky games.Overall this device is as slick as a PC running Windows 2.0I eventually returned it and got theSony BDP-S370 Blu-ray Disc Player-- which is simply a pleasure to use.
+8. After 3 hours of struggling was not able to activate Internet TV.Network connection - perfect.Accept license agreement - YES (many times).Internet@TV: enter: Samsung ADsSamsung Apps: .... 
+9. It doesn't matter if I paid for it or not, it is an excellent Blu-Ray player that plays Blu-Rays excellent, upscales DVD's to 1080P excellent and gives you an alternative if your HDTV doesn't have Internet access.  
+10. But updates often freeze it on every other internet application.  
+11. The HDMI connection works if you toggle between inputs, (assuming you too have a tv with more than one HDMI to toggle between.)I still only give this machine 3 stars because Samsung customer service is spotty at best and usually an exercise in extreme patience, (no offense to South Asians but they don't understand, 'American' and need things repeated and clarified often making what would normally be a two-minute conversation into a 15-minute one.)The internet apps are fantastic... when they work.  
+12. It doesn't work, the "Netflix App" says "Not connected to the Internet" even when other internet apps (e.g. 
+13. It doesn't work, the "Netflix App" says "Not connected to the Internet" even when other internet apps (e.g. 
+14. Built-in means that wireless wi Fi is built in to the unit and no adapter is required.Furthermore,problems with internet almost certainly have nothing to do with the player but with your internet connection speed and the accompanying hardware.The fact that there is a logo present when loading up movies is NOT a big deal. 
+15. I have yet to try the added features such as Internet streaming etc. 
+16. If I try to update the firmware it won't let me using a Cd or flash drive,so I hooked up the internet direct and it says no updates available but the web site says they're available. 
+17. Since most other Blu-Ray players in this price range don't even support internet apps, it's better than nothing. 
+18. The online features provide a lot of apps (Netflix, Pandora, Hulu, and many more that I don't use) along with firmware update capability via either wireless or wired connection.The bad: while it provides online apps, it has no internet browsing capability. 
+19. As another reviewer mentioned a bug regarding sound, I haven't had that issue at all.As of now, there aren't many internet apps available. 
+20. After 3 hours of struggling was not able to activate Internet TV.Network connection - perfect.Accept license agreement - YES (many times).Internet@TV: enter: Samsung ADsSamsung Apps: .... 
+
+------------------------------------------------------------------
+feature : unit, positive Score : 37 and negative Score :-16
+------------------------------------------------------------------
+positive sentences : 
+1. I really don't care for the remote that comes with this unit...the one from the P1600 was superior to this one.  
+2. Plays up to 1920x1080 MKV, XVID, DIVX etc videos.Fantastic unit - plays almost any video, music or pictures streamed from any network computer - hook up a NTFS (up to 2TB size) usb hard drive to the bluray's usb port and play almost any video, music or pictures stored on the hard drive.Plus it even plays BluRay discs!
+3. I am very pleased with this unit.  
+4. After less than an hour of use getting familiar with features of unit I received notice there was a Firmware update: loaded update. 
+5. Boxed up the unit and shipped it out same day UPS. 
+6. This BD-C6500 unit worked fine for a year, then began shutting itself down at random times during play of either DVD or Blu-Ray discs.  
+7. Much faster than my older Samsung unit.  
+8. However, even with a Window Media Connect, DLNA enabled server this unit will not stream your content successfully.Reasons why it fails:The C5500 (or C6500, no difference between the units except for the inclusion of a WiFi connection) will not be able to maintain a connection--you will be able to connect the device and stream content, but the unit will not be able to maintain a connection to your source server.Between 10 to 50 minutes into your stream, this unit will declare "network connection lost". 
+9. A long, tedious, unwanted procedure.This unit is limited in the content it can play. 
+10. However, for the price, and what is available as an alternative (with much higher playback quality), this unit fails for your home theatre streaming requirements.Yet another reason why this device fails: it has a very short time span between being paused and going into device shut down. 
+11. However, the operation of the unit is sometimes quirky in that you can't get it to return to the previous menu on occasion.  
+12. If you go to Computer Fix forums on the Internet, you will learn that very few buyers of this unit can connect it to the Internet. 
+13. I have read quite a few similar complaints about this unit and have wasted many hours trying to fix it. 
+14. Th performance of this unit seems to be fine. 
+15. From what I read , when the unit is sold as a region 1 (USA), you can't make the unit region free with any hack or software upgrade.  
+16. Overall this is a good unit.
+17. This unit upscales standard def DVDs very well (I just watched Dragon Dynasty's 8 Diagram Pole Fighter on DVD and it was gorgeous), does a great job with streaming services like Netflix (YouTube is slow to search, but that is YouTube's crappy interface) and Blu Rays look every bit as good on my TV as I had hoped.** An update issued shortly after I purchased this player has fixed the log in issues, but the interface still requires the machine to start up, then the Internet features to load (if selected), etc... it's a bit slow but better than it was!
+18. I'm going to run Cat-5 to the unit to eliminate the wireless.  
+19. I bought this unit because of features and fair price.  
+20. I originally purchased this BluRay player bundled with a TV, so I didn't know much about it at the time.After using it for about 8 months now I feel that I have enough experience with this unit to write a review.The player is very sleek looking. 
+21. Your online experience will vary largely based on the speed of your internet connection, but if you have a solid internet connection with some good bandwidth, this device will work really well.Overall I have really enjoyed this device, so much so that I just recently purchased a second one to give as a gift.There are much better players out there, but for the price this unit is hard to beat.
+22. Excellent choice for a well-priced unit from Amazon!
+23. First, the unit is very, very slow.  
+24. In fact, we bought a Roku to watch streaming content because we thought this unit was too slow and unpleasant to use.  
+25. The day I purchased the unit, I spent good 12 hours trying to update the firmware and trying to get all the different so called applications installed/upgraded.  
+26. plug into network and it can see a western digital attached hard drive "MyBookWorld" where i can browse photos and videos. photos viewed thru this blu-ray unit look much better than viewed thru an sony dnla HDTV. i give a 5 rating because, to my surpsise this blu-ray unit can even play back .MTS video files when a macbook can't!  
+27. plug into network and it can see a western digital attached hard drive "MyBookWorld" where i can browse photos and videos. photos viewed thru this blu-ray unit look much better than viewed thru an sony dnla HDTV. i give a 5 rating because, to my surpsise this blu-ray unit can even play back .MTS video files when a macbook can't!  
+28. As for the unit, it has very limited add-on memory, is very slow to load and run apps, but overall they do work at least! 
+29. I wanted to be able to use netflix, so thought this unit would be perfect.  
+30. I returned my first unit and a second one demonstrates the same problem.  
+31. I read all the reviews on this unit here and other places, many not so good.  
+32. It walked me through the standard set up procedure which included a software update and seemed to be working fine until suddenly (while still in the main unit "features" menu) the screen went blank. 
+33. Good features, if you never had it. does what it says,THe best stand alone unit technology available" This month'.Sluggish interfaces, even with the fastest broadband.And a remote unit thats just annoying & disappointing.And I thought my Linksys wireless stick or dongel could just plug in the back?"
+34. Good features, if you never had it. does what it says,THe best stand alone unit technology available" This month'.Sluggish interfaces, even with the fastest broadband.And a remote unit thats just annoying & disappointing.And I thought my Linksys wireless stick or dongel could just plug in the back?"
+35. The unit is very compact and looks good. 
+
+negative sentences : 
+1. I shall buy the Sony unit with the integrated lan.Samsung BD-C5500 1080p Blu-ray Disc Player
+2. I have wasted better than twenty-five (25) hours of my time troubleshooting this defective unit and dealing with Samsung's customer service department. 
+3. So, I may or may not get an exchange for a useless unit this year.....I spent about US$250 for the unit and the UBS lan. 
+4. Sorry)I connected the unit to an older Olevia Syntax 768P LCD with only 1 HDMI port so I needed to dig out my old Monoprice HDX-201E 2x1 powered HDMI switch since my DirecTV HD DVR was already using the HDMI port.  
+5. Why should the customer have to pay a single penny more to get a defective unit to work.  
+6. I have spent a lot of energy and time , working with samsung to resolve this and still this issue is not resolved .The first time I called  Samsung , they said that it was a problem with their server.I called after a week and they created a ticket and asked me ship the device to another repair center ( where they outsource their repairs) .The repair center calls me and tells me that they will not touch the device( as it is out of labor warranty ) , unless I paid $50 .I asked them to return the unit.Their service is pathetic and if you are buying this player , get some extra warranty or pray that this player never fails or NEVER ever update the firmware .I plan to sell this on ebay as is and get a generic player for much less . 
+7. I still don't know if my unit is bad or if their design is horrible.  
+8. This unit also plays other BD discs without problem.  
+9. A unit that plays less than 10 times before dying is just unacceptable. 
+10. After quizzing the support agent as to why I should have to do this when I own not only a FULL 1080p TV, but a SAMSUNG FULL 1080p TV, I was told that the unit might not be compatible with that model TV. 
+11. Had I known this, I would not have bought this unit.I have not had good luck with Samsung electronics and appliances, in fact I had my fridge exchanged after one week and my 2 year old Samsumg DVD player no longer responds. 
+12. The Panasonic is the only unit that does not have DLNA, but has the best remote and clean interface. 
+13. I honestly can't say anything negative about the unit. 
+
+------------------------------------------------------------------
+feature : product, positive Score : 45 and negative Score :-14
+------------------------------------------------------------------
+positive sentences : 
+1. Great product.
+2. However, if it is a series of videos it does bring up "Related Videos" at the end so that will give you access.I recommend this product, it is an all around great product and I am surprised that the price is this low. 
+3. I have not tried to play in the settings of the player or properties of the file but it probably could be fixed in that fashion.All in all a fantastic product. 
+4. This device...very nice when it works...horrible and comparable to a beta level product at best when you really try to use it (should not have been released as is or passed validation/quality control - are the people at Samsung sleeping??).
+5. Good product!
+6. Good product at a good price. 
+7. It's a bit of an inconvenience, but other than that, it seems to be a good product.
+8. I am happy with the product for the most part.  
+9. liked it so much bought another for another room...............again, great product at great price
+10. Especially since the dvd's are brand new.My final say is that if you are not a patient person, do NOT buy this product.If you are patient and a little tech savvy, it is almost worth the money, because when it works, it is easy and looks good.I am probably rating this product too high, because in all honesty, I am still so excited to have been able to afford half-way updated technology that I can forgive the entry level equipment.
+11. Especially since the dvd's are brand new.My final say is that if you are not a patient person, do NOT buy this product.If you are patient and a little tech savvy, it is almost worth the money, because when it works, it is easy and looks good.I am probably rating this product too high, because in all honesty, I am still so excited to have been able to afford half-way updated technology that I can forgive the entry level equipment.
+12. Good cost-benefit product. 
+13. Very dissatisfied with the product.
+14. The product is great. 
+15. Awesome product from samsung.Thumbs up
+16. I bay this product and is fantastic, I feel very happy to have two of this samsung. 
+17. I am very pleased with this product
+18. I, however, have found them to be nothing short of over-priced for a product with a lower quality than I would expect. 
+19. This Blu Ray player is a great product for the money.  
+20. great product... arrived in a timely manner.  
+21. I highly recommend this product be it refurbished or new!
+22. Quite disapointing for a relatively simple product.  
+23. It seems like a great blu-ray player for starting out, but if I were more serious and wanted more consistency, I would probably look to find a better product. 
+24. This is why I returned the product and paid an additional $10 for a Sony with built in wireless.  
+25. This product is awful. 
+26. Great product, works well, remote and settings are easy to work. 
+27. Excellent product.  
+28. Overall, I am very satisfied with this product. 
+29. I have had this product for several months now. 
+30. Well...I found out it wasn't my inability to work a TV, but a rather sly move by Samsung -- you see, this "wi-fi ready" product requires a LAN adaptor (so add another $80/90 to the price you're paying for the Blu-ray). 
+31. Sleek design and easy setup provided immediate impression of a well-designed product. 
+32. This is my last Samsung product.
+33. Great product at an even better price. 
+34. I was very happy with this product,I only had to buy an ethernet cord to get it to work. 
+35. Surprised at the positive reviews on this product, but suspect they do not use it for blu ray discs.
+36. This product is very unstable despite several "updates". 
+37. If you are having problems with that feature, I suggest you head over to the BD-C5500 owner's thread on AVSForum.To those complaining about the wifi adapter: it's clearly labeled in the product description that a specific adapter is needed.  
+38. Very good product and at a good price.Initially had problems trying to run a couple of discs but once I downloaded the updates everything was ok.
+39. Too good product .... 
+40. This is a good product.Back after using the product for 18 months.  
+41. This product was a complete disappointment.  
+
+negative sentences : 
+1. All in all it's a shame that samsung would put their name and reputation behind a product and then not take full responsibility for fixing it.  
+2. I am looking into other brands for a better product. 
+3. I guess it just goes to show that if one spends enough on advertising, then they can get away with overpricing a mediocre product.First of all, the load times on Blu-ray players have always been slow. 
+4. I would recommend you purchase a different product.
+5. I will provide some details which are not covered in the Product Description.If you are looking for a wireless network enabled DVD player, stop blaming this product/description and shell out more money and look else where. 
+6. Horrible product.
+7. Terrible product.
+8. The product itself is quite good, I have no complaints. 
+9. From the very beginning this product had many "bugs".  
+10. Samsung should be completeley ashamed of releasing such a poor product.
+11. Samsung has mad a great product.  
+12. Next time I'll find another product from a different company.
+13. I would have rated this product 5 stars but the bad streaming brought it down
+14. Sound comes in two channels, this is probably the main difference to c6500 which has more.So in general, I am very happy with the player, but not five stars because the software seems a bit of a "rush job"; the firmware wasn't right and there are other subtle signs that don't matter much per se but undermine overall impression of the product. 
+
+------------------------------------------------------------------
+feature : device, positive Score : 54 and negative Score :-16
+------------------------------------------------------------------
+positive sentences : 
+1. Have had few problems with this device. 
+2. You have to pull the device out of your entertainment center to look up info on the back of the device - very frustrating!!  
+3. This device...very nice when it works...horrible and comparable to a beta level product at best when you really try to use it (should not have been released as is or passed validation/quality control - are the people at Samsung sleeping??).
+4. My wife and I were in the market for a non-expensive BluRay player last year, and our eye fell on this model.It's a decent enough player, allowing for DLNA connections (allowing us to stream movies and music off my PC), which also has a fairly limited amount of internet apps.The device plays DVDs OK (gotta be honest, I *LOVE* the option to skip the incessant and normally unskippable previews by pressing either one of the disk menu buttons), we've had no problems playing any BluRay disks...But we use it mostly to connect to NetFlix, VuduPlus and YouTube, and *that* is where this device fails, big time. 
+5. My wife and I were in the market for a non-expensive BluRay player last year, and our eye fell on this model.It's a decent enough player, allowing for DLNA connections (allowing us to stream movies and music off my PC), which also has a fairly limited amount of internet apps.The device plays DVDs OK (gotta be honest, I *LOVE* the option to skip the incessant and normally unskippable previews by pressing either one of the disk menu buttons), we've had no problems playing any BluRay disks...But we use it mostly to connect to NetFlix, VuduPlus and YouTube, and *that* is where this device fails, big time. 
+6. I have about 20 brand new blue rays and the device has trouble with most of them.The online software and menus are ok, not great.  
+7. I say worse than worthless because not only are they so clunky and slow no one would use them, Samsung forces you to wait to use the device until even more new worthless apps are pushed to you! 
+8. downstream reported by player at 15+MBS consistent with ISP and other device claims;4.  
+9. This is truly a fantastic device. 
+10. The Samsung BD-C550 Blu-Ray Disc Player is a fantastic device. 
+11. However, if you want to connect it to a DLNA compliant network device like the Buffalo TeraStation Live, you're going to be disappointing.It can stream music and show pictures from the DLNA media server, but videos will come back with an error of "File Format Not Supported". 
+12. I can only recommend this set to you if you understand the shortcomings 100%, and that is centered chiefly around the lack of an actual or virtual keyboard for the device, but other than that it's a 100% "Go for it" purchase, no doubt about it! 
+13. But I can understand why people get frustrated with punching in keystrokes for letters and numerals and special characters on that keypad of the remote, as it IS difficult and specific and it is hard to control accuracy also, so a genuine problem there for the device not solvable easily, or in fact any way I know of, we are out of luck there unfortunately.Other than the keyboard issue this thing ROCKS OUT! 
+14. If your looking for strickly an internet portal for you TV, its an OK device. 
+15. Overall, I am very pleased with the device.
+16. I finally gave up and invested in a PS3 for my blu ray and streaming.Whether I ever get this thing working properly again or not, no device should be this difficult to manage.
+17. The movie picture quality was good.My biggest issues with this device so far are when I am trying to type band names into pandora, it seems slow and unresponsive.  
+18. This, despite the fact that every single other device on your network is still connected, fully functional, and no log errors anywhere to help you correct this problem. 
+19. However, even with a Window Media Connect, DLNA enabled server this unit will not stream your content successfully.Reasons why it fails:The C5500 (or C6500, no difference between the units except for the inclusion of a WiFi connection) will not be able to maintain a connection--you will be able to connect the device and stream content, but the unit will not be able to maintain a connection to your source server.Between 10 to 50 minutes into your stream, this unit will declare "network connection lost". 
+20. It isn't top of the line, but if you need it for Netflix + Blu-Ray/DVD Movies, then you have a good device on your hands.
+21. It is honestly the first device I have bought that has not included some form of batteries for the included remote. 
+22. -The Netflix app (One of the main reasons I picked up the device) is usable and streams just fine in 1080p. 
+23. The 1080p Blu-ray quality on this player is pretty much identical to those I just listed.As a basic Blu-ray player and streaming device, it is well worth every penny.  
+24. Even moving around the menus within the device itself is excruciatingly slow.I didn't give it one star because, well it does play a blu ray disc or DVD but again, like others have said that is pretty slow to load as well. 
+25. We have really enjoyed having a device capable of using Pandora connected to the home audio/theater system.I used the Blockbuster service to rent a movie for my kids. 
+26. Also, the blu ray picture quality is GREAT, and the remote control has nice big buttons and a logical layout.This device has a lot of promise but doesn't quite cut the mustard for me when it comes to media streaming.  
+27. Your online experience will vary largely based on the speed of your internet connection, but if you have a solid internet connection with some good bandwidth, this device will work really well.Overall I have really enjoyed this device, so much so that I just recently purchased a second one to give as a gift.There are much better players out there, but for the price this unit is hard to beat.
+28. The remote control has just about every button you would possibly need for this device and a very limited set of controls for a TV.If you have a Samsung TV than you can take advantage of how Samsung devices link with each other via HDMI and you can control the Player and TV with the remote from either the TV or player, which is a nice feature to have.When playing BluRay or DVD discs this player is a bit slow. 
+29. It has only a few buttons on the device itself. 
+30. Also since the player shuts off on its own after 15 minutes and you were watching a digital file from a usb device there's no way to save your place or bookmark the video. 
+31. If you use a network drive like  I do to conserve power, you're back to the problem of being unable to pause, rewind, f-forward, or skip.It's terribly frustrating, because that was the main reason I purchased the device. 
+32. Well I read the reviews on this device and from the positive things I gathered I decided to order it. 
+33. Sure for some people that may not be a big deal, but to me this device is new enough to be faster than my much older devices that load in a snap. 
+34. Let me start by telling you that I am technical person and using the device was not complicated at all.  
+35. Have yet to find a device with netflix interface as good as the Xbox 360.Pandora streaming sounds great, and is a nice, and quick setup for a party mix.Can apply firmware updates via internet.Remote supplied has large buttons and text, for those who do not use a universal remote.
+36. Was looking for another dlna compatible device besides PS3 to stream video from my dlna NAS.  
+37. I'm stuck with the few they provide or have agreements withOther than that the Samsung is an okay device.  
+38. This device is awesome in terms of price and quality of the product...missing some features from the Samsung app store but it doesn't affect negatively its functioning.Highly recomended!!
+39. Netflix works OK through the device, but the menu system is really slow; constantly clicking into the item after what I really want, as it takes way too long to move from one item to the next.  
+40. I use the digital connection and it sounds great with my surround sound.5 stars for sharp image, good sound and it is a good looking device.1 star for loading time and frozen blu-rays menus. 
+41. However the VERY slowness of the device is a complete let down. 
+
+negative sentences : 
+1. Samsung makes products with a good feature list, but obviously lacks expertise in  user experience design.There are too many small issues with this device to list them all -- such as the HDMI protocol crashing because it is not being quite compatible with my LG LCD television, the shape of the CD tray making it tricky to pick up disks, and the obnoxious jingle that plays every time the player is turned on.As for the internet services, other than the Netflix player, the rest seems to mostly be junk -- such as clunky games.Overall this device is as slick as a PC running Windows 2.0I eventually returned it and got theSony BDP-S370 Blu-ray Disc Player-- which is simply a pleasure to use.
+2. This Samsung BD-C5500 Bluray player and internet device is pathetic. 
+3. I must say that although the Chromecast Netflix app is a little buggy, it loads programming at least 10x faster than Samsung, and is less prone to hangups, buffer interruptions and outright instances of being unable to connect to the Internet (at least, the Samsung "tells" us it can't connect...every other device in the house has no issues doing so. 
+4. 3) Google maps app freezes the device when you turn traffic feature on - have to turn it off and then back on to get control over device4) Will NOT play Avatar or Percy Jackson & Olympians: The Lightning Thief...so far...expecting more new releases to not work (get the red screen when trying to play movie)5) No on-screen display ANYWHERE of model number and serial number for device.  
+5. My cable company tech support actually helped me with their device more than they did.  
+6. I spent over 3 hours troubleshooting multiple problems with this device.  
+7. Heed the advice and warnings posted in these reviews, THIS DEVICE HAS MAJOR PROBLEMS! 
+8. I am thinking that perhaps the device is just too buggy to be useful. 
+9. Samsung makes products with a good feature list, but obviously lacks expertise in  user experience design.There are too many small issues with this device to list them all -- such as the HDMI protocol crashing because it is not being quite compatible with my LG LCD television, the shape of the CD tray making it tricky to pick up disks, and the obnoxious jingle that plays every time the player is turned on.As for the internet services, other than the Netflix player, the rest seems to mostly be junk -- such as clunky games.Overall this device is as slick as a PC running Windows 2.0I eventually returned it and got theSony BDP-S370 Blu-ray Disc Player-- which is simply a pleasure to use.
+
+------------------------------------------------------------------
+feature : time, positive Score : 57 and negative Score :-25
+------------------------------------------------------------------
+positive sentences : 
+1. So one time I had to use the HDTV remote, the rest of the time I used the Samsung BluRay player remote, and it suffices for all functions for the HDTV until you get into sub menus and special features, of course, but the remote is adequate for both BluRay player and HDTV use, both.One thing does puzzle me about the player, and that is the WiFi adapter from Rosewill doesn't function on the front USB port, and I was curious about that, so I called Samsung about it and they told me the rear port is connected directly via some switch on the player's motherboard to the WiFi system while the front USB port is not! 
+2. It's the first time I tried that service and it's very cool. 
+3. Connecting for the first time is no problem; the problem arises every single time a software upgrade is pushed. 
+4. Connecting for the first time is no problem; the problem arises every single time a software upgrade is pushed. 
+5. My wife and I were in the market for a non-expensive BluRay player last year, and our eye fell on this model.It's a decent enough player, allowing for DLNA connections (allowing us to stream movies and music off my PC), which also has a fairly limited amount of internet apps.The device plays DVDs OK (gotta be honest, I *LOVE* the option to skip the incessant and normally unskippable previews by pressing either one of the disk menu buttons), we've had no problems playing any BluRay disks...But we use it mostly to connect to NetFlix, VuduPlus and YouTube, and *that* is where this device fails, big time. 
+6. This time I was able to get it for $99 through Amazon but by a vendor. 
+7. With just enough time for my labor warranty to be expired, the unit decided this week to STOP READING BLU-RAY DISCS. 
+8. Vudu and Blockbuster and Pandora work fine at the same time as I'm having this netflix problem.  
+9. So if you like my helpful hints, go ahead and get it and know you might have small issues from time to time, otherwise check out a slightly nicer player.
+10. So if you like my helpful hints, go ahead and get it and know you might have small issues from time to time, otherwise check out a slightly nicer player.
+11. As a previous owner of a BD-1500 I was a bit scepticle of getting another Samsung Blu-ray player but at time was the only Blu-ray player sub-$200 that had both Netflix & PC Streaming capabilities. 
+12. However, for the price, and what is available as an alternative (with much higher playback quality), this unit fails for your home theatre streaming requirements.Yet another reason why this device fails: it has a very short time span between being paused and going into device shut down. 
+13. Also switching from the blu-ray menu to the player menu where the apps are available tends to take a really long time. 
+14. That being said, I still don't feel like I have had enough time to figure everything out on the player. 
+15. Two other complaints I have on it is it takes a long time to load video streaming services and newer 3D Blu Ray discs take a long time to get firmware updates to play. 
+16. Two other complaints I have on it is it takes a long time to load video streaming services and newer 3D Blu Ray discs take a long time to get firmware updates to play. 
+17. It's a major issue if you are watching a series with 100+ episodes and then you have to scroll through the entire list each time.For the price, it's a decent player. 
+18. After the latest update, anything I watch will re-buffer at the 90% complete point, half the time freezing the unit.  
+19. I'll admit I was disappointed with inconsistent media client and limited formats, but its a completely different world now.I also had wireless, but changed to LAN as wireless was spotty for me (router died not long after so that was most likely the problem, but once wired I decided to keep it wired).I use Netflix all the time and it works great now (had a few issues in the beginning--losing playlist and having to re-add account information, but that all seems to have been worked out.)  
+20. It was shipped on time & was really nice packed & we do like the slim design BUT once unpacked & set up we stuck in the movie Avatar & could not watch it! 
+21. I feel like a grandparent trying to text with a flip phone for the very first time using just one thumb. 
+22. (in case you need help with this)-You can hit your blue "D" (view devices) button to get the player specifically on "DVD" but usually if there's already a problem it doesn't workthe first time. 
+23. I searched for a long time for a blu-ray player that would stream video and play a variety of video types, including Divx movies. 
+24. These people are never satisfied with any product they ever buy and will spend inordinate amounts of time complaining about things the rest of us would never dream of complaining about. 
+25. This should be a one time registration, but after a few days, I was asked to re-register my player on my Netflix account even though I hadn't signed out or unregistered it.  
+26. Start-up time is as fast as the PS3, I didn't time it but it's fast enough that I don't notice the difference. 
+27. Start-up time is as fast as the PS3, I didn't time it but it's fast enough that I don't notice the difference. 
+28. Usually a firmware upgrade can fix the problem but if you have any issues and have to call customer service, be ready to get treated VERY BADLY and do not expect actual help or basic courtesy.I couldn't play a DVD and tried to do an upgrade (that fixed it the last time I couldn't play a DVD). 
+29. I have had problems from time to time with the player being able to play certain discs. 
+30. The blu-ray freezes at some point during the movie, every time, even with brand new movies.  
+31. The movies cost about $4 to rent and you only have access to watch the movie for 24 hours from the time you first start playing it. 
+32. The quality of the audio seems very good and the time it takes to buffer the music is not even noticeable. 
+33. I have spoken with people who stream Netflix through the PS3 or XBOX and they have told me it takes about the same amount of time to buffer on those systems and I would imagine other Blu-ray players that stream Netflix would have similar performance. 
+34. Over time, this could become a huge frustration if forced to do this repeatedly.I have listed more weaknesses than strengths, but don't let that discourage you from buying this player if you are on a budget.  
+35. Navigation using the remote is frustration and time consuming..  
+36. The remote is fine and also compatible with my TV, which is nice.I have not had time to experiment with the Allshare or network media streaming capabilities of this unit, but I plan to do so.  
+37. I tried powering it off, then resetting it to the default settings but got the very same message every time, and always in a completely random fashion.I called Samsung Tech Support and was told that in order to avoid this problem I would need to downgrade the Blu-Ray player output to 720p. 
+38. I just plugged in the network cable, powered on the player and after a few guided steps I was able to enjoy the movies in my instant queue and Pandora web radio.Upscaling quality is really good, the only thing I don't like when playing DVDs is that the player doesn't restart from where you left but every time it starts playing the movie from the beginning.I still have to try Blue Ray, YouTube and the USB connection... too many features and too little time!
+39. A friend of mine had a Sony player that seemed to take a long time to load discs and process menu commands. 
+40. If you want a device to work promptly and do what it was designed to do in an appropriate time then move along. 
+41. I use the digital connection and it sounds great with my surround sound.5 stars for sharp image, good sound and it is a good looking device.1 star for loading time and frozen blu-rays menus. 
+42. But because I use netflix so often and usually for TV shows , the load time is very frustrating.Now the main beef I have is the frozen main menu screen. 
+43. This is great as I don't have to burn them to DVD anymore or convert the AVI to VOB to view...This is a great model and should last for a long time as it has all the features I need.
+44. Who hears "play networked files right from your computer" and thinks he's going to have to manually upload the info every. single. time. he adds something to the drive he'd like to use? 
+45. Wouldn't be a problem, but you have to manually refresh the program's database every single time you add content if you want to be able to use it... and it's not a quick process at all. 
+
+negative sentences : 
+1. I have spent a lot of energy and time , working with samsung to resolve this and still this issue is not resolved .The first time I called  Samsung , they said that it was a problem with their server.I called after a week and they created a ticket and asked me ship the device to another repair center ( where they outsource their repairs) .The repair center calls me and tells me that they will not touch the device( as it is out of labor warranty ) , unless I paid $50 .I asked them to return the unit.Their service is pathetic and if you are buying this player , get some extra warranty or pray that this player never fails or NEVER ever update the firmware .I plan to sell this on ebay as is and get a generic player for much less . 
+2. NetFlix - invariably, without exception - fails to connect, or if it *does* connect, the device needs to be reactivated.I just spent half an hour on the phone, first with NetFlix support, then with Samsung, because all I got this time was a big box saying "You're not connected to the internet. 
+3. I'm ok with electronics not working the first time; I was shocked to find out however that I'm responsible for the 15$ shipping charge to send it back for a repair.  
+4. Much of the time, it doesn't even know its on the Internet.  
+5. Why invest more time on top of everything I've already done which has made no difference. 
+6. I have wasted better than twenty-five (25) hours of my time troubleshooting this defective unit and dealing with Samsung's customer service department. 
+7. This results in an unacceptable amount of time and remote control clicking just to get back to where you last left off: you must restart the device, locate your content, resume play, and then somehow find your last viewing spot in the content....I do NOT recommend this product.
+8. Samsung makes products with a good feature list, but obviously lacks expertise in  user experience design.There are too many small issues with this device to list them all -- such as the HDMI protocol crashing because it is not being quite compatible with my LG LCD television, the shape of the CD tray making it tricky to pick up disks, and the obnoxious jingle that plays every time the player is turned on.As for the internet services, other than the Netflix player, the rest seems to mostly be junk -- such as clunky games.Overall this device is as slick as a PC running Windows 2.0I eventually returned it and got theSony BDP-S370 Blu-ray Disc Player-- which is simply a pleasure to use.
+9. -It has the great feature of switching from DVD to blu-ray discs BUT it has a really hard time transitioning to DVD's much of the time! 
+10. -It has the great feature of switching from DVD to blu-ray discs BUT it has a really hard time transitioning to DVD's much of the time! 
+11. You can get the C6500 model for that price, which comes Wifi ready with 2 USB ports, but seems like many C6500 users have problems with DVD playback quality, a problem this player doesn't share.- Pausing it for a relatively short amount of time causes it to stop the disc, and forces you to restart it from the title instead of resuming from the pause point.- Does not come with an HDMI cable. 
+12. Now, not everybody gets it right all the time... and especially not right out of the gate. 
+13. If Samsung can fix this problem in a short amount of time, I will probably keep it. 
+14. I was a very big fan of their tvs and for a long time would not buy anything else. 
+15. Next time I'll find another product from a different company.
+16. I received my item in a short time. 
+17. You can't even access your playlists, in fact more than half the time I can't log in to my YouTube account at all on this BluRay player.Samsung support is a joke. 
+18. Maybe it works with it but there is no way I'm going to spend any more of my time with it. 
+19. Other then Blu-ray start up time, picture is fine. 
+
+------------------------------------------------------------------
+feature : tv, positive Score : 73 and negative Score :-20
+------------------------------------------------------------------
+positive sentences : 
+1. Well I take that back, I had to use it to select the "switch" I have (KVM switch) for my HDTV because I have so many things connected to it, ie my cable TV box and DVR system, my PC, my PowerMac G5 server (M9591LL/A), the BluRay player, and I also have a live camera "feed" into the HDTV for when I am composing video, so I can "frame" my subjects correctly and have horizontal and vertical alignment with the project's focus to speak of, and the Samsung HDTV only has 4 connectors for HDMI 2.1, thus I have to use a KVM switch and sorting that out sometimes requires the use of the TV's remote, which I alluded to above. 
+2. Pros:  Easy setup and installation; great pictures on HD LED TV; great remove (can also control HDTV); One quirky issues (please read Cons section); Takes very little space.Cons: Movie lags at times during playtime; No WiFi to connect network.Comments: Overall, it's a great little BD player.  
+3. Further, it is a very capable NetFlix player and having Pandora is just icing on the cake.One thing I found slightly annoying is the fact that the main screen always has Rovi TV Listing and Blockbuster app icons. 
+4. I bought it and a Samsung TV last January as a Christmas gift to myself.  
+5. As soon as I hit the power button there was no separating these 2, it was love at first sight, the tv automatically switched to the correct input and it started to download an update.  
+6. This unit upscales standard def DVDs very well (I just watched Dragon Dynasty's 8 Diagram Pole Fighter on DVD and it was gorgeous), does a great job with streaming services like Netflix (YouTube is slow to search, but that is YouTube's crappy interface) and Blu Rays look every bit as good on my TV as I had hoped.** An update issued shortly after I purchased this player has fixed the log in issues, but the interface still requires the machine to start up, then the Internet features to load (if selected), etc... it's a bit slow but better than it was!
+7. I am saddened as I have a gorgeous Samsung TV that has been wonderful and now I have lost all faith in the brand.
+8. Samsung makes a great tv but their Blu ray players and support don't measure up.
+9. I picked this up to go with my new Samsung TV and the two of them work amazingly well.  
+10. So they have worked out all the bugs and have an excellent line of Blu-Ray players.In general I love Samsung products, I have a nice LCD hi-def TV, and just puchased a new LED 24 inch monitor, and also have other electronic products in my home, and think they are the best.  
+11. We have the HDMI connection to a wide screen HD TV set with cable box hookup. 
+12. This is a great piece of machinery to accompany our new 46" Samsung TV (from Amazon).  
+13. Let me preface this by adding that we own a Samsung washer & drier, a Samsung refrigerator, a 52 inch Samsung Series 7 LCD tv an older Samsung Blu-Ray player and I have a Samsung microwave on the way. 
+14. I also have a ROKU set up in the living room that connects to the big screen TV. 
+15. If your router is right next to your TV set you shouldn't have a problem with this, all you have to do is buy another cat five cable. 
+16. And back to that remote for the BluRay player...since I've had the player installed I have not used my TV remote once, how about that for statistics! 
+17. Maybe you want your TV on the same remote but that's about it. 
+18. If your looking for strickly an internet portal for you TV, its an OK device. 
+19. Low price for player and integration with Samsung TV best part of player. 
+20. If you are OK with Ethernet (wired) network setup, like for me with the router being very next to the TV, this is the best comprehensive player out there is, for the money.BLU RAY: I played Twilight (2007-somewhat older) and Alice in Wonderland (Rather recent) and I had no issues. 
+21. Basically, whenever it is spinning a disc it makes a loud grinding noise that is audible throughout the room with the tv at normal volume.  
+22. One annoying feature is that while starting a Blu-Ray disk the player will connect and disconnect the connection to the TV several times, blanking the screen, causing the TV to say nit has no input source, causing the sound to pop and crackle on the TV. 
+23. The same goes for their TV's. 
+24. And this new TV and Blu-Ray player were also no exception.)But my biggest complaint about Samsung players is that Samsung for some unknown reason has decided not to include a disc memory feature, at least not on the less-expensive models like this one. 
+25. DVD upconvert looked positively terrible on a brand-new Samsung 55" LED TV. 
+26. And the fact that it harmonizes so perfectly with our Samsung TV is simply astounding. 
+27. Imagine our shock when the tv immediately switches to the new Blu Ray player the minute you turn it on! 
+28. Picture is good on my HD TV and I like that because my TV is Samsung the (Blu Ray) remote works universally for my TV or the player.  
+29. Well...I found out it wasn't my inability to work a TV, but a rather sly move by Samsung -- you see, this "wi-fi ready" product requires a LAN adaptor (so add another $80/90 to the price you're paying for the Blu-ray). 
+30. It integrates well with my Samsung TV, and turning on the player will automatically switch the TV to the proper input (although I could see how this could be annoying if you didn't want to switch immediately, for example if you just want to eject a disc while you're watching TV or something) and the Samsung TV remote works for the Blu-Ray, and vice-versa. 
+31. I am totally satisfied with the quality of the picture and now I am using one remote control for the TV and the blu ray player which I really like about.If you are looking for an entry level blu ray player with the basic function for blu ray and upscale DVD, this is definitely the one you should go for.
+32. Quite amazing technology picked up at Best Buy for just $99.For all - the quality for bluray is perfect for 1080i (my TV's max capacity) but the DVD upscale leads something to be desired. 
+33. The very same problems plague their DLNA TV's and again, they don't care. 
+34. (on a 16 mbps down load) If you want good video quality and don't mind a little extra work to watch NetFlix on your TV this is a great player.
+35. We keep a lap top next to the TV so we want have to leave the room to do this. 
+36. BlueRay playback is crystal clear - and connecting to a Samsung TV via AnyNet is flawless.  
+37. Using the same internet on the same TV - I can get an MLB game to run flawlessly on a Roku or Apple TV wired or wirelessly while it just buffers on this thing.  
+38. The remote control has just about every button you would possibly need for this device and a very limited set of controls for a TV.If you have a Samsung TV than you can take advantage of how Samsung devices link with each other via HDMI and you can control the Player and TV with the remote from either the TV or player, which is a nice feature to have.When playing BluRay or DVD discs this player is a bit slow. 
+39. The remote control has just about every button you would possibly need for this device and a very limited set of controls for a TV.If you have a Samsung TV than you can take advantage of how Samsung devices link with each other via HDMI and you can control the Player and TV with the remote from either the TV or player, which is a nice feature to have.When playing BluRay or DVD discs this player is a bit slow. 
+40. I originally purchased this BluRay player bundled with a TV, so I didn't know much about it at the time.After using it for about 8 months now I feel that I have enough experience with this unit to write a review.The player is very sleek looking. 
+41. We didn't care too much as we could control the player with our TV remote anyway. 
+42. It integrates well with my Samsung TV, and turning on the player will automatically switch the TV to the proper input (although I could see how this could be annoying if you didn't want to switch immediately, for example if you just want to eject a disc while you're watching TV or something) and the Samsung TV remote works for the Blu-Ray, and vice-versa. 
+43. I can't add Amazon instant TV or Hulu Plus to my apps.  
+44. Picture is good on my HD TV and I like that because my TV is Samsung the (Blu Ray) remote works universally for my TV or the player.  
+45. I went through all reasonable debug steps, including swapping HDMI cables, using different HDMI inputs on my TV, applying all available firmware updates, etc.  
+46. Pros: Plays quite a few different video file formats from a USB flash drive, supports SRT and IDX subtitles, Region free DVD (I have issues every now and then from Asian and European discs), Internet capability, remote controls basic basic TV functions.Cons: slow remote response and startup, random aspect ratio issues, lower resolution videos seem jittery (but extremely clear) due to video upscaling, USB playback requires several steps, number pad on remote does not work for TV (only channel +/-, volume +/-, mute, and power)This is a pretty good player overall. 
+47. Pros: Plays quite a few different video file formats from a USB flash drive, supports SRT and IDX subtitles, Region free DVD (I have issues every now and then from Asian and European discs), Internet capability, remote controls basic basic TV functions.Cons: slow remote response and startup, random aspect ratio issues, lower resolution videos seem jittery (but extremely clear) due to video upscaling, USB playback requires several steps, number pad on remote does not work for TV (only channel +/-, volume +/-, mute, and power)This is a pretty good player overall. 
+48. Recently, I purchased a new Toshiba 46 Inch TV and decided to also pick up a Blu-Ray player from Sams Club. 
+49. The remote is fine and also compatible with my TV, which is nice.I have not had time to experiment with the Allshare or network media streaming capabilities of this unit, but I plan to do so.  
+50. My TV is barely 2 years old, and while I understand technology changes quickly, there is no reason whatsoever that I can buy a brand new LG Blu-Ray player and have no computability issues, but cant buy a new Samsung player and have it "just work" with my (still cutting edge) Samsung television.My conclusion is that the problem has nothing to do with my TV, and EVERYTHING to do with the BDC5500 Blu-Ray player. 
+51. I chose the BDC5500 for its rather extensive features list, and because I own a Samsung Series 8 full 1080p, 120hz HD LCD TV. 
+52. Remote is okay, was hoping I would only need one remote since my tv is also a Samsung with similar remote, but navigation can be a pain, even with Samsung bd-wise anynet+ system linkup. 
+53. As I am using only an old 32" LED Computer/TV monitor; I have just a composite connection.  
+54. The only solution is to reset the machine to default settings and reconfigure each application.The internet services worked enough for me to cancel my cable tv subscription but not well enough for me to be happy I don't have cable tv.The bottom line is I may buy another Samsung blu-ray in the future but I would do more consumer research before settling on a similar model.
+55. The remote already recognizes the commands on the TV, so you can use the blu-ray remote to control TV too.
+56. We bought it because we trusted the Samsung name and were so pleased with our Samsung LED TV.  
+
+negative sentences : 
+1. If you want to check your guide do yourself a favor and switch to the DVR.The other "Internet @ TV" apps are mostly fluff. 
+2. It's especially bad on TV episodes where it will get this glitch and keep bringing you back to the same episode that you actually watched already. 
+3. Will upgrade this and TV at later date.Samsung BD-C5500 1080p Blu-ray Disc Player
+4. After 3 hours of struggling was not able to activate Internet TV.Network connection - perfect.Accept license agreement - YES (many times).Internet@TV: enter: Samsung ADsSamsung Apps: .... 
+5. After 3 hours of struggling was not able to activate Internet TV.Network connection - perfect.Accept license agreement - YES (many times).Internet@TV: enter: Samsung ADsSamsung Apps: .... 
+6. All I do is turn down the TV to its lowest setting, not muted mind you because that can create a bottleneck with the system, click my 3-port Toslink switch from Nyrius, (the Nyrius "Digital Audio Optical" switch that you can get here at Amazon.com for about $20) so that the BluRay player is selected out of my 3 input sources (HDTV Cable box, PC sound card, and the BluRay player) and BAM! 
+7. This is really annoying when watching a TV series DVD where you watch one or 2 episodes a day on an off throughout the week.  
+8. It doesn't want to play my Blue-Ray disks, then when it does it starts pixilating like a poor satellite tv signal halfway through.  
+9. Other HDMI sources into my TV do not have this issue.Another gripe... the Netflix user interface is primitive. 
+10. After quizzing the support agent as to why I should have to do this when I own not only a FULL 1080p TV, but a SAMSUNG FULL 1080p TV, I was told that the unit might not be compatible with that model TV. 
+11. After quizzing the support agent as to why I should have to do this when I own not only a FULL 1080p TV, but a SAMSUNG FULL 1080p TV, I was told that the unit might not be compatible with that model TV. 
+12. After quizzing the support agent as to why I should have to do this when I own not only a FULL 1080p TV, but a SAMSUNG FULL 1080p TV, I was told that the unit might not be compatible with that model TV. 
+13. The HDMI connection works if you toggle between inputs, (assuming you too have a tv with more than one HDMI to toggle between.)I still only give this machine 3 stars because Samsung customer service is spotty at best and usually an exercise in extreme patience, (no offense to South Asians but they don't understand, 'American' and need things repeated and clarified often making what would normally be a two-minute conversation into a 15-minute one.)The internet apps are fantastic... when they work.  
+14. But the C5500 wants in the worst way to switch the TV into BDWise; took a while to turn the dumb thing off.  
+15. If you have a Samsung TV with the extra link feature you will not be disappointed, I'm not.Thanks Amazon and Amazon merchants for a good deal and fast delivery.
+
+------------------------------------------------------------------
+feature : player, positive Score : 285 and negative Score :-75
+------------------------------------------------------------------
+positive sentences : 
+1. I got this BD player after long wait of deciding which one to go with as market is flooded with these now. 
+2. The only issue is that sometimes i wont let me connect to the FB and other accounds saying that uid is not correct even though i fill in the correct ones.Anyways that is least of my concern as we have laptops etc for the browsing ..In all I am satisfied with my purchase and this is good player for the start up line of BD players. 
+3. This player has serious problems with audio going out of sync on non disc video files. 
+4. I bought THE player exclusively for playing back stuff like AVI and MKV only to realize that 9 out of 10 of my videos had sync problem that do not occur when playing back on the PC.It functions well enough as a DVD/Bluray player, but not much else.Samsung support did not return my email about the issue and the latest firmware doesn't fix the issue.I would not recommend this player.
+5. I bought THE player exclusively for playing back stuff like AVI and MKV only to realize that 9 out of 10 of my videos had sync problem that do not occur when playing back on the PC.It functions well enough as a DVD/Bluray player, but not much else.Samsung support did not return my email about the issue and the latest firmware doesn't fix the issue.I would not recommend this player.
+6. This player was  easy to set up. 
+7. I had a bridge connected to my older blu-ray player so it wasn't a problem. 
+8. It worked perfectly with our Samsung tv.About eight months after we bought this Samsung player the remote stopped working. 
+9. We didn't care too much as we could control the player with our TV remote anyway. 
+10. We left the player updating overnight and all day long a few times and it never updated completely. 
+11. This player is great for doing a number of things. 
+12. Also since the player shuts off on its own after 15 minutes and you were watching a digital file from a usb device there's no way to save your place or bookmark the video. 
+13. Overall the player is great and provides good value for the price. 
+14. I was able to get the player for $99. 
+15. I guess you can just keep on deleting whichever apps you dont really need to manage the app storage.December 2011 update: This player has been working great for the last year or so. 
+16. Since I couldnt  resolve this feature I purchased a new blu ray player from samsung. 
+17. Overall, I'm satisfied with this player. 
+18. Though I do think the price could have been a little cheaper, as the blu-ray player itself is pretty basic.Pros-Good for a basic, entry level blu-ray player. 
+19. Though I do think the price could have been a little cheaper, as the blu-ray player itself is pretty basic.Pros-Good for a basic, entry level blu-ray player. 
+20. -Easy navigation.Cons-For some reason, the blu-ray player only seems to turn on when my samsung TV is on. 
+21. Its a pretty good Blu-ray player and streams video really well.  
+22. I originally purchased this BluRay player bundled with a TV, so I didn't know much about it at the time.After using it for about 8 months now I feel that I have enough experience with this unit to write a review.The player is very sleek looking. 
+23. I originally purchased this BluRay player bundled with a TV, so I didn't know much about it at the time.After using it for about 8 months now I feel that I have enough experience with this unit to write a review.The player is very sleek looking. 
+24. The remote control has just about every button you would possibly need for this device and a very limited set of controls for a TV.If you have a Samsung TV than you can take advantage of how Samsung devices link with each other via HDMI and you can control the Player and TV with the remote from either the TV or player, which is a nice feature to have.When playing BluRay or DVD discs this player is a bit slow. 
+25. The remote control has just about every button you would possibly need for this device and a very limited set of controls for a TV.If you have a Samsung TV than you can take advantage of how Samsung devices link with each other via HDMI and you can control the Player and TV with the remote from either the TV or player, which is a nice feature to have.When playing BluRay or DVD discs this player is a bit slow. 
+26. The remote control has just about every button you would possibly need for this device and a very limited set of controls for a TV.If you have a Samsung TV than you can take advantage of how Samsung devices link with each other via HDMI and you can control the Player and TV with the remote from either the TV or player, which is a nice feature to have.When playing BluRay or DVD discs this player is a bit slow. 
+27. I actually like the fact that I can put titles in the Instant Queue for my children to watch and they can't browse around Netflix on the player and find adult content accidentally in the process.Streaming music through Pandora has been great too. 
+28. This is the first Blu-ray player I have owned and might possibly be the last since it's so feature-rich and works so well.Update 4/14/2010:I have had this player for over a month now and I have received 4 firmware updates I think. 
+29. The updates didn't appear to add any new features but they have made the player more stable so it is less likely to freeze-up or stop working in other ways. 
+30. I have had problems from time to time with the player being able to play certain discs. 
+31. I bought this player a little over a week and a half ago and have used it fairly extensively in that time.  
+32. If you buy this player to stream movies and music off Wifi, you will be forced to buy a Samsung wireless LAN adapter, which will cost you an additional $70-80, bringing the real price of this player (Wifi ready) around $220-230.  
+33. If you have a smart phone with internet, it will only take you 2 minutes to open Netflix and input the code, but for those of you who don't have internet on their phones, you will have to turn on your computer and input the registration code before being able to stream on the player.  
+34. The 1080p Blu-ray quality on this player is pretty much identical to those I just listed.As a basic Blu-ray player and streaming device, it is well worth every penny.  
+35. The 1080p Blu-ray quality on this player is pretty much identical to those I just listed.As a basic Blu-ray player and streaming device, it is well worth every penny.  
+36. All and All -- If you are looking for a Blue Ray Player that also will play digital files - - you won't be disappointed.. especially at the price point.
+37. It is an excellent disc player. 
+38. (on a 16 mbps down load) If you want good video quality and don't mind a little extra work to watch NetFlix on your TV this is a great player.
+39. I've had this player for a few weeks now and I have to say I really like it. 
+40. Great player at a great price.
+41. I bought this Blu Ray player last November.  
+42. The intermittent flashes continued during DVD playback.I reconnected my old DVD HDTV 1080i player and tested with the same DVD and everything was fine.  
+43. I've had mine for two weeks now, and it's fine as a Blu-Ray player, fine for NetFlix/Vudu/Blockbuster, but for playing videos on the network it's horrible. 
+44. This is an excellent Blu-Ray player for the money.  
+45. There are a few apps that I tend to watch a lot that are on the Roku that aren't on the Samsung app page, so that's the the main reason I didn't give this player a full 5 star review. 
+46. It does have a Youtube app which the Roku lacks, so I suppose that's definitely a major plus for me.Overall I think this is a decent Blu-ray player (so far) and decent for streaming Netflix and Pandora. 
+47. If you already have a gaming system or something that has similar capabilities you probably don't need this, but if you're looking for a decent, simple to use Blu-ray player that does what it's supposed, this isn't a terrible choice. 
+48. For the dvds, they nearly always work fine in our panasonic dvd player.  
+49. Likewise with the rest of the setup.This player is very light and perhaps delicate in build, but then I'm not sitting anything on top of it and we don't have kids so I'm not worried about it getting bashed about. 
+50. I am totally satisfied with the quality of the picture and now I am using one remote control for the TV and the blu ray player which I really like about.If you are looking for an entry level blu ray player with the basic function for blu ray and upscale DVD, this is definitely the one you should go for.
+51. This is my first Blu-Ray player and I am very happy with it. 
+52. The Blu-Ray picture quality is great, and it even seems to improve quality on normal DVDs compared to my old DVD player. 
+53. Playing audio and video files from USB or network isn't bad, but some video types were unsupported, and creating a playlist or doing a search doesn't seem to be possible.Overall this is a solid player with great picture quality, fast load times, and a generally intuitive interface/remote. 
+54. Overall, this is a very solid player and I've been very happy with it during its first month of use.
+55. It seems like a great blu-ray player for starting out, but if I were more serious and wanted more consistency, I would probably look to find a better product. 
+56. The player seems fragile and starts to slow down as time passes (it definitely wasn't this slow initially and I have been taking good care of it).
+57. It's my first BR player and will be for the foreseeable future until it no longer works.The good: plays blu-ray discs in beautiful high definition and doesn't take forever to load them. 
+58. I've also found the wireless connectivity via the wireless adapter, which is sold separately, will freeze the player on first try. 
+59. My laptop and tablet, on the other hand, could connect wirelessly anywhere in my small apartment unlike this crummy adapter.In conclusion: if you're looking for a basic player that plays blu-ray discs well, this is a great option. 
+60. I just plugged in the network cable, powered on the player and after a few guided steps I was able to enjoy the movies in my instant queue and Pandora web radio.Upscaling quality is really good, the only thing I don't like when playing DVDs is that the player doesn't restart from where you left but every time it starts playing the movie from the beginning.I still have to try Blue Ray, YouTube and the USB connection... too many features and too little time!
+61. It's an excellent BluRay player, just don't try to use it for anything more than that.I have replaced my Samsung with aLG BD670 3D Wireless Network Blu-ray Disc Player with Smart TVThe LG works exactly as it should with my DLNA/UPNP equipment.
+62. This is my first stand alone Blu-Ray player purchase. 
+63. I used this Samsung 5500 Blu-Ray player to access Netflix last Friday afternoon.  
+64. And that said, if Panasonic comes out with DLNA in their next gen Blurays, they will have the best all around Bluray player, hands down. 
+65. Purchased the Blu-Ray player from Costco last weekend and will be returning it tomorrow.  
+66. And I'm using the same HDMI cable that I've had been using for my regular DVD player, the Sony Blu-Ray Palyer and even the samsung.  
+67. As soon as I disconnected the Samsung player and connected by old sony dvd player, it worked fine.  
+68. As soon as I disconnected the Samsung player and connected by old sony dvd player, it worked fine.  
+69. Great Blu-ray player for the price. 
+70. It is good as a BLU RAY/DVD player, the only bad thing about it is that when you connect external HD to play files it can't read such files like m2ts( very comom on internet). there could also be a time bar skip or a fast forward going "faster" so that if we wanted to start seeing a movie in the middle of it it woudnt take so long. 
+71. This player arrived in a timely fashion. 
+72. I'm really happy with this player. 
+73. This Bluray player is really good. 
+74. Also the HDMI cable tiles my television when the player is on for a few hours and needs to be unplugged and re-plugged to fix the problem - all-in-all a waste of money.  
+75. So to round up - this player might be good if you have an extra $300 to spend on a new wireless router, an LAN adapter, an HDMI cable and you never need any technical supportUpdate: After using this for two years, I can say well, two years later it still works.  
+76. Had this player - overall it was OK, not great, but not bad for the price. 
+77. I'm usually a Sony kind of guy, but it is an excellent bd player, does what is should, plays discs! 
+78. It was a good Blu-Ray player, kinda miss it (The Blu-Ray) but have since bought a different  BR model.
+79. I'm not a network professional, but I have a decent idea of what I'm doing.)I bought this player based on my good experiences with Samsung monitors.  
+80. I tried almost a half a day trying to key it into the player with the remote (which is a MAJOR pita) and it just wouldn't take it. 
+81. I finally found and bought a new BD-P3600 for about the same price as the BD-C5500.I did like how fast the BD-C5500 loaded up a Blu-ray disk; about the same as a DVD player. 
+82. But what caughs out of this adequate player. is mediocre. 
+83. Kudos for styling,THE REMOTE SUX" Dont Let the engineers do the design Samsung, It"s as good a player as you can get. more or less. but I knew something was wrong when I couldnt see a picture of the remote on the box and I had to ask the unhelpfull guy at Fry"s if it had a remote in it.AS he knew. 
+84. This is a great Blue Ray player. 
+85. My TV is barely 2 years old, and while I understand technology changes quickly, there is no reason whatsoever that I can buy a brand new LG Blu-Ray player and have no computability issues, but cant buy a new Samsung player and have it "just work" with my (still cutting edge) Samsung television.My conclusion is that the problem has nothing to do with my TV, and EVERYTHING to do with the BDC5500 Blu-Ray player. 
+86. My TV is barely 2 years old, and while I understand technology changes quickly, there is no reason whatsoever that I can buy a brand new LG Blu-Ray player and have no computability issues, but cant buy a new Samsung player and have it "just work" with my (still cutting edge) Samsung television.My conclusion is that the problem has nothing to do with my TV, and EVERYTHING to do with the BDC5500 Blu-Ray player. 
+87. As many people mentioned before, this blu ray player is a fantastic entry to mid level player. 
+88. As many people mentioned before, this blu ray player is a fantastic entry to mid level player. 
+89. The only free and successful program I was able to use was Serviio.Other than that, this player is fantastic. 
+90. This was my first Blu-ray player for my first HDTV, which is a Samsung 46C630 (also purchased from Amazon).  
+91. I wanted an internet-ready BD player that would do Netflix and Pandora streaming - and I got exactly what I wanted.  
+92. Amazon took care of the problem without question and sent a new player along with a return shipping label.
+93. And at a price of $75 for this adapter that can only be used for this one purpose, it seems that perhaps for good reason, this nugget of info was "accidentally" omitted.The first BluRay player I've ever bought, is now the first BluRay player I've returned to the store.I'm in no hurry, I can wait until someone gets it right, for under $200. 
+94. And at a price of $75 for this adapter that can only be used for this one purpose, it seems that perhaps for good reason, this nugget of info was "accidentally" omitted.The first BluRay player I've ever bought, is now the first BluRay player I've returned to the store.I'm in no hurry, I can wait until someone gets it right, for under $200. 
+95. I wanted a good BD/DVD player of course, but I also wanted to get off my Home Theater PC which I used for netflix and watching pics and downloaded video content.  
+96. This is  a great little player for $100.Oh yes, This may be wireless capable, but it is not wireless ready.........  
+97. Recently, I purchased a new Toshiba 46 Inch TV and decided to also pick up a Blu-Ray player from Sams Club. 
+98. Simple, stylish and no major issues with both the remote and the player itself.
+99. I searched for a long time for a blu-ray player that would stream video and play a variety of video types, including Divx movies. 
+100. This player has been exceptional.  
+101. I think this is a great player for the money.
+102. Pros: Plays quite a few different video file formats from a USB flash drive, supports SRT and IDX subtitles, Region free DVD (I have issues every now and then from Asian and European discs), Internet capability, remote controls basic basic TV functions.Cons: slow remote response and startup, random aspect ratio issues, lower resolution videos seem jittery (but extremely clear) due to video upscaling, USB playback requires several steps, number pad on remote does not work for TV (only channel +/-, volume +/-, mute, and power)This is a pretty good player overall. 
+103. I had an older Samsung DVD player that finally gave out after thousands of hours of use. 
+104. I don't like the fact that it makes me go through a bunch of steps to play from USB even if there isn't a disc in it (My old player would automatically go to USB if there wasn't a disc in it). 
+105. Internet is fine, DVD player is the problem. 
+106. The player is fantastic I like just about everything about it...........however everyplace I looked it was "wireless Internet Ready (Wireless LAN Adapter Not Included" so I purchased a NETGEAR WPN111 here on amazon and wasted [...]. 
+107. downstream reported by player at 15+MBS consistent with ISP and other device claims;4.  
+108. Have not tried upscaling of old DVDs yet will update negative if reason to do so.Player looks good and runs quiet.  
+109. If the last update does not cure the problem, I am going to purchase a new player.  
+110. The very first DVD player I have ever had any problems with, and I also have a Samsung BD C5900 that seems to work well.EDIT:  Updated firmware but still stutters, skips, etc.  
+111. Replaced with a new Blu-ray player.  
+112. This is a wonderful player, does everything i expected and more. 
+113. This is my first blue ray player.  
+114. I purchased my refurbished Samsung BD-C5500 1080p Blu-ray Disc Player last month. 
+115. It's a decent BluRay player so I gave it two stars, but the reason I bought this unit was for the Internet apps, which are a real disappointment. 
+116. I bought this DVD player because of the great price & the reviews given. 
+117. I was thinking I could get content from Hulu, which is free, but the player will only access the content as set by Samsung, which does not include Hulu. 
+118. As a DVD player, it works great.
+119. great blue ray dvd player at a great price.  
+120. Let me preface this by adding that we own a Samsung washer & drier, a Samsung refrigerator, a 52 inch Samsung Series 7 LCD tv an older Samsung Blu-Ray player and I have a Samsung microwave on the way. 
+121. Decent player, but a major flaw in what should be it's nicest feature: Netflix streaming.  
+122. Then you have to turn off the blu-ray player completely, re-power it up, and keep hitting the "Stop" button before it tries/failsto load the DVD then hit the blue "D" button and it will usually work............Really it's annoying.
+123. So if you like my helpful hints, go ahead and get it and know you might have small issues from time to time, otherwise check out a slightly nicer player.
+124. This Blu-ray disc player looks neat and works great! 
+125. Well my updates are current so there is nothing to download.This player is only 3 weeks old. 
+126. Amazing DVD player
+127. The bd-c5500 is a good blu-ray disc player.  
+128. However, I bought this particular player for streaming netflix in my bedroom.  
+129. This Samsung model has been my first Blu ray player. 
+130. I mostly use my xbox 360 or cable box for things such as netflix and video rentals, so having wifi on my bluray player also, wasn't really necessary. 
+131. I got a BD-C5550 for Christmas and it was a fine little player...for less than 4 months! 
+132. This is a good player for home use, I would also recommend it for not-tech-savy parents, the controls are fairly easy to use.
+133. My wife and I were in the market for a non-expensive BluRay player last year, and our eye fell on this model.It's a decent enough player, allowing for DLNA connections (allowing us to stream movies and music off my PC), which also has a fairly limited amount of internet apps.The device plays DVDs OK (gotta be honest, I *LOVE* the option to skip the incessant and normally unskippable previews by pressing either one of the disk menu buttons), we've had no problems playing any BluRay disks...But we use it mostly to connect to NetFlix, VuduPlus and YouTube, and *that* is where this device fails, big time. 
+134. My wife and I were in the market for a non-expensive BluRay player last year, and our eye fell on this model.It's a decent enough player, allowing for DLNA connections (allowing us to stream movies and music off my PC), which also has a fairly limited amount of internet apps.The device plays DVDs OK (gotta be honest, I *LOVE* the option to skip the incessant and normally unskippable previews by pressing either one of the disk menu buttons), we've had no problems playing any BluRay disks...But we use it mostly to connect to NetFlix, VuduPlus and YouTube, and *that* is where this device fails, big time. 
+135. End result, I had to buy a new player. 
+136. As for the old, it's an expensive dvd player.I would have thought this player was an exception to Samsungs quality, except many of my Samsung products that I have purchased after 2009 are failing, and more importantly, when you call Samsung you get the run around. 
+137. I would suppose that on a perfect day when the stars and Internet are in perfect alignment, this player will show a streamed Netflix video.  
+138. All together the whole family loves the new player and it is in perfect condition!
+139. This player literary mated with my Samsung Plasma TV.  
+140. That means a lot less cord clutter, fewer remotes and a one sleek little player on my shelf.  
+141. This is my first Blu ray player, so I don't have anything to compare it to, but it seems like a fantastic picture to me.The Netflix, Pandora, and other network services are all working flawlessly.The Samsung player is connected to my home network by ethernet.  
+142. I have been able to use the Tool/playing time to move around within all the files except for one movie file.I recommend this player to any one ready to upgrade their equipment.  
+143. This is our first Blue Ray player and so far we love it! 
+144. I use Windows Media Player (had even downloaded Servioo because of posts I read) but turned out it worked fantastic straight from the standard Windows Media Player interface. 
+145. I think that makes it about the same as getting a new player, which I plan to do. 
+146. This is a solid blue ray player. 
+147. Internet connected in seconds.Wide variety of streaming apps (Pandora, Youtube, Cinema Now, Bluckbuster, Vudu etc.).Samsung has excellent 24 hour customer support.Player supports DLNA.Intuitive remote. 
+148. This is definately a good value BD player. 
+149. As a previous owner of a BD-1500 I was a bit scepticle of getting another Samsung Blu-ray player but at time was the only Blu-ray player sub-$200 that had both Netflix & PC Streaming capabilities. 
+150. Boy am I glad I did my original BD-C5500 player that I use in my Theatre room has worked flawless since I got it back in March 2010, I then purchased a HT-C5500 in July 2010 for Family Room, followed by another 3 x BD-C5500 in December for Bedrooms. 
+151. I cant rate its features, just know that all you get in the box is the player and remote. 
+152. The Samsung BD-C550 Blu-Ray Disc Player is a fantastic device. 
+153. While Samsung touts the player is DLNA compliant with it's AllShare capabilities, it will only play media from a PC sharing media through software like Windows Media Player or Samsung's Media Manager Software. 
+154. Further, it is a very capable NetFlix player and having Pandora is just icing on the cake.One thing I found slightly annoying is the fact that the main screen always has Rovi TV Listing and Blockbuster app icons. 
+155. Makes things look just as good as any other Blu-Ray player, but it is on the slow side. 
+156. I have owned this device for about 1 month now.The 3 reasons why I bought this was to take advantage of:1 Blu-Ray player at a reasonable price2 Online content (eg. 
+157. there are caveats, and failures along this path...#1 yes it is a reasonable price for a BluRay player. 
+158. On the outside of the box, the sales hype would lead you to believe (as I did) that this player was further enough along the line of the development path to support streaming content from your own in-house network, whatever it may be, including basic network shares, or more sophisticated media servers such as WHS, MMS, Niveus, etc. 
+159. Pros:  Easy setup and installation; great pictures on HD LED TV; great remove (can also control HDTV); One quirky issues (please read Cons section); Takes very little space.Cons: Movie lags at times during playtime; No WiFi to connect network.Comments: Overall, it's a great little BD player.  
+160. It was not able to play some DVDs I bought in India (I guess some region settings), the same DVDs play fine on my regular DVD player. 
+161. As a product offering from a company who's current ad campaign claims to feature "smart devices", this blu-ray player has a few incredibly boneheaded features. 
+162. To compound this gross oversight, the player is incredibly slow to load discs and quite often the disc menu button will not work or hangs up the machine if you press it during load. 
+163. This Blu Ray player is a great product for the money.  
+164. I have owned it for more than a week so far, first BR player, the picture quality on my 720p samsung is amazing. the details the quality is fab.I love the weather widget that comes with it. 
+165. I have not used all the applications yet, but looking forward for video streaming though my server.Edit.I had it now for a while, and the quality of the picture is stunning. up scaling is excellent, I been watching HD movies through VUDU streaming, WOW, fast streaming, excellent quality picture, great sound, no lagging or slowness,by the way firmware update took few minutes and it was very easy to be done, plug the Ethernet and go to setting and choose update firmware or when you try to play a movie it will do that for you if you had Ethernet pluged in.youtube is great, streaming music and video through you tube was easy and fast with good quality.I'm not sure why people complaining above, if you bought the device in America and you are trying to upgrade firmware in different country of course you are going to have problems.I purchased mine at Costco for $145 with 3 years warranty.some people says it is slow, well, it is a small player not a media center, if you are looking for something fast get an xbox360 or ps3, I mainly bought this for HD quality not for streaming and using all these apps or playing games.
+166. See, we'd been debating on whether a Blu Ray player was really that much better than a DVD player. 
+167. See, we'd been debating on whether a Blu Ray player was really that much better than a DVD player. 
+168. This player comes with a good HDMI cable, making it easy to set everything up the minute you get it home.- Easy set up - Aside from the HDMI cable, the set up is very easy. 
+169. Imagine our shock when the tv immediately switches to the new Blu Ray player the minute you turn it on! 
+170. My friend has a older Samsung Blu-Ray player that is excruciatingly slow to load. 
+171. And this new TV and Blu-Ray player were also no exception.)But my biggest complaint about Samsung players is that Samsung for some unknown reason has decided not to include a disc memory feature, at least not on the less-expensive models like this one. 
+172. Other than that this is a very good bluray player worth the money for sure.
+173. I bought this mainly to receive Netflix movies, but it is a great player for Blu Ray as well as standard definbition DVDs. 
+174. They will also not let you download and install an old version of the firmware.That said, the rest of the player is wonderful.  
+175. This is a good BD player in general, but one of the main reasons for the purchase was for playback of shared video files on my network. 
+176. cool blueray player gots lots o stuff i prob wont use but it works nice as a blueray player woooo....
+177. cool blueray player gots lots o stuff i prob wont use but it works nice as a blueray player woooo....
+178. Our new blue-ray disc player is superior in quality and sound.  
+179. As a cheap blu-ray player I was not hoping for much.  
+180. This entry level Blu ray player from Samsung is terrific,boots fast,usb port on the front makes my external Hard Drive fits nice and plays my favourite files be it mp3', video files,especially Matroska(MKV)gitter free, smooth. 
+181. (i didn't buy from amazon).This is unacceptable and I will avoid samsung from here on out.So here I sit with my new shiny copy of Expenables 2 and I can't watch it until I go out and spend more money on a new blu-ray player worth a damn.
+182. I am a little torn with how to rate this player because I bought it for a very specific purpose, the ability to stream Netflix movies on my bedroom TV with the bonus of having a blu-ray player.  
+183. This player is good depending on what you need from it.Pros:1. 
+184. Hooked it up to the interwebs to check if a firmware update would solve anything, but the player insisted it was up-to-date.  
+185. I've had good experiences with some Samsung monitors and televisions, so I'm pretty disappointed that the player is just flat out dead.  
+186. Very nice, reasonably priced player.It has a nice slim profile and has worked flawlessly.A complement to any home theater system.
+187. The player itself works great and the customer service experience I had through Samsung caused me to stick with Samsung products.
+188. It's a major issue if you are watching a series with 100+ episodes and then you have to scroll through the entire list each time.For the price, it's a decent player. 
+189. Player was fine for first 6 months, then we started having problems getting a disc to load.  
+190. i haven't had issues playing my blu rays and the load times are good (better than my ps3) if you want extras, a big plus about this player is that it has all the extras that a high end player can do such as stream video from netflix or blockbuster, it has pandora and i love how i can watch my baby's videos on youtube.  
+191. i haven't had issues playing my blu rays and the load times are good (better than my ps3) if you want extras, a big plus about this player is that it has all the extras that a high end player can do such as stream video from netflix or blockbuster, it has pandora and i love how i can watch my baby's videos on youtube.  
+192. I am very satisfied with my Blur-ray player.  
+193. The main reason I bought this player was to stream Netflix. 
+194. After 2 weeks of troubleshooting, I finally was able to get the player to connect to internet on my own (had to unplug the adapter, reset my router/modem and reset the player.) 
+195. If you are OK with Ethernet (wired) network setup, like for me with the router being very next to the TV, this is the best comprehensive player out there is, for the money.BLU RAY: I played Twilight (2007-somewhat older) and Alice in Wonderland (Rather recent) and I had no issues. 
+196. Response is reasonably fast, and this being my first blu ray player, I am satisfied and would rather not complain.DVD: I played a few DVDs and it surely plays DVDS quite well, unconverts for HDTVs, loads and functions pretty fast.INTERNET @ TV: Pandora over TV is a beauty without ads. 
+197. Had this blu ray player for a little over a year.  
+198. I've never had any other dvd player with this problem.
+199. I have two Samsung LED televisions and another model Samsung BD player that work great.
+200. Low price for player and integration with Samsung TV best part of player. 
+201. I would have just shelled out the extra 200 bucks to go with a region free player.  
+202. I have had this BD player for a few months now and am quite satisfied with my purchase. 
+203. Also switching from the blu-ray menu to the player menu where the apps are available tends to take a really long time. 
+204. There is very little internal memory for buffering though, so there is no forgiveness if your connection isn't fast enough.The bluray disc player also worked very well, the bluray disc loaded quickly and I am very happy with picture and sound quality. 
+205. Absolutely no complaints here, since this is the most important function of a Blu-Ray player and other brands have been given bad reviews because of poor video quality.As is sound - ***** , especially as the BD-C5500 has a fiber optic output. 
+206. No other player I saw, for this price range, had one.Functionality - *** 1/2  With higher-end players, one will get more internal memory and a faster processor so most quibbles I'm about to mention won't be noticed by others with higher-end players. 
+207. This player was my welcome to the wonderful world of blu-ray.  
+208. It is well worth it.As for the player itself ...No problems.  
+209. Very easy.Amazon wants to stream me something to (I think), but I haven't taken them up on it yet.Even without all that other stuff, I'm very happy with this player.  
+210. That's after taking the first player back to the store where purchased when I found out it wouldn't play a blu-ray disk.This player is slow, slow to load and read a disk and it won't even read some of my DVDs (there is absolutely nothing wrong with them). 
+211. That's after taking the first player back to the store where purchased when I found out it wouldn't play a blu-ray disk.This player is slow, slow to load and read a disk and it won't even read some of my DVDs (there is absolutely nothing wrong with them). 
+212. I see how some reviewers say how much better the player performs with firmware updates, well that makes me ask the question "better than what?" 
+213. This player is exceptional.  
+214. I have tried to find a weakness in the system for two straight weeks, and the player just laughs at me about it, so Kudos to Samsung for getting this model Right As RAIN! 
+215. It really works fantastic with the player's streaming features, as I can attest to having ZERO problems with content of any type with the Rosewill in the house! 
+216. I mean the sound is realistic with BluRay movies to the point you think that the action is going on right there in the room with you, so it's reallllly nice to use the Toslink feature with the BluRay player.That comes in especially handy for streaming Pandora Radio commercial free content, to boot, and I love my Pandora so it gets used a LOT for that feature alone here in my studio. 
+217. I could not tell streaming video from an actual disc in the player, you dig? 
+218. If there was going to be a "test" of the Rosewill adapter it was with THAT movie, and suffice to say the Rosewill WiFi streamed everything perfect, no question about it, that set the tone for the coming sessions through the 1st two weeks I've had this BluRay player, and it just performed fantastic! 
+219. You know I like the style of the player too, it's simple, nice, and clean looking without a lot of buttons and controls on the front, so it fits in well with my other electronics in my credenza here in the studio, and I DO LIKE the touch-sensitive controls! 
+220. Works a treat, and there's no doubt what you are doing because it confirms the dialog on-screen too.The player turns my Samsung HDTV "On" every time I turn the BluRay player "On" also, another nice feature of the system from Samsung between HDTV and BluRay player, so there's integration there that makes it nice to have the same brand, it seems, which is another good thing. 
+221. Works a treat, and there's no doubt what you are doing because it confirms the dialog on-screen too.The player turns my Samsung HDTV "On" every time I turn the BluRay player "On" also, another nice feature of the system from Samsung between HDTV and BluRay player, so there's integration there that makes it nice to have the same brand, it seems, which is another good thing. 
+222. And back to that remote for the BluRay player...since I've had the player installed I have not used my TV remote once, how about that for statistics! 
+223. So one time I had to use the HDTV remote, the rest of the time I used the Samsung BluRay player remote, and it suffices for all functions for the HDTV until you get into sub menus and special features, of course, but the remote is adequate for both BluRay player and HDTV use, both.One thing does puzzle me about the player, and that is the WiFi adapter from Rosewill doesn't function on the front USB port, and I was curious about that, so I called Samsung about it and they told me the rear port is connected directly via some switch on the player's motherboard to the WiFi system while the front USB port is not! 
+224. So one time I had to use the HDTV remote, the rest of the time I used the Samsung BluRay player remote, and it suffices for all functions for the HDTV until you get into sub menus and special features, of course, but the remote is adequate for both BluRay player and HDTV use, both.One thing does puzzle me about the player, and that is the WiFi adapter from Rosewill doesn't function on the front USB port, and I was curious about that, so I called Samsung about it and they told me the rear port is connected directly via some switch on the player's motherboard to the WiFi system while the front USB port is not! 
+225. What else...Overall I have to give this little BluRay player, which cost all of $100 or so after Amazon.com's discounts are applied, a solid Wavey Davey 5-Star Award, I mean there's nothing that is perfect in this world with electronics, but the player comes awfully close to that sanction! 
+226. What else...Overall I have to give this little BluRay player, which cost all of $100 or so after Amazon.com's discounts are applied, a solid Wavey Davey 5-Star Award, I mean there's nothing that is perfect in this world with electronics, but the player comes awfully close to that sanction! 
+227. It's certainly worth the $100 price of admission, and even though it's last year's model to be honest about it, there is something about it that renders a complete BluRay player experience and then some, with all the possibilities with streaming video from the various sources, and DLNA if you get that figured out (I have not gotten into that yet), plus all those apps from Samsung for the games, the entertainment of all sorts from movies to audio from Pandora, it's all good! 
+228. You know I actually *did* play the requisite BluRay feature through the BluRay player once this past week, and of course it was Avatar, the ultimate test of any BluRay player, and it shone through that exam like a Straight "A" Student. 
+229. You know I actually *did* play the requisite BluRay feature through the BluRay player once this past week, and of course it was Avatar, the ultimate test of any BluRay player, and it shone through that exam like a Straight "A" Student. 
+230. So yes, even for the mundane assignment of playing a BluRay disc on the player it's letter perfect and sublime if you use the optical sound hook up and/or have a great surround system emanating from your HDTV...perhaps. 
+231. It's certainly worthy of its minor-league price, and it delivers nothing but Big League action all around, a win-win situation for the owners of these  BluRay multi-media systems...yes, that is it, it's not just a BluRay player at all, it's a complete multi-media system and it works 110% to earn your trust and loyalty so to speak, never really disappointing but in the one specific area of the lack of a keyboard.For the price and features you cannot beat this with two sticks and a hammer...it is DA BOMB, and with the one reservation above I recommend it 110% to the good. 
+232. I needed a new Blue Ray player because I already have one but it would play some of the newer blue-ray movies.  
+233. It sounded so simple until the player arrived and the Blue-ray player couldn't find my wireless signal .  
+234. It sounded so simple until the player arrived and the Blue-ray player couldn't find my wireless signal .  
+235. Plays DVD's better than my old player. 
+236. We currently have an older Samsung player, and needed this newer one that can play apps like Plex and netflix from my computer wirelessly to our NEC projector.  
+237. If I had to do my big screen & blu ray player buying decision all over again....I would have gone with Panasonic.
+238. Pros:The player works very well and streaming quality is just as good as our Roku player.VUDU quality and seamless speed leaves the other PPV movie services far behind.Netflix works just fine.Pre Christmas season price was reasonable by comparison (though x-mas season deals may trump this one)Cons:You must purchase the separately sold USB WIFI dongle in or to make the streaming work.The interface speed for this machine is comparatively slow.The You tube application is downright irritatingSamsung has far fewer apps in its app store than Roku right now (though this may change).No Hulu yet.Advice:Buy the player new on Amazon, then buy the WIFI dongle used on an online auction site (from a highly rated seller).  
+239. Pros:The player works very well and streaming quality is just as good as our Roku player.VUDU quality and seamless speed leaves the other PPV movie services far behind.Netflix works just fine.Pre Christmas season price was reasonable by comparison (though x-mas season deals may trump this one)Cons:You must purchase the separately sold USB WIFI dongle in or to make the streaming work.The interface speed for this machine is comparatively slow.The You tube application is downright irritatingSamsung has far fewer apps in its app store than Roku right now (though this may change).No Hulu yet.Advice:Buy the player new on Amazon, then buy the WIFI dongle used on an online auction site (from a highly rated seller).  
+
+negative sentences : 
+1. Then the player would not play certain DVDs. 
+2. Once the player was about one year old we could not access Youtube and Pandora anymore. 
+3. -This player doesn't come with built-in wifi and wireless LAN adapter.
+4. You cannot use the player to browse for different content and add it to your queue. 
+5. This is by far the most annoying thing this player does. 
+6. This Blu Ray player is pretty sweet. 
+7. I think it's a waste of money.I also bought a cheaper LG player for half the price and it plays great. 
+8. First off, I purchased for $129... to replace a defective DVD player. 
+9. The picture is not any better than my old DVD player. 
+10. The only negative is how loud the player gets when you initially insert a disc as it reads it.  
+11. This player is fairly inexpensive, but it shows.  
+12. This player makes multiple sources of media available to us both, conveniently. 
+13. Perhaps because this player does so much and because blu-ray formats are still changing and expanding, updates seem to be somewhat frequent, but they do seem to correct problems. 
+14. I have some issues with Netflix streaming, but I'm not sure if that's the player, my internet or Netflix themselves (maybe a nice combo of all 3). 
+15. I don't know why it does this, but it's pretty irritating.The ugly: the player requires a proprietary adapter in order to connect wirelessly. 
+16. Sometimes, the player gets stuck and must be restarted to play a disc.  
+17. Had I known this, I would not have bought this unit.I have not had good luck with Samsung electronics and appliances, in fact I had my fridge exchanged after one week and my 2 year old Samsumg DVD player no longer responds. 
+18. It's pretty hard to use the Blu-ray player without a remote. 
+19. They have my money and I'm left waiting with a useless player...thanks a lot Samsung! 
+20. I will say it has lasted 3 years but if I had to do it again I would take a different blu ray player with less of the headaches.
+21. It doesn't matter if I paid for it or not, it is an excellent Blu-Ray player that plays Blu-Rays excellent, upscales DVD's to 1080P excellent and gives you an alternative if your HDTV doesn't have Internet access.  
+22. Highly recommended and I haven't found anything wrong with this Blu-Ray player.  
+23. The firmware updates that Samsung provides turn this player from a crappy box to a 4 1/2 star product. 
+24. The player is fairly cheap and the video quality seems just fine.  
+25. Loud clunking noises from the disc player and terrible playback experience.  
+26. The DVD and Blu-ray functions are just like any other player, but it's the expanded content where this system shines.Without a hitch, I was able to stream Netflix, Pandora, and Vudu instantly. 
+27. Another couple hours trying to download that version and it worked.The worst part is that the player stops in the middle of a movie and will not move on unless I turn off the player, turn it back on, wait for the movie to load and move to the last scene it played.  
+28. We have a different DVD player in the playroom that's a few years older and it is still intact unlike this Samsung Blu-Ray. 
+29. This is not a problem with my old DVD player (not a BluRay player). 
+30. This is not a problem with my old DVD player (not a BluRay player). 
+31. I am beyond the return window so I think I'll just put it up on Craigslist and buy a different model or a different brand since this is the 2nd Samsung DVD player we have had problems with.  
+32. While looking over other reviews for this Blu-ray player, some said it loaded very slowly.  
+33. I have spent a lot of energy and time , working with samsung to resolve this and still this issue is not resolved .The first time I called  Samsung , they said that it was a problem with their server.I called after a week and they created a ticket and asked me ship the device to another repair center ( where they outsource their repairs) .The repair center calls me and tells me that they will not touch the device( as it is out of labor warranty ) , unless I paid $50 .I asked them to return the unit.Their service is pathetic and if you are buying this player , get some extra warranty or pray that this player never fails or NEVER ever update the firmware .I plan to sell this on ebay as is and get a generic player for much less . 
+34. I have spent a lot of energy and time , working with samsung to resolve this and still this issue is not resolved .The first time I called  Samsung , they said that it was a problem with their server.I called after a week and they created a ticket and asked me ship the device to another repair center ( where they outsource their repairs) .The repair center calls me and tells me that they will not touch the device( as it is out of labor warranty ) , unless I paid $50 .I asked them to return the unit.Their service is pathetic and if you are buying this player , get some extra warranty or pray that this player never fails or NEVER ever update the firmware .I plan to sell this on ebay as is and get a generic player for much less . 
+35. Noticable picture improvement over my last player.Not sure about other people issues. 
+36. Many of my electronics have been from them.So when I decided to purchase a blue ray player, I chose Samsung due to my previous experiences.I purchased the BD-C5500 in March of 2010 for a cost of $175; however at the time I didn't have a high def television so I never even opened the box. 
+37. The player easily switches between multiple sources such as netflix, attached hard drive, other computers on my network and even a NAS network dive I have set up.I would  buy this again.
+38. However, if I am correct, the reason is because the blue ray player is basically reformatting the DVD to be able to play in blue ray format. 
+39. FYI: My Blu-ray player is wired directly to my router and player has received the latest updates.I would not recommend this product.Update:  Decided to box it up and return it.  
+40. FYI: My Blu-ray player is wired directly to my router and player has received the latest updates.I would not recommend this product.Update:  Decided to box it up and return it.  
+41. The player often freezes completely, many times at the "FBI Warning", but when it is working it is so slow that you're never sure whether it will run or not. 
+42. Very unhappy.AND this player does play some digital content, like Netflix, very nicely. 
+43. If what you want is simply a BluRay player at a low cost, go elsewhere.#2 yes, it is easy to set up, and access the internet to stream from the Netflix, etc. 
+44. Any disc we put into the player (DVD, BluRay - working on our other player fine) came back with a can not read this disc error.  
+45. Reading around I've seen some complaints about the laser failing out and preventing discs from being read after a bit so I'll probably avoid a replacement and just look for a different player.
+46. Suffice it to say this player has a lot more functionality for almost half the price of what I paid for the other one 18 months ago. 
+47. I will provide some details which are not covered in the Product Description.If you are looking for a wireless network enabled DVD player, stop blaming this product/description and shell out more money and look else where. 
+48. My in-laws gave this Blu-ray player to me for Christmas in 2011. 
+49. Now, watching HBO's "Band of Brothers" again, the Samsung player tells me, "I'm sorry, I feel the need to skip around these scenes."
+50. Sound comes in two channels, this is probably the main difference to c6500 which has more.So in general, I am very happy with the player, but not five stars because the software seems a bit of a "rush job"; the firmware wasn't right and there are other subtle signs that don't matter much per se but undermine overall impression of the product. 
+51. Entering any search phrase or idea or topic is just incredibly difficult with the keystrokes required and Catch-22 "tricks" to using the remote for the keyboard, its replacement so be it, so I am NOT thrilled about that aspect of the player.Other than the lack of a keyboard, virtual or otherwise, feature this BluRay player just ROCKS! 
+52. Entering any search phrase or idea or topic is just incredibly difficult with the keystrokes required and Catch-22 "tricks" to using the remote for the keyboard, its replacement so be it, so I am NOT thrilled about that aspect of the player.Other than the lack of a keyboard, virtual or otherwise, feature this BluRay player just ROCKS! 
+53. If it only had a semblance of a keyboard somehow, someway, some method either on-screen and virtual or 'live' and tactile on the remote itself, the player would not get any flack from anybody. 
+54. The Samsung required that i buy a wireless stick that i attached to the back of the player and the other half to my computer.  
+55. Samsung makes products with a good feature list, but obviously lacks expertise in  user experience design.There are too many small issues with this device to list them all -- such as the HDMI protocol crashing because it is not being quite compatible with my LG LCD television, the shape of the CD tray making it tricky to pick up disks, and the obnoxious jingle that plays every time the player is turned on.As for the internet services, other than the Netflix player, the rest seems to mostly be junk -- such as clunky games.Overall this device is as slick as a PC running Windows 2.0I eventually returned it and got theSony BDP-S370 Blu-ray Disc Player-- which is simply a pleasure to use.
+56. This Samsung BD-C5500 Bluray player and internet device is pathetic. 
+57. the player started making a very loud noise and failing only a few months after I bought the drive, unfortunately it was already after the extremely short return window had expired, this was a bad purchase decision
+58. I did love my samsung DVD blue ray player till the other day I went to show my son in law the benefits. 
+59. if you are looking for a entry level product and just a little more, this player is for you for less than $100.
+60. I haven't officially upgraded to blue-ray dvds and thought that might be a problem but I know the dvds work because I can play them in my van and in my other (significantly) cheaper dvd player. 
+61. This is a nice player that unfortunately does not show much care for the customers.I bought it because it has a usb plug for wifi connection to my router. 
+62. I didn't wanna pay a ton for a player that'd be good, but not much better than one for a lot less. 
+63. I realize this is a pretty budget Blu-ray player and we're reasonably satisfied.  
+64. I read some other players will just let you access your Netflix instant queue and you end up running back and forth to your PC and the other player.All in all, I thinnk I should have coughed up the cash and purchased another PS3 since the PS3 has been rock solid and is very flexible as far as apps, games, DLNA, etc.
+65. 1) Making the Avatar Blu-Ray disk play: As received this Blu-Ray player would not play the Avatar Blu-Ray disk. 
+66. Only after I had unplugged the player, waited 30 seconds, and replugged the play into the power did the Avatar Blu-Ray disk play properly.2) This is my first Blu-Ray player so no comparison is possible. 
+67. My other Samsung player does this without an issue. 
+68. All in all IF your family is like ours & like to watch all the new releases then I would NOT purchase this specific Blu-ray player because many movieswill not play. 
+69. The player looks good, but I have not used it yet.  

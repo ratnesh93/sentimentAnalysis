@@ -1,0 +1,689 @@
+
+------------------------------------------------------------------
+feature : monitor, positive Score : 21 and negative Score :-3
+------------------------------------------------------------------
+positive sentences : 
+1. I bought the 1ft cable to attach to the back of an old Dell LCD monitor for a school project. 
+2. Needed an extra cable for my monitor and this was cheap enough and it works just fine with my monitor
+3. Needed an extra cable for my monitor and this was cheap enough and it works just fine with my monitor
+4. This is a standard universal power cord, that I purchased for my additional LCD monitor. 
+5. It brought my old LCD monitor back from a 3-year hiatus, ready to plug into my computer again.The product is also ROHS-compliant (it doesn't mention it on the description on Amazon) so you can rest assured that some of the most harmful substances such as lead, mercury, cadmium, etc. will be found in trace quantities, if at all. 
+6. Someone in the office needed their monitor to sit on the far end of their desk from the only wall outlet. 
+7. C2G's 18 AWG.This cable might be good for a monitor or other low power device, but it would have been nice to know that before I bought it.
+8. I needed a longer than usual power cable for a third monitor in the corner.  
+9. Having the extra cable length made it much easier to put my monitor on a wall.
+10. This cable is quite apt at providing alternating current power to my LCD monitor.  
+11. Fit my old Dell monitor just fine.  
+12. not overly heavy duty and nice and and light and plenty ample for a monitor, mine don't get warm or anything.
+13. I tried this cord on several different devices. works great with everything i have.Had to buy it after moving my stuff around and i lost the cord to a monitor.I was skeptical at first but it truly is universal. love it and does the job i need.
+14. I am using four of these power cords in a quad monitor setup (2x 1ft. cables and 2x 3ft cables). 
+
+negative sentences : 
+1. It's thin enough that it can curl up some and be tucked behind my monitor, but doesn't feel cheap.
+2. I needed a longer power cord for my monitor. 
+3. My monitor cable was too short to reach my back-up battery supply after I relocated my PC.  
+
+------------------------------------------------------------------
+feature : projector, positive Score : 14 and negative Score :-4
+------------------------------------------------------------------
+positive sentences : 
+1. I used this power cord with an HD projector for several hours before discovering it got HOT (not warm - HOT) during use - VERY dangerous! 
+2. Needed a longer power cord for my projector for the 7.1 home Theater. works great. exactly what I needed to reach the outlet strip.
+3. I wanted a 25' power cord and this worked out to be excellent for my overhead projector !
+4. we used this for a new ceiling installation of an old projector and it got us from the projector to the outlet.  
+5. I needed some extra distance to put the projector at the back of the room on the cieling. 
+6. I needed a long cable for my Epson HD projector during outdoor video nights and this one worked out great.
+7. Very happy with this cable, which I needed to get power from a power strip to my ceiling-mounted video projector.
+8. If used for a projector be sure to check that the part that goes into the projector is compatible, as some projectors have proprietary connections.
+9. If used for a projector be sure to check that the part that goes into the projector is compatible, as some projectors have proprietary connections.
+10. I used this so I could run it and a long HDMI cable through the same conduit to my video projector.  
+
+negative sentences : 
+1. I'm a teacher and use it for my mobile projector cart because some classrooms have available outlets further away than others.
+2. I used this to replace a too short power cord for a projector.  
+3. I had to send the cord back because I inadvertently ordered the wrong type for my projector.  
+4. The cord itself would have been fine if I had a different projector.
+
+------------------------------------------------------------------
+feature : tv, positive Score : 9 and negative Score :-6
+------------------------------------------------------------------
+positive sentences : 
+1. It didnt get hot and it made my tv turn on. 
+2. Bought it thinking it would work with my new TV. 
+3. Works perfect for running a tv and a pc with this type of connection. 
+4. bought a TV on amazon and i mounted it on the wall. the cord that came with the TV was your standard 6foot cable i think it is. and it was stretched out to the max. affraid of it coming out of the power surge i bought this. it did the trick and i can rest assured knowing that when playing call of duty 2 my TV won't shut off unexpectedly resulting in a kill to death ratio worst then i already have.
+5. I was worried because this was for a small flat TV that I lost the power plug for. 
+6. This worked great for my TV above the fireplace.  
+7. couldnt find a longer replacement cord for 42" LCD TV in local stores. appears identical to the one i have, needed longer cord for wall mounting in new house. works perfect.
+8. I needed the chord once we mounted the TV on the wall, very happy with this one more than enough length with the new cord
+9. Will fit most computers and TV's.  
+
+negative sentences : 
+1. The cord was not compatible with my tv's plug. 
+2. Since I am using this for a $2000 TV I was a bit nervous something could go wrong and destroy the TV but I have had it for a couple of months without any issues thus far.  
+3. Since I am using this for a $2000 TV I was a bit nervous something could go wrong and destroy the TV but I have had it for a couple of months without any issues thus far.  
+4. Needed a longer cable for my LG TV which has a short cable and this has worked well, albeit short time.  
+
+------------------------------------------------------------------
+feature : product, positive Score : 30 and negative Score :-3
+------------------------------------------------------------------
+positive sentences : 
+1. Works great fast shipping would deff use again very happy wt this product cord works just as aspected nd it came wt in a week when really needed it
+2. A simple product that works great and just as described.
+3. Shipping was fast and the product worked great.
+4. Great value, same product as the stores.
+5. The product is sturdy and is well made, only problem is it does not fit some of of the adapters that have the "3 hole shape" design
+6. This cable is not a cheap product nor an overly expensive one.  
+7. Good product
+8. The reviews for this product are generally all favorable, and it's available for a good price with Amazon Prime. 
+9. It brought my old LCD monitor back from a 3-year hiatus, ready to plug into my computer again.The product is also ROHS-compliant (it doesn't mention it on the description on Amazon) so you can rest assured that some of the most harmful substances such as lead, mercury, cadmium, etc. will be found in trace quantities, if at all. 
+10. I am happy with this product. 
+11. I got a new adapter for my laptop (Dell precision) but no power cable went with the package,so I ordered this cable.Received two days after placing the order.Good product, fast shipment, highly recommend
+12. Thee price was right and this product exactly fit my needs for a shorter cable.
+13. I received my 25' power cords as quickly as I hoped (standard shipping), and the quality of the product seems very good.
+14. The turnaround time on this product was very quick and the product was exactly what I needed for a great price.
+15. Good product, it works just fine with my soy milk maker since I lost its power cord quite some times ago.
+16. Great product, good deal. 
+17. Great power cord, It work well I am recommending you to purchase this product it well last a long time
+18. The only thing I noticed in comparison to my power cord that came with the TV, the rubber shielding on this product seemed warm to to touch. 
+19. Otherwise a decent product!
+20. I didn't feel safe leaving this product plugged into my computer and I certainly didn't want to deal with the fire hazard it represents. 
+21. Perhaps I should say that this product is a DEFINITE fire hazard. 
+22. Very happy with this product
+23. So i guess you can say its a wonderful product. 
+24. The turnaround time on this product was very quick and the product was exactly what I needed for a great price.
+
+negative sentences : 
+1. This product is not highly technical in nature.  
+2. If you are looking for a replacement cord you wont go wrong with this product.Jeff BeeneChattanooga, Tn
+3. Terrible product. 
+
+------------------------------------------------------------------
+feature : length, positive Score : 27 and negative Score :-7
+------------------------------------------------------------------
+positive sentences : 
+1. Exactly what you need for some extra length for your computer tower or monitors.
+2. Works great, proper length.
+3. I purchased 2 of these to use on TVs I mounted at work as the outlets werent close enough for the standard length power cables and extension cords or power strips werent an option.  
+4. Nothing special to say about a computer power cord --- length is correct, and it arrived on the date promised.
+5. I needed a longer power cord and this one is just about the right length, just like this sentence is.
+6. Having the extra cable length made it much easier to put my monitor on a wall.
+7. I needed the chord once we mounted the TV on the wall, very happy with this one more than enough length with the new cord
+8. Gave the extra length I needed to move my monitors.  
+9. The length is very convenient for a practice amp. 
+10. Has great length.
+11. It was everything that the manufacture claimed and it is nice to have that extra length when you really need it.
+12. The only way they could improve is by having them in length increments of every half foot up to about four feet.These are quality cables and are great for reducing cable clutter.
+13. A perfect length for some of our stand-sit office configurations.  
+14. I use them for a couple of powered speakers and the 25' length is perfect.  
+15. Works perfect and is the exact length I need.
+16. Well made, great stress ends, correct length, fit tight plugged into the devices, and the quality seems great.  
+17. The extra length was exactly what we needed.
+18. They work as advertised, and the length is perfect for me.
+19. This cable comes at a good price for great length.  
+20. Word to the wise: Check it's the right length! 
+21. I inadvertently bought the 1ft length. 
+22. I needed extra length on the power cord and this gave it to me.  
+23. The extended length was a plus.
+24. I needed the extra length to manage my computer setup. 
+
+negative sentences : 
+1. The cord was the perfect length, and will no doubt serve me for many years to come.Pros: It works, is the perfect length, and is sturdy.Cons: none. 
+2. The cord was the perfect length, and will no doubt serve me for many years to come.Pros: It works, is the perfect length, and is sturdy.Cons: none. 
+3. The price and length are a good combination, not point in spending all that money on more expensive, shorter alternatives.
+4. It works...has met my needs, bought primarily due to length, color and need to meet certain connection end points, as equipment I had was missing a power cord.
+5. The short length was perfect for my situation and helps to keep cable clutter to a minimum.The build quality seems fine, shielding is adequate.I do not notice any heat issues with these cables as some other reviewers have described. 
+6. This cable weighs as much as a good cable half its length, and for a reason. 
+7. grab length and affordable price . highly recommended for your electronics.
+
+------------------------------------------------------------------
+feature : computer, positive Score : 28 and negative Score :-2
+------------------------------------------------------------------
+positive sentences : 
+1. Keeps cabling tidy when the computer is right by the power strip.I end up buying short versions of a lot of cables, for my desk and my living room game/theater setup.
+2. Nothing special to say about a computer power cord --- length is correct, and it arrived on the date promised.
+3. Needed a new power cord for my computer, this worked great and for a cheap price too. 
+4. I checked the local computer supplies store and cost twice as much. 
+5. what can i say a cord is a cord, the price was right, it plugged into the computer and the wall appropriately and conducted electricity to the unit without arcing or sparking
+6. And it stretches out to 2.5 times as long as the typical computer cord. 
+7. It brought my old LCD monitor back from a 3-year hiatus, ready to plug into my computer again.The product is also ROHS-compliant (it doesn't mention it on the description on Amazon) so you can rest assured that some of the most harmful substances such as lead, mercury, cadmium, etc. will be found in trace quantities, if at all. 
+8. I believe they used this product to conduct voltages well beyond what smaller computer peripherals use.  
+9. I appreciated the easy of connecting my grandson's new computer to an A/C source.  
+10. These are very good quality thick computer power cables. 
+11. The power cords works great with the desktop computer.
+12. I needed the extra length to manage my computer setup. 
+13. Not everyone wants their computer right next to them! 
+14. Exactly what you need for some extra length for your computer tower or monitors.
+15. There is not a lot to say about these, they are just standard computer power cables that are longer. 
+16. ordered 2, no issues but i have yet to use the second one yet. price was good seeing i just needed basic power cables to set up an old computer for my children's use.
+17. I needed this for an additional computer i had lost the cord to.
+18. This is a good power cord that is useful for hooking up a computer to a power outlet that is 12 feet away.
+19. When it came time to get ready to donate an old computer, stored in my garage, I could not find the power cord so that I could wipe the hard drive.  
+20. Was not willing to pay over a hundred bucks in order to donate an old computer, but luckily, the salesperson at the store suggested I try Amazon.  
+21. That way, when it's time to pull the computer out for basic cleaning, maintenance, and testing, its easy to do so without unplugging it.  
+22. A plastic coated clothes hanger can be made into a spring coil to strap onto the cable to give the coil shape and assist in keeping it untangled.If you do find yourself having to go deeper inside the box, just be careful to unplug the cord from the power supply at the back of the computer to prevent live current hazards while you are inside.
+
+negative sentences : 
+1. I needed another universal cable for my computer and printer, so I cam on Amazon and bought this cord.  
+2. Other than that, the cable seems fairly typical quality compared to the many other computer power cords I've owned.
+
+------------------------------------------------------------------
+feature : quality, positive Score : 38 and negative Score :-6
+------------------------------------------------------------------
+positive sentences : 
+1. This is a very high quality replacement cable.
+2. These seems like good quality cables for the price and serve their purpose.  
+3. +: Good quality. 
+4. its a CTG poer cable; you cant go wrong. very good quality. 
+5. The cables are very good quality and the price is just right. 
+6. It's exactly as described, and seems to be of good quality built. 
+7. The cable was the same quality as the ones that you receive when you purchase something new.
+8. what can I say its a power cord and it works..It appears to be made of good quality material and should last.
+9. Good quality cables and good service from Cables To Go.
+10. I've had to change out cables on moving countries, these cables are of a fairly high quality and they work well.
+11. It arrived in two days and seems to be good quality. 
+12. Very high quality. 
+13. These are very good quality thick computer power cables. 
+14. It is solid quality and fits exactly.  
+15. The packaging made it sound like an official OEM model, and the quality backed that assumption up.  
+16. Great quality power cable. 
+17. The only way they could improve is by having them in length increments of every half foot up to about four feet.These are quality cables and are great for reducing cable clutter.
+18. Great quality cable for the price. 
+19. Normal good quality.  
+20. Great quality same as any other cable. 
+21. Good quality cables at a great price, not more to say but buy them. 
+22. These cables look great and are high quality. 
+23. Good quality, good fit...I plugged it in and it works, I don't really know what else to say about it!
+24. Well made, great stress ends, correct length, fit tight plugged into the devices, and the quality seems great.  
+25. And here we have a high quality universal power distribution module, this high quality power distribution module comes in many colors as long as they are black.
+26. And here we have a high quality universal power distribution module, this high quality power distribution module comes in many colors as long as they are black.
+27. The build quality is good and I am currently using one on a 1000W power supply with no problems!
+28. This is a good quality 10ft cable that I frequently use when the standard 6ft power cables (that usually come with computer equipment) are just not long enough.I particularly like to use these to wrap a few coils of extra cable behind a desk.  
+29. They do the job and are good quality. 
+30. A high quality cable at a great price.I bought these for use with some of my Roland gear.Works perfect.
+31. I received my 25' power cords as quickly as I hoped (standard shipping), and the quality of the product seems very good.
+32. quality was good and it shipped fast. 
+
+negative sentences : 
+1. The short length was perfect for my situation and helps to keep cable clutter to a minimum.The build quality seems fine, shielding is adequate.I do not notice any heat issues with these cables as some other reviewers have described. 
+2. It was very inexpensive and of great quality!
+3. I bought 3 of these @1ft each.My monitors cable clutter is WAY down.They seem high quality, the cables are not warm to the touch, they were inexpensive.Would buy again.
+4. Other than that, the cable seems fairly typical quality compared to the many other computer power cords I've owned.
+5. So far the quality/construction seems just as good, if not better, than the cables that came with the computer.  
+
+------------------------------------------------------------------
+feature : price, positive Score : 45 and negative Score :-5
+------------------------------------------------------------------
+positive sentences : 
+1. Excellent price too.
+2. Great price and seems reliable. 
+3. They worked well, needed power cord for t v and these worked quite well. the price was reasonable too 8/10
+4. This cord is functional for the price, but acts more like an adapter than an actual power cord because of its length. 
+5. Great cable at a great price.  
+6. Great price and great function and fast shipping, if you really need the cables get em. 
+7. These seems like good quality cables for the price and serve their purpose.  
+8. Great basic cords at a great price.
+9. The cables are very good quality and the price is just right. 
+10. Needed a new power cord for my computer, this worked great and for a cheap price too. 
+11. This item served it's purpose and was purchased at a reasonable price. 
+12. what can i say a cord is a cord, the price was right, it plugged into the computer and the wall appropriately and conducted electricity to the unit without arcing or sparking
+13. The price was reasonable and they appear well made.
+14. Seems well constructed and great price.
+15. It met my specs at the best price.I can't think of any better reasons than those two. 
+16. GREAT PRICE  WE ARE VERY PLEASED AND WOULD PURCHASE FROM YOU AGAIN.
+17. The reviews for this product are generally all favorable, and it's available for a good price with Amazon Prime. 
+18. For the price it is a good buy. 
+19. Great quality cable for the price. 
+20. Great price and work great.
+21. If you need one and like the price, this is a good one.
+22. It arrived very quickly and was exactly what I needed at a reasonable price too!
+23. I had looked a few other places and the price I found here was much less than other sites.
+24. I never knew that such long cords (25') existed, but this is perfect for the PA system.These cords are well made, the molding on the ends is crisp and clean, the ends plug in firmly, the jacket looks like it will be adequately rugged, the cable is nicely flexible, and the price is great.
+25. I said forget that and went to Amazon.Got exactly what I was looking for from Cables to Go, on Amazon.Quick ship & best price! 
+26. I ordered 2 of these because they were a good price. 
+27. Good quality cables at a great price, not more to say but buy them. 
+28. amazing that power cords are so hard to findthe price was great and it is more convient than looking all over town
+29. The price was right.  
+30. Cables are nice and lengthy for the price as well.
+31. Thee price was right and this product exactly fit my needs for a shorter cable.
+32. Awesome for the price and the quality I will keep you guys updated if I have any problems so far so good!
+33. They work great, I figured the cheap price meant it would be no good. 
+34. A high quality cable at a great price.I bought these for use with some of my Roland gear.Works perfect.
+35. I received exactly what I ordered and at an extremely reasonable price.  
+36. This cable comes at a good price for great length.  
+37. The turnaround time on this product was very quick and the product was exactly what I needed for a great price.
+38. ordered 2, no issues but i have yet to use the second one yet. price was good seeing i just needed basic power cables to set up an old computer for my children's use.
+
+negative sentences : 
+1. Tough to beat at this price.
+2. not much to say... works great, with a great price.if you order it with some other qualifying items, you can get free shipping with amazon's &#34;addon&#34; shipping policy.  
+3. The price and length are a good combination, not point in spending all that money on more expensive, shorter alternatives.
+4. For its low price it does the job and does it right.
+5. grab length and affordable price . highly recommended for your electronics.
+
+------------------------------------------------------------------
+feature : cords, positive Score : 20 and negative Score :-13
+------------------------------------------------------------------
+positive sentences : 
+1. amazing that power cords are so hard to findthe price was great and it is more convient than looking all over town
+2. Would definately NOT use them for amps or high powered speakers.Makes set up easy for lights up on trusses (no more extension cords). 
+3. Most of my server gear came with 6ft cords when all I needed was 1 or 2 feet. 
+4. To do this I needed a 25' power cord (and most cords of this type are short).  
+5. Great basic cords at a great price.
+6. The power cords works great with the desktop computer.
+7. Again, not a big deal but what I ordered would have been perfect.Anyway, the cords themselves are perfect. 
+8. I bought two of these so that I could supply power to the PC's that I am working on on my work table - which is too far from the UPS I was using to rely on the original power cords - because I had to be able to turn the PC's around etc. to work on them.  
+9. I bought it because the standard size power cords didn't reach my monitor at work.
+10. I am using four of these power cords in a quad monitor setup (2x 1ft. cables and 2x 3ft cables). 
+11. I never knew that such long cords (25') existed, but this is perfect for the PA system.These cords are well made, the molding on the ends is crisp and clean, the ends plug in firmly, the jacket looks like it will be adequately rugged, the cable is nicely flexible, and the price is great.
+12. Perhaps these cords would be good for really light duty applications.A word of advice: Be sure to check the cords after using them on whatever device you're plugging them into after a few minutes, a few hours, etc., to see how hot they're running. 
+13. Perhaps these cords would be good for really light duty applications.A word of advice: Be sure to check the cords after using them on whatever device you're plugging them into after a few minutes, a few hours, etc., to see how hot they're running. 
+14. These cables could be a fire hazard.UPDATE: I was just getting the cords ready to send back and I noticed something interesting where the cord touched itself. 
+15. Good cords.  
+16. Would recommend to any musician looking for long equipment cords.
+
+negative sentences : 
+1. I have scads of 6ft power cords, I didn't need 3 more.The good news is that Amazon customer service allowed me to ship these back at no cost to me.This seller has many positive reviews, so perhaps this is a fluke.  
+2. This cable didn't seem as beefy as my other C13 connector power cords. 
+3. Difficult to write much about power cords but I do like these because they are a little longer than normal and make setting up a dual-monitor work space much easier!  
+4. Other than that, the cable seems fairly typical quality compared to the many other computer power cords I've owned.
+5. I do use the power cable with a 150-200W bass amp, but again, so far no problems.If you are considering buying these power cords as replacements for a low wattage guitar amp, they should work perfectly for you. 
+6. A little more flexible than default power cords and works great so far.
+7. Too many times, it simply ended up being in the way and getting tangled in other wires, not to mention turning into a tripping hazard.We replaced the equipment's 6-foot cords with these, then plugged the one-foot cord into an extension cord.  
+8. The first thought that I had upon opening the package was that it felt much lighter weight than all of my other power cords.  
+9. We needed the longer power cords to plug some monitors and PC's into battery backups which came with cords that were too short.  
+10. We needed the longer power cords to plug some monitors and PC's into battery backups which came with cords that were too short.  
+11. I have bought cords before that felt cheap, but this was very sturdy. 
+12. Don't spend an hour wondering, these are power cords, they're cheap, and they work great.
+
+------------------------------------------------------------------
+feature : cables, positive Score : 54 and negative Score :-16
+------------------------------------------------------------------
+positive sentences : 
+1. These are very good quality thick computer power cables. 
+2. This cables are perfect for my job. 
+3. Got these for some powered speakers I was using and they're good cables for the most part but the female end could use some more bulk. 
+4. These seems like good quality cables for the price and serve their purpose.  
+5. I purchased 2 of these to use on TVs I mounted at work as the outlets werent close enough for the standard length power cables and extension cords or power strips werent an option.  
+6. C2G makes great cables and this one is no exception.  
+7. Within in the first 5 uses, the cables were all dead.  
+8. The only way they could improve is by having them in length increments of every half foot up to about four feet.These are quality cables and are great for reducing cable clutter.
+9. IEC cables are ubiquitous these days - they are used on all kinds of computer and consumer electronics equipment.  
+10. I definitely recommend these cables for this specific use. 
+11. Admittedly this is not a felony, but I was using these to run hidden cables from a multi-monitor stand on my desk. 
+12. The cables are very good quality and the price is just right. 
+13. I was a little disappointed but they seem to be good cables nonetheless. 
+14. They are not cheap like other cables I have purchased in the past. 
+15. I've had to change out cables on moving countries, these cables are of a fairly high quality and they work well.
+16. Good quality cables and good service from Cables To Go.
+17. Good quality cables and good service from Cables To Go.
+18. I bought several of these cables to clean up the server rack in my home. 
+19. You won't just find IEC cables this long growing on trees, you know!
+20. Great cables, they do their jobs perfectly. 
+21. And my own crate of assorted cables is several states away.This cord is well-made, completely functional, and inexpensive. 
+22. I consider Cables To Go to be one of the best brands out there for cables. 
+23. I appreciated Cables to Go having this extended cord in stock, and shipping it to me immediately.
+24. The cables work fine for the intended purpose.
+25. These cables connect a standard 115-120 volt outlet, or a UPS, to the power supply unit in a PC.  
+26. Previous cables did not fit the plug correctly.
+27. I had a need for longer equipment power cables, and these fit my needs perfectly.  
+28. I have been a fan of C2G for years and will continue to buy my cables from them as necessary. 
+29. Not very flexible compared to other power cables but I tell you what.. they don't get 'warm' when you're really sucking some power through them like cheaper brands do. 
+30. These cables are thick! 
+31. I needed a single cable to go a longer run and extension cables wouldn't cut it. 
+32. I can't give them 5 stars because they're JUST power cables.... how great can a power cable be??!!? 
+33. These cables look great and are high quality. 
+34. Good quality cables at a great price, not more to say but buy them. 
+35. I read some other reviews complaining about over heating, these are 18awg cables meaning their only good for about 5 amps max. 
+36. There is not a lot to say about these, they are just standard computer power cables that are longer. 
+37. Got this to connect a few LED lights up at a few events and these cables work great. 
+38. Cables are nice and lengthy for the price as well.
+39. This is a good quality 10ft cable that I frequently use when the standard 6ft power cables (that usually come with computer equipment) are just not long enough.I particularly like to use these to wrap a few coils of extra cable behind a desk.  
+40. Really helps with audio setups by not needing as many extension cables.
+41. These are good cables at very good prices. 
+42. These cables are exactly the same as the ones that came with my monitors, just longer. 
+43. I needed power cables that were longer to extend the reach of my monitors without adding extension cords. 
+44. The cables are always cool to the touch, even after running my monitors for 24+ hours.
+45. I am using four of these power cords in a quad monitor setup (2x 1ft. cables and 2x 3ft cables). 
+46. ordered 2, no issues but i have yet to use the second one yet. price was good seeing i just needed basic power cables to set up an old computer for my children's use.
+47. I bought these cables - they're like standard PC power cables except 15 feet long.  
+48. I bought these cables - they're like standard PC power cables except 15 feet long.  
+
+negative sentences : 
+1. If you use the supplied cables, which are usually six foot long, for all your wiring, it will lead to a nightmare of cable clutter.The solution: buy short IEC/AC cables of various lengths, and use a cable just as long as you need... 1 foot, 2 foot, 3 foot.  
+2. No issues with design.Unlike some other cables I've tried, I've have had no issues with this cable falling out etc.
+3. So far the quality/construction seems just as good, if not better, than the cables that came with the computer.  
+4. With this cables you can't go wrong. 
+5. I will preface this by saying I've been buying/using CablesToGo cables for many years.  
+6. I recognize their packaging, and have a real CablesToGo cable that arrived in the same order - however the real one was sold by Amazon; the packaging for 2 of these cables were just unmarked and torn ziplock-style bags and one was just thrown in the box with nothing but the false label identifying it as a CablesToGo cable.There are 2 things wrong with the order that caused me to write this negative review:1) As you may have gathered, I suspect the item was not of the brand advertised and2) These 3ft cables were nearly six feet long.  
+7. I bought 3 of these @1ft each.My monitors cable clutter is WAY down.They seem high quality, the cables are not warm to the touch, they were inexpensive.Would buy again.
+8. I needed short IEC cables for rack-mounting audio gear.  
+9. The short length was perfect for my situation and helps to keep cable clutter to a minimum.The build quality seems fine, shielding is adequate.I do not notice any heat issues with these cables as some other reviewers have described. 
+10. I added a dual mounting stand to my desk and the old cables were not long enough to go through the bracket and be plugged in. 
+11. I've not had this issue before with other power cables plugged into this monitor, so I'm forced to assume that it's the cable. 
+12. Even though the plastic bag they come in says 3', they are in fact 6' long.The reason people usually order short cables is because they want short cables.  6' cables are the most common and are cheaper.Not worth my time to box up and return them.  
+13. Even though the plastic bag they come in says 3', they are in fact 6' long.The reason people usually order short cables is because they want short cables.  6' cables are the most common and are cheaper.Not worth my time to box up and return them.  
+14. Even though the plastic bag they come in says 3', they are in fact 6' long.The reason people usually order short cables is because they want short cables.  6' cables are the most common and are cheaper.Not worth my time to box up and return them.  
+15. I recognize their packaging, and have a real CablesToGo cable that arrived in the same order - however the real one was sold by Amazon; the packaging for 2 of these cables were just unmarked and torn ziplock-style bags and one was just thrown in the box with nothing but the false label identifying it as a CablesToGo cable.There are 2 things wrong with the order that caused me to write this negative review:1) As you may have gathered, I suspect the item was not of the brand advertised and2) These 3ft cables were nearly six feet long.  
+
+------------------------------------------------------------------
+feature : cable, positive Score : 69 and negative Score :-37
+------------------------------------------------------------------
+positive sentences : 
+1. Needed an extra cable for my monitor and this was cheap enough and it works just fine with my monitor
+2. I needed a longer than usual power cable for a third monitor in the corner.  
+3. Having the extra cable length made it much easier to put my monitor on a wall.
+4. This cable is quite apt at providing alternating current power to my LCD monitor.  
+5. I've kept my computer on for about 48 hours now, and the cable is cool and supplying electricity as one would expect.I purchased the 15 foot length.  
+6. It is a solid, replacement or just plain old longer cable for your electronics.  
+7. This cable is not a cheap product nor an overly expensive one.  
+8. Great cable at a great price.  
+9. I was a little worried as some people said that the cable had got hot when they had it connected to a computer. 
+10. Needed a long cable because I will be getting the cable installed behind the wall. 
+11. Got this long cable for my 42 inch LCD tv. 
+12. Great quality power cable. 
+13. this cable performs like any standard power cable.  
+14. this cable performs like any standard power cable.  
+15. I haven't used it yet, but I'm hoping if I do get the chance, it will work.You can buy this cable cheaper elsewhere, but I purchased mine from Amazon. 
+16. I bought these to replace them so I wouldn't have all that extra cable.  
+17. bought a TV on amazon and i mounted it on the wall. the cord that came with the TV was your standard 6foot cable i think it is. and it was stretched out to the max. affraid of it coming out of the power surge i bought this. it did the trick and i can rest assured knowing that when playing call of duty 2 my TV won't shut off unexpectedly resulting in a kill to death ratio worst then i already have.
+18. great replacement cable for most desktop computers, hdtv's, etc.  
+19. In fact, the cable is always cold.
+20. So, I've seen a few negative reviews on this cable.  
+21. bought it to replace the the cable that came with my ASUS PB Series PB238Q. does its job, and the cable doesn't get warm like other reviews say.
+22. C2G's 18 AWG.This cable might be good for a monitor or other low power device, but it would have been nice to know that before I bought it.
+23. I am now going to try a little bit thicker cableSF Cable, 15ft 14 AWG Universal Power Cord - IEC320 C13 to NEMA 5-15P SJT 15A. 
+24. I checked around and noticed the cable was really hot and limp. 
+25. The cable was the same quality as the ones that you receive when you purchase something new.
+26. This is a great cable. 
+27. The only way they could improve is by having them in length increments of every half foot up to about four feet.These are quality cables and are great for reducing cable clutter.
+28. This is a very high quality replacement cable.
+29. Great, cheap, long cable. 
+30. I thought I had it positioned just right before the start of my presentation, but to my embarrassment I had to wiggle it around a bit to get it to work while I was standing in front of the class.Maybe it was just my cable, but to be on the safe side I wouldn't use this particular cable for anything mission critical.
+31. I bought the 1ft cable to attach to the back of an old Dell LCD monitor for a school project. 
+32. This was perfect and cheap. 1 cable solved a lot of headaches.
+33. I needed a single cable to go a longer run and extension cables wouldn't cut it. 
+34. I was looking to find a longer cable so I wouldn't have to use a long extension cord. 
+35. I never knew that such long cords (25') existed, but this is perfect for the PA system.These cords are well made, the molding on the ends is crisp and clean, the ends plug in firmly, the jacket looks like it will be adequately rugged, the cable is nicely flexible, and the price is great.
+36. I can't give them 5 stars because they're JUST power cables.... how great can a power cable be??!!? 
+37. Connectors seem strong and so does the cable.
+38. This is a basic cable, so there shouldn't really be any issues.
+39. Great quality same as any other cable. 
+40. I used this so I could run it and a long HDMI cable through the same conduit to my video projector.  
+41. Cable works great.  
+42. I wasn't expecting much at &lt; $8 for a 25-ft cable, but I've plugged this thing into many compatible devices, including a 25-year-old digital processor, and it just works.  
+43. A good cable
+44. I needed a long cable for my Epson HD projector during outdoor video nights and this one worked out great.
+45. Great quality cable for the price. 
+46. Thee price was right and this product exactly fit my needs for a shorter cable.
+47. Great power cable.  
+48. Very happy with this cable, which I needed to get power from a power strip to my ceiling-mounted video projector.
+49. This is a good quality 10ft cable that I frequently use when the standard 6ft power cables (that usually come with computer equipment) are just not long enough.I particularly like to use these to wrap a few coils of extra cable behind a desk.  
+50. This is a good quality 10ft cable that I frequently use when the standard 6ft power cables (that usually come with computer equipment) are just not long enough.I particularly like to use these to wrap a few coils of extra cable behind a desk.  
+51. A high quality cable at a great price.I bought these for use with some of my Roland gear.Works perfect.
+52. This is a great cable to have extras of, because it seems more and more electronics are using this same type of power cable.
+53. This is a great cable to have extras of, because it seems more and more electronics are using this same type of power cable.
+54. This cable comes at a good price for great length.  
+
+negative sentences : 
+1. Reliable contacts.-: a grip on a cable socket is too small, not convenient. 
+2. Flexible powerful cable. 
+3. Other than that, the cable seems fairly typical quality compared to the many other computer power cords I've owned.
+4. If you use the supplied cables, which are usually six foot long, for all your wiring, it will lead to a nightmare of cable clutter.The solution: buy short IEC/AC cables of various lengths, and use a cable just as long as you need... 1 foot, 2 foot, 3 foot.  
+5. If you use the supplied cables, which are usually six foot long, for all your wiring, it will lead to a nightmare of cable clutter.The solution: buy short IEC/AC cables of various lengths, and use a cable just as long as you need... 1 foot, 2 foot, 3 foot.  
+6. My monitor cable was too short to reach my back-up battery supply after I relocated my PC.  
+7. The problem solved with this longer cable. 
+8. Don't expect anything flashy about this cable, but then it's just a power cable. 
+9. If you are looking for an affordable power cable, this is it!
+10. This cable didn't seem as beefy as my other C13 connector power cords. 
+11. I just needed a short cable for my DJ setup. 
+12. nothing more to it, it's a short cable useful for clean up a music rack case where cords do not have to be long at all
+13. I recognize their packaging, and have a real CablesToGo cable that arrived in the same order - however the real one was sold by Amazon; the packaging for 2 of these cables were just unmarked and torn ziplock-style bags and one was just thrown in the box with nothing but the false label identifying it as a CablesToGo cable.There are 2 things wrong with the order that caused me to write this negative review:1) As you may have gathered, I suspect the item was not of the brand advertised and2) These 3ft cables were nearly six feet long.  
+14. I recognize their packaging, and have a real CablesToGo cable that arrived in the same order - however the real one was sold by Amazon; the packaging for 2 of these cables were just unmarked and torn ziplock-style bags and one was just thrown in the box with nothing but the false label identifying it as a CablesToGo cable.There are 2 things wrong with the order that caused me to write this negative review:1) As you may have gathered, I suspect the item was not of the brand advertised and2) These 3ft cables were nearly six feet long.  
+15. After reading other reviews about this cable getting extremely hot and breaking down overtime (becoming a fire hazard) I am going to keep an eye on this cable.  
+16. Needed a longer cable for my LG TV which has a short cable and this has worked well, albeit short time.  
+17. Needed a longer cable for my LG TV which has a short cable and this has worked well, albeit short time.  
+18. Spend the few dollars more to get a heavier gauge cable, it will be cheaper than a house fire.
+19. I do use the power cable with a 150-200W bass amp, but again, so far no problems.If you are considering buying these power cords as replacements for a low wattage guitar amp, they should work perfectly for you. 
+20. In some reviews people talk about the cable getting hot and not actually being able to take a something putting out 500-600 watts sustained over several hours. 
+21. Bought this to replace the relatively short cable that had come with my plasma tv.  
+22. This is a pretty basic cable.No fuss. 
+23. I lost my computer cable and I bought this cheap one to replace it. 
+24. Its everything you ever hoped for in a power cable: it's cheap, it works and won't burn your house down if used properly. 
+25. This cable weighs as much as a good cable half its length, and for a reason. 
+26. This cable weighs as much as a good cable half its length, and for a reason. 
+27. Now, we simply unplug the equipment from the extension cord, and the one-foot cable is convenient, and is out of the way.  
+28. I was looking for the cheapest 6' long power cable that I could find.  
+29. I guess cable is dead.
+30. The cable seems to be made well enough and I knew that 18AWG would be sufficient considering the current (A) load of the unit.Now my complaint is that the cable does not display anywhere the rated current (A)on the cable.  
+31. If you have a grab bag of cables like I do for gigs it could make a difference if you choose the wrong cable and melt the cord because it was overloaded by the current.It's really funny that the picture on for the item actually shows the amp rating on the face of the female connector.
+32. Great cable with no faults. 
+33. Perfect shorter cable that I would recommend.  
+34. I needed another universal cable for my computer and printer, so I cam on Amazon and bought this cord.  
+35. Not much to say, it's a very short power cable. 
+36. As other people have noted, this cable won't work for anything and everything. 
+37. It's a great cable, but it's not the one I was looking for. 
+
+------------------------------------------------------------------
+feature : power, positive Score : 90 and negative Score :-29
+------------------------------------------------------------------
+positive sentences : 
+1. amazing that power cords are so hard to findthe price was great and it is more convient than looking all over town
+2. Keeps cabling tidy when the computer is right by the power strip.I end up buying short versions of a lot of cables, for my desk and my living room game/theater setup.
+3. I was looking for a long (15ft) power cord for my guitar multi-effects unit.Couldn't find a long enough cord locally except a Hosa model at Best Buy, but it was priced very high.  
+4. I can't give them 5 stars because they're JUST power cables.... how great can a power cable be??!!? 
+5. I can't give them 5 stars because they're JUST power cables.... how great can a power cable be??!!? 
+6. Great power cord, It work well I am recommending you to purchase this product it well last a long time
+7. I bought this power cord for my mid 2010 27in iMac. 
+8. I noticed that the power connector was a bit finicky, and I had to wiggle it just right to get it to work. 
+9. This Cables to Go "Universal Power Cord" is a standard electronics power cord for devices such as TVs, printers, PC towers, etc. 
+10. This Cables to Go "Universal Power Cord" is a standard electronics power cord for devices such as TVs, printers, PC towers, etc. 
+11. I definitely recommend it for anyone looking to buy the standard Power Cord for electronics.
+12. Not very flexible compared to other power cables but I tell you what.. they don't get 'warm' when you're really sucking some power through them like cheaper brands do. 
+13. Not very flexible compared to other power cables but I tell you what.. they don't get 'warm' when you're really sucking some power through them like cheaper brands do. 
+14. Unless your pulling down a huge amount of power ie gaming system, or server or many toasters and hair dryers your going to be okay with 18 AWG. 
+15. These are about as good as it gets for power cables. 
+16. I had a need for longer equipment power cables, and these fit my needs perfectly.  
+17. I wanted a longer than usual power cord to avoid an extension cord. 
+18. There is not a lot to say about these, they are just standard computer power cables that are longer. 
+19. I bought these cables - they're like standard PC power cables except 15 feet long.  
+20. ordered 2, no issues but i have yet to use the second one yet. price was good seeing i just needed basic power cables to set up an old computer for my children's use.
+21. I bought 4 of them and use them with light duty test gear (oscilloscopes, power supplies, etc.)Cable is what it is, but not for use with heavy loads.If you're looking at these then also search Amazon for &#34;IEC splitter&#34; - they take up fewer outlets.
+22. I am using four of these power cords in a quad monitor setup (2x 1ft. cables and 2x 3ft cables). 
+23. And here we have a high quality universal power distribution module, this high quality power distribution module comes in many colors as long as they are black.
+24. And here we have a high quality universal power distribution module, this high quality power distribution module comes in many colors as long as they are black.
+25. I needed power cables that were longer to extend the reach of my monitors without adding extension cords. 
+26. This is a good power cord that is useful for hooking up a computer to a power outlet that is 12 feet away.
+27. We have a computer armoire and need a power cord longer than the convential six feet.  
+28. Rather than plugging it in and risking the carpet catching fire, burning down the new house and starting a new state-wide wildfire, I instead decided to purchase a new power cord. 
+29. This is a great cable to have extras of, because it seems more and more electronics are using this same type of power cable.
+30. This is a good quality 10ft cable that I frequently use when the standard 6ft power cables (that usually come with computer equipment) are just not long enough.I particularly like to use these to wrap a few coils of extra cable behind a desk.  
+31. Very happy with this cable, which I needed to get power from a power strip to my ceiling-mounted video projector.
+32. Great power cable.  
+33. I needed extra length on the power cord and this gave it to me.  
+34. I bought it because the standard size power cords didn't reach my monitor at work.
+35. The build quality is good and I am currently using one on a 1000W power supply with no problems!
+36. The was a great universal power cord that worked greatly as a replacement after my pet rabbit chewed through my TV's power cord. 
+37. Not much to say about a power cord.It's long and it gets power to my projector on the ceiling.
+38. Not much to say about a power cord.It's long and it gets power to my projector on the ceiling.
+39. I bought two of these so that I could supply power to the PC's that I am working on on my work table - which is too far from the UPS I was using to rely on the original power cords - because I had to be able to turn the PC's around etc. to work on them.  
+40. When plugged in, they appear to provide just the right amount of power to cause my monitors to turn on and run without problems. 
+41. It's tough to review something as mundane and simple as a power cord. 
+42. I am comfortable running a 1200 watt power supply unit with this cord.
+43. I no longer have to worry if I will be able to reach a power outlet at any of the gigs I Play.
+44. If you are using them for something that has a VERY high power draw, you may want to look to a higher gauge power cord.
+45. If you are using them for something that has a VERY high power draw, you may want to look to a higher gauge power cord.
+46. This cord is functional for the price, but acts more like an adapter than an actual power cord because of its length. 
+47. In reality, it only provides about 6 inches of actual power cord, so you will probably also need a regular extension cord too. 
+48. I needed a power cord for an older model t.v. and found this one. it fits perfect and have not had problem with power
+49. Great quality power cable. 
+50. I am satisfied with the Power cord. 
+51. I purchased 2 of these to use on TVs I mounted at work as the outlets werent close enough for the standard length power cables and extension cords or power strips werent an option.  
+52. Purchased the power cord because we somehow lost the original power cord.  
+53. The power cords works great with the desktop computer.
+54. Nothing special to say about a computer power cord --- length is correct, and it arrived on the date promised.
+55. A clean, efficient, fine power cord. 
+56. I needed a longer power cord and this one is just about the right length, just like this sentence is.
+57. I am using this extended power cord every day and I am happy with it.
+58. Needed a new power cord for my computer, this worked great and for a cheap price too. 
+59. I wanted to plug my Leslie speaker cabinet into the same power outlet as the Hammond organ. 
+60. To do this I needed a 25' power cord (and most cords of this type are short).  
+61. I'm using it to power a iMac desktop with all USB ports full, one of which is connected to an additional USB hub with 7 more ports, all full.
+62. This cable is quite apt at providing alternating current power to my LCD monitor.  
+63. I needed a longer than usual power cable for a third monitor in the corner.  
+64. this cable performs like any standard power cable.  
+65. C2G's 18 AWG.This cable might be good for a monitor or other low power device, but it would have been nice to know that before I bought it.
+66. I replaced a non function power cord with this. 
+67. It turned out that just getting a longer power cord was the simplest and cleanest solution. 
+68. This is a standard universal power cord, that I purchased for my additional LCD monitor. 
+69. I ran one of these for an expensive power strips power cord. 
+70. I ran one of these for an expensive power strips power cord. 
+71. I will do this again when I need the extra power cord.
+72. Needed a longer power cord for my projector for the 7.1 home Theater. works great. exactly what I needed to reach the outlet strip.
+73. These are very good quality thick computer power cables. 
+74. I got a new adapter for my laptop (Dell precision) but no power cable went with the package,so I ordered this cable.Received two days after placing the order.Good product, fast shipment, highly recommend
+
+negative sentences : 
+1. I needed a longer power cord for my monitor. 
+2. We needed the longer power cords to plug some monitors and PC's into battery backups which came with cords that were too short.  
+3. A portable PA system I recently bought came with a measly five foot power cord.  
+4. Its everything you ever hoped for in a power cable: it's cheap, it works and won't burn your house down if used properly. 
+5. Apple power cord was too short, and this one gives me those extra feet.  
+6. The first thought that I had upon opening the package was that it felt much lighter weight than all of my other power cords.  
+7. I've not had this issue before with other power cables plugged into this monitor, so I'm forced to assume that it's the cable. 
+8. I suppose my projector could have been drawing too much power through it or something, but regardless - it shouldn't overheat like that! 
+9. Existing power cord was too short to reach the power outlet.  
+10. Existing power cord was too short to reach the power outlet.  
+11. This design of this particular equipment makes it impossible to simply unplug the power cord from the equipment, instead it had to be unplugged from the wall.This left our employees packing around equipment with a 6-foot cord that needed to be managed.  
+12. I used this to replace a too short power cord for a projector.  
+13. I was looking for the cheapest 6' long power cable that I could find.  
+14. A little more flexible than default power cords and works great so far.
+15. Not much to say, it's a very short power cable. 
+16. I do use the power cable with a 150-200W bass amp, but again, so far no problems.If you are considering buying these power cords as replacements for a low wattage guitar amp, they should work perfectly for you. 
+17. There was no available power outlet near by. 
+18. I purchase four of these to use with low power led light fixtures.  
+19. Other than that, the cable seems fairly typical quality compared to the many other computer power cords I've owned.
+20. Works great for almost anything that uses a universal power cord.I bought three of these for some new office desktops and they powered up the power supplies right off the bat.
+21. Difficult to write much about power cords but I do like these because they are a little longer than normal and make setting up a dual-monitor work space much easier!  
+22. If you are looking for an affordable power cable, this is it!
+23. This cable didn't seem as beefy as my other C13 connector power cords. 
+24. I have scads of 6ft power cords, I didn't need 3 more.The good news is that Amazon customer service allowed me to ship these back at no cost to me.This seller has many positive reviews, so perhaps this is a fluke.  
+25. Don't spend an hour wondering, these are power cords, they're cheap, and they work great.
+26. It has a standard connector, conducts power, no issues.
+27. I don't believe any power cord should be less then 16 gauge. 
+28. Hard to review a power cord, its fastens fine, is flexible, and built solidly. 
+
+------------------------------------------------------------------
+feature : cord, positive Score : 101 and negative Score :-27
+------------------------------------------------------------------
+positive sentences : 
+1. I was looking for a long (15ft) power cord for my guitar multi-effects unit.Couldn't find a long enough cord locally except a Hosa model at Best Buy, but it was priced very high.  
+2. I was looking for a long (15ft) power cord for my guitar multi-effects unit.Couldn't find a long enough cord locally except a Hosa model at Best Buy, but it was priced very high.  
+3. This is a great cord. 
+4. Works great fast shipping would deff use again very happy wt this product cord works just as aspected nd it came wt in a week when really needed it
+5. I was looking to find a longer cable so I wouldn't have to use a long extension cord. 
+6. Great power cord, It work well I am recommending you to purchase this product it well last a long time
+7. I bought this power cord for my mid 2010 27in iMac. 
+8. The cord is a good size also.
+9. I forgot to look at how long the cord was but when I pulled it out of the package I was taken aback. 
+10. These cables could be a fire hazard.UPDATE: I was just getting the cords ready to send back and I noticed something interesting where the cord touched itself. 
+11. The sheathing was brittle, and the cord sort of fell apart. 
+12. This Cables to Go "Universal Power Cord" is a standard electronics power cord for devices such as TVs, printers, PC towers, etc. 
+13. This Cables to Go "Universal Power Cord" is a standard electronics power cord for devices such as TVs, printers, PC towers, etc. 
+14. I definitely recommend it for anyone looking to buy the standard Power Cord for electronics.
+15. I've replaced the standard 6 foot cord that came with my active pa speakers with these and they do the job very well. 
+16. I bought it for work to go with a work TV that was missing a cord, it works great the sizing chart was a perfect match.
+17. This is your basic cord.  
+18. I wanted a longer than usual power cord to avoid an extension cord. 
+19. I tried this cord on several different devices. 
+20. This is a good power cord that is useful for hooking up a computer to a power outlet that is 12 feet away.
+21. I didn't want to use a standard extension cord and now i don't have to.  
+22. This cord only takes the old connections.  
+23. I needed a one foot long extension cord for my coffee pot cord.  
+24. Cord is great allows us to plug in device with out the need of an extension cord to keep safety team happy
+25. Cord is great allows us to plug in device with out the need of an extension cord to keep safety team happy
+26. We have a computer armoire and need a power cord longer than the convential six feet.  
+27. Rather than plugging it in and risking the carpet catching fire, burning down the new house and starting a new state-wide wildfire, I instead decided to purchase a new power cord. 
+28. Advertised as a 6 feet long cord, in reality it was less than a foot long. 
+29. A plastic coated clothes hanger can be made into a spring coil to strap onto the cable to give the coil shape and assist in keeping it untangled.If you do find yourself having to go deeper inside the box, just be careful to unplug the cord from the power supply at the back of the computer to prevent live current hazards while you are inside.
+30. I was so glad I was able to restore peace in my mind thanks to this cord...my prime membership guaranteed I was going to be relaxing on my couch in less than two business days watching TV. 
+31. Fine universal replacement cord. 
+32. Packaging a little beat up but cord was in good working condition.
+33. I needed extra length on the power cord and this gave it to me.  
+34. I tried this cord on several different devices. works great with everything i have.Had to buy it after moving my stuff around and i lost the cord to a monitor.I was skeptical at first but it truly is universal. love it and does the job i need.
+35. The was a great universal power cord that worked greatly as a replacement after my pet rabbit chewed through my TV's power cord. 
+36. Not much to say about a power cord.It's long and it gets power to my projector on the ceiling.
+37. The cord is a good long enough to wrap around my rather awkward mantle.  
+38. The 15' cord just required me to have a bunch of excess loops of cord to try to hide. 
+39. It's tough to review something as mundane and simple as a power cord. 
+40. If you are using them for something that has a VERY high power draw, you may want to look to a higher gauge power cord.
+41. best deal for this cord. hands down. high gauge wire, thick sheath and well made. 
+42. After a few minutes, the cord gets hot to the touch.  
+43. This cord is functional for the price, but acts more like an adapter than an actual power cord because of its length. 
+44. This cord is functional for the price, but acts more like an adapter than an actual power cord because of its length. 
+45. In reality, it only provides about 6 inches of actual power cord, so you will probably also need a regular extension cord too. 
+46. In reality, it only provides about 6 inches of actual power cord, so you will probably also need a regular extension cord too. 
+47. Next time, I would probably get a longer cord.
+48. I needed a power cord for an older model t.v. and found this one. it fits perfect and have not had problem with power
+49. Just a longer cord.  
+50. I am satisfied with the Power cord. 
+51. A great replacement for my damaged cord. i feel safer now! 
+52. Well, I needed a long cord to plug my ceiling projector in.  
+53. Purchased the power cord because we somehow lost the original power cord.  
+54. Nothing special to say about a computer power cord --- length is correct, and it arrived on the date promised.
+55. A clean, efficient, fine power cord. 
+56. I needed a longer power cord and this one is just about the right length, just like this sentence is.
+57. I am using this extended power cord every day and I am happy with it.
+58. Needed a new power cord for my computer, this worked great and for a cheap price too. 
+59. I got this cord with a fast delivery. 
+60. To do this I needed a 25' power cord (and most cords of this type are short).  
+61. I appreciated Cables to Go having this extended cord in stock, and shipping it to me immediately.
+62. You need a heavier gauge cord.18 gauge is rather small wire, not suitable for powering HD projectors, etc..IF the device is low powered this seems like a decent cord.
+63. You need a heavier gauge cord.18 gauge is rather small wire, not suitable for powering HD projectors, etc..IF the device is low powered this seems like a decent cord.
+64. Cord stays nice and cool so I ordered a 2nd one for another project.
+65. I needed the chord once we mounted the TV on the wall, very happy with this one more than enough length with the new cord
+66. what can i say a cord is a cord, the price was right, it plugged into the computer and the wall appropriately and conducted electricity to the unit without arcing or sparking
+67. couldnt find a longer replacement cord for 42" LCD TV in local stores. appears identical to the one i have, needed longer cord for wall mounting in new house. works perfect.
+68. couldnt find a longer replacement cord for 42" LCD TV in local stores. appears identical to the one i have, needed longer cord for wall mounting in new house. works perfect.
+69. And my own crate of assorted cables is several states away.This cord is well-made, completely functional, and inexpensive. 
+70. This cord will work fine for most people, but upon further inspection I noticed that the wires are not US standard AC wire, instead it seems to be a British version with a strange color code. 
+71. I replaced a non function power cord with this. 
+72. It turned out that just getting a longer power cord was the simplest and cleanest solution. 
+73. And it stretches out to 2.5 times as long as the typical computer cord. 
+74. Great cord. 
+75. This is a standard universal power cord, that I purchased for my additional LCD monitor. 
+76. I ran one of these for an expensive power strips power cord. 
+77. Also if the cord gets that hot then chance are you are not getting the voltage you should be getting. 
+78. They fit fine and worked as expected so now I have just enough cord to get to the outlet with no bundled wires hanging around.
+79. I will do this again when I need the extra power cord.
+80. Needed a longer power cord for my projector for the 7.1 home Theater. works great. exactly what I needed to reach the outlet strip.
+81. Each cord came in its own separate resealable ziplock bag and they all came together in a box. 
+
+negative sentences : 
+1. I needed a longer power cord for my monitor. 
+2. A portable PA system I recently bought came with a measly five foot power cord.  
+3. Apple power cord was too short, and this one gives me those extra feet.  
+4. Do not , I repeat do not buy this cord it is unsafe and should be pulled from amazon.
+5. The 18 Ga. construction is great for keeping the diameter of the cord small and the production costs down, but I can imagine this being a poor cord for any application drawing more than 1 or so amps.  
+6. The 18 Ga. construction is great for keeping the diameter of the cord small and the production costs down, but I can imagine this being a poor cord for any application drawing more than 1 or so amps.  
+7. Cord work just as intended and is study enough to take a decent beating. 
+8. Existing power cord was too short to reach the power outlet.  
+9. This design of this particular equipment makes it impossible to simply unplug the power cord from the equipment, instead it had to be unplugged from the wall.This left our employees packing around equipment with a 6-foot cord that needed to be managed.  
+10. Too many times, it simply ended up being in the way and getting tangled in other wires, not to mention turning into a tripping hazard.We replaced the equipment's 6-foot cords with these, then plugged the one-foot cord into an extension cord.  
+11. Too many times, it simply ended up being in the way and getting tangled in other wires, not to mention turning into a tripping hazard.We replaced the equipment's 6-foot cords with these, then plugged the one-foot cord into an extension cord.  
+12. Now, we simply unplug the equipment from the extension cord, and the one-foot cable is convenient, and is out of the way.  
+13. I used this to replace a too short power cord for a projector.  
+14. If you have a grab bag of cables like I do for gigs it could make a difference if you choose the wrong cable and melt the cord because it was overloaded by the current.It's really funny that the picture on for the item actually shows the amp rating on the face of the female connector.
+15. Came quickly with no wasted packaging.Ordered this cord as a replcement for a lost cord.
+16. If you are looking for a replacement cord you wont go wrong with this product.Jeff BeeneChattanooga, Tn
+17. Most devices that plug into this cord are going to pull more amps than is safe.  
+18. Couldn't use an extension cord with the back-up battery, so this solved my problem.
+19. The cord itself would have been fine if I had a different projector.
+20. The cord was the perfect length, and will no doubt serve me for many years to come.Pros: It works, is the perfect length, and is sturdy.Cons: none. 
+21. The cord was not compatible with my tv's plug. 
+22. Works great for almost anything that uses a universal power cord.I bought three of these for some new office desktops and they powered up the power supplies right off the bat.
+23. I didn't want to use an extension cord - less than 5 bucks it's a good deal.
+24. My 27&#34; Dell monitor which came with a very short cord doesn't generate warmth in the slightest with this replacement and I've had it for the better part of a year now.  
+25. For me works fine, no heat issues, the plug (both ends) fit nice and snug.My amplifier draws low current so the cord is fine for my application, but it could use a larger gauge for other application where one might draw much more.
+26. I don't believe any power cord should be less then 16 gauge. 
+27. Hard to review a power cord, its fastens fine, is flexible, and built solidly. 

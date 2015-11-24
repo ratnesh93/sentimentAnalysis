@@ -1,6 +1,6 @@
 /*package sentiment;
-import edu.smu.tspell.wordnet.Synset;
-import edu.smu.tspell.wordnet.WordNetDatabase;
+//import edu.smu.tspell.wordnet.Synset;
+//import edu.smu.tspell.wordnet.WordNetDatabase;
 
 *//**
  * Displays word forms and definitions for synsets containing the word form

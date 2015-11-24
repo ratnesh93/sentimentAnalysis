@@ -1,0 +1,993 @@
+
+------------------------------------------------------------------
+feature : software, positive Score : 29 and negative Score :-10
+------------------------------------------------------------------
+positive sentences : 
+1. When the computer mounted the drive by USB, a the drive began a small Seagate software program.  
+2. (Though what do I know, I thought tapes were just fine when CDs and DVDs first came out.)Techies be prepared to laugh at me but not understanding what kind of software is loaded on this external drive, I was initially afraid to play music files from it because I wasn't sure if I had to install Media Player on it as well. 
+3. nice for the price but the design is a little wacky, its not very portable and the glowing light is unamusing after ten seconds.still, its capacious and includes nice backup software.
+4. Same software, FreeAgent and Memeo, plus Creedo.  
+5. The Creedo software imports the software and creates it's own tiny "desktop" with app. icons.  
+6. Non Creedo apps can be placed in a separate directory on the GO drive or better yet, include them in your backup files so the data/passwords/browser favorites are always in sync.I am not sure if you can back up to GO and PRO on the same machine since they share the same software. 
+7. Not sure, but it makes sense that Memeo software will sync new files to your hard drive if GO was used on a different computer and new files created.
+8. But, I do not recommend installing the included software for Macintosh. 
+9. The only reason that I am not giving it 5 stars is because of my experience with the included software.
+10. Disabling USB legacy support on the BIOS setup fixed that, but I would have to reinstate that feature if I ever wanted to boot from this drive or access it outside of windows.On the plus side, this drive works great with the free Seagate DiscWizard software which is a stripped down version of Acronis TrueImage that you can download for free.  
+11. p_faqid=683&p;_created=985826313 also I would go to our website download and install the latest software and use the power management software so it can go into a standby mode so the drive is not again running 24/7Keith: that is a startTodd Nickolas: Does that link include instructions on how to disable the lights on the drive?
+12. It doesn't require software, it's quick, and it's quiet. 
+13. Sure enough, all you have to do is plug the sucker in and presto, it is recognized and your computer loaded with all the necessary software to run it. 
+14. which turns out to be their server software pretending to be a live operator -- but that is all you will ever get from the so-called "live chat".
+15. Seagate backup software does not backup hidden or system files. 
+16. I have combined this hard disk with PureSync  software to keep a regular backup of my data, and thanks to this combination, I was saved multiple times after the infamous windows crash!
+17. It's working great for me (I only use it for a month or so), and the backup software that came with it is also great.the only problem I have is that you have to connect it directly to your computer. 
+18. The drive is very fast, and has  backup software inside that help you make periodical backups.  
+19. The new drive even installed special system back-up software.  
+20. I didn't need any extra backup software just needed the extra space so this was exactly what I was looking for.Great warranty and price.  
+21. It is easy to use their back up software, BUT if your system fails for whatever reason, and you need to retrieve or restore, you can not use the native (OS) software, and Seagate will effectively extort money for allowing you to restore from the drive you purchased for that purpose.  
+22. I do not use the included software, preferring to just back up data. 
+23. The included software takes up about 250 megs which I could erase at any point if I need the space. 
+24. It was simple to install, has a good backup and restore software pre-loaded on the drive and runs automatically on the schedule I choose backing up the files I select.  
+25. But so far, so good.I am using my own backup software so I did NOT install the software included with the drive. 
+
+negative sentences : 
+1. Not only is it the worst piece of hardware I have ever purchased but the software is worse than the drive.My computer refuses to restart or load OS when the drive is connected via USB. 
+2. It comes with some sort of software to "help" you backup data. 
+3. Fourth, because of the software that comes with the drive and the abundance of storage space, I will be backing up the entire contents of my laptop's built-in hard drive.Fifth, I like Seagate hard drives because of their reliability and relatively long warranties.When I first set this device up, I was surprised to find that there was NO external power switch of any kind. 
+4. The backup software doesn't seem to be running as scheduled, but maybe I didn't configure something right. 
+5. Some people will be unhappy with the included software because it is not very flexible.  
+6. I would prefer if the drive did not come pre-installed with Seagate's backup software but it was easy enough to disable. 
+7. Other users have been forced to resort to more extreme measures, such as scheduling a cronjob to 'touch' a file on the USB disk every thirty seconds.If Seagate had advertised their decision to design their hardware to be incompatible with Free Software, I would not be rating this product so poorly--in fact, I wouldn't be rating it at all, because I never would have purchased it. 
+8. The included backup software is not spectacular, but straight copy/paste to the drive works very well.My main reason for reviewing is that we had a great experience with Seagate customer service.  
+9. I didn't need to install the included software, but did out of curiosity. 
+
+------------------------------------------------------------------
+feature : time, positive Score : 35 and negative Score :-13
+------------------------------------------------------------------
+positive sentences : 
+1. So I bought 2 copies of the non pro version, these units are designed to stand but to be honest they are really designed to fall over - and when they do that they can crash the drive if they are running.Since I need to use either a 3rd party data recovery or Seagate's data recovery services and Seagates policy equals an easier time if I use Seagates data recovery services (for third party I need to generate additional paperworks from 3rd party BEFORE I can let them open the case - so I can send the unit back to Seagate under warranty, after data recovery).Now what have we got - we have a manufacturer who add a significant extra income for data recovery and a design which chooses to be the most likely to require data recovery in the first place. 
+2. Not a big deal for me as I usually go elsewhere when doing back ups, but a disadvantage for those who need to monitor activity by watching the drive light.Long time reliability is the only unknown but the relatively long warrenty time period gives me some confort that I will be using this hardware happily for quite a while.
+3. I think there is a fan inside that comes on from time to time but it is fairly quiet as well.The 5 year warranty is great. 
+4. Well thats the last time I buy a Seagate. 
+5. It was our unfortunate circumstance that all sources for files were lost at the same time.  
+6. I mean several GBs at a time. 
+7. It works just fine with time machine.I would recommend it to a friend!
+8. That fixes the issue but leaves the feature unavailable.Another unexpected glitch was that the workstation to which I attached the drive took a very long time to boot after I added this drive.  
+9. Todd Nickolas: I don't want to go through the same massive data loss I did the first time.Keith: if you are talking about replacing the entire unit if the FreeAgent fails then that is still true. just remember that if the data is important to you have a backup (also known as a copy) of it in case of anything happening to the data weither it is virus or hardware relatedTodd Nickolas: That's what the drive was purchased for in the first place, to back up data, which is kind of pointless if the drive has a history of failing due to overheating. 
+10. I just hook it up from time to time, click on the latest document and photo folders I've accumulated and in less than a minute it's done. 
+11. I plug in, click and drag My Docs, unplug, and put the drive away in a fire safe until the next time I feel like backing up.  
+12. I haven't given up yet, but this stupid thing has cost me hours of my time and is holding my priceless data hostage.  
+13. The one thing hard drives are supposed to do, is to store files so they won't get lost. my computer has notified me that around half of my music, or  30 gigs, couldn't be rewritten to this stupid hard drive, that was working five days ago. it seems that it is now randomly deleting all my music, and my computer is now fine. but this is around the 10th time there's been a problem with it. 
+14. Not a big deal for me as I usually go elsewhere when doing back ups, but a disadvantage for those who need to monitor activity by watching the drive light.Long time reliability is the only unknown but the relatively long warrenty time period gives me some confort that I will be using this hardware happily for quite a while.
+15. Next time around, I'm certainly NOT going with the FreeAgent again!
+16. This drive does what its supposed to do, which is back up my files automatically without me having to think about it.One significant glitch is that if I completely shutdown my computer, the next time I turn the computer on, I have to unplug the external drive from the power source and replug it in order for the drive to show up on my computer.  
+17. WELL RIGHT OUT OF BOX,THERE WERE NO LIGHTS.SETUP VERY EASY,JUST DO NOT LEAVE PLUGGED IN FOR A LONG TIME(5 OR 6HRS.)IT STARTED DELETING FILES,LUCKILY IT SHOWS ON THE TOOLBAR,AT FIRST I THOUGHT NOTHING OF IT,BECAUSE I DIDN'T RECOGNIZE THE FILE,BUT THEN I NOTICED IT WAS DELETING MY RESTORE FILES.I TOOK IT OFF THE SYSTEM AND UNPLUGGED IT.I THEN CHECKED MY RESTORE AND ALL THE CHECKPOINTS WERE GONE.I NOW JUST PLUG IT IN WHEN I AM GOING TO USE IT.
+18. But I can say that during my transfers of several GB at a time, it has never failed me. 
+19. It's only a matter of time before 1TB and larger show up in this same attractive form factor; the mind boggles at such capacity, but if one stores music and video it is quickly absorbed. 
+20. The first time I touched it, I knew it was headed for failure.There are fans in computer cases for a reason folks.David
+21. Next time I'll get a LeCie with a one year warranty and better history and track record... 
+22. This device was a complete waste of my time and money.
+23. First time, maybe a coincidence, but after two in a row have tanked... well, good thing it was only holding temp files, not anything important. 
+24. On the downside, it's a little slow in access time, which can be a bit frustrating when you are using it as an active drive, as I am, but I can live with it. 
+25. I had this drive from a long time ago.As the title said, it was extremely slow, and got hot super quick (there are vents on the "foot" but it didn't help much, and if you accidentally cover the vents, you're screwed), and would go to sleep and never wake up. 
+26. [...]Anyways, mine didn't last long before I began having I/O errors, diskwrite errors, computer not recognizing it, etcBUT before that even happened, it takes a long time for any one of my 5 computers to recognize it, boot and or transfer files.I was using this as my backup storage and when my computer failed, losing all my work, I was glad to know I had backup storage.... what a joke that idea was, because my backup storage failed even more miserably!  
+27. Find a great deal on this drive, or just get a FreeAgent Go; this one was cheaper at the time for me.
+
+negative sentences : 
+1. Just now it took me 30 seconds to get the thing to turn on and sometimes I have a hard time getting it to turn off!!!!! 
+2. There is simply no excuse to stock a product so poorly designed as to guarantee the shocking number of problem reports I've encountered on many review sites, all relating to the drive's incredibly inept design for dealing with heat-related matters, an inexcusably poor chipset implementation which does not guarantee instantly recognized connections to your computer, and, frankly, encountering for the first time multiple units (one from a different manufacturing lot) suffer a 100% failure rate within hours of receipt.  
+3. The rest of the time it just sits there useless.I've had a Western Digital My Book for 3 years and have not had one problem with it but it was starting to fill up so when I saw this drive on close-out for $40 I jumped on it. 
+4. As major manufacturers have begun to make relatively inexpensive external hard drives, I decided the time was right to improve my back up process.I did some research on the WEB and learned that the Seagate FreeAgent seemed to be highly regarded--and the pricing was similar to solutions from other major suppliers. 
+5. The hard drive was sent in a manner that was packed well, delivered in a very reasonable time, is just as it was described, and I would definitely buy a Seagate product again as well as buying from amazon. 
+6. Automatic back-uo works great and movies stream great with no lag time.
+7. It does not produce as much heat as I expected, however I have found on occasions, that when I have left it idle for a period of time (3-4hrs) without accessing it, it is slow in responding. 
+8. The backup process run on the background and doesn't take much time, data transfer is faster than I thought. 
+9. I've learned my lesson with these pathetic drives I'd recommend all of you to buy hard drive enclosure instead and fit it with your own desired internal hard drive yes a little troublesome but well worth the fuss coz it will last and wont just stop responding while plugged in.I've heard that Seagate makes internal drives of admirable quality but they have failed big time on these external drives
+10. At one time I had too much music on my computer and ran iTunes off of this drive after I had put everything I had on it. 
+11. This is what I expected from my external hard disk meant for keeping valuable backups.Was a little skeptical as the price was low compared to other HDDs at the time I bought, but it turned out to be a great buy. 
+12. After I am done, when I am trying to invoke the Eject hardware feature on any of my units, I kept getting the "unable to eject at this time message" that I sometimes get with thumbdrives.  
+
+------------------------------------------------------------------
+feature : problem, positive Score : 29 and negative Score :-14
+------------------------------------------------------------------
+positive sentences : 
+1. The only problem I have with it is trying to find a way to have it back up a network drive.
+2. Pros: Noiseless, fast, easy to setup, saves desk/table space.Cons: No power off switch, when rebooting PC while connected sometimes the machine hangs (could be an isolated problem).Overall its worth the money!!!
+3. Apparently, this is a common problem for Seagate drives: [...]Set-up was ok, but not totally user-friendly. 
+4. But Windows XP never detected two of the drives, installing them only as "Unknown device," despite more than a dozen attempts to reinstall.Problem: "These drives are bad because the chipset is not responding properly with your computer."  
+5. By comparison, a 3-year old Western Digital 100GB ATA drive in an external Bytecc Firewire enclosure earned a score of 26.89.The speed difference between Firewire and USB 2.0 is not great enough to account for this difference.I guess Seagate engineers figured that there was no need to stick a fast drive in an enclosure that would be limited by USB 2.0's max speed; I suspect they picked a slower drive to reduce costs.The drive does get hot, but after using it around the clock for three days I have not (yet) experienced any problems with being able to access data on the drive.Those who have reported problems getting the drive to be recognized after using it for backups may be experiencing a known problem with Windows Vista and USB drives, not the Seagate FreeAgent Desktop drive. 
+6. It is just a minor nuisance.I can't really say it is the external HD problem or my computer. 
+7. I won't buy another Seagate as this seems to be a common problem. 
+8. Today, I got a quote from Best Buy- it would cost $1599 for data recovery through them.Best Buy told me flat out that this problem was 100% due to a poorly produced product and Seagate refuses to be helpful in the least.  
+9. All of their drives have the same problem, where they overheat and destroy the hard-drive.  
+10. It takes me 2 month to talk with tech support and have tried more than 20 solutions provided by them and internet to fix the famous "can't read" problem. 
+11. Setup was a bit difficult and customer support at first not very helpful, but once I spoke with someone willing to help solve the problem, everything went quickly and smoothly.  
+12. Todd Nickolas: It's obvious Seagate is aware of this problem, so back to my original question, have they done anything to fix it?
+13. I believe most said Seagate is pretty good in rendering assistance with this problem and are typically able to restore their files, assuming you haven't messed with the corrupted data too much.  
+14. Do a Google search for Seagate Freeagent 500GB problems and you will see page after page of people with the same problem.
+15. I bought this last year and i am having the same problem as many others are having.  
+16. It's working great for me (I only use it for a month or so), and the backup software that came with it is also great.the only problem I have is that you have to connect it directly to your computer. 
+17. Upon investigating a cheaper way to go, I found out this is an ongoing problem with Seagate products. 
+18. The color, however, is not black, but a chocolate brown, not really a problem though. 
+19. I needed external HDD as data storage (rare usage, I do not use it as "big flash drive").It was best value for this price.Only thing - it requires AC power adapter (some external drives can work on USB power), but for home use it is not a big problem.
+20. I can wholeheartedly recommend this problem as a viable solution to anybody's data,including photo,storage needs.Dave
+21. If you keep it plugged into a computer, it will power down when the computer is turned off and vice versa.The only negative is that file access is a little slow, but I have nothing with which to compare it, except the hard drive that is built into my laptop.All in all, this is an excellent product and a good choice for solving my particular problem....
+22. I finally was able to request a return, paid $20 for expedited shipping, got the thing two days ago, plugged it in and guess what .... same problem. 
+23. This isn't a big problem, though, as it is easily solved by simply unplugging it when I turn off my laptop.  
+24. It is a VERY COMMON problem mentioned right here in amazon reviews on this product and very soon I will have to salvage that too.I own external disks from WD and Samsung and none of them have given me CONSISTENT quality problems like SUCKGATE.
+25. After extensive online searches of my specific problem, I have found MANY MANY people with similar horror stories. 
+26. My computer and PS3 have no problem recognizing it.Overall, I would recommend this product to anyone looking for an external drive solution.
+
+negative sentences : 
+1. There is simply no excuse to stock a product so poorly designed as to guarantee the shocking number of problem reports I've encountered on many review sites, all relating to the drive's incredibly inept design for dealing with heat-related matters, an inexcusably poor chipset implementation which does not guarantee instantly recognized connections to your computer, and, frankly, encountering for the first time multiple units (one from a different manufacturing lot) suffer a 100% failure rate within hours of receipt.  
+2. My computer kept giving low disk space message and wouldn't perform some operations because there was not enough memory.Problem solved!!! 
+3. I have had no specific problem with both of them except the latter caused some problems with the time machine of my imac. 
+4. I plugged this into my computer and the computer did not recognize this just like the problem other reviewers faced. 
+5. Shortly after the delayed write failures began, the drive began making a loud whining sound.Problem: The drive has overheated and its useful life is shortened by the presence of the whining sound, which would indicate something is hanging up inside the drive.Seagate wants to RMA all three drives, but all of these failured occured within 24 hours of receipt of the drives, so no thanks.  
+6. Beyond the poor reputation of this drive for its lack of reliabilty, the most annoying problem is that the drive insists on installing OVER FIVE HUNDRED MEGABYTES of junk in over a hundred folders and subfolders on the customer's main hard drive (C:).  
+7. I don't think I'll ever have a problem of not having enough space.  
+8. I did have a slight problem with it being recognized for a few days  and the only way it would recognize it is if I unplug the power and plug it back in with the usb in( which isn't safe) but now it works perfectly. probably something I did to mess it up.
+9. After reading several reviews, there were many that cited the heat problem.  
+10. This is a major problem and I am considering having the drive replaced.  
+11. At first I was convinced that this should be an error attributed to the Windows OS but hey other external hard drives i have work fine without ever experiencing this annoying problem. 
+12. (Unless the multiple backing up caused the problem...)
+
+------------------------------------------------------------------
+feature : backup, positive Score : 68 and negative Score :-28
+------------------------------------------------------------------
+positive sentences : 
+1. Installation was automatic on a Windows machine running XP Pro and took less than five minutes to install and customize the backups.The Seagate Free Agent lets you retrieve files easily and settings can be adjusted for any type of automatic backup with the files and folders you choose to back up.The 500GB storage size is perfect for most computers (Note: only 465GB actually available).The slim vertical profile takes up no more space than a stapler.The drive comes with a power cord, USB cable and installation instructions for both Windows and Mac.  
+2. Three purchased, Three died, Backup lost, Seagate reply: To Bad, not even an offer of replacement.  
+3. Once I disabled that, I was able to backup only the files I wanted, but after doing that 2 or 3 times, the hard drive stopped working altogether. 
+4. I bought this external hard drive as backup for my Dell laptop about a year ago and it has totally failed me. 
+5. You're tempted to have this device serve as a backup of documents on your main computer, but I'd advise you to have a backup of your backup because you can't rely upon this product to serve you long term.  
+6. So far, so good.PS: Drives can and will fail so I also backup to Verbatim 8.5GB DVD+R DL disks for security.
+7. Using it with Time Machine in Mac OS X 10.5 Leopard is a breeze - a couple of clicks and I have an effortless backup of my system - peace of mind with absolutely no disruption. 
+8. But so far, so good.I am using my own backup software so I did NOT install the software included with the drive. 
+9. Backup is quick and easy, and the device is quiet. 
+10. this is a nice backup for my work computer. you program it and you don't have to remember to back up at all. holds lots of info!
+11. It was simple to install, has a good backup and restore software pre-loaded on the drive and runs automatically on the schedule I choose backing up the files I select.  
+12. I've used it with Windows Vista via the pre-installed backup program, and now I use it with Linux Mint, which has its own backup utility (couldn't find a driver from Seagate for Linux).  
+13. I've used it with Windows Vista via the pre-installed backup program, and now I use it with Linux Mint, which has its own backup utility (couldn't find a driver from Seagate for Linux).  
+14. nice for the price but the design is a little wacky, its not very portable and the glowing light is unamusing after ten seconds.still, its capacious and includes nice backup software.
+15. I assume that Seagate is using a 5400rpm drive as one reason the throughput is so slow.I used this drive to backup 300GB of photos and image data. 
+16. Why should I have to buy a backup drive to backup my backup drive?
+17. Why should I have to buy a backup drive to backup my backup drive?
+18. Why should I have to buy a backup drive to backup my backup drive?
+19. Todd Nickolas: I don't want to go through the same massive data loss I did the first time.Keith: if you are talking about replacing the entire unit if the FreeAgent fails then that is still true. just remember that if the data is important to you have a backup (also known as a copy) of it in case of anything happening to the data weither it is virus or hardware relatedTodd Nickolas: That's what the drive was purchased for in the first place, to back up data, which is kind of pointless if the drive has a history of failing due to overheating. 
+20. Does it make sense to carry primary backup files with you instead of locking them up in a secure area?  
+21. Non Creedo apps can be placed in a separate directory on the GO drive or better yet, include them in your backup files so the data/passwords/browser favorites are always in sync.I am not sure if you can back up to GO and PRO on the same machine since they share the same software. 
+22. Note, the initial backup may take two solid days.  
+23. The backup utilities will not recognize the backup plan and the instructions on where to find the plan are cryptic at best. 
+24. was corrupted and the backup folder is no longer recognized for backup or global  restore purposes. 
+25. was corrupted and the backup folder is no longer recognized for backup or global  restore purposes. 
+26. After several disconnects, the backup indexing file(?) 
+27. Using EMC's Retrospect Express 6.1, the entire backup took 36 hours to perform, including verification of all the files.With the Xbench software, the drive earned a score of 14.41. 
+28. [...]Anyways, mine didn't last long before I began having I/O errors, diskwrite errors, computer not recognizing it, etcBUT before that even happened, it takes a long time for any one of my 5 computers to recognize it, boot and or transfer files.I was using this as my backup storage and when my computer failed, losing all my work, I was glad to know I had backup storage.... what a joke that idea was, because my backup storage failed even more miserably!  
+29. [...]Anyways, mine didn't last long before I began having I/O errors, diskwrite errors, computer not recognizing it, etcBUT before that even happened, it takes a long time for any one of my 5 computers to recognize it, boot and or transfer files.I was using this as my backup storage and when my computer failed, losing all my work, I was glad to know I had backup storage.... what a joke that idea was, because my backup storage failed even more miserably!  
+30. Also, unless you're using it for backup only, you might want to buy another one as backup for the first.
+31. I purchased this item in August to store large media files, music, and backup large folders of archived documents. 
+32. It also doesn't apparently have the "intelligence" to know which files have been modified since the last backup was taken, so I just copy everything manually, using copy and paste, and it works great. 
+33. I had thought I needed the SATA speed to make it practical to back up large files, but finally had to try another way to meet my backup needs. 
+34. I was having all sorts of problems with my system (Windows XP Pro) when I tried to use an external SATA drive cabled into my motherboard, so I had to abandon that route for external backup storage. 
+35. This is a great backup unit. 
+36. I also transferred RAW photos from a trip to Germany.What I found out was that it is a good idea to have a backup for my backup. 
+37. I plugged it into a USB and it was ready to backup and save me in case of a Blue Screen of Death. 
+38. The drive is very fast, and has  backup software inside that help you make periodical backups.  
+39. It's working great for me (I only use it for a month or so), and the backup software that came with it is also great.the only problem I have is that you have to connect it directly to your computer. 
+40. I have combined this hard disk with PureSync  software to keep a regular backup of my data, and thanks to this combination, I was saved multiple times after the infamous windows crash!
+41. Seagate backup software does not backup hidden or system files. 
+42. Seagate backup software does not backup hidden or system files. 
+43. But if you just want to set up a external hard drive to reliably backup your files, this one will do. 
+44. I considered the Pro version--the main difference being an online backup facility in addition to the external drive. 
+45. [...]Anyways, mine didn't last long before I began having I/O errors, diskwrite errors, computer not recognizing it, etcBUT before that even happened, it takes a long time for any one of my 5 computers to recognize it, boot and or transfer files.I was using this as my backup storage and when my computer failed, losing all my work, I was glad to know I had backup storage.... what a joke that idea was, because my backup storage failed even more miserably!  
+46. However, if you have valuable data, don't trust it to a single backup.
+47. I'll try to update this if (when) it dies.I didn't lose any valuable data; everything is still on the computer and my wife and I backup to each others machine every so often. 
+48. I didn't need any extra backup software just needed the extra space so this was exactly what I was looking for.Great warranty and price.  
+49. Seeing as my C: drive is only 160GB, just one of these drives serves as a backup of all my important documents and files, plus holds a TON of music, pictures and video.And because these are so affordable, it's well within reason to have a second one at its side backing up the first.That's just what I've done and I couldn't be more pleased with the results. 
+50. if you use this for "backup", make sure you have a backup of your backup files!!
+51. if you use this for "backup", make sure you have a backup of your backup files!!
+52. if you use this for "backup", make sure you have a backup of your backup files!!
+53. I decided to stay with the regular version as I didn't really need an additional backup online.  
+54. You can easily set the Free Agent Hardware and make it an active drive, then setup the Backup Software within MS 2000, XP, or Vista.I've read reviews that seem to point out the burden of USB2 write speed.  
+55. It makes no difference if the interface is Firewire or USB if the intent is to just backup data.  
+56. This backup drive comes with a 5 yr. warranty.  
+57. Stayed connected long enough for me to create a huge backup; now it flickers on and off, and every time it flickers on, the FreeAgent software wants to reinstall itself.  
+
+negative sentences : 
+1. I needed a removable hard drive to backup my data and then store off site.  
+2. This external harddrive is really light. easy to carry and afterall it has a built-in backup system which saves me a lot of time.
+3. I have struggled for years with different ways to backup my hard drive on a regular basis.  
+4. I have had this drive as my backup for many years and at the risk of jinxing it, it is still working perfectly.
+5. I have a lot now, so my 500 GB drive is nearly full.it makes me wish I would have went for the 1TB drive.if you are not planning on downloading and storing, or more for backup or for office storage or for storing maybe schoolwork or to back up documents and such, this drive is great! 
+6. I usually have good luck with electronics, so I got this drive for it's low price despite several one star warnings.Twice I've plugged it in to back-up data.Tonight I plugged it in to run another much-needed backup, and the drive won't power on. 
+7. I bought this as a backup for my 2 hard drives that are 7 years old. 
+8. Having data backed up is pointless if your backup drive is unreliable, so I will ask again, has Seagate addressed the overheating and subsequent failure issues with this drive?
+9. I needed a backup for my other backup which is a SimpleTech 250GB hard drive I bought a couple of years ago.  
+10. I needed a backup for my other backup which is a SimpleTech 250GB hard drive I bought a couple of years ago.  
+11. It comes with some sort of software to "help" you backup data. 
+12. Oh, BTW -- neither the box nor the multi-fold pamphlet will tell you this, but the Free Agent cannot be employed to perform automatic backup.  
+13. The backup process run on the background and doesn't take much time, data transfer is faster than I thought. 
+14. The included backup software is not spectacular, but straight copy/paste to the drive works very well.My main reason for reviewing is that we had a great experience with Seagate customer service.  
+15. I use this hard drive to backup files on my laptop. 
+16. I do also burn DVDs, but I like to have more than one method of backup storage so that I am sure that my things are properly saved.This external drive fits my needs perfectly.  
+17. I would prefer if the drive did not come pre-installed with Seagate's backup software but it was easy enough to disable. 
+18. It will backup more than one computer, but moving it around is not very convenient.  
+19. The backup software doesn't seem to be running as scheduled, but maybe I didn't configure something right. 
+20. You usually receive a message that "hidden file" backup is not supported", even though in many cases your photos aren't "hidden files". 
+21. How foolish of me not to consider that a backup which is unreadable by your OS is useless.Do not let this happen to you.  
+22. A generic drive will work with windows backup and not leave you subject to extortion.Edited to note that after a week of working on it daily, and ultimately handing the project to my daughter who works in IT, I have rebuilt my system and retrieved most files, BUT lost every program i did not have the original install disk for.I do not understand why Seagte limits the number of installs on the software.  
+23. Backup is easy, no noise, easy conection and nice design. 
+24. I have other backup drives that have lasted a lot longer
+
+------------------------------------------------------------------
+feature : power, positive Score : 26 and negative Score :-14
+------------------------------------------------------------------
+positive sentences : 
+1. The only downside to having this is that you need an external power source to run it, unlike newer, smaller hard drives that are powered through the USB port. 
+2. By the way, it's also good precisely because it has its own power supply, thus enabling use of my iMac's keyboard USB slot which will not accept unpowered connections, and some external hard drives are indeed unpowered.
+3. You would have to unplug power or usb cable several times. 
+4. The back up software is turning over processing power to the new app  or whatever you are trying to execute.  
+5. I use a UPS but the battery is apparently failing and I had several power dips.  
+6. only allows you to see the yellow power on light from the right side.Actual capacity is really about 465GB.Still this is an excellent buy, and with the warranty, you can't go too wrong.8-26-07 Update: I liked this external drive so well, I just bought another one (cheaper price now).
+7. The power switch isn't in good and comfortable position. 
+8. p_faqid=683&p;_created=985826313 also I would go to our website download and install the latest software and use the power management software so it can go into a standby mode so the drive is not again running 24/7Keith: that is a startTodd Nickolas: Does that link include instructions on how to disable the lights on the drive?
+9. Power switches are not a bad thing!  
+10. An external USB drive with it's own fan, power supply, and 5 year warranty.  
+11. (Which isn't that the very reason why we bought EXTERNAL disks in the first place, for power supply RELIABILITY and better HEAT MANAGEMENT?)
+12. * The performance of the disk is good.* No issues of usage till now.* A little bulky (Heavier due to 500 GB size)* The only cons is it requires external power source for the usage.
+13. For such a low price you get a large capacity, small footprint, high speeds, and low power consumption (meaning less heat dissapation). 
+14. Unit would not power up after less than one month.
+15. This drive does what its supposed to do, which is back up my files automatically without me having to think about it.One significant glitch is that if I completely shutdown my computer, the next time I turn the computer on, I have to unplug the external drive from the power source and replug it in order for the drive to show up on my computer.  
+16. The bulk and the need for external power might be a little inconvenient, but when it comes to reliability, it's a sure-shot winner! 
+17. I've tried using a new power adapter but, still, it's a no go. 
+18. Seagate sent me a new power cord, but unfortunately, that didn't fix the problem. 
+19. It obstructs only the outlet into which it's plugged, leaving the rest of the power strip available for your lava lamp and other gadgets. 
+20. I needed external HDD as data storage (rare usage, I do not use it as "big flash drive").It was best value for this price.Only thing - it requires AC power adapter (some external drives can work on USB power), but for home use it is not a big problem.
+21. Seagate sent us new power adaptor but it still doesnt work.Now all my files are gone and Seagate will charge us for data recovery!!! 
+
+negative sentences : 
+1. I'm using it with ext2 (linux) filesystem with no real problems, though I do have to umount/mount on the command line (no autodetect) after the sleep problems (not unique to this drive).It would be nice if the case was redesigned... put the power circiuts in that front asymmetric part instead of the base, and make the base just a removable "dock" with power and usb plugs passing through (so you don't actually need it unless you are setting the drive on its edge).The design isn't significantly worse or better than anything else I've seen out there.  
+2. I'm using it with ext2 (linux) filesystem with no real problems, though I do have to umount/mount on the command line (no autodetect) after the sleep problems (not unique to this drive).It would be nice if the case was redesigned... put the power circiuts in that front asymmetric part instead of the base, and make the base just a removable "dock" with power and usb plugs passing through (so you don't actually need it unless you are setting the drive on its edge).The design isn't significantly worse or better than anything else I've seen out there.  
+3. Importantly, runs off USB port for power so no crashes or outside power or UPS.  
+4. Importantly, runs off USB port for power so no crashes or outside power or UPS.  
+5. I do not know if this is a design flaw (no power switch) or just a defective drive.  
+6. The auto power on/off works fine with my Dell laptop.Note: I've only had the drive 2 days, so I can't speak for its long term reliability. 
+7. There seems to be some major power management issues with the enclosures.  
+8. This unit has a defective power supply / circuit board which renders it useless eventually. 
+9. Fourth, because of the software that comes with the drive and the abundance of storage space, I will be backing up the entire contents of my laptop's built-in hard drive.Fifth, I like Seagate hard drives because of their reliability and relatively long warranties.When I first set this device up, I was surprised to find that there was NO external power switch of any kind. 
+10. After going through all the checks and options I realized that the internal power connect was bad.Now for the big question.  
+11. I call that appalling and unacceptable.I have since replaced the power adapter on my other FreeAgent unit with a high-quality aftermarket adapter...again, at my own expense.  
+
+------------------------------------------------------------------
+feature : product, positive Score : 49 and negative Score :-12
+------------------------------------------------------------------
+positive sentences : 
+1. But the performance is above expectation and GB's get transfered in seconds.Overall, a useful storage product.
+2. I don't think I have ever registered any product for warranty coverage; most warranty periods are so short they aren't usually worth the effort. 
+3. This is a fantastic product. 
+4. My computer and PS3 have no problem recognizing it.Overall, I would recommend this product to anyone looking for an external drive solution.
+5. the price here was much less than the other two i bought, but the same product.  
+6. I'm very satisfied with the product and Amazon.com! 
+7. The whole business transaction and quality of the product is some of the best interactions and purchases I have made.
+8. But the product is highly satisfactory.  
+9. Another good thing about this product is this having a good duration of warranty service.Only bad thing about this product is it is needed to be connected with AC power, so there is always a chance that for any surge in the AC may damage the product.Overall I am happy with this product.
+10. I've had the product for several months and hasn't done me wrong. keep in mind though that whenever you buy any harddrive external or not the actual usable space is always lower than what it says due to how space is allocated. (500gb = 465gb of usable) all and all, it's a great drive.
+11. It's a good product. 
+12. You're tempted to have this device serve as a backup of documents on your main computer, but I'd advise you to have a backup of your backup because you can't rely upon this product to serve you long term.  
+13. My friend recommended this Free Agent product and am very satisfied with the purchase. 
+14. Just be sure to save the original packaging if the product becomes defective.  
+15. The product worked fine for about a month and then stopped.  
+16. I like the software it comes with, the sync features are very useful, good brand name, great product!!!
+17. Why they would design a product to use a non standard cable and then make replacing that cable almost impossible is beyond me.  
+18. So far I am very happy with this product
+19. Today, I got a quote from Best Buy- it would cost $1599 for data recovery through them.Best Buy told me flat out that this problem was 100% due to a poorly produced product and Seagate refuses to be helpful in the least.  
+20. This was an incredible product at a great price. 
+21. Another good thing about this product is this having a good duration of warranty service.Only bad thing about this product is it is needed to be connected with AC power, so there is always a chance that for any surge in the AC may damage the product.Overall I am happy with this product.
+22. Another good thing about this product is this having a good duration of warranty service.Only bad thing about this product is it is needed to be connected with AC power, so there is always a chance that for any surge in the AC may damage the product.Overall I am happy with this product.
+23. If you keep it plugged into a computer, it will power down when the computer is turned off and vice versa.The only negative is that file access is a little slow, but I have nothing with which to compare it, except the hard drive that is built into my laptop.All in all, this is an excellent product and a good choice for solving my particular problem....
+24. Product is easy to install.  
+25. If your sole purpose is to offload archives, then this is a great product.  
+26. If you're going to do constant computer backups and leaving it plugged in, I think it's safer if you purchased a product with more positive reviews. 
+27. The 500 GB is great: I don't feel that I need one of those monstrously large drives that come in TBs.The space and the price are great for a very good product.  
+28. I bought 2 HDs for extensive use in my research.Easy installation, slim, quiet, and no heat.5-year warranty printed on the box guarantees its reliability.However, this may be true by 2008 or 2009 becausecomputer technology changes very quickly.Look for a new product from Seagate before buying this one.
+29. I do wish it could be switchable between Mac and PC but even still great product. highly recommended.
+30. I am delighted with this product.  
+31. This product worked great for me for about a month, until one day I tried to access certain files, and about half of them were missing (I had about 50G or so of media files, including videos of my son). 
+32. If you're looking for a good external drive and you can pick one of these up in good condition they're a good product to use.
+33. waste of money. bought this product last year and now it's not working anymore drive does not power anymore. 
+34. Another good thing about this product is this having a good duration of warranty service.Only bad thing about this product is it is needed to be connected with AC power, so there is always a chance that for any surge in the AC may damage the product.Overall I am happy with this product.
+35. Appears to be a great product with simple installation. 
+36. I suppose the mistake was mine to think I could count on such a simple product to be that reliable, but I guess the point is if you are planning to use this device to store data you can live without, by all means, go ahead. 
+37. It was a good price, it's a good product - and I'm glad I went with this product!
+38. It was a good price, it's a good product - and I'm glad I went with this product!
+39. Depending on your intended use and degree of sophistication this could be a great product.PROS: I've had great luck with Seagate drives. 
+40. Really a very good product. 
+41. This product would be great for the average Windows user, but Mac fans beware!
+42. I'm very satisfied with the product and Amazon.
+
+negative sentences : 
+1. This way you won't have to pay for more should the product become defective and you need to send it out.  
+2. I've read they want $1,400 to recover your data from a product they know is defective.
+3. I've had good experiences with Seagate before but this product is just terrible plain and simple. 
+4. I trusted Seagate to sell a quality product, was I ever wrong. 
+5. It never malfunctions like my last product did.
+6. Love this product or hard drive. 
+7. I lost everything.If you go to the link I posted above, you will find numerous responses to the problems associated with this product and a few jimmy rigged fixes (such as taking drive out of case, modifying insides by cutting wires that power lights on drive.. etc)In short STAY AWAY... don't be a fool like me and after being failed by the 500 gb model, be tempted by the sale price of the 750 gb model and have it happen even faster!  
+8. Increasingly frustrated, you phone Seagate Tech Support (M-F, day hours only mind you), you get put on hold, and when you eventually connect, you get someone who is not that familiar with this particulalr product (yup, happened to me twice in 2 successive days).  
+9. Other than the drive itself, you find nothing but a small, multi-fold pamphlet that hypes the product but tells you zilch about setting it up.  
+10. Overall, good product, great price.
+11. Seagate's glowing product description of its FreeAgents overlooks a rather important detail: the sleep utility built in to the hardware severely restricts its compatibility with any GNU/Linux Operating System (and allegedly with Mac systems). 
+12. I couldn't be more angry with this product. please please never buy anything seagate makes.
+
+------------------------------------------------------------------
+feature : drives, positive Score : 51 and negative Score :-36
+------------------------------------------------------------------
+positive sentences : 
+1. The one thing hard drives are supposed to do, is to store files so they won't get lost. my computer has notified me that around half of my music, or  30 gigs, couldn't be rewritten to this stupid hard drive, that was working five days ago. it seems that it is now randomly deleting all my music, and my computer is now fine. but this is around the 10th time there's been a problem with it. 
+2. A better alternative is to purchase a Seagate 500GB SATA drive (because despite this flub, Seagate still makes the best hard drives and offers the best warrantees) and an external USB chassis with good ventilation (such as the Antec MX-1).
+3. I've always had good luck with Seagate drives...  
+4. But Windows XP never detected two of the drives, installing them only as "Unknown device," despite more than a dozen attempts to reinstall.Problem: "These drives are bad because the chipset is not responding properly with your computer."  
+5. But Windows XP never detected two of the drives, installing them only as "Unknown device," despite more than a dozen attempts to reinstall.Problem: "These drives are bad because the chipset is not responding properly with your computer."  
+6. Apparently, this is a common problem for Seagate drives: [...]Set-up was ok, but not totally user-friendly. 
+7. So far, so good.PS: Drives can and will fail so I also backup to Verbatim 8.5GB DVD+R DL disks for security.
+8. Common sense folks, if that's what you were looking for, why didn't you pay for a drive that SAID it could do that, and not assume that one of the cheapest 500GB drives you found would have all the bells and whistles.The drive works great. 
+9. Having used Western Digital external (and internal) hard drives for years, I finally got tired of their phantom bugs (especially the external drives).I've been running the Seagate Free Agent 500GB drive as my backup for a couple of months now and the thing just purrs along. 
+10. Having used Western Digital external (and internal) hard drives for years, I finally got tired of their phantom bugs (especially the external drives).I've been running the Seagate Free Agent 500GB drive as my backup for a couple of months now and the thing just purrs along. 
+11. All of their drives have the same problem, where they overheat and destroy the hard-drive.  
+12. Neither the power supply nor the cable has any markings to indicate they are Seagate and therefore, while I can pull out any usb cable to connect any of my other usb drives, this is not the case with this line of Seagate drives.  
+13. I remember installing the old MFM and RLL drives in the 5Mb and 10Mb sizes.  
+14. Ask them why they do not offer up a 5 year warranty on their external drives.  
+15. I have the misfortune of having 3 of these duds. 1T and a 500GB DIED after about a year, both drives were full. 
+16. Draw is ~10-14w when being used; much less than many other USB2.0 drives.Stability of transfer speed - I use the drive for large files 1-2GB mostly, 5GB takes about 25 seconds; excellent.No negatives whatsoever to mention, completely happy with the drive.
+17. Far superior to the WesternDigital drives IMO.I used this in a tropical rainforest under far from ideal (or rated) conditions.  
+18. When it comes to my files you only get one chance so I'm sticking to WD from now on.All I have to say is if you plan on purchasing any Seagate hard drives make sure you have an extra hard drive to back up your files just in case this happens to you too.
+19. The Free Agent line of Seagate external hard drives are a big disappointment after having the previous Seagates that are PERFECT. 
+20. It's very useful for imaging drives and I have images of four different computers stored on it.  
+21. The build seems solid enough, although I'm sure there's external hard drives out there with a more solid, compact, space-efficient build with better materials, but this one will do. 
+22. It joins two older Maxtor OneTouch drives. 
+23. Contacting Seagate they offered to exchange drives for free but to get 4 years of our photographs recovered it would be between $700 and $2900. 
+24. These drives are super easy to set up - if you can plug a digital camera into your computer you can set one of these up - operate fast and are nice and quiet. 
+25. Transfers times between the drive and my pc are fast and i have seen no problems playing videos right off the drive.My past experience with externals i was expecting something rather loud, but this is quiet and i have not noticed any problems with excessive heat that i had with past drives.
+26. I'm going to ask for a refund.I'd recommending doing a little research on Consumer Reports about external hard drives - there are so many of them out there and I thought Seagate was a respected and well-known name.  
+27. I have had extremely good experiences with seagate drives, and my company has owned thousands.This drive failed on me within 2 weeks of purchase. 
+28. I needed external HDD as data storage (rare usage, I do not use it as "big flash drive").It was best value for this price.Only thing - it requires AC power adapter (some external drives can work on USB power), but for home use it is not a big problem.
+29. The 500 GB is great: I don't feel that I need one of those monstrously large drives that come in TBs.The space and the price are great for a very good product.  
+30. Myself, I'll stay away from Seagate drives in the future.Best of luck.
+31. It would be less fraudulent if the drives were sold for $20 a piece but they are sold at regular prices. 
+32. The only downside to having this is that you need an external power source to run it, unlike newer, smaller hard drives that are powered through the USB port. 
+33. While you can download a variety of software from their site, none of it allows you to do a full restore from their drives.After many many iterations (I had back ups of back ups on my drive) I would say without hesitation that having relied on Seagate made an already bad situation very much worse.For anyone who is not something of a wizard, I'd say that you should avoid their products like the plague.  
+34. Well, I have always liked Seagate drives because they are the last ones with a five year warranty. 
+35. i think its a good idea to have at least 500gb to do your thing, but not at this expense. i purchased the drive and moved about 100 gb of music and movies. 10 hours later, everything was gone...i made a few calls to tech support, who seem to want to give me the run around instead of replacing the drive. they talked to me like i didnt know what i was doing. u can train a seal to use a plug and play drive. then he told me it must be my Mac. i dont think so brother. i have about five external drives and they all work well with my Mac.. then he asked me did i really put any files on the drive.....WHAT??????? 
+36. I'm using this as a mirror drive for my smaller internal hard drives.The Read/Write speeds are about 30/30MBps (megabytes, not bits) according to CrystalDiskMark, and it also performs well with small files, unlike flash media. 
+37. I was able to grab this drive for $65 shipped, which is a pretty decent deal, despite the fact that significantly faster and larger internal drives can be had for less. 
+38. By the way, it's also good precisely because it has its own power supply, thus enabling use of my iMac's keyboard USB slot which will not accept unpowered connections, and some external hard drives are indeed unpowered.
+39. I had to unplug and replug the USB chord again to get it to wake up.Luckily, current drives have evolved a lot better off.If you ever see one of these around, buy it for a buck to frame up on the "Wall of Shame."
+40. I have a few other external drives with ridiculously loud fans. 
+41. I have had no problems with other external hard drives. 
+42. I was given one of these drives (brand new) for a project at work. 
+43. I have several of these drives and have had no problems with any of them.
+44. Depending on your intended use and degree of sophistication this could be a great product.PROS: I've had great luck with Seagate drives. 
+
+negative sentences : 
+1. i have three computers and this drive has had problems on all of them. if i leave it connected and restart, the drive does not show up on my computer. it seems to only be recognized when i plug it in one out of every 3-4 times. nothing but problems from day one with this drive. also does not shut itself off when not in use like western digital's mybook or the buffalo drivestation. i have several external drives and have never had this much problems till i got this hard drive. i would rate it with a zero but there is no option on amazon for that.
+2. In talking to other friends who have external drives, they say they are unreliable.  
+3. I bought this as a backup for my 2 hard drives that are 7 years old. 
+4. I have returned two drives due to the same reason.
+5. Compared to the older Maxtor's it is way smaller and less noisy.I ordered this drive with some trepidation as I have had 2 other drives (from different manufacturers) arrive DOA. 
+6. I researched hard drives before I purchased and talked to a couple of people who are more informed than I about the brand and size of hard drive I should purchase.  
+7. I don't know if this hard drive was either defective or if it was because I plugged it into the Mac or if Seagate just makes crappy hard drives, but I only backed up files onto this drive one time and it just decided to lock up. 
+8. I only had WD hard drives and this was the only Seagate drive I ever purchased because it was on sale. 
+9. The only way I can get either of my machines (laptop and tower, different makers, different OSs) to see the drives is to power them down and back up each session.  
+10. I also own 2 more Maxtor external hard drives own by the Seagate company and they also have crashed within less than a year of using and they are also not detectable on my Mac OS operating system. 
+11. I have other backup drives that have lasted a lot longer
+12. They don't even dare to offer up 5 year warranties on their internal drives!
+13. I have several Seagate drives and have yet to have a problem with any of them.  
+14. As major manufacturers have begun to make relatively inexpensive external hard drives, I decided the time was right to improve my back up process.I did some research on the WEB and learned that the Seagate FreeAgent seemed to be highly regarded--and the pricing was similar to solutions from other major suppliers. 
+15. (Many external hard drives fail after some months of use, so I can't comment on it's performance beyond a few months).  
+16. At first I was convinced that this should be an error attributed to the Windows OS but hey other external hard drives i have work fine without ever experiencing this annoying problem. 
+17. I've learned my lesson with these pathetic drives I'd recommend all of you to buy hard drive enclosure instead and fit it with your own desired internal hard drive yes a little troublesome but well worth the fuss coz it will last and wont just stop responding while plugged in.I've heard that Seagate makes internal drives of admirable quality but they have failed big time on these external drives
+18. I've learned my lesson with these pathetic drives I'd recommend all of you to buy hard drive enclosure instead and fit it with your own desired internal hard drive yes a little troublesome but well worth the fuss coz it will last and wont just stop responding while plugged in.I've heard that Seagate makes internal drives of admirable quality but they have failed big time on these external drives
+19. I've learned my lesson with these pathetic drives I'd recommend all of you to buy hard drive enclosure instead and fit it with your own desired internal hard drive yes a little troublesome but well worth the fuss coz it will last and wont just stop responding while plugged in.I've heard that Seagate makes internal drives of admirable quality but they have failed big time on these external drives
+20. After going through a number of hard drives, all of which work without problems, my favorite design is this new Seagate "Free Agent" line, which haa a compact and attractive form factor. 
+21. The Seagate drives are not worth the risk/money in my opinion. 
+22. In fact, I now have 3 of their drives, and with multiple backups thought I was safe. 
+23. The performance is great - it's quieter and faster than any of my internal hard disk drives, so I'm not complaining about the lack of firewire support or any such. 
+24. I'm sure that there are dozens of other brands of off-line hard drives, but when your reason for buying one is reliability and survivability, I feel buying a brand that's been around since the dawn of home computing.  
+25. Just a very poor overall design and performance.Look more toward Maxtor drives for better design and speed.
+26. Oh man, I was livid.Seagate replaced the drive, which is fine, but they only replace broken drives with refurbs... so, you replace your broken drive with one that was ALREADY BROKEN. 
+27. And guess what they charge to recover data from broken drives? 
+28. These are quite, affordable drives, but unfortunately, they are not compatible with the Mac as claimed! 
+
+------------------------------------------------------------------
+feature : files, positive Score : 63 and negative Score :-16
+------------------------------------------------------------------
+positive sentences : 
+1. Draw is ~10-14w when being used; much less than many other USB2.0 drives.Stability of transfer speed - I use the drive for large files 1-2GB mostly, 5GB takes about 25 seconds; excellent.No negatives whatsoever to mention, completely happy with the drive.
+2. Once I disabled that, I was able to backup only the files I wanted, but after doing that 2 or 3 times, the hard drive stopped working altogether. 
+3. I don't see the point of backing up files onto an external hard drive when the life expectancy is shorter than the internal hard drive. 
+4. I believe most said Seagate is pretty good in rendering assistance with this problem and are typically able to restore their files, assuming you haven't messed with the corrupted data too much.  
+5. I recall several people saying they lost files that way. 
+6. (Though what do I know, I thought tapes were just fine when CDs and DVDs first came out.)Techies be prepared to laugh at me but not understanding what kind of software is loaded on this external drive, I was initially afraid to play music files from it because I wasn't sure if I had to install Media Player on it as well. 
+7. Now it's up to Seagate to keep them safe and sound.To give you an idea of the speed of the USB connection, it took exactly one hour (well, 1 hour 4 minutes) to copy 52 GBs worth of music files onto it. 
+8. I have now modified my download settings to load music files directly onto the external drive, skipping my computer altogether. 
+9. And, once I was sure my music files were safely on the external drive and fully accessible, I (nervously)deleted them off my computer. 
+10. With no cooling system, it will slowly bake itself (and your beloved files) to death.  
+11. I also used it to copy files from am old PC to load to my new PC and it went flawlessly.Speed is adequate for my purposes--although the lighting could be improved to increase visability. 
+12. However, it is time consuming and meant that my only copy of my data files was inside my PC. 
+13. First time, maybe a coincidence, but after two in a row have tanked... well, good thing it was only holding temp files, not anything important. 
+14. Non Creedo apps can be placed in a separate directory on the GO drive or better yet, include them in your backup files so the data/passwords/browser favorites are always in sync.I am not sure if you can back up to GO and PRO on the same machine since they share the same software. 
+15. Does it make sense to carry primary backup files with you instead of locking them up in a secure area?  
+16. Not sure, but it makes sense that Memeo software will sync new files to your hard drive if GO was used on a different computer and new files created.
+17. Installation was automatic on a Windows machine running XP Pro and took less than five minutes to install and customize the backups.The Seagate Free Agent lets you retrieve files easily and settings can be adjusted for any type of automatic backup with the files and folders you choose to back up.The 500GB storage size is perfect for most computers (Note: only 465GB actually available).The slim vertical profile takes up no more space than a stapler.The drive comes with a power cord, USB cable and installation instructions for both Windows and Mac.  
+18. About a year after I used it on the Mac I plugged it into my desktop again so I can back up more files but Windows didn't even acknowledge that there was anything plugged into it (there was nothing wrong with the port since it was able to read a WD drive on the same port) but the Mac was still able read to from it. 
+19. On my Mac I was able to read the files but I could not write to it so I just shrugged it off as a compatibility issue. 
+20. I don't use my computer for much, so this item is overkill for me as I only use it to store a few files. 
+21. Great item to back your files. 
+22. All my files were transferred immediately.Excellent item-GO FOR IT!
+23. It works great, backing up both seamlessly, and gives me extra storage for other files too.
+24. So, my word of advice is that if you use ANY storage device, make sure you have your important files backed up in multiple places.
+25. It was our unfortunate circumstance that all sources for files were lost at the same time.  
+26. Certainly we wouldn't have made this our only source of files by choice.  
+27. We backed all of our files up on this, then our computer broke making the Seagate the only place our files were.  
+28. Not sure, but it makes sense that Memeo software will sync new files to your hard drive if GO was used on a different computer and new files created.
+29. (The scratch disk if just used for temprary files - I wasn't actually storing any full-time data on the drive.) 
+30. This product worked great for me for about a month, until one day I tried to access certain files, and about half of them were missing (I had about 50G or so of media files, including videos of my son). 
+31. I purchased this item in August to store large media files, music, and backup large folders of archived documents. 
+32. I just make a habit of backing up my work either right away or at the end of the day. 4) burn a CD of the setup files that come pre-installed on the drive, in case you have to reinstall your system at some point in time, and then delete them from the drive if you want to.
+33. That way you don't have to unplug it or lose data, as some users have reported. 2) Instead of drag and drop for copying files (which produced some very weird results and caused some files to go off into the ozone), COPY the file and then PASTE it into the location you want it to go into on the FreeAgent disk. 
+34. That way you don't have to unplug it or lose data, as some users have reported. 2) Instead of drag and drop for copying files (which produced some very weird results and caused some files to go off into the ozone), COPY the file and then PASTE it into the location you want it to go into on the FreeAgent disk. 
+35. I had thought I needed the SATA speed to make it practical to back up large files, but finally had to try another way to meet my backup needs. 
+36. The service and price were just great.Don't lose your files, pics and music the Seagate Free Agent  500 GB will save your butt. 
+37. I decide buy a new external HD and copy all me new files in it to protect them. 
+38. Seagate backup software does not backup hidden or system files. 
+39. Luckily, I don't anticipate needing my old backups, and have all my important files on my computer, but if I had important files on the drive, I'd be pretty peeved.
+40. Luckily, I don't anticipate needing my old backups, and have all my important files on my computer, but if I had important files on the drive, I'd be pretty peeved.
+41. I bought the FreeAgent about a year ago to back up data, photos, and music files on my new desktop. 
+42. Unfortunately, this software has a bug, and began deleting files on my main drive!  
+43. But if you just want to set up a external hard drive to reliably backup your files, this one will do. 
+44. After putting off having something on which to back up files for too long, it provides a solid sense of relief to have this unit.  
+45. There are not unduly long waiting times to back up a few GB of files and the hardware works properly when interfacing with Windows XP without having to worry about drivers.  
+46. DO NOT BUY THIS PRODUCT if you want your files safe.
+47. I purchased the Seagate Freeagent desktop to store all of my most precious files...what a mistake. 
+48. I'm using this as a mirror drive for my smaller internal hard drives.The Read/Write speeds are about 30/30MBps (megabytes, not bits) according to CrystalDiskMark, and it also performs well with small files, unlike flash media. 
+49. Stores millions of files, and is very reliable. 
+50. They update their computers as well as adding any new files to my "storage" drive.I have no complaints, not even one about this drive.  
+51. This is still wrking well, also the read speed of the hard disk is 7200rpm, so it really read or write the files quite in good speed. 
+52. Turn it off (i.e. unplug it, as there is no on/off switch) for an hour or two, plug it back in, and it's working again - all of the files are visible in Windows Explorer. 
+53. The housing doesn't have any vents so I could see heat being a problem but haven't experienced that.CONCLUSION: I looked around and decided that for my purposes (just backing up huge video and data files) this was a perfect drive. 
+54. It is good for backups and storing files / programs that are not frequently used.  
+55. I currently have it connected to my Dell desktop (running Windows Vista) for weekly automatic backups and storing media files.  
+56. Seeing as my C: drive is only 160GB, just one of these drives serves as a backup of all my important documents and files, plus holds a TON of music, pictures and video.And because these are so affordable, it's well within reason to have a second one at its side backing up the first.That's just what I've done and I couldn't be more pleased with the results. 
+57. if you use this for "backup", make sure you have a backup of your backup files!!
+58. Seagate sent us new power adaptor but it still doesnt work.Now all my files are gone and Seagate will charge us for data recovery!!! 
+
+negative sentences : 
+1. Regardless, I taped a sticky note to my computer to remind myself never to directly unplug the external drive because I know one day I would unplug it without thinking.In any event, fingers crossed on reliability but everything else is performing smoothly so far.UPDATE:I now noticed a slight delay when accessing files on the external drive.  
+2. It is marketed as a device that holds your files and portable applications.  
+3. Upon disassembling the Seagate product I saw that the power converter was singed and had fried my hard-drive, making it impossible to get any files back without going through an expensive service.  
+4. And I am using this drive not only storing huge data files but I use this drive for hours of Video Processing. 
+5. He has the same Seagate and uses it more often than not to reload his entire load of files after someone or something crashes his computer online. 
+6. I made the circuit starting with my Gateway then to my Mac G5, Dell, and IBM laptop and am happy to report that all 4 units recognized the hardware promptly and permitted me to import/export files easily.Unlike other hard disc drive users, I use mine for simple back up archival purposes.  
+7. Every hour if I'm working in my office I'll hear a slight whirring of the drive spinning up and some files being backed up from Time Machine, but it hardly makes more noise than the iMac itself, and far less than any PC or laptop I've ever used. 
+8. Among the trash that Seagate feels entitled to stuff onto your hard drive are multiple pdf files of every version of the user license agreement for every country in every language. 
+9. I still don't fully trust it, but it's a good place for my less valuable files and videos. 
+10. A generic drive will work with windows backup and not leave you subject to extortion.Edited to note that after a week of working on it daily, and ultimately handing the project to my daughter who works in IT, I have rebuilt my system and retrieved most files, BUT lost every program i did not have the original install disk for.I do not understand why Seagte limits the number of installs on the software.  
+11. First back-up was real fast probably because it would not back up any hidden files - which includes all my photos and music.  
+12. After having my PC die once, taking many unbacked-up files with it, I felt I needed to have an external storage.  
+13. It doesn't "see" any of the files in the Documents and Settings folders, such as Outlook .pst files, Favorites, or Bookmarks. 
+14. I use this hard drive to backup files on my laptop. 
+15. I've backed up a lot of files on this sweet little drive through the years, and it hasn't failed me yet. 
+
+------------------------------------------------------------------
+feature : computer, positive Score : 44 and negative Score :-28
+------------------------------------------------------------------
+positive sentences : 
+1. The one thing hard drives are supposed to do, is to store files so they won't get lost. my computer has notified me that around half of my music, or  30 gigs, couldn't be rewritten to this stupid hard drive, that was working five days ago. it seems that it is now randomly deleting all my music, and my computer is now fine. but this is around the 10th time there's been a problem with it. 
+2. Nothing wrong with our computer, it seems that this happens with Seagate drives regularly. 
+3. Just plug it in and you can access it from your my computer as a second HDD. should be next to your C: drive. 
+4. Sure enough, all you have to do is plug the sucker in and presto, it is recognized and your computer loaded with all the necessary software to run it. 
+5. I have now modified my download settings to load music files directly onto the external drive, skipping my computer altogether. 
+6. You're tempted to have this device serve as a backup of documents on your main computer, but I'd advise you to have a backup of your backup because you can't rely upon this product to serve you long term.  
+7. great item to buy. my computer inmediately recognize it, so i may think about buying a second one.
+8. It is just a minor nuisance.I can't really say it is the external HD problem or my computer. 
+9. But is it safe to turn off my computer?
+10. Not sure, but it makes sense that Memeo software will sync new files to your hard drive if GO was used on a different computer and new files created.
+11. When we got the new computer and tried to upload the files from the Seagate to the new computer, it wouldn't work.  
+12. When we got the new computer and tried to upload the files from the Seagate to the new computer, it wouldn't work.  
+13. It has really freed up my computer, it was nearly full. 
+14. I originally bought this product to back up all of my memories- photographs, music, and documents- since my ancient computer was pitter pattering on it's way out and has a very small hard-drive.I had a 320 GB FreeAgent hard-drive and after about 8 months, one day it just stopped working.  
+15. I would buy it again.My recommendation: buy this Seagate 500GB drive if you are in the market for a lot of extra external computer storage.
+16. Next thing you know, the computer doesn't recognize the drive and I can't get at it at all.  
+17. It has power but the computer cannot detect the hard drive. 
+18. While this drive can be plugged into a single computer and programmed to perform regularly scheduled backups, it can also be easily moved from computer to computer to backup all your household computers.
+19. Although I'm a longtime and moderately knowledgeable home computer user, I was amazed at the virtual absence of installation info with the product; and the online info actually conflicted with the minimal info that came with the product.  
+20. This drive does what its supposed to do, which is back up my files automatically without me having to think about it.One significant glitch is that if I completely shutdown my computer, the next time I turn the computer on, I have to unplug the external drive from the power source and replug it in order for the drive to show up on my computer.  
+21. This drive does what its supposed to do, which is back up my files automatically without me having to think about it.One significant glitch is that if I completely shutdown my computer, the next time I turn the computer on, I have to unplug the external drive from the power source and replug it in order for the drive to show up on my computer.  
+22. Luckily, I don't anticipate needing my old backups, and have all my important files on my computer, but if I had important files on the drive, I'd be pretty peeved.
+23. I bought this HD because me computer HD was full and in past I lose all my info for a virus problem. 
+24. I was introduced to Seagate about 2001 when I needed to replace the 'whopping big' 13GB hard drive in my first computer, a Sony early model pc. 
+25. I purchased this external hard drive so that I could back up data from an older computer before purchasing my new computer.  
+26. I purchased this external hard drive so that I could back up data from an older computer before purchasing my new computer.  
+27. If you're going to do constant computer backups and leaving it plugged in, I think it's safer if you purchased a product with more positive reviews. 
+28. Was really easy to install and now I have moved all my pics and music over to the external hard drive and my computer is working better.
+29. this is a nice backup for my work computer. you program it and you don't have to remember to back up at all. holds lots of info!
+30. and it's in my music studio by my computer... so quiet is a big necessity! 
+31. [...]Anyways, mine didn't last long before I began having I/O errors, diskwrite errors, computer not recognizing it, etcBUT before that even happened, it takes a long time for any one of my 5 computers to recognize it, boot and or transfer files.I was using this as my backup storage and when my computer failed, losing all my work, I was glad to know I had backup storage.... what a joke that idea was, because my backup storage failed even more miserably!  
+32. [...]Anyways, mine didn't last long before I began having I/O errors, diskwrite errors, computer not recognizing it, etcBUT before that even happened, it takes a long time for any one of my 5 computers to recognize it, boot and or transfer files.I was using this as my backup storage and when my computer failed, losing all my work, I was glad to know I had backup storage.... what a joke that idea was, because my backup storage failed even more miserably!  
+33. Then if I need to restore something I'll spring for a SATA to eSATA connector (circa $15) or just plug the drive directly into the computer.This is just a good hard drive with a free external case. 
+34. This has not been my experience.The one I have now is attached to an old computer with a very small hard drive, I use this drive to install programs and then run them off the computer... works like a charm.I even use newer models at work... 
+35. These drives are super easy to set up - if you can plug a digital camera into your computer you can set one of these up - operate fast and are nice and quiet. 
+
+negative sentences : 
+1. And it does sometimes hang up my computer for a second or so--especially when waking up from hibernation.  
+2. Not only is it the worst piece of hardware I have ever purchased but the software is worse than the drive.My computer refuses to restart or load OS when the drive is connected via USB. 
+3. However, if attached and active when computer hibernates, my system can't seem to find it when it is reactivated. 
+4. I am not sure what the effect computer hibernation may have on the process.Enter FreeAgent Go, much, much smaller in size, 120 gigs.  
+5. It should be illegal to sell most computer equipment to someone as technologically challenged as myself but this thing is "a piece of cake."  
+6. My computer kept giving low disk space message and wouldn't perform some operations because there was not enough memory.Problem solved!!! 
+7. After powering it back on, I was able to use it again for a while.As of last night, however, the unit is no longer recognized by my computer (or any other computer).I am currently unsure if the hard drive is corrupted or if it is the FreeAgent's USB interface that has failed.  
+8. After powering it back on, I was able to use it again for a while.As of last night, however, the unit is no longer recognized by my computer (or any other computer).I am currently unsure if the hard drive is corrupted or if it is the FreeAgent's USB interface that has failed.  
+9. Keith: sure here are some pointers.....Keith: keep it on a flat desk that has some romm around the drive and it is not crowded. do not run it hard 24/7. you can keep it connected to your computer if you do not run your computer 24/7. however if your computer does run 24/7 try unplugging it from time to time (thus the drive will turn off) using this method -- Answer Link:  http://seagate.custhelp.com/cgi-bin/seagate.cfg/php/enduser/std_adp.php?
+10. Regardless, I taped a sticky note to my computer to remind myself never to directly unplug the external drive because I know one day I would unplug it without thinking.In any event, fingers crossed on reliability but everything else is performing smoothly so far.UPDATE:I now noticed a slight delay when accessing files on the external drive.  
+11. I have had this hard drive for my desktop computer so that my photos and documents would remain in tact should something happen to the computer's internal hard drive.  
+12. I tried accessing it from another computer, and more data was gone. 
+13. At one time I had too much music on my computer and ran iTunes off of this drive after I had put everything I had on it. 
+14. Keep all extras on it so I don't fill my original hard drive slowing down the computer hard drive.
+15. Connecting this hard drive to the computer was as easy as plugging it into the wall and then plugging it into the USB on the computer.
+16. It will backup more than one computer, but moving it around is not very convenient.  
+17. The computer is an AMD dual core processor running Vista - no setup problems at all.  
+18. I purchased this drive when I started to unexpectedly run out of hard drive space on my Macintosh Powerbook laptop computer.My laptop has served my needs very well, but when I purchased a 180 GB iPod, is started running out of hard drive space on my Mac. 
+19. I've had it less than a year and about two weeks ago it stopped functioning in the same ways that other reviews have mentioned:  my computer wouldn't recongize the Seagate letter drive on my laptop or anyone's computer!
+20. I have had this hard drive for my desktop computer so that my photos and documents would remain in tact should something happen to the computer's internal hard drive.  
+21. Feels much  safer knowing I've got all that info stored somewhere other than the  computer. 
+
+------------------------------------------------------------------
+feature : data, positive Score : 60 and negative Score :-30
+------------------------------------------------------------------
+positive sentences : 
+1. I haven't given up yet, but this stupid thing has cost me hours of my time and is holding my priceless data hostage.  
+2. They know they have a problem with this drive but won't help you recover data from it at a reasonable cost. 
+3. There is no Firewire option so the file transfer speed is really limited.It did a neat job of storing my data initially. 
+4. All they have is a supposed "live chat" system, but after you fill out all the data required to enter the so-called "live chat" you get a prompt "How may I help you?" 
+5. However, it is time consuming and meant that my only copy of my data files was inside my PC. 
+6. (The scratch disk if just used for temprary files - I wasn't actually storing any full-time data on the drive.) 
+7. They ironically offer their own data recovery service which costs anywhere from $700-$3500.00. 
+8. I purchased this drive less than a year ago and it died on me today 5/12/2009 - Total data loss. 
+9. I tried every possible way suggested in the manufacturer's site but in vain. 500G is for the storage of bigger data, and once they are lost, there is often nowhere to recover. 
+10. By comparison, a 3-year old Western Digital 100GB ATA drive in an external Bytecc Firewire enclosure earned a score of 26.89.The speed difference between Firewire and USB 2.0 is not great enough to account for this difference.I guess Seagate engineers figured that there was no need to stick a fast drive in an enclosure that would be limited by USB 2.0's max speed; I suspect they picked a slower drive to reduce costs.The drive does get hot, but after using it around the clock for three days I have not (yet) experienced any problems with being able to access data on the drive.Those who have reported problems getting the drive to be recognized after using it for backups may be experiencing a known problem with Windows Vista and USB drives, not the Seagate FreeAgent Desktop drive. 
+11. The data is not corrupted and is accessible as would happen with a straight external drive but new data will not back up to that folder.  
+12. The drive was fine and I recovered all data.  
+13. Todd Nickolas: I don't want to go through the same massive data loss I did the first time.Keith: if you are talking about replacing the entire unit if the FreeAgent fails then that is still true. just remember that if the data is important to you have a backup (also known as a copy) of it in case of anything happening to the data weither it is virus or hardware relatedTodd Nickolas: That's what the drive was purchased for in the first place, to back up data, which is kind of pointless if the drive has a history of failing due to overheating. 
+14. Todd Nickolas: I don't want to go through the same massive data loss I did the first time.Keith: if you are talking about replacing the entire unit if the FreeAgent fails then that is still true. just remember that if the data is important to you have a backup (also known as a copy) of it in case of anything happening to the data weither it is virus or hardware relatedTodd Nickolas: That's what the drive was purchased for in the first place, to back up data, which is kind of pointless if the drive has a history of failing due to overheating. 
+15. Todd Nickolas: I don't want to go through the same massive data loss I did the first time.Keith: if you are talking about replacing the entire unit if the FreeAgent fails then that is still true. just remember that if the data is important to you have a backup (also known as a copy) of it in case of anything happening to the data weither it is virus or hardware relatedTodd Nickolas: That's what the drive was purchased for in the first place, to back up data, which is kind of pointless if the drive has a history of failing due to overheating. 
+16. While this is very easy and convenient...I LOST ALL MY DATA and had to spend hours recreating. 
+17. Today, I got a quote from Best Buy- it would cost $1599 for data recovery through them.Best Buy told me flat out that this problem was 100% due to a poorly produced product and Seagate refuses to be helpful in the least.  
+18. After a few tens of Gigabytes of continuous data transfer, the hard drive inside the Freeagent will likely exceed the manufacturers maximum recommended temperature.It is a poorly designed chassis. 
+19. Non Creedo apps can be placed in a separate directory on the GO drive or better yet, include them in your backup files so the data/passwords/browser favorites are always in sync.I am not sure if you can back up to GO and PRO on the same machine since they share the same software. 
+20. Only this one is giving me hard times with this "Delayed Write Failure" error, which may lead to the loss of valuable data. 
+21. We had to have a professional data retriever grab what was saved on the drive.  
+22. I needed external HDD as data storage (rare usage, I do not use it as "big flash drive").It was best value for this price.Only thing - it requires AC power adapter (some external drives can work on USB power), but for home use it is not a big problem.
+23. I purchased this external hard drive so that I could back up data from an older computer before purchasing my new computer.  
+24. His only remedy was to tell me to download the Seagate restore data demo which will, supposedly, tell me if any of my data is recoverable. 
+25. I have combined this hard disk with PureSync  software to keep a regular backup of my data, and thanks to this combination, I was saved multiple times after the infamous windows crash!
+26. So I bought 2 copies of the non pro version, these units are designed to stand but to be honest they are really designed to fall over - and when they do that they can crash the drive if they are running.Since I need to use either a 3rd party data recovery or Seagate's data recovery services and Seagates policy equals an easier time if I use Seagates data recovery services (for third party I need to generate additional paperworks from 3rd party BEFORE I can let them open the case - so I can send the unit back to Seagate under warranty, after data recovery).Now what have we got - we have a manufacturer who add a significant extra income for data recovery and a design which chooses to be the most likely to require data recovery in the first place. 
+27. So I bought 2 copies of the non pro version, these units are designed to stand but to be honest they are really designed to fall over - and when they do that they can crash the drive if they are running.Since I need to use either a 3rd party data recovery or Seagate's data recovery services and Seagates policy equals an easier time if I use Seagates data recovery services (for third party I need to generate additional paperworks from 3rd party BEFORE I can let them open the case - so I can send the unit back to Seagate under warranty, after data recovery).Now what have we got - we have a manufacturer who add a significant extra income for data recovery and a design which chooses to be the most likely to require data recovery in the first place. 
+28. So I bought 2 copies of the non pro version, these units are designed to stand but to be honest they are really designed to fall over - and when they do that they can crash the drive if they are running.Since I need to use either a 3rd party data recovery or Seagate's data recovery services and Seagates policy equals an easier time if I use Seagates data recovery services (for third party I need to generate additional paperworks from 3rd party BEFORE I can let them open the case - so I can send the unit back to Seagate under warranty, after data recovery).Now what have we got - we have a manufacturer who add a significant extra income for data recovery and a design which chooses to be the most likely to require data recovery in the first place. 
+29. So I bought 2 copies of the non pro version, these units are designed to stand but to be honest they are really designed to fall over - and when they do that they can crash the drive if they are running.Since I need to use either a 3rd party data recovery or Seagate's data recovery services and Seagates policy equals an easier time if I use Seagates data recovery services (for third party I need to generate additional paperworks from 3rd party BEFORE I can let them open the case - so I can send the unit back to Seagate under warranty, after data recovery).Now what have we got - we have a manufacturer who add a significant extra income for data recovery and a design which chooses to be the most likely to require data recovery in the first place. 
+30. It makes no difference if the interface is Firewire or USB if the intent is to just backup data.  
+31. I can wholeheartedly recommend this problem as a viable solution to anybody's data,including photo,storage needs.Dave
+32. Now I wonder if I can ever get the drive to stay on long enough to erase my backed-up data before I return the unit.  
+33. However, if you have valuable data, don't trust it to a single backup.
+34. I'll try to update this if (when) it dies.I didn't lose any valuable data; everything is still on the computer and my wife and I backup to each others machine every so often. 
+35. I haven't had any problems with heat as the drive spins down, but I also disconnect it and move it to a safe place after I dump data to it. 
+36. The housing doesn't have any vents so I could see heat being a problem but haven't experienced that.CONCLUSION: I looked around and decided that for my purposes (just backing up huge video and data files) this was a perfect drive. 
+37. Seagate will replace the drive but NOT the data lost due to breakage -- and the data is what's important!  
+38. Seagate will replace the drive but NOT the data lost due to breakage -- and the data is what's important!  
+39. Once it fails completely, kiss your data good by as Seagate will ONLY ship you a refurbished drive. 
+40. Mine see use for data storage, backups, to serve media to my Xbox 360, and to transport large amounts of data between computers.Solid stuff. 
+
+negative sentences : 
+1. I picked up three of them intending to use them for backing up data and was truly shocked to discover two were confirmed DOA by Seagate Technical Support right out of the box.Symptom: Drive only spins up when power and USB cable are attached.  
+2. I connect it as a second back up for data, pictures and videos via drag and drop then use the 'safely remove hardware' app to remove it when I am done. 
+3. I usually have good luck with electronics, so I got this drive for it's low price despite several one star warnings.Twice I've plugged it in to back-up data.Tonight I plugged it in to run another much-needed backup, and the drive won't power on. 
+4. After a year of electronic bliss and feeding my drive all kinds of data, one day it just turned on me with endless errors and unable to access data.  
+5. (NO WAY, I have way too much data) I asked if the HD was bad, they said no, the case was. 
+6. It will just stop working if you leave it plugged it in and I'm having numerous errors and lost data. 
+7. Within a year it crashed and could not access the data at allVery unreliable
+8. Seagate declares the warranty invalid if you get data recovery through any other company or service (which would be cheaper, but still extremely expensive).What I decided to do in an act of desperation was physically take apart the casing and remove the hard-drive since I'm computer savvy and try to power it with a Caddy-drive.  
+9. And I am using this drive not only storing huge data files but I use this drive for hours of Video Processing. 
+10. Having data backed up is pointless if your backup drive is unreliable, so I will ask again, has Seagate addressed the overheating and subsequent failure issues with this drive?
+11. If I wanted my data, they offered an expensive data recovery service, not a drive replacement.  
+12. If I wanted my data, they offered an expensive data recovery service, not a drive replacement.  
+13. And guess what they charge to recover data from broken drives? 
+14. The problem is that I recently downloaded many, many GBs of irreplaceable data onto this drive. 
+15. Then being told that Seagate's "Remote Data Recovery" service would cost close to $1400 I promptly left.After searching and trying various options I did eventually get my data off of the hard drive. 
+16. The reason for this is that more often than not, the drive did not fail but the enclosure alone did, meaning, your drive and your data are intact but you simply can never get to it on your own. 
+17. The recovery of the data from a bad HDD is a minimum of $1400 on Seagate's site.In the end, I cracked the case and pulled out the drive.  
+18. I've tried the drive on a few computers no exception yeah DWF DWF DWF......one time the DWF even corrupted 20GB of my data the dead sector is still there sitting. 
+19. But if it's more for media/data storage, this one is good enough.
+20. No noise, very fast data transfer and nice getup. 
+21. I power it up only when I need to back up data from my hard drive and it does that just great. 
+22. Get warm after 30 minutes, no hot.Easy installation and fast data transfer. 
+23. They wanted that much money to recover my data from a unit they sold me less that three weeks ago. 
+24. The backup process run on the background and doesn't take much time, data transfer is faster than I thought. 
+25. It comes with some sort of software to "help" you backup data. 
+26. I needed a removable hard drive to backup my data and then store off site.  
+27. I tried accessing it from another computer, and more data was gone. 
+
+------------------------------------------------------------------
+feature : drive, positive Score : 251 and negative Score :-179
+------------------------------------------------------------------
+positive sentences : 
+1. Now the drive isn't recognized at all by any computer and I have no way of recovering the content without ruining the warranty.I've never posted a review before, but wanted anyone who is having problems to know that you should get any remaining data off of the drive as soon as possible before you lose it completely. 
+2. I got this drive for my birthday a few years ago, and I have to say it has never failed me. 
+3. When the computer mounted the drive by USB, a the drive began a small Seagate software program.  
+4. Unfortunately, this software has a bug, and began deleting files on my main drive!  
+5. I TOOK ONE OF THE CASES APART AND PLUGED THE DRIVE IN A NEW CASE AND IT WORKS. 
+6. The drive is not unwieldy to move from place to place. 
+7. This drive does what its supposed to do, which is back up my files automatically without me having to think about it.One significant glitch is that if I completely shutdown my computer, the next time I turn the computer on, I have to unplug the external drive from the power source and replug it in order for the drive to show up on my computer.  
+8. Luckily, I don't anticipate needing my old backups, and have all my important files on my computer, but if I had important files on the drive, I'd be pretty peeved.
+9. Every time a company sales you a drive inside an "sealed" enclosure like this one, rest assure, you will have to pay hundreds of dollars to Seagate to recover your data. 
+10. On the other hand, if you buy a bare drive (yes, even from Seagate) and place it inside your own third party enclosure, you would never have to worry about that issue. 
+11. I bought this external drive because of the service I have had from a smaller more portable drive for my laptop. 
+12. I bought this external drive because of the service I have had from a smaller more portable drive for my laptop. 
+13. This drive has cool design. 
+14. Oh, to learn a lesson the hard way when buying an external hard drive like the one I had with this Seagate 500GB "Free Agent" external drive. 
+15. Oh, to learn a lesson the hard way when buying an external hard drive like the one I had with this Seagate 500GB "Free Agent" external drive. 
+16. There's been some who have luck breaking open the base, pulling out the drive, and purchasing a new drive enclosure to access drive contents.There seem to be near about as many 1 star as 5 star reviews on this product and that's quite telling. 
+17. There's been some who have luck breaking open the base, pulling out the drive, and purchasing a new drive enclosure to access drive contents.There seem to be near about as many 1 star as 5 star reviews on this product and that's quite telling. 
+18. There's been some who have luck breaking open the base, pulling out the drive, and purchasing a new drive enclosure to access drive contents.There seem to be near about as many 1 star as 5 star reviews on this product and that's quite telling. 
+19. I put all my data from a 300 Gb and cleaned off the old drive.  
+20. The new drive even installed special system back-up software.  
+21. But, I have been using this Hard Drive and it's damn good. 
+22. This drive is super quiet and fast.  
+23. The directions for the demo are geared to a software engineer level, and the demo itself has been scanning my drive for the last 8 hours and isn't even halfway through. 
+24. It come with software for drive management, and was a great deal for the amount of space. 
+25. I was having all sorts of problems with my system (Windows XP Pro) when I tried to use an external SATA drive cabled into my motherboard, so I had to abandon that route for external backup storage. 
+26. I just make a habit of backing up my work either right away or at the end of the day. 4) burn a CD of the setup files that come pre-installed on the drive, in case you have to reinstall your system at some point in time, and then delete them from the drive if you want to.
+27. I was introduced to Seagate about 2001 when I needed to replace the 'whopping big' 13GB hard drive in my first computer, a Sony early model pc. 
+28. This little Seagate 500GB FreeAgent external hard drive was my first purchase of an external hard drive. 
+29. This little Seagate 500GB FreeAgent external hard drive was my first purchase of an external hard drive. 
+30. I would recommend this external drive to anyone needing convenient, easy-to-use storage space.
+31. everything seems fine so far.no problems.will update later when i get a new pc and use this drive to its potential
+32. This external hard drive is easy to set up and use.  
+33. But if you just want to set up a external hard drive to reliably backup your files, this one will do. 
+34. I considered the Pro version--the main difference being an online backup facility in addition to the external drive. 
+35. This is proving a very reliable hard drive. 
+36. I purchased this external hard drive so that I could back up data from an older computer before purchasing my new computer.  
+37. I've used it on Windows XP, Windows 7, and now on Mac OS X too and have encountered no problems at all for these 3.5 years.Some minor cons:- Bulky (by today's standards)- When plugged into HDTV and letting the TV idle for a least 15-30 minutes, the drive will automatically shut off and then restart itself. 
+38. Also, it apparently can't back something up from a shared drive across the local network. 
+39. I needed external HDD as data storage (rare usage, I do not use it as "big flash drive").It was best value for this price.Only thing - it requires AC power adapter (some external drives can work on USB power), but for home use it is not a big problem.
+40. You can easily set the Free Agent Hardware and make it an active drive, then setup the Backup Software within MS 2000, XP, or Vista.I've read reviews that seem to point out the burden of USB2 write speed.  
+41. Plug in the provided cables and the system (WinXP) recognizes as a new drive called "FreeAgent Drive".  
+42. Plug in the provided cables and the system (WinXP) recognizes as a new drive called "FreeAgent Drive".  
+43. The optimal solution,to date,for the storage dilemma is the external hard drive. 
+44. This external hard drive is the perfect, worry-free way to back up my picture and video collection of family and friends. 
+45. Was really easy to install and now I have moved all my pics and music over to the external hard drive and my computer is working better.
+46. This backup drive comes with a 5 yr. warranty.  
+47. Now I wonder if I can ever get the drive to stay on long enough to erase my backed-up data before I return the unit.  
+48. Then I got a new or fixed drive and when I got it back it still did not communicate with my MacBook Pro. 
+49. I therefore purchased this hard drive for the sole purpose of giving me the storage space that I needed to allow me to continue to convert and to store my CD collection for syncing to my iPod.This drive was the first USB external hard drive that I have ever purchased. 
+50. I therefore purchased this hard drive for the sole purpose of giving me the storage space that I needed to allow me to continue to convert and to store my CD collection for syncing to my iPod.This drive was the first USB external hard drive that I have ever purchased. 
+51. I therefore purchased this hard drive for the sole purpose of giving me the storage space that I needed to allow me to continue to convert and to store my CD collection for syncing to my iPod.This drive was the first USB external hard drive that I have ever purchased. 
+52. If you keep it plugged into a computer, it will power down when the computer is turned off and vice versa.The only negative is that file access is a little slow, but I have nothing with which to compare it, except the hard drive that is built into my laptop.All in all, this is an excellent product and a good choice for solving my particular problem....
+53. Maybe it is, but his, this first external drive, has been  a tremendous disappointment.BUYER BEWARE - do NOT, I repeat DO NOT buy this drive even if it can hold 500 gigs.  
+54. Transfers times between the drive and my pc are fast and i have seen no problems playing videos right off the drive.My past experience with externals i was expecting something rather loud, but this is quiet and i have not noticed any problems with excessive heat that i had with past drives.
+55. Transfers times between the drive and my pc are fast and i have seen no problems playing videos right off the drive.My past experience with externals i was expecting something rather loud, but this is quiet and i have not noticed any problems with excessive heat that i had with past drives.
+56. If you're looking for a good external drive and you can pick one of these up in good condition they're a good product to use.
+57. Just a good, solid hard drive.Oh, and they're darn spiffy looking, too.I own THREE of these models and they've all chugged along without a kink. 
+58. (Kaspersky reported 129 network attacks thwarted, but they must have missed 1).I have been doing daily backups to this drive for 4 years, thinking it was working flawlessly...and it was, the problem being that if you lose everything and need to restore after reformatting, you can not because Seagate writes in its own language incompatible with the native OS...so windows restore couldn't pick it up.  
+59. While you can download a variety of software from their site, none of it allows you to do a full restore from their drives.After many many iterations (I had back ups of back ups on my drive) I would say without hesitation that having relied on Seagate made an already bad situation very much worse.For anyone who is not something of a wizard, I'd say that you should avoid their products like the plague.  
+60. Also the long yellowish indicator light will dim and go back to normal intensity when it is being accessed.The drive is very quiet and for 500GB the price was great.
+61. They offer to "recover" your data, meaning they will take the time to copy it off the old drive, at a very high price. 
+62. This drive is very easy to install, as mentioned in other reviews, I use it with Norton 360's back up utility where you can have it do auto backups at any time or day of the week.The USB is a little slow, but not terrible, I recommend backing up everything you want the first pass which which took me 1/2 hour, then select or create a new folder or folders for the current year. 
+63. This drive does exactly what I expected and the cost is reasonable for such a large drive, I highly recommend it.
+64. The drive worked great for the first 30 minutes I owned it, but once it heated up, my laptop could no longer recognize it. 
+65. This drive was very easy to set up and would be perfect if it actually worked. 
+66. I would say if you looking for a good drive for a reasonable price this would be good one to pick. 
+67. When I finally decided to get an external drive, I read reviews for dozens of drives. 
+68. With Linux, this drive is unbelievable.  
+69. Find a great deal on this drive, or just get a FreeAgent Go; this one was cheaper at the time for me.
+70. When I connected this drive to an older but still capable machine (3.0 GHz Intel single core / Windows XP) via USB 1.1 connection, I got a series of write cache / delayed write failure.  
+71. After connecting the drive to a newer machine with USB 2.0 connection, the problem went away.Also, if you are planning on using this drive as another drive for every day use, you will be disappointed with the speed.  
+72. I bought this external hard drive years ago and it has been a durable and reliable.  
+73. This has not been my experience.The one I have now is attached to an old computer with a very small hard drive, I use this drive to install programs and then run them off the computer... works like a charm.I even use newer models at work... 
+74. This has not been my experience.The one I have now is attached to an old computer with a very small hard drive, I use this drive to install programs and then run them off the computer... works like a charm.I even use newer models at work... 
+75. The 7200 spin would be great for video capture and the SATA connection is perfect to make sure this drive will directly plug into your computer if the USB case dies. 
+76. You could also buy another external drive case if the one supplied fails. 
+77. The active drive light flashes too slowly for my liking as you must observe it for 10 or 15 seconds to see if it's really active. 
+78. The housing doesn't have any vents so I could see heat being a problem but haven't experienced that.CONCLUSION: I looked around and decided that for my purposes (just backing up huge video and data files) this was a perfect drive. 
+79. Then if I need to restore something I'll spring for a SATA to eSATA connector (circa $15) or just plug the drive directly into the computer.This is just a good hard drive with a free external case. 
+80. I always thought Seagate was the top drive maker.  
+81. This is an extremely easy to use external hard drive.  
+82. This external hard drive is sure good looking and compact. 
+83. However, I wish I took more care into doing so when researching my external hard drive. 
+84. However when I went to plug my Seagate hard drive in nothing happened. 
+85. So, buyers, if you happen to be revamping your system and want to buy an external hard drive go ahead, get a Seagate. 
+86. I already have 2 older ones and this will be my 2nd of this exact hard drive. 
+87. USAGE - With my laptop.I bought this external drive strictly for storage. 
+88. This past week, I dropped the drive about two feet ONTO A CARPET FLOOR as I was rearranging wires. 
+89. It was simple to install, has a good backup and restore software pre-loaded on the drive and runs automatically on the schedule I choose backing up the files I select.  
+90. I had this drive from a long time ago.As the title said, it was extremely slow, and got hot super quick (there are vents on the "foot" but it didn't help much, and if you accidentally cover the vents, you're screwed), and would go to sleep and never wake up. 
+91. I get them all stored on the drive, and I'm making a playlist up right before I move the songs all to my iPod......and the new drive craps out.Seriously. 
+92. The FreeAgent 500GB External Hard Drive is massive.  
+93. Seagate makes this big heavy 500GB drive which is quiet and reliable. 
+94. And lo and behold, if tipped, of course it encounters mechanical hard drive failure which would cost $1000 for data recovery.
+95. The Seagate Desktop External 500 USB GB Hard Drive is a dream come true. 
+96. Excellent external hard drive for use as a external Dish DVR storage!
+97. You can't use the Seagate external hard drive on a PC. 
+98. I hooked it up to my Apple wireless Extreme Base Station and set it up as a shared drive on my home network.  
+99. They update their computers as well as adding any new files to my "storage" drive.I have no complaints, not even one about this drive.  
+100. Of course, you will have to pay your one-time fee of $39.95 before you can use the external hard drive. 
+101. To date I have used the drive on three or four occasions to back up my entire hard drive. 
+102. i will buy another in the near future, and maybe get a larger hard drive.  
+103. I purchased this drive less than a year ago and it died on me today 5/12/2009 - Total data loss. 
+104. I bought this external hard drive, and guess what? 
+105. I bought this external hard drive to store my downloaded musics, videos and personal pictures. 
+106. It has power but the computer cannot detect the hard drive. 
+107. For the price, the FreeAgent 500 GB external hard drive can't be beat. 
+108. On the downside, it's a little slow in access time, which can be a bit frustrating when you are using it as an active drive, as I am, but I can live with it. 
+109. I was able to grab this drive for $65 shipped, which is a pretty decent deal, despite the fact that significantly faster and larger internal drives can be had for less. 
+110. That said, I'm pleased with this drive. 
+111. I'm using this as a mirror drive for my smaller internal hard drives.The Read/Write speeds are about 30/30MBps (megabytes, not bits) according to CrystalDiskMark, and it also performs well with small files, unlike flash media. 
+112. It runs pretty cool; the cooling system is passive (no moving parts).This drive works absolutely fine in Windows XP 32-bit SP3. 
+113. This drive is easy to connect and to use.  
+114. We purchased the drive and setup was fantastically easy. 
+115. I bought this external hard drive for my son. 
+116. So when I needed a new hard drive to serve as a scratch disc for Photoshop, I purchased the 500gb FreeAgent USB drive. 
+117. So when I needed a new hard drive to serve as a scratch disc for Photoshop, I purchased the 500gb FreeAgent USB drive. 
+118. (The scratch disk if just used for temprary files - I wasn't actually storing any full-time data on the drive.) 
+119. Fair price and this external hard drive does what it claims thus far.  
+120. I read a few things about this drive before I bought it, but I also know the Seagate name, so I decided to take a chance.  
+121. The Seagate FreeAgent Desktop 500GB external hard drive was incredibly easy to set up and has not given me one bit of trouble! 
+122. I'll probably remove the actual drive and see what I can do. 
+123. Maxtor was made by seagate, so I wasn't to sure about buying this Seagate drive.The drive comes neatly packaged (which I bought mine new from Amazon) and it comes with a manual, the drive, a power cable and the USB cable. 
+124. Just plug it in and you can access it from your my computer as a second HDD. should be next to your C: drive. 
+125. REMEMBER, make sure you use the dock and stand for this drive. it has to be upright and ventilated properly or you risk overheating the device.There are TB drives however, that are only 50-100 dollars more. 
+126. But then again, I beleive that is the idea of any drive.It depends on the use of the Drive, but I say this drive is reliable and fast and easy and very pnp reliable. 
+127. Great hard drive.  
+128. Not a big deal for me as I usually go elsewhere when doing back ups, but a disadvantage for those who need to monitor activity by watching the drive light.Long time reliability is the only unknown but the relatively long warrenty time period gives me some confort that I will be using this hardware happily for quite a while.
+129. This is my 3rd external USB hard drive. 
+130. Despite the fact that the customer has to select both their country and language at the beginning of the installation, the install program still copies every version onto the customer's main hard drive.And, if you try to contact Seagate tech support to ask if any of the files are really needed, you then discover that Seagate does not have any tech support available.  
+131. I reformatted the drive to work with my PS3 and can now enjoy a 500+ Gigabyte solution for my system for about 120 bucks.The drive has a very elegant design and compliments anything it sits next to.  
+132. My computer and PS3 have no problem recognizing it.Overall, I would recommend this product to anyone looking for an external drive solution.
+133. Common sense folks, if that's what you were looking for, why didn't you pay for a drive that SAID it could do that, and not assume that one of the cheapest 500GB drives you found would have all the bells and whistles.The drive works great. 
+134. And, once I was sure my music files were safely on the external drive and fully accessible, I (nervously)deleted them off my computer. 
+135. I have now modified my download settings to load music files directly onto the external drive, skipping my computer altogether. 
+136. (Though what do I know, I thought tapes were just fine when CDs and DVDs first came out.)Techies be prepared to laugh at me but not understanding what kind of software is loaded on this external drive, I was initially afraid to play music files from it because I wasn't sure if I had to install Media Player on it as well. 
+137. I took a leap of faith that somehow the external drive would find Media Player on my computer and open it to play the music file. 
+138. It makes drive look alive while it does its thing. 
+139. And since there is no on/off switch, it reassures me that it is on and functioning.As a note of caution, I have read on other forums the dangers of disconnecting the external drive without performing a safe removal first.  
+140. Also, it's funny but sometimes when I am doing something on the net (usually music related), the external drive will wake up from its hibernation as if it is anticipating I will soon require its services.  
+141. Strange, this little drive is.  
+142. Seagate FreeAgent external 500GB drive USB- Price: locally about $135, Amazon just raised the price aprox $10 concurrently with a 10% discount postcard (good until Aug4).- Format etc: The information is on the Seagate web site but hard to find.The FreeAgent comes formatted as '500GB' NTSF. 
+143. I've had the product for several months and hasn't done me wrong. keep in mind though that whenever you buy any harddrive external or not the actual usable space is always lower than what it says due to how space is allocated. (500gb = 465gb of usable) all and all, it's a great drive.
+144. I don't see the point of backing up files onto an external hard drive when the life expectancy is shorter than the internal hard drive. 
+145. I don't see the point of backing up files onto an external hard drive when the life expectancy is shorter than the internal hard drive. 
+146. I bought this external hard drive as backup for my Dell laptop about a year ago and it has totally failed me. 
+147. Once I disabled that, I was able to backup only the files I wanted, but after doing that 2 or 3 times, the hard drive stopped working altogether. 
+148. ; not if my PC hard drive fails, but when??"
+149. I was truly astonished by the bad experience I had with this particular drive.  
+150. I thought I could atleast get my data back by putting the drive in an external enclosure. 
+151. This is a very, very, very slow drive. 
+152. I assume that Seagate is using a 5400rpm drive as one reason the throughput is so slow.I used this drive to backup 300GB of photos and image data. 
+153. I assume that Seagate is using a 5400rpm drive as one reason the throughput is so slow.I used this drive to backup 300GB of photos and image data. 
+154. By comparison, a 3-year old Western Digital 100GB ATA drive in an external Bytecc Firewire enclosure earned a score of 26.89.The speed difference between Firewire and USB 2.0 is not great enough to account for this difference.I guess Seagate engineers figured that there was no need to stick a fast drive in an enclosure that would be limited by USB 2.0's max speed; I suspect they picked a slower drive to reduce costs.The drive does get hot, but after using it around the clock for three days I have not (yet) experienced any problems with being able to access data on the drive.Those who have reported problems getting the drive to be recognized after using it for backups may be experiencing a known problem with Windows Vista and USB drives, not the Seagate FreeAgent Desktop drive. 
+155. By comparison, a 3-year old Western Digital 100GB ATA drive in an external Bytecc Firewire enclosure earned a score of 26.89.The speed difference between Firewire and USB 2.0 is not great enough to account for this difference.I guess Seagate engineers figured that there was no need to stick a fast drive in an enclosure that would be limited by USB 2.0's max speed; I suspect they picked a slower drive to reduce costs.The drive does get hot, but after using it around the clock for three days I have not (yet) experienced any problems with being able to access data on the drive.Those who have reported problems getting the drive to be recognized after using it for backups may be experiencing a known problem with Windows Vista and USB drives, not the Seagate FreeAgent Desktop drive. 
+156. By comparison, a 3-year old Western Digital 100GB ATA drive in an external Bytecc Firewire enclosure earned a score of 26.89.The speed difference between Firewire and USB 2.0 is not great enough to account for this difference.I guess Seagate engineers figured that there was no need to stick a fast drive in an enclosure that would be limited by USB 2.0's max speed; I suspect they picked a slower drive to reduce costs.The drive does get hot, but after using it around the clock for three days I have not (yet) experienced any problems with being able to access data on the drive.Those who have reported problems getting the drive to be recognized after using it for backups may be experiencing a known problem with Windows Vista and USB drives, not the Seagate FreeAgent Desktop drive. 
+157. By comparison, a 3-year old Western Digital 100GB ATA drive in an external Bytecc Firewire enclosure earned a score of 26.89.The speed difference between Firewire and USB 2.0 is not great enough to account for this difference.I guess Seagate engineers figured that there was no need to stick a fast drive in an enclosure that would be limited by USB 2.0's max speed; I suspect they picked a slower drive to reduce costs.The drive does get hot, but after using it around the clock for three days I have not (yet) experienced any problems with being able to access data on the drive.Those who have reported problems getting the drive to be recognized after using it for backups may be experiencing a known problem with Windows Vista and USB drives, not the Seagate FreeAgent Desktop drive. 
+158. I have not had this problem with my Mac computer.I give the product two stars for the storage, cost, and ease of use -- but the slow performance precludes any higher score.If you need a big drive and can endure the slowness, then this drive may be okay. 
+159. I have not had this problem with my Mac computer.I give the product two stars for the storage, cost, and ease of use -- but the slow performance precludes any higher score.If you need a big drive and can endure the slowness, then this drive may be okay. 
+160. This limits Sustained Read/Write speeds to roughly 18MB/sec whereas an external hard drive on Firewire would have Sustained Read/Write speeds of around 30MB/sec. 
+161. While the drive is spinning, other apps may appear to hang.  
+162. The software monitors your drive and does automatic backups, even saving several changed versions of the same file for restoration choices. 
+163. The data is not corrupted and is accessible as would happen with a straight external drive but new data will not back up to that folder.  
+164. Non Creedo apps can be placed in a separate directory on the GO drive or better yet, include them in your backup files so the data/passwords/browser favorites are always in sync.I am not sure if you can back up to GO and PRO on the same machine since they share the same software. 
+165. Not sure, but it makes sense that Memeo software will sync new files to your hard drive if GO was used on a different computer and new files created.
+166. This is an easy to set up and use axillary hard drive. 
+167. This is an easy to use hard drive, works well, and with a 5-year warranty, it's a no-brainer decision!  
+168. only allows you to see the yellow power on light from the right side.Actual capacity is really about 465GB.Still this is an excellent buy, and with the warranty, you can't go too wrong.8-26-07 Update: I liked this external drive so well, I just bought another one (cheaper price now).
+169. This external hard drive is very fast and very quiet. 
+170. Ooops, bad mistake... immediately the free space on the start-up drive began to fluctuate greatly. 
+171. There was only 10 GB free on the start-up drive, but sometimes it would drop to less than 100 MB and was causing problems with the operation of the computer. 
+172. It is so quiet that we hardly even know that it is there.I highly recommend this external hard drive, and will purchase more from Seagate. 
+173. Kinda like a big honkin' flash drive with an A/C powercord.  
+174. This is still a new drive to the market, so I don't think this problem is being reported yet.  
+175. Otherwise, this is a great drive.
+176. As slick looking and relatively inexpensive ($128.00 CDN) this portable drive is, I cannot recommend this unit. 
+177. I will do some more testing tonight.I fully expect that it is inevitable that a hard drive will fail but two weeks? 
+178. After a few tens of Gigabytes of continuous data transfer, the hard drive inside the Freeagent will likely exceed the manufacturers maximum recommended temperature.It is a poorly designed chassis. 
+179. The drive was easy to connect and begin using right out of the box; 1 1/2 minutes were required to be precise to get the drive up and running. 
+180. The drive was easy to connect and begin using right out of the box; 1 1/2 minutes were required to be precise to get the drive up and running. 
+181. I'm a computer professional and it is all I expected of a external hard drive. 
+182. The drive comes in a very nice package/enclosure. 
+183. I went online and there is an automated RMA/return form to fill out and within few days a refurbished drive shows up, then you send the dead one back. 
+184. My next drive will be a LaCie which gets better reliability scores.
+185. I bought this 500 GB external hard drive to back up my data, I've had it for a few months and all I can say is that I'm very happy with it. 
+186. This external hard drive sets out of the way, taking up less space than a small desk lamp. 
+187. That fixes the issue but leaves the feature unavailable.Another unexpected glitch was that the workstation to which I attached the drive took a very long time to boot after I added this drive.  
+188. Disabling USB legacy support on the BIOS setup fixed that, but I would have to reinstate that feature if I ever wanted to boot from this drive or access it outside of windows.On the plus side, this drive works great with the free Seagate DiscWizard software which is a stripped down version of Acronis TrueImage that you can download for free.  
+189. And with an Amazon promotion for $15 off any purchase more than $100, this was a true bargain.I'm reasonably satisfied and it's a good value, but if I had to do it over again, I would seriously consider opting for a true network drive instead of USB.
+190. About a year after I used it on the Mac I plugged it into my desktop again so I can back up more files but Windows didn't even acknowledge that there was anything plugged into it (there was nothing wrong with the port since it was able to read a WD drive on the same port) but the Mac was still able read to from it. 
+191. When it comes to my files you only get one chance so I'm sticking to WD from now on.All I have to say is if you plan on purchasing any Seagate hard drives make sure you have an extra hard drive to back up your files just in case this happens to you too.
+192. Here is a copy of my chat today with Seagate regarding the issues commented on here with this drive, which are the same issues I've experienced.  
+193. Todd Nickolas: I don't want to go through the same massive data loss I did the first time.Keith: if you are talking about replacing the entire unit if the FreeAgent fails then that is still true. just remember that if the data is important to you have a backup (also known as a copy) of it in case of anything happening to the data weither it is virus or hardware relatedTodd Nickolas: That's what the drive was purchased for in the first place, to back up data, which is kind of pointless if the drive has a history of failing due to overheating. 
+194. Why should I have to buy a backup drive to backup my backup drive?
+195. p_faqid=683&p;_created=985826313 also I would go to our website download and install the latest software and use the power management software so it can go into a standby mode so the drive is not again running 24/7Keith: that is a startTodd Nickolas: Does that link include instructions on how to disable the lights on the drive?
+196. I bought this external hard drive to back up my husband's bird photos; considered it a more cost-effective method to online storage.The unit, while plastic, was well packed and quickly shipped.  
+197. Overally, good drive.  
+198. I plug in, click and drag My Docs, unplug, and put the drive away in a fire safe until the next time I feel like backing up.  
+199. There was NO option at all to replace the damaged components or even swap the drive to a new enclosure!  
+200. The drive was fine and I recovered all data.  
+201. Purchased this drive from amazon some months ago; so I've had plenty of time to learn the drive/features.Noise - the drive is totally silent.  
+202. My PC is watercooled, so no fans to mask any noise; the drive is just very quiet.  
+203. Draw is ~10-14w when being used; much less than many other USB2.0 drives.Stability of transfer speed - I use the drive for large files 1-2GB mostly, 5GB takes about 25 seconds; excellent.No negatives whatsoever to mention, completely happy with the drive.
+204. Draw is ~10-14w when being used; much less than many other USB2.0 drives.Stability of transfer speed - I use the drive for large files 1-2GB mostly, 5GB takes about 25 seconds; excellent.No negatives whatsoever to mention, completely happy with the drive.
+205. So far, this seems to do exactly what I'd like an external hard drive to do. 
+206. I plug it in, it's instantly detected as a "USB Mass Storage Device," and then I can use it like a regular hard drive. 
+207. I can't think of anything more I could want in an external hard drive!
+208. Tried troubleshoot for three hours, tried it on two of my computers, both could not detect the hard drive, and off course, no way for me to get my data back... 
+209. I bought this external hard drive back in 2007 and it's still working great. 
+210. I read the box over and over to make sure I understood what capabilities this drive had besides just being a large hard drive.  
+211. Otherwise, the drive is quiet, looks cool with the lighting and does not get as hot as other reviews have indicated.  
+212. The drive is good, but don't buy it for the Data Mover functions promised on the box.  
+213. An external USB drive with it's own fan, power supply, and 5 year warranty.  
+214. Have even busted the unit apart and reinstalled the drive in a new casing.  
+215. The one thing hard drives are supposed to do, is to store files so they won't get lost. my computer has notified me that around half of my music, or  30 gigs, couldn't be rewritten to this stupid hard drive, that was working five days ago. it seems that it is now randomly deleting all my music, and my computer is now fine. but this is around the 10th time there's been a problem with it. 
+
+negative sentences : 
+1. The airflow on the bottom is poor at best and does not do a whole lot for the drive.  
+2. I purchased this External hard drive to back up all my important pics and music. 
+3. The included backup software is not spectacular, but straight copy/paste to the drive works very well.My main reason for reviewing is that we had a great experience with Seagate customer service.  
+4. From what I can tell, the drive is completely dead, all backups gone. 
+5. The reason for this is that more often than not, the drive did not fail but the enclosure alone did, meaning, your drive and your data are intact but you simply can never get to it on your own. 
+6. The hard drive itself worked terrifically for about 2 months, and then BLAMMO the drive wasn't recognized by my computer.  
+7. I tried to access it from other computers, but even on the odd occasion where the drive showed up, trying to access it (a) took forever and (b) yielded only empty folders.
+8. I use this hard drive to backup files on my laptop. 
+9. I'm a college student who downloads a lot of movies and musics and this hard drive serves me well. 
+10. We purchased this hard drive for our son. 
+11. The hard drive motor froze. 
+12. Seagate informed us it would cost $700 to $2200 to retrieve the information from the hard drive. ??? 
+13. While the default NTFS partition is easy enough to reformat, circumventing the problems introduced by the sleep function is a bit more tortuous.Apparently, the FreeAgent drive includes a power-saving function that automatically deactivates the drive after a brief period of inactivity. 
+14. While the default NTFS partition is easy enough to reformat, circumventing the problems introduced by the sleep function is a bit more tortuous.Apparently, the FreeAgent drive includes a power-saving function that automatically deactivates the drive after a brief period of inactivity. 
+15. If I turn it in for a new drive, I get a brand new drive, no questions asked.  
+16. If I turn it in for a new drive, I get a brand new drive, no questions asked.  
+17. Keep all extras on it so I don't fill my original hard drive slowing down the computer hard drive.
+18. Keep all extras on it so I don't fill my original hard drive slowing down the computer hard drive.
+19. Connecting this hard drive to the computer was as easy as plugging it into the wall and then plugging it into the USB on the computer.
+20. After just two months, the drive comes up as unreadable. 
+21. The Seagate website is extremely difficult to navigate, so that it's frustrating to find basic information such as which of the many numbers on the drive is the serial number and which is the model number and which is something else altogether - and if you don't enter these correctly, no help for you. 
+22. I've tried the drive on a few computers no exception yeah DWF DWF DWF......one time the DWF even corrupted 20GB of my data the dead sector is still there sitting. 
+23. I've learned my lesson with these pathetic drives I'd recommend all of you to buy hard drive enclosure instead and fit it with your own desired internal hard drive yes a little troublesome but well worth the fuss coz it will last and wont just stop responding while plugged in.I've heard that Seagate makes internal drives of admirable quality but they have failed big time on these external drives
+24. I've learned my lesson with these pathetic drives I'd recommend all of you to buy hard drive enclosure instead and fit it with your own desired internal hard drive yes a little troublesome but well worth the fuss coz it will last and wont just stop responding while plugged in.I've heard that Seagate makes internal drives of admirable quality but they have failed big time on these external drives
+25. I also have a Seagate "Expansion" 3TB hard drive that is loaded with my entire film library of over 1400 titles. 
+26. I do also burn DVDs, but I like to have more than one method of backup storage so that I am sure that my things are properly saved.This external drive fits my needs perfectly.  
+27. It's now December and I have had no technical difficulties with the drive. 
+28. I would prefer if the drive did not come pre-installed with Seagate's backup software but it was easy enough to disable. 
+29. I only use this hard drive for back up purposes, but it works perfect for that.  
+30. The one issue I've constantly run into with this disk is that it `automagically' goes into power save mode.This is very problematic on Linux based systems as linux detects the disk as having failed and marks it as read-only.The other downers about this drive are the fact that it still uses the 1980's style wallwort power supply, and it also uses the smaller USB connector (Which makes no sense).Speed:This disk does claim to be 7200RPM but I highly doubt you'll ever see any benefit to it.Comparing this against _MANY_ of my other disks, this is one of the slowest USB disks I own. 
+31. I bought this hard drive to back up all my important pictures and videos. 
+32. I love this hard drive! 
+33. I've had the hard drive for about two weeks now. 
+34. Even a 100 gigabyte hard drive which,only a few years ago,would have been considered huge,fills up with amazing rapidity. 
+35. Some whiz-bang of a new engineer at Seagate decided that a hard drive didn't need any ventilation. 
+36. It's bad when a brand new drive runs too hot to touch, then grinds to a halt, literally. 
+37. Now I am working to contact Seagate again to figure out what's wrong with the "repaired" drive. 
+38. I purchased this drive when I started to unexpectedly run out of hard drive space on my Macintosh Powerbook laptop computer.My laptop has served my needs very well, but when I purchased a 180 GB iPod, is started running out of hard drive space on my Mac. 
+39. I purchased this drive when I started to unexpectedly run out of hard drive space on my Macintosh Powerbook laptop computer.My laptop has served my needs very well, but when I purchased a 180 GB iPod, is started running out of hard drive space on my Mac. 
+40. Fourth, because of the software that comes with the drive and the abundance of storage space, I will be backing up the entire contents of my laptop's built-in hard drive.Fifth, I like Seagate hard drives because of their reliability and relatively long warranties.When I first set this device up, I was surprised to find that there was NO external power switch of any kind. 
+41. I bought my Seagate 500G drive in late August 2008.  
+42. I power it up only when I need to back up data from my hard drive and it does that just great. 
+43. A generic drive will work with windows backup and not leave you subject to extortion.Edited to note that after a week of working on it daily, and ultimately handing the project to my daughter who works in IT, I have rebuilt my system and retrieved most files, BUT lost every program i did not have the original install disk for.I do not understand why Seagte limits the number of installs on the software.  
+44. Dead hard drive. 
+45. At this point, I'm going to have to use it as an "offline" storage device and not like a true extension of my hard drive, which is what I wanted. 
+46. Hard drive is great.  
+47. I've used it to backup a Mac laptop and a Unix hard drive.  
+48. I've only been using the hard drive for a few weeks, so its longevity is still TBD.
+49. so my 2nd drive has crapped out as well. 
+50. Other than the drive itself, you find nothing but a small, multi-fold pamphlet that hypes the product but tells you zilch about setting it up.  
+51. I've had this hard drive for 2 months, and it works almost perfectly.  
+52. The drive has a very low, soothing sound, feels lukewarm when I touch it, and is so very easy to use.  
+53. i purchased the hard drive to transfer programs from my dvr to hard drive. it seems to work fine, it has no on off button, so that when it does not work, i have to unplug unit and replug it and then it works. for the price i think its a great deal
+54. i purchased the hard drive to transfer programs from my dvr to hard drive. it seems to work fine, it has no on off button, so that when it does not work, i have to unplug unit and replug it and then it works. for the price i think its a great deal
+55. This is essentially a Seagate 500 Gig, 7200 rpm, SATA drive in a cheap USB 2.0 compatible case. 
+56. I right click and select open and use it as another hard drive. 
+57. I lost everything.If you go to the link I posted above, you will find numerous responses to the problems associated with this product and a few jimmy rigged fixes (such as taking drive out of case, modifying insides by cutting wires that power lights on drive.. etc)In short STAY AWAY... don't be a fool like me and after being failed by the 500 gb model, be tempted by the sale price of the 750 gb model and have it happen even faster!  
+58. I lost everything.If you go to the link I posted above, you will find numerous responses to the problems associated with this product and a few jimmy rigged fixes (such as taking drive out of case, modifying insides by cutting wires that power lights on drive.. etc)In short STAY AWAY... don't be a fool like me and after being failed by the 500 gb model, be tempted by the sale price of the 750 gb model and have it happen even faster!  
+59. Love this product or hard drive. 
+60. I needed a removable hard drive to backup my data and then store off site.  
+61. Before doing so I backed up all of my data and client's data onto my 500GB Seagate External hard drive. 
+62. Then being told that Seagate's "Remote Data Recovery" service would cost close to $1400 I promptly left.After searching and trying various options I did eventually get my data off of the hard drive. 
+63. I purchased this 500 gb Seagate hard drive...and immediately found it was a little difficult to get going with my new Leopard operating system on my Mac...BUT... 
+64. They told me I just got a "bad" hard drive and that I would have to pay ~1,500$ for data recovery from them, even though they produced the product that failed.  
+65. The also kept me on hold for 2 hours to get another external hard drive, which I never got.
+66. The problem is that I recently downloaded many, many GBs of irreplaceable data onto this drive. 
+67. No direct, short access to the drive itself is provided by the ventilation holes, which also don't seem to take into account that heat rises, not falls.  
+68. Is this a virus wiping my hard drive?  
+69. Look for portable USB flash drive apps like KeePass, OpenOffice, AVG, SpyBot, Firefox, and Thunderbird.  
+70. It has only been a month, and this hard drive doesn't work anymore.  
+71. I bought this hard drive in December 2008, to connect to our Mac Mini. 
+72. The hard drive performs beautifully. 
+73. I have had this drive for less than a week.  
+74. I found this hard drive to be extremely helpful for storing all my documents, back up data, and music. 
+75. I expect a back up drive to last more than 6 months.  
+76. i have three computers and this drive has had problems on all of them. if i leave it connected and restart, the drive does not show up on my computer. it seems to only be recognized when i plug it in one out of every 3-4 times. nothing but problems from day one with this drive. also does not shut itself off when not in use like western digital's mybook or the buffalo drivestation. i have several external drives and have never had this much problems till i got this hard drive. i would rate it with a zero but there is no option on amazon for that.
+77. You will find your hard drive unexpectedly spinning for long, long intervals.  
+78. I do not know if this is a design flaw (no power switch) or just a defective drive.  
+79. Shortly after the delayed write failures began, the drive began making a loud whining sound.Problem: The drive has overheated and its useful life is shortened by the presence of the whining sound, which would indicate something is hanging up inside the drive.Seagate wants to RMA all three drives, but all of these failured occured within 24 hours of receipt of the drives, so no thanks.  
+80. Shortly after the delayed write failures began, the drive began making a loud whining sound.Problem: The drive has overheated and its useful life is shortened by the presence of the whining sound, which would indicate something is hanging up inside the drive.Seagate wants to RMA all three drives, but all of these failured occured within 24 hours of receipt of the drives, so no thanks.  
+81. There is simply no excuse to stock a product so poorly designed as to guarantee the shocking number of problem reports I've encountered on many review sites, all relating to the drive's incredibly inept design for dealing with heat-related matters, an inexcusably poor chipset implementation which does not guarantee instantly recognized connections to your computer, and, frankly, encountering for the first time multiple units (one from a different manufacturing lot) suffer a 100% failure rate within hours of receipt.  
+82. No luck there as the drive itself seems dead. 
+83. On a PowerMacG5 Quad with 4.5GB of RAM and this drive connected directly to the front USB port, speed averaged 348MB/min. 
+84. I haven't decided whether to keep it or pay a bit more for a faster drive in a faster enclosure.
+85. It never gets overheated (like some reviews say about Pro version), although I use it quite heavily.My previous WD external drive I had to return, because it was very slow and prevented my PC from booting. 
+86. It starts and shuts down automatucally with my PC, and this is OK with me.So in general - excellent drive for most people, although probably not for professional. 
+87. But this drive really sucks, I am already looking for a replacement after 2 months.It frequently makes a loud high pitched noise.And it frequently goes missing from my machine -- I have to power cycle the drive to get it to show up.Get a different drive.  
+88. i have three computers and this drive has had problems on all of them. if i leave it connected and restart, the drive does not show up on my computer. it seems to only be recognized when i plug it in one out of every 3-4 times. nothing but problems from day one with this drive. also does not shut itself off when not in use like western digital's mybook or the buffalo drivestation. i have several external drives and have never had this much problems till i got this hard drive. i would rate it with a zero but there is no option on amazon for that.
+89. After powering it back on, I was able to use it again for a while.As of last night, however, the unit is no longer recognized by my computer (or any other computer).I am currently unsure if the hard drive is corrupted or if it is the FreeAgent's USB interface that has failed.  
+90. Having data backed up is pointless if your backup drive is unreliable, so I will ask again, has Seagate addressed the overheating and subsequent failure issues with this drive?
+91. In my son's world- the world of late teens and early 20's, there seems to be some real threats to a person's hard drive. 
+92. I'm using it with ext2 (linux) filesystem with no real problems, though I do have to umount/mount on the command line (no autodetect) after the sleep problems (not unique to this drive).It would be nice if the case was redesigned... put the power circiuts in that front asymmetric part instead of the base, and make the base just a removable "dock" with power and usb plugs passing through (so you don't actually need it unless you are setting the drive on its edge).The design isn't significantly worse or better than anything else I've seen out there.  
+93. I needed a backup for my other backup which is a SimpleTech 250GB hard drive I bought a couple of years ago.  
+94. I made the circuit starting with my Gateway then to my Mac G5, Dell, and IBM laptop and am happy to report that all 4 units recognized the hardware promptly and permitted me to import/export files easily.Unlike other hard disc drive users, I use mine for simple back up archival purposes.  
+95. UPDATE: The problem with the system not recognizing the drive, as noted in other reviews, is a fact.  
+96. I've backed up a lot of files on this sweet little drive through the years, and it hasn't failed me yet. 
+97. Like other reviewers, this drive died on me. 
+98. As I'm backing up irreplaceable pictures, the drive starts making crazy noises.  
+99. Having data backed up is pointless if your backup drive is unreliable, so I will ask again, has Seagate addressed the overheating and subsequent failure issues with this drive?
+100. I only had WD hard drives and this was the only Seagate drive I ever purchased because it was on sale. 
+101. - Added on Sept. 12, 2007The reason why this drive fails is that it has a 7200 RPM drive inside a plastic case, trapped in a metal cage, without adequate ventilation.  
+102. - Added on Sept. 12, 2007The reason why this drive fails is that it has a 7200 RPM drive inside a plastic case, trapped in a metal cage, without adequate ventilation.  
+103. And I am using this drive not only storing huge data files but I use this drive for hours of Video Processing. 
+104. But after reading all the recent reviews I am afraid that either the drive may fail or I will loose all my data. 
+105. Drive works great, however the SW does not support Mac and the big thing was that it's not firewire. 
+106. I researched hard drives before I purchased and talked to a couple of people who are more informed than I about the brand and size of hard drive I should purchase.  
+107. It is very easy to install...all the install information is on the hard drive taking up 3 GB of space. 
+108. Sleep defaults to every 15 minutes the drive is idle and the error occurs when the drive wakes.  
+109. I don't know if this hard drive was either defective or if it was because I plugged it into the Mac or if Seagate just makes crappy hard drives, but I only backed up files onto this drive one time and it just decided to lock up. 
+110. I am very satisfied with the Seagate FreeAgent hard drive I purchased.  
+111. I will never buy or recommend another Seagate drive for anything, internal or external.  
+112. I have struggled for years with different ways to backup my hard drive on a regular basis.  
+113. I have had this hard drive for my desktop computer so that my photos and documents would remain in tact should something happen to the computer's internal hard drive.  
+114. I have had this hard drive for my desktop computer so that my photos and documents would remain in tact should something happen to the computer's internal hard drive.  
+115. I have had this drive as my backup for many years and at the risk of jinxing it, it is still working perfectly.
+116. This Seagate drive was truly a horrible experience. 
+117. Suffice to say I had to go in and remove the hard drive from the flimsy case. 
+118. Also the hard drive housing brain malfunctioned...with all of my data on it. 
+119. Horrible Horrible external hard drive. 
+120. An internal drive would be an even more reliable route also, as an internal drive are less likely to fail.keep in mind that my seagate drive has made me happy, it worked right out of the box and it is what I needed to store the music I have been buying from itunes. 
+121. An internal drive would be an even more reliable route also, as an internal drive are less likely to fail.keep in mind that my seagate drive has made me happy, it worked right out of the box and it is what I needed to store the music I have been buying from itunes. 
+122. Lori is doing her Masters and this is a great addition to her ability to save her projects without using up all the memory on her hard drive.
+123. The hard drive is now served as a very expensive paper weight. 
+124. Oh man, I was livid.Seagate replaced the drive, which is fine, but they only replace broken drives with refurbs... so, you replace your broken drive with one that was ALREADY BROKEN. 
+125. Oh man, I was livid.Seagate replaced the drive, which is fine, but they only replace broken drives with refurbs... so, you replace your broken drive with one that was ALREADY BROKEN. 
+126. This drive has a very poor, bulky, and unstable design.  
+127. Though I've only recently opened my hard drive it's worked flawlessly. 
+128. I am a student and therefore need a hard drive that can hold mega room for my assignments and other information. 
+129. The hard drive was sent in a manner that was packed well, delivered in a very reasonable time, is just as it was described, and I would definitely buy a Seagate product again as well as buying from amazon. 
+130. I took it out of the box and was ready (or so I thought) to back up my hard drive in a matter of minutes. 
+131. I ended up taking apart the most recent one they sent and put the hard drive in a case I bought on ebay for $12 and it worked fine.  
+132. At the start the hard drive seems OK. 
+133. An internal drive would be an even more reliable route also, as an internal drive are less likely to fail.keep in mind that my seagate drive has made me happy, it worked right out of the box and it is what I needed to store the music I have been buying from itunes. 
+134. I have a lot now, so my 500 GB drive is nearly full.it makes me wish I would have went for the 1TB drive.if you are not planning on downloading and storing, or more for backup or for office storage or for storing maybe schoolwork or to back up documents and such, this drive is great! 
+135. I usually have good luck with electronics, so I got this drive for it's low price despite several one star warnings.Twice I've plugged it in to back-up data.Tonight I plugged it in to run another much-needed backup, and the drive won't power on. 
+136. I have forged a union with my Seagate External hard drive that will last until eternity or until I fill up the available 500 GBs (rather...465 GBs), whichever comes sooner. 
+137. Especially since Seagate's website is not the most user-friendly I have discovered.The drive idles quietly and is hardly noticeable when performing a task. 
+138. Regardless, I taped a sticky note to my computer to remind myself never to directly unplug the external drive because I know one day I would unplug it without thinking.In any event, fingers crossed on reliability but everything else is performing smoothly so far.UPDATE:I now noticed a slight delay when accessing files on the external drive.  
+139. Regardless, I taped a sticky note to my computer to remind myself never to directly unplug the external drive because I know one day I would unplug it without thinking.In any event, fingers crossed on reliability but everything else is performing smoothly so far.UPDATE:I now noticed a slight delay when accessing files on the external drive.  
+140. Yes, the indicating light is stupidly placed and is not helpful, the drive is wobbly, but it can be placed so that it is protected, and I find that my XPsp2 wants me to Safely Remove Hardware but this doesn't work for this drive. 
+141. Not only is it the worst piece of hardware I have ever purchased but the software is worse than the drive.My computer refuses to restart or load OS when the drive is connected via USB. 
+142. Although I can't speak on the behalf of those who maybe got defective ones, I got this drive because through my research it was the most reliable and had the fewest defects and DOA's. 
+143. This is twice in two years that this or previous versions of this hard drive stopped working. 
+144. I usually have good luck with electronics, so I got this drive for it's low price despite several one star warnings.Twice I've plugged it in to back-up data.Tonight I plugged it in to run another much-needed backup, and the drive won't power on. 
+145. Every hour if I'm working in my office I'll hear a slight whirring of the drive spinning up and some files being backed up from Time Machine, but it hardly makes more noise than the iMac itself, and far less than any PC or laptop I've ever used. 
+146. I have a lot now, so my 500 GB drive is nearly full.it makes me wish I would have went for the 1TB drive.if you are not planning on downloading and storing, or more for backup or for office storage or for storing maybe schoolwork or to back up documents and such, this drive is great! 
+147. While there were other interfaces available and I have firewire ports, I decided that USB2 would be adequate.I have been using the hard drive for about a month and it performs as I had expected. 
+148. Compared to the older Maxtor's it is way smaller and less noisy.I ordered this drive with some trepidation as I have had 2 other drives (from different manufacturers) arrive DOA. 
+149. Beyond the poor reputation of this drive for its lack of reliabilty, the most annoying problem is that the drive insists on installing OVER FIVE HUNDRED MEGABYTES of junk in over a hundred folders and subfolders on the customer's main hard drive (C:).  
+150. Beyond the poor reputation of this drive for its lack of reliabilty, the most annoying problem is that the drive insists on installing OVER FIVE HUNDRED MEGABYTES of junk in over a hundred folders and subfolders on the customer's main hard drive (C:).  
+151. Beyond the poor reputation of this drive for its lack of reliabilty, the most annoying problem is that the drive insists on installing OVER FIVE HUNDRED MEGABYTES of junk in over a hundred folders and subfolders on the customer's main hard drive (C:).  
+152. Among the trash that Seagate feels entitled to stuff onto your hard drive are multiple pdf files of every version of the user license agreement for every country in every language. 
+153. After a year of electronic bliss and feeding my drive all kinds of data, one day it just turned on me with endless errors and unable to access data.  
+154. I actually enjoyed the packaging (yeah, I know, weird).And Seagate was right - in less than a minute, my drive was recognized by Windows XP and up and running. 
+155. I Found the Free Agent 500 GB hard drive easy to install and use. 

@@ -1,0 +1,892 @@
+
+------------------------------------------------------------------
+feature : years, positive Score : 25 and negative Score :-7
+------------------------------------------------------------------
+positive sentences : 
+1. The bottom is padded, making it fairly comfortable to use on your lap for an extended period.I have been using my XPad for several years now, and it is hardly the worse for wear.  
+2. Ours is several years old and has been used with laptops ranging from 13-17" with great success.
+3. I received my Xpad a couple of years ago from my best friend. 
+4. It's lightweight, has a great non skid back, doesn't have extra fans and gadgets I don't need and has kept my laptop running cool and perfectly all these years.  
+5. After 4 years of heavy use it looks pretty much like it did when I bought it but I have lost some little bits of the tacky material at the top of the X's where it holds the machine, but to no ill effect, works just fine and I still love it as much today as I did when I purchased it.  
+6. I bought my first X-pad about 4 years ago just after buying a Sony VAIO, which was great but hot.  
+7. I've been using the original Xpad for over 2 years. 
+8. I purchased the Xpad several years ago and liked it enough to purchase several more as gifts. 
+9. I have two of these and have used them for a few years. one for my laptop and one for my dvd player. they are great, sturdy, comfortable on my lap and prevent slipping, prevent any heat build up--very useful.
+10. I have been using my XPAD daily for several years.  
+11. I've owned the original X-Pad for over three years now, and I still use it every day, all day with my laptop. 
+12. After two years, the silver parts of the pad has visible signs of use which is expected, but it still functions perfectly. 
+13. I've been using this product for several years with my old Dell laptop.  
+14. I've had the original x-pad for almost five years now; initially using it for my pc laptop and currently with my 17" macbook pro this past year.  
+15. I bought one of the original Xpads from eBay many years ago.  
+16. Being several years old now it's starting to look a bit raggy round the edges as the fabric covering is 'peeling' at various points, (time for the glue gun methinks).
+17. I bought a couple of original Xpads a couple of years ago (one for me and one for my wife).  
+18. I bought the Xpad a few years back and I'm still using it today.  
+19. I've had and used the Xpad for several years now with my MacBook Pro.  
+20. I've used this for years -- and it's perfect, having the Xpad sit on my lap. 
+
+negative sentences : 
+1. I have had this over many years -  4 different laptops and it is better with some than others. 
+2. Perhaps the model that reviewer owned was older than the one I bought several years ago, but I have my XPad on my lap as I type this, and there are NO sharp edges anywhere.The XPad is far more unobtrusive than the products you'll find at most office supply or department stores for laptop cooling, and I wouldn't trade mine for any other product. 
+3. I've had an X-pad about 2 years now and use it with my HP dv1000 (about 14" wide).  
+4. All in all, I'd not really recommend this product, nor have I in the past two years of owning it.
+5. I own that laptop for more than 2 years and it wouldn't play a video for more than 1 hour without getting powered off due to excess heat produced by its processor. 
+
+------------------------------------------------------------------
+feature : xpad, positive Score : 130 and negative Score :-32
+------------------------------------------------------------------
+positive sentences : 
+1. The Xpad is the perfect for my use. 
+2. I bought my first xpad in 2007.  
+3. The Xpad works great.  
+4. My laptopp is a cyberpower so either the feet are placed too widely apart on this particular brand of laptop or new laptops are just being made too wide for the xpad. 
+5. I originally bought my XPad for my 13" Laptop and have upgraded to a 15" - I was still able to use the original XPad with the upgrade. 
+6. The XPAD offers a cool stable platform for your Laptop.No more hot-spots in your lap which are not only uncomfortable for you but extremely bad for your laptop since it causes it to overheat and possibly shutdown. 
+7. The Xpad fits in my original Laptop case without over burdening it and I wouldn't use another Laptop without one, especially since it is so affordable and unlike some of the other cooling platforms on the market - it doesn't require power from your laptop to keep it cool. 
+8. The XPad for Laptop (original version) is a simple product that does a very important job:  it helps keep your laptop from overheating.  
+9. The bottom is padded, making it fairly comfortable to use on your lap for an extended period.I have been using my XPad for several years now, and it is hardly the worse for wear.  
+10. I have a 15" MacBook Pro from 2007, which fits on the XPad with a small amount of overhang; my wife's 13" MacBook fits better.I even purchased a few more for laptops at the office.
+11. The Xpad is exactly as described ... non-slip surface, eliminates heat transfer between my legs and my laptop, elevates my laptop to allow proper airflow...and it fits easily into my laptop bag. 
+12. She still uses her laptop on her bed but the XPad keeps it cool.  
+13. I bought the xpad when I bought my new 17" HP laptop because a friend's laptop literally fried from being on too long. 
+14. Whenever I travel for business I always make sure to pack my Xpad slim as it is the perfect solution to on the go travel. 
+15. The Xpad is extremely simple and functional.  
+16. It keeps you and your computer cool, it's lightweight, and it's small enough to fit in a laptop bag (although I don't have one, I imagine the Xpad slim is even more amenable to transport).After a year or so, when the Xpad is exposed to prolonged use (3+ hours of constant computer time), it will become warm enough to cause discomfort.  
+17. It keeps you and your computer cool, it's lightweight, and it's small enough to fit in a laptop bag (although I don't have one, I imagine the Xpad slim is even more amenable to transport).After a year or so, when the Xpad is exposed to prolonged use (3+ hours of constant computer time), it will become warm enough to cause discomfort.  
+18. The only other problem with the original Xpad is that the fabric on the underside of the pad will become worn with age.I really can't fault the designers for my occasionally absurd computer habits, though, so I give the product a 5-star rating for everything but durability.
+19. This is the second XPad we buy. 
+20. Flat laptops adhere better to its surface, but the XPad also works great with curved laptops after some use. 
+21. Ilove my Xpad it has done a great job for me and it also helpswhen I put it on my lap from not getting my lap warm or hot.I have had it for a good while and I would definitelyreccommend it very highly.So if you are looking for a great Laptop cooler pad, go getan Xpad today!
+22. Ilove my Xpad it has done a great job for me and it also helpswhen I put it on my lap from not getting my lap warm or hot.I have had it for a good while and I would definitelyreccommend it very highly.So if you are looking for a great Laptop cooler pad, go getan Xpad today!
+23. The Xpad is excellent.  
+24. The Xpad was perfect!  
+25. The notebook became noticeably cooler and she could use it for hours.When I finally got my own MacBook, I bought an Xpad for myself and took advantage of a deal to buy an extra.  
+26. While it doesn't really affect functionality, it's pretty annoying.That said, I contacted the Xpad manufacturer who quickly sent me a replacement (an Xpad Slim this time) so their customer service is simply amazing.Of the two models, I prefer the Xpad slim.  
+27. Xpad is extremely light, so anytime I move my laptop, the Xpad goes with it.
+28. I bought the Xpad a few years back and I'm still using it today.  
+29. I've had and used the Xpad for several years now with my MacBook Pro.  
+30. The Xpad has worked fantastic for me. 
+31. I've used this for years -- and it's perfect, having the Xpad sit on my lap. 
+32. If the XPAD got the same rounded edges as the MacBook, it would be the perfect product.
+33. I still give the item 5 stars because I consider the heat issue of the laptop to be a well-known HP issue.The xpad is well made. 
+34. I bought the XPAD for a few reasons but the main one was to ensure my MAC was able to remain cool whilst in use.  
+35. The Xpad's construction is simple but functional and effective.  
+36. I have been using my XPAD daily for several years.  
+37. The XPAD is perfect for my 13 inch computer. 
+38. XPAD is worth your time.
+39. The Xpad makes a clear difference - the laptops aren't slowing down and stay cooler. 
+40. The Xpad is so comfortable that I forget its there. 
+41. I've referred a few colleagues to the Xpad and they're happy too.
+42. I've had the original XPad for almost a year. 
+43. with the Xpad the hole thing got hot. as i write, my laptop is cool...using the Antec USB-Powered Notebook Cooler.  
+44. And I also learned some interesting facts:  including [1] use velcro to prevent sliding when using your computer at steep angles, [2]Put a Belkin Cushtop Notebook Stand between your legs and the xpad [3]put gel ice-packs on your legs if excess heat transfers through the Xpad, and [3] put little rubber feet on the Xpad to elevate your computer further.  
+45. And I also learned some interesting facts:  including [1] use velcro to prevent sliding when using your computer at steep angles, [2]Put a Belkin Cushtop Notebook Stand between your legs and the xpad [3]put gel ice-packs on your legs if excess heat transfers through the Xpad, and [3] put little rubber feet on the Xpad to elevate your computer further.  
+46. And I also learned some interesting facts:  including [1] use velcro to prevent sliding when using your computer at steep angles, [2]Put a Belkin Cushtop Notebook Stand between your legs and the xpad [3]put gel ice-packs on your legs if excess heat transfers through the Xpad, and [3] put little rubber feet on the Xpad to elevate your computer further.  
+47. It is 12 1/4 inches wide and fits on the Xpad nicely.  
+48. This gives my computer an extra 1 inch of protection from any unwanted smack.Several reviews complained that the underside of the Xpad was sharp against their thighs.  
+49. It's a little over 14 inches wide inside and computer/Xpad combo fit nicely on the top shelf.In my opinion the Xpad delivers more than was offered, and I am pleased.  
+50. I purchased the xpad awhile ago direct from there website.  
+51. Thanks XPad for this great product.
+52. If you have a machine that runs really hot you might need the fans, but the Xpad allows for adequate ventilation/circulation without plugs, fans, and best of all is it is silent!!  
+53. But since using the Xpad, my laptop always stays cool and hasn't had to turn on the fans.  
+54. She got rid of that old Inspiron, but the Xpad is even more important now that she has a Powerbook.  
+55. I bought this because of its 4.5 rating but I'm disappointed in its performance.The price I paid for this Xpad is outrageous considering that it does not reduces heat. 
+56. The Xpad was much more affordable, and I liked that it didn't need to plug into my laptop to run additional fans.
+57. This is my 3rd purchase of XPAD 4 LAPTOP.  
+58. I use a 17 inch MSI gaming laptop, which produces quite a bit of heat, and have found the Xpad to be superb at dissipating the hot air produced without bothering me at all. 
+59. The Xpad definitely is effective, but seems a bit overpriced for what it is - plastic housing with foam insulation. 
+60. If I use my laptop for hours at a time, the rubberized  raised surfaces on the Xpad tend to get pretty hot, though I think this is unavoidable when running your computer for so long in such close proximity to another surface. 
+61. It's going to heat up something unless you can somehow use it suspended in air.The other thing is that the actual physical presence of the Xpad under my laptop took some getting used to. 
+62. I stopped noticing this after a few days of use, and have actually come to appreciate the stable surface that the Xpad creates--almost like a mini-desk. 
+63. I also feel that the Xpad also adds a certain amount of heft that takes some getting used to, though I'm sure this is very person-specific (think about it this way: a laptop alone might be about 6 lbs., so even a pound of extra weight is about a 15% increase. 
+64. I have been using my Xpad for about 3 months now and I must say; the Xpad has been the best purchase I have made as far as accessories for my laptop. 
+65. I found that the xPad, with its simple X design on top, keeps most of the laptop out of contact with the bottom of the pad, and hence, keeps my lap pretty cool. 
+66. I've had an original Xpad for going on 4 years now.  
+67. The laptop is larger than the Xpad by about an inch on both the left and right sides. 
+68. I bought the original xpad for my HP tx2000 laptop...which runs very hot. 
+69. The Xpad is great and really takes the heat so I don't sweat to death and my laptop doesn't give out with me.The Xpas original isn't as swanky to look at as the new slimmer version but it's perfectly functional and does it's job, so I've not bothered to buy the new one.If you want a no nonsense, no fuss, no noise cooling pad to rest your laptop on your knee while you're typing away or surfin the net then I thoroughly recommend the Xpad
+70. I have the Lenovo G510 and it is a little bigger than the 15&#34; Xpad I ordered. 
+71. My laptop is about 2&#34; longer than the Xpad, but I don't mind the 1&#34; over hang on either side and I haven't noticed any stablity issues. 
+72. Great product, I was so convinced after using the 1st Xpad that I bought 2 more. 
+73. Now that I use the Xpan Slim with my notebook most of the time, I've been using the original Xpad with my XBOX 360, which I lay on its side. 
+74. I also have the original XPAD which is a bit thicker but it can handle the heat generated by the Thinkpad. 
+75. I'm very pleased with the Xpad.  
+76. I've purchased a number of laptop pads and the XPad is the best I've found.While my notebook is typically in a Dell Dock, often I want to work away from my desk.  
+77. Using the XPad fixes this problem.  
+78. Everyone who has bought one has been impressed.The XPad is great on a sofa or bed where you might sit the notebook on a blanket.  
+79. It's amazing to me that these sell at all, but it must be because people just don't understand how their laptop works.I highly recommend the XPad product.
+80. My first Xpad was a smaller version and I bought the second Xpad when I upgraded my computer to a 17" screen laptop.
+81. My first Xpad was a smaller version and I bought the second Xpad when I upgraded my computer to a 17" screen laptop.
+82. I bought this Xpad because my white macbook keeps on over heating, especially when I watch videos on youtube and netflix. 
+83. I've been using the original Xpad for over 2 years. 
+84. The Xpad is now a standard piece of equipment in my backpack. 
+85. I have had laptop coolers with fans, and the Xpad works so much better!  
+86. the xpad does make some differance to the heat of my laptop, the fan still kicks in but the air channels underneath allow the laptop fan to do its jobthe xpad stays cool enough to have it on you lap , maybe a touch warm after several hours
+87. I've had the Xpad for a few months now, and I have to admit that I don't use my macbook without it, and I don't get my legs fried anymore (they still get warm though). 
+88. I purchased the Xpad several years ago and liked it enough to purchase several more as gifts. 
+89. I ordered my first Xpad about 3 or 4 years ago I think and don't think I have ever used my laptop without it since, even when I'm actually working at a table or a desk.  
+90. It has honestly been fantastic in solving the problem which was worrying me more and more when I used my laptop, namely a repetitively slightly swollen leg and definitely uncomfortably warm top of my leg.I found the Xpad on a general web search, not early on either but so glad I persevered.  
+91. I'm still with my first Xpad, going strong.Even if you don't think heat from your laptop is a problem I would still recommend using the Xpad as it gives a great steady and secure base for your laptop - no problem with whatever you're wearing.A great product!
+92. I'm still with my first Xpad, going strong.Even if you don't think heat from your laptop is a problem I would still recommend using the Xpad as it gives a great steady and secure base for your laptop - no problem with whatever you're wearing.A great product!
+93. The fortunate design of the Xpad allows the computer to stay cool.  
+94. The Xpad provides a light, stable base for the laptop.  
+95. My computer is smaller than the Xpad and my wife's computer is the same length and width as the Xpad.
+96. Let me state first that I use the Xpad solely for the purpose of cooling my laptop. 
+97. The only function my Xpad does is boost my laptop up a little higher so that I can slide an ice pack in between the laptop and the Xpad. 
+98. I bought the XPAD and no more problems.  
+99. However, there should be more padding on the bottom of the item to ensure that it doesn't scratch any hard surfaces it may be resting on (my new coffee table doesn't look so new anymore after using the Xpad on it once).  
+100. But I like this thing, this original Xpad. 
+101. The Xpad is the perfect solution.  
+
+negative sentences : 
+1. I was disappointed to find that the Xpad did not fully fit underneath my MBP. 
+2. I bought this after seeing the CNET results that the Xpad works better than the electirc models with fans. 
+3. The top of the Xpad grips the MacBook nicely, and the bottom of the Xpad is soft and not slippery.Sometimes my MacBook runs hot, which is no problem, since I never feel unwanted heat through the Xpad.  
+4. The top of the Xpad grips the MacBook nicely, and the bottom of the Xpad is soft and not slippery.Sometimes my MacBook runs hot, which is no problem, since I never feel unwanted heat through the Xpad.  
+5. Previous to purchasing this Xpad I had an HP laptop.  
+6. Not wanting to take a chance on destroying another notebook with another p.o.s, I decided to get this Xpad, it was affordable, and best of all it doesn't violate any Warranty set by your notebook provider being it doesn't plug into it, or change its engineering in any shape or form. :) I received the Xpad later on that week, and decided to check it out, first and foremost, the reason my notebook runs at insane temperatures is because I am an Online Gamer. 
+7. My laptop is really my desktop computer most of the time, and the Xpad does an excellent job of allowing air to circulate under the computer and certainly helps alleviate the need of the internal computer fan.  
+8. I don't think you can go wrong with the Xpad.
+9. Perhaps the model that reviewer owned was older than the one I bought several years ago, but I have my XPad on my lap as I type this, and there are NO sharp edges anywhere.The XPad is far more unobtrusive than the products you'll find at most office supply or department stores for laptop cooling, and I wouldn't trade mine for any other product. 
+10. I bought the Xpad after purchasing two different usb cooling pads that didn't last more than a few months. 
+11. The Xpad is slim, has no moving parts to break, fits easily in my laptop case, and works. 
+12. "Bean bags" are bulky, fan-driven ones need power and may not be helpful, this Xpad is light, fits my case, keeps my machine cool and is useable in many positions. 
+13. After using the Xpad, I have found fewer crashes, cooler hardrives and I am quite impressed.  
+14. I was very excited when I received the Xpad. 
+15. The Xpad is sturdy, silent, uses no power, and I've never had an oveheating problem since I started using it two years ago. 
+16. My husband has a MAC and the rest of us have different PCs, the Xpad works for all of them. 
+17. That issue had always bothered me with USB powered cooling fans because when a fan goes out it could very easily take out your USB port too.The XPad does a very good job of keeping not only your computer cool, but your lap stays cool too. 
+18. The Xpad is light, durable and not bulky like many of the fan cooled desks. 
+19. The Xpad worked great, it's completely fanless, no electricity, has a good grip for both my legs as well as my MacBook. 
+20. I was skeptical about this product until I read CNET's review of ten different cooling pads and the Xpad was measured as keeping the laptop the coolest, even though it was only .4 degrees lower than the second best. 
+21. Unfortunately, I did not consider how thick the Xpad is and how that would effect its use on a table or desk.  
+22. Other pads are heavier, or may have fans that inevitably go south; the Xpad is extremely light, and will never have fan issues. 
+23. got this for my white 13" macbook because i liked the idea of not sucking up power with a usb-powered cooler w fans. the reviews were pretty convincing to the xpad's cooling power sans fans, but i saw no difference. my mac is still hot as hell. i even downloaded a temperature monitor to see if there was any significant change and nothing. but the pad is comfortable/compact enough (i mostly use my laptop on my bed), keeps my flesh from being burned and has a nice look so i'll keep it. this product is not worth $25; i'll probably reluctantly look into a usb-powered cooling mat with fans.EDIT: couldn't take it anymore. returning as if anything my laptop feels even hotter. i'd rather hear a cooling fan blowing and actually cooling my computer than to hear my laptop's fan blowing full blast all the time.
+24. But of course if I multitask, the poor XPAD has to give in and the crappy laptop will get turned off. 
+25. When I opened the package the Xpad was dirty and had cracks on two of the legs, It looks used. 
+26. This is my second xpad and I love it.Really works and I like that there aren't any noisy fans. 
+27. The xpad works pretty much as described it seems to keep the heat down somewhat. 
+
+------------------------------------------------------------------
+feature : cooling, positive Score : 28 and negative Score :-22
+------------------------------------------------------------------
+positive sentences : 
+1. It has a nice solid construction and is hands down the best laptop cooling pad on the market. 
+2. For my needs of keeping cooling vents open on a car seat, it is perfect.
+3. I chose this one because I didn't want to use up a USB port or deal with a cooling pad that was bulky, noisy or with those damn tempermental fans that have to be coddled each night or they break as soon as you turn them on! 
+4. With regards to long term cooling of another laptop, I could only give it a 4 star. 
+5. So I researched a lot of cooling options -- most of the cooling pads on the market are motorized and use fans etc to cool, but research on technical sites warned me that most didn't cool very well and in fact generated their own amount of heat since they need power to run.  
+6. So I researched a lot of cooling options -- most of the cooling pads on the market are motorized and use fans etc to cool, but research on technical sites warned me that most didn't cool very well and in fact generated their own amount of heat since they need power to run.  
+7. If the pad fans are drawing air down, they are drawing air away from the intake of your notebook, and you are providing LESS cooling than using no pad at all.  
+8. For the price i paid for it, i expected it to be much more efficient at cooling. 
+9. If you want a noticeable cooling down, I would suggest getting one with a fan but Xpad will do the job pretty well. 
+10. However, the CNET reviews rated this pad best, providing better cooling than those with integral fans, so I bit.  
+11. Serves as good cooling device for everyday use.
+12. This is the first ever cooling pad I have ever used for a laptop and I must say this thing is amazing.  
+13. X-Pad is a great product, and if you believe in cooling making a difference, the the X-Pad is the answer between nothing at all, and all of the heavy, noisy, and power dependent cooling rests available on the market.
+14. Only small amounts were needed in the 4 corners of the PC and the X-Pad to secure the laptop from slipping around, and to always make sure the X-Pad is in optimum cooling position.  
+15. No need to spend money on heavy cooling devices with fans that need to be plugged in to electricity.  
+16. I bought this for my 15&#34; MacBook Pro since cooling pads with fans serve little purpose for the MBP design. 
+17. If you're looking for complete cooling, or a pad that tilts or is adjustable, then pass on this one.
+18. The Xpad fits in my original Laptop case without over burdening it and I wouldn't use another Laptop without one, especially since it is so affordable and unlike some of the other cooling platforms on the market - it doesn't require power from your laptop to keep it cool. 
+19. The product is stable without being bulky or heavy and it doesn't interfere with my unit's internal cooling system.
+20. So I have had the laptop sitting on my lap.I knew that this wasn't good for the laptop or me, so I did some research online.I decided I didn't want to worry about the electrical aspects of a powered cooling pad.This pad does an excellent job of keeping me cooler so I'm quite sure my laptop is also happier.
+21. I'd tried using a tray or a couple of books but nothing worked.I searched around and found a similar product that used USB cooling but the laptop already has a fan so couldn't see the need for that.  
+22. I guess having the laptop on my lap didn't help the machine to keep cool what with the cooling vents being blocked by my legs and the resulting heat build-up probably did the battery no favours.  
+23. Looking at the various cooling solutions, like bases with USB-power cooling fans, they all seemed expensive, bulky and over the top; when I came across the X-pad, it was obviously a simple solution, cheap and lightweight.  
+24. Looking at the various cooling solutions, like bases with USB-power cooling fans, they all seemed expensive, bulky and over the top; when I came across the X-pad, it was obviously a simple solution, cheap and lightweight.  
+25. I have bought several of these cooling pads and given them as gifts.  
+26. The problem for me is that it's main function, the cooling part, is not quite what I had hopped for.  
+
+negative sentences : 
+1. One of the most compelling reasons to buy this product is the fact that it allows your laptop to cool itself using the built-in cooling system that the laptop engineers created.  
+2. The Xpads are not bulky like some of the other cooling pads I checked out---and they are blissfully quiet--no crazy fans running nonstop.  
+3. I was skeptical about this product until I read CNET's review of ten different cooling pads and the Xpad was measured as keeping the laptop the coolest, even though it was only .4 degrees lower than the second best. 
+4. There is no need for the more expensive powered laptop cooling pads if you have an X-Pad. 
+5. got this for my white 13" macbook because i liked the idea of not sucking up power with a usb-powered cooler w fans. the reviews were pretty convincing to the xpad's cooling power sans fans, but i saw no difference. my mac is still hot as hell. i even downloaded a temperature monitor to see if there was any significant change and nothing. but the pad is comfortable/compact enough (i mostly use my laptop on my bed), keeps my flesh from being burned and has a nice look so i'll keep it. this product is not worth $25; i'll probably reluctantly look into a usb-powered cooling mat with fans.EDIT: couldn't take it anymore. returning as if anything my laptop feels even hotter. i'd rather hear a cooling fan blowing and actually cooling my computer than to hear my laptop's fan blowing full blast all the time.
+6. got this for my white 13" macbook because i liked the idea of not sucking up power with a usb-powered cooler w fans. the reviews were pretty convincing to the xpad's cooling power sans fans, but i saw no difference. my mac is still hot as hell. i even downloaded a temperature monitor to see if there was any significant change and nothing. but the pad is comfortable/compact enough (i mostly use my laptop on my bed), keeps my flesh from being burned and has a nice look so i'll keep it. this product is not worth $25; i'll probably reluctantly look into a usb-powered cooling mat with fans.EDIT: couldn't take it anymore. returning as if anything my laptop feels even hotter. i'd rather hear a cooling fan blowing and actually cooling my computer than to hear my laptop's fan blowing full blast all the time.
+7. I looked at other cooling pads, but chose this one and have never regretted it. 
+8. I bought the Xpad after purchasing two different usb cooling pads that didn't last more than a few months. 
+9. Even though the cooling is passive it does work!
+10. This accessory provides not only great cooling and ventilation qualities, but also a stable, slightly elevated work surface which greatly facilitates extended work sessions.  
+11. After I looked over multiple cooling systems I came across the Xpad. 
+12. Have tried about a half dozen with USB cooling fans and this beats them hands down. 
+13. First, it is difficult to find many cooling pads for a 17" notebook, and when you do, it is usually very bulky, heavy, and with three noisy fans. 
+14. I was looking for something to keep my laptop flat on a uneven surface and could provide cooling with out a fan. 
+15. At first, I was a little skeptical considering some of the reviews and the fact that it did not have an actual cooling fan.  
+16. This is not an active cooling system; but, here's what it does, it allows your laptop to cool itself the way it was meant to cool. 
+17. It is light weight, easy to use, not very expensive compared to other cooling pads, and is easily interchangeable with other laptops in your household. 
+
+------------------------------------------------------------------
+feature : fans, positive Score : 37 and negative Score :-26
+------------------------------------------------------------------
+positive sentences : 
+1. The great thing about this product is that it has no cords and no loud fans to worry about. 
+2. It's lightweight, has a great non skid back, doesn't have extra fans and gadgets I don't need and has kept my laptop running cool and perfectly all these years.  
+3. My experience is not as good. its nice to have no fans which is less noise but I don't think it cools better or as well as top rated fan assistant  laptop coolers.
+4. It's a brilliant way to keep your laptop from overheating without the annoying noise of those USB plug-in types with the fans.  
+5. I chose this one because I didn't want to use up a USB port or deal with a cooling pad that was bulky, noisy or with those damn tempermental fans that have to be coddled each night or they break as soon as you turn them on! 
+6. (Ok, that may be an exaggeration, but I really dislike those whimpy fans.) 
+7. Some were too bulky, others had fans which I did not want,while others were pads made of a cooling material. 
+8. Pros:- It elevates your laptop to provide better airflow for the intake fans, thus overall cooling your laptop.- It prevents your laptop from overheating when placed on your lap.Cons:- Made of cheap plastic that is moderately flexible, thus causing it to potentially bend overtime.
+9. My Macbook Pro always used to run hot, and the fans would be on constantly. 
+10. I've killed the fans in my past laptops and really didn't want that to happen with my current one so I did some research and I kept finding rave reviews about the Xpad. 
+11. but I never hear the fans on my laptop run so I'm pretty sure I saved my laptop. 
+12. However, the CNET reviews rated this pad best, providing better cooling than those with integral fans, so I bit.  
+13. I have had laptop coolers with fans, and the Xpad works so much better!  
+14. There is no annoying noise from fans because there aren't any.It's also great because it's very portable - I just pick up my laptop together with the mat and put the lot into my laptop case.  
+15. No noisy fans.  
+16. The Xpad was much more affordable, and I liked that it didn't need to plug into my laptop to run additional fans.
+17. Keeping it cool, without harmful fans or usb plugs. 
+18. No need to spend money on heavy cooling devices with fans that need to be plugged in to electricity.  
+19. I bought this for my 15&#34; MacBook Pro since cooling pads with fans serve little purpose for the MBP design. 
+20. No power needed, no noisy fans. 
+21. My fans now have ample room to draw air and the system stays noticeably cooler.  
+22. It cools passively so there are no noisey fans going while your laptop is on.  
+23. I think it beats the big plastic gizmos with multiple fans hands down---no noise, virtually no weight which makes it easier on the legs when you place the laptop on it, and it's easy to transport if you're traveling with your laptop. 
+24. I never thought a passive laptop cooler could work as good or better than one with fans, but this one does. 
+25. I purchased this product to keep my laptop cool as I know laptop's are famous from overheating and the fans running all the time as all the components are in a very confined area.  
+26. My Dell laptop (only a year old) has a tendency to overheat and the fans turn on very high.  
+27. If you have a machine that runs really hot you might need the fans, but the Xpad allows for adequate ventilation/circulation without plugs, fans, and best of all is it is silent!!  
+28. If you have a machine that runs really hot you might need the fans, but the Xpad allows for adequate ventilation/circulation without plugs, fans, and best of all is it is silent!!  
+29. I didn't expect an active cooler with fans and all.  
+30. Looking at the various cooling solutions, like bases with USB-power cooling fans, they all seemed expensive, bulky and over the top; when I came across the X-pad, it was obviously a simple solution, cheap and lightweight.  
+31. I have a monster laptop with a large number of fans and vents on the underside. 
+
+negative sentences : 
+1. got this for my white 13" macbook because i liked the idea of not sucking up power with a usb-powered cooler w fans. the reviews were pretty convincing to the xpad's cooling power sans fans, but i saw no difference. my mac is still hot as hell. i even downloaded a temperature monitor to see if there was any significant change and nothing. but the pad is comfortable/compact enough (i mostly use my laptop on my bed), keeps my flesh from being burned and has a nice look so i'll keep it. this product is not worth $25; i'll probably reluctantly look into a usb-powered cooling mat with fans.EDIT: couldn't take it anymore. returning as if anything my laptop feels even hotter. i'd rather hear a cooling fan blowing and actually cooling my computer than to hear my laptop's fan blowing full blast all the time.
+2. got this for my white 13" macbook because i liked the idea of not sucking up power with a usb-powered cooler w fans. the reviews were pretty convincing to the xpad's cooling power sans fans, but i saw no difference. my mac is still hot as hell. i even downloaded a temperature monitor to see if there was any significant change and nothing. but the pad is comfortable/compact enough (i mostly use my laptop on my bed), keeps my flesh from being burned and has a nice look so i'll keep it. this product is not worth $25; i'll probably reluctantly look into a usb-powered cooling mat with fans.EDIT: couldn't take it anymore. returning as if anything my laptop feels even hotter. i'd rather hear a cooling fan blowing and actually cooling my computer than to hear my laptop's fan blowing full blast all the time.
+3. What really sold me is that I don't have to plug it in and it doesn't have fans of its own so it's not noisy in any way. 
+4. I was almost obsessive in the amount of deliberating I did; some products have built-in fans, others cushions, etc. 
+5. Moreover, with no fans, it is slim enough to easily fit into my  laptop case along with my MacBookPro. 
+6. To me, this is the perfect solution--no fans, no connections, lightweight, less expensive, easy to use. 
+7. I don't know how this thing works, or how its so simple but it works better than many of the pads with fans on them. 
+8. This is my second xpad and I love it.Really works and I like that there aren't any noisy fans. 
+9. Two reasons: 1) I don't like the idea of a fan that needs to be powered by the laptop, as that creates more work for the laptop (even if it's a separate plug, I don't want to lug around another piece of equipment to plug in), 2) It seems that some laptop coolers with fans can interfere with the natural inflow/outflow of the laptop fan.
+10. Other pads are heavier, or may have fans that inevitably go south; the Xpad is extremely light, and will never have fan issues. 
+11. The Xpads are not bulky like some of the other cooling pads I checked out---and they are blissfully quiet--no crazy fans running nonstop.  
+12. I bought this after seeing the CNET results that the Xpad works better than the electirc models with fans. 
+13. First, it is difficult to find many cooling pads for a 17" notebook, and when you do, it is usually very bulky, heavy, and with three noisy fans. 
+14. Have tried about a half dozen with USB cooling fans and this beats them hands down. 
+15. No-one who has seen it has seen anything like before, and no-one who has seen it has seen hasn't thought that it is brilliant.Its featherweight with no fans and no moving parts. 
+16. I bought this xpad because the cooler I used before was annoying since its fans were running too loud.I have a 12 in screen HP laptop. 
+17. No fans, lightweight, easy to use and they work!  
+18. I don't like the idea of using more electricity (fans) to combat a problem caused by electricity (overheating) so this is a great solution.
+19. The fact that it runs without needing to plug in to a USB port and without noisy fans of any sort is a huge plus.Some things to note: I own a Dell Inspiron 1505 with a 15.4' screen. 
+20. I was uncomfortable with pads with built-in fans.  
+21. Was afraid I was gonna fry the system.This simple piece of hardware, no fans, no usb ports, did the trick.  
+
+------------------------------------------------------------------
+feature : fan, positive Score : 25 and negative Score :-19
+------------------------------------------------------------------
+positive sentences : 
+1. no moving parts. no batteries or chord for a fan. keeps hot macbook off my lap. what more do you need?
+2. Often the fan is running at full speed and it's annoying, and obviously the overheating will shorten the life of the notebook.  
+3. The one down side for me is my old Dell Latitude's fan is in the corner, being obscured by the device. 
+4. My core temps actually ran hotter with "the best" fan style pad I could buy.I've been using the X-Pad for over 5 years now and wouldn't dare go without. 
+5. Without it my bottom fan was seriously obstructed on the soft surfaces.  
+6. the xpad does make some differance to the heat of my laptop, the fan still kicks in but the air channels underneath allow the laptop fan to do its jobthe xpad stays cool enough to have it on you lap , maybe a touch warm after several hours
+7. When placed directly on a couch or bed with the laptop on it, the exhaust from the fan is also noticiably cooler. 
+8. This product does it all and best of all you don't have to plug it in nor deal with that noisy fan.  
+9. The grips on it work great my laptop doesn't budge a bit even at an angle.You don't need a fancy expensive pad with a fan and all that bulk, this one is perfect and you'd use it more than those bulky other ones because its so easy to carry around with your laptop. 
+10. The D630, like most notebooks, has a fan opening on the bottom in a position that would typically rest above my left knee.  
+11. The underside of the xpad is covered with a slightly rough fabric that works comfortably on clothes or bare skin.Pros:* no moving parts, so nothing to mysteriously break in a few weeks* works on lap or table* very light* fits in many laptop bags* design accommodates a wide variety of laptop sizes, intake, and fan configurations* stiff design won't block air intakes on bottom of laptopCons:* plastic case is slightly deeper than the foam pad; could dig into bare skin, depending on position of of pad.
+12. I've been very pleased-particularly since I didn't buy an alternative product that required a fan to be plugged into a USB port for power.The magic of the Xpad is it's simplicity, which achieves functionality without a lot of bell and whistles!
+13. May consider a fan one next time instead.
+14. The fan would kick into high gear but really didn't do much except make me worry the whole thing was going to implode. 
+15. If your laptop is getting so hot that it needs the fan driven cooler to operate properly, then something's wrong with your laptop.  
+16. If I tilt the laptop so the fan is clear of the foot, it works fine, but its very awkward.  
+17. No loud fan noise, better comfort and non-slip grip.  
+18. I read reviews it cools as well as the best fan assistant coolers. 
+19. My experience is not as good. its nice to have no fans which is less noise but I don't think it cools better or as well as top rated fan assistant  laptop coolers.
+
+negative sentences : 
+1. The Xpad is light, durable and not bulky like many of the fan cooled desks. 
+2. Other pads are heavier, or may have fans that inevitably go south; the Xpad is extremely light, and will never have fan issues. 
+3. got this for my white 13" macbook because i liked the idea of not sucking up power with a usb-powered cooler w fans. the reviews were pretty convincing to the xpad's cooling power sans fans, but i saw no difference. my mac is still hot as hell. i even downloaded a temperature monitor to see if there was any significant change and nothing. but the pad is comfortable/compact enough (i mostly use my laptop on my bed), keeps my flesh from being burned and has a nice look so i'll keep it. this product is not worth $25; i'll probably reluctantly look into a usb-powered cooling mat with fans.EDIT: couldn't take it anymore. returning as if anything my laptop feels even hotter. i'd rather hear a cooling fan blowing and actually cooling my computer than to hear my laptop's fan blowing full blast all the time.
+4. Those loud, USB fan powered pads should be outlawed. 
+5. If your laptop has more issues, get a fan
+6. I feel the hot air blowing out when I place my hand next to the laptop when it is on the X pad.I didn't go with the other laptop coolers with the fan. 
+7. If you want to cool the laptop, get one of those pads that physically absorbs heat, or just buy a cheap fan to go against it.  
+8. They work great when brand new but after a couple of months, the fan gets noisy and starts to slow down reducing its ability to cool. 
+9. Fearing that I was starting to get "toasted skin syndrome," I immediately shopped Amazon for a laptop cooler, but I didn't want one with a noisy fan or anything bulky.  
+10. I also find it kind of ironic no matter how small a draw the fan would have, that most users plug the fan into the pc that it is supposed to be cooling.  
+11. I also find it kind of ironic no matter how small a draw the fan would have, that most users plug the fan into the pc that it is supposed to be cooling.  
+12. Using Speccy ( a software that tells you your temps among other things) this kept my laptop cooler than one with a fan.  
+13. My laptop is really my desktop computer most of the time, and the Xpad does an excellent job of allowing air to circulate under the computer and certainly helps alleviate the need of the internal computer fan.  
+14. At first, I was a little skeptical considering some of the reviews and the fact that it did not have an actual cooling fan.  
+15. When sitting with the computer on my lap, I don't have to watch the fan intakes any more and the system and my lap stay cool.  
+16. It's stable, light, cooler, it just works.Keeps more dust out of the fan when put on the bed or the couch.I got one, used it, gave it to my wife. 
+17. I like that I don't have to plug it in - which would work against the laptop's internal fan anyway.  
+
+------------------------------------------------------------------
+feature : pad, positive Score : 52 and negative Score :-10
+------------------------------------------------------------------
+positive sentences : 
+1. It has a nice solid construction and is hands down the best laptop cooling pad on the market. 
+2. The underside of the xpad is covered with a slightly rough fabric that works comfortably on clothes or bare skin.Pros:* no moving parts, so nothing to mysteriously break in a few weeks* works on lap or table* very light* fits in many laptop bags* design accommodates a wide variety of laptop sizes, intake, and fan configurations* stiff design won't block air intakes on bottom of laptopCons:* plastic case is slightly deeper than the foam pad; could dig into bare skin, depending on position of of pad.
+3. I often use my laptop while in bed watching tv, so even while lying, this pad is perfect.
+4. This pad gives my laptop a great boost.  
+5. I chose this one because I didn't want to use up a USB port or deal with a cooling pad that was bulky, noisy or with those damn tempermental fans that have to be coddled each night or they break as soon as you turn them on! 
+6. This is a really simple laptop pad and I like it.It's great for making sure my MacBook Pro is getting the right amount of venting when I've got it in my lap or laying down on the couch.The only complaint could be the material because it's just plastic, but really for the price I wouldn't expect anything too fancy. 
+7. The product is still high quality, but it may be worth trying your own X shaped foam pad before spending the money for this.
+8. However I have to say it didn't cool as much as I would like.I haven't had issues yet with the pad's "hard edges" (as in other reviews) but maybe it's me -- it's true the padding doesn't extend on the bottom like others may want. 
+9. The lightweight pad keeps your lap cool if you're going to use it while reclining in an easy chair, or taking notes in class.  
+10. This is a really good heating pad for one that doesn't have fans in it.  
+11. If the pad fans are drawing air down, they are drawing air away from the intake of your notebook, and you are providing LESS cooling than using no pad at all.  
+12. My core temps actually ran hotter with "the best" fan style pad I could buy.I've been using the X-Pad for over 5 years now and wouldn't dare go without. 
+13. The grips on it work great my laptop doesn't budge a bit even at an angle.You don't need a fancy expensive pad with a fan and all that bulk, this one is perfect and you'd use it more than those bulky other ones because its so easy to carry around with your laptop. 
+14. Not sure how much it really cools down my laptop, as I don't have those internal programs that measure temperature.I have a Dell Vostro 1500 and it fits fine on the X pad. 
+15. I was skeptical of this pad but now I see why.  
+16. I am going to have to buy one of the fan-based chill pads, which sucks because pad was more expensive than the regular fan-operated chill pads. 
+17. This is the first ever cooling pad I have ever used for a laptop and I must say this thing is amazing.  
+18. The X Pad keeps it cool.  
+19. But the books were too unstable so I started scouring the internet for a special laptop pad. 
+20. However, the CNET reviews rated this pad best, providing better cooling than those with integral fans, so I bit.  
+21. My laptop runs pretty hot, and this pad cools it down a good 7 degrees +.  
+22. It performs the same as the less expensive Targus lap pad that I gave to my son. 
+23. The pad is remarkably comfortable, lightweight, easy to store and doesn't require a power source. 
+24. The only other problem with the original Xpad is that the fabric on the underside of the pad will become worn with age.I really can't fault the designers for my occasionally absurd computer habits, though, so I give the product a 5-star rating for everything but durability.
+25. In fact, I am now on my third Laptop on the same pad.  
+26. However it fits the depth and by astute positioning of the pad everything is copasectic.
+27. This laptop pad certainly relieves the heat that was frying my legs for months! 
+28. Its a very nice height.I love this laptop pad and will happily order another if I need one in the future.
+29. If you're looking for complete cooling, or a pad that tilts or is adjustable, then pass on this one.
+30. But, if you're looking for pad that is easy to use, lowers the heat enough so that you don't "feel the burn", and is relatively inexpensive you'll probably be pleased with this.  
+31. Had read reviews of another fanless pad, but several reviewers said computer slipped off the pad when used on their lap.  
+32. I have worked with my laptop sitting on this for several hours, and the pad itself was only slightly warm, my machine even less so, and my stayed nice and cool.
+33. Ilove my Xpad it has done a great job for me and it also helpswhen I put it on my lap from not getting my lap warm or hot.I have had it for a good while and I would definitelyreccommend it very highly.So if you are looking for a great Laptop cooler pad, go getan Xpad today!
+34. So I have had the laptop sitting on my lap.I knew that this wasn't good for the laptop or me, so I did some research online.I decided I didn't want to worry about the electrical aspects of a powered cooling pad.This pad does an excellent job of keeping me cooler so I'm quite sure my laptop is also happier.
+35. So I have had the laptop sitting on my lap.I knew that this wasn't good for the laptop or me, so I did some research online.I decided I didn't want to worry about the electrical aspects of a powered cooling pad.This pad does an excellent job of keeping me cooler so I'm quite sure my laptop is also happier.
+36. It is lightweight and although the computer is 14 1/2" wide (a little wider than the pad), there's no problem keeping it centered on the pad.  
+37. I even pulled out a spare tile of stone from the outdoor countertop we installed to use as a laptop pad, but this was a heavy and ridiculous solution.  
+38. The laptop does not slip, and the pad is durable and light.
+39. Look at the bottom of your laptop, and see how its going to work out.If the feet fall in a good position for you, this would be a good pad.  
+40. Initially, it seemed bulky and akward, but no more than any other pad, and you get used to it. 
+41. I do find especially in the summer months that the pad itself will get warm, almost to the point of hot.  
+42. The fan almost never kicks in when I have the MacBook on the pad and I no longer get 3rd degree burns on my left knee.It's super lightweight, which is great because I'm constantly on the move and would hate to haul a bulky pad around.  
+43. After two years, the silver parts of the pad has visible signs of use which is expected, but it still functions perfectly. 
+44. I placed my new laptop on this pad (which really doesn't get too hot even after long use)then sat it on my lap to readwithin an hour the heat was coming through to make me uncomfortablejust as if I was not using any padnot sure what this is made out of - but the heat still comes throughyes, there is air flow between the two - and that is about it'false claims' about keeping you cooler when using on lap
+
+negative sentences : 
+1. I am typing with the non-fan operated chill pad now, and my palms are very warm (because they are resting on the lower portion).  
+2. I am using it now--the laptop is not getting hot and the pad is not getting hot either. 
+3. The pad is lightweight, sturdy, and has no sharp edges.
+4. got this for my white 13" macbook because i liked the idea of not sucking up power with a usb-powered cooler w fans. the reviews were pretty convincing to the xpad's cooling power sans fans, but i saw no difference. my mac is still hot as hell. i even downloaded a temperature monitor to see if there was any significant change and nothing. but the pad is comfortable/compact enough (i mostly use my laptop on my bed), keeps my flesh from being burned and has a nice look so i'll keep it. this product is not worth $25; i'll probably reluctantly look into a usb-powered cooling mat with fans.EDIT: couldn't take it anymore. returning as if anything my laptop feels even hotter. i'd rather hear a cooling fan blowing and actually cooling my computer than to hear my laptop's fan blowing full blast all the time.
+5. It is cooler, not cool, so it will still heat a bit, but not nearly as hot as without this pad.  
+6. My compliments to a good design job--but with one big caveat: they state it works for laptops up to 17". it does not. the pad is too small for a 17" and thus one leg of the "X" covers the fan. it still attempts to dissipate heat but appears to do a barely adequate job.
+7. this is suitable for 14 inch lap tops the size is actually less then 14 inches though. second it a hollow plastic board with 4 rubbers on top and a lite pad on the bottom, hardly worth the price, more or less it should be price around 7 bucks at least, anything more is just a rip off for a product that is just the same as putting a plastic chop board under neath your laptop and putting a cloth underneath. a few issues with the design make i flaw, one is that it not really for the new types of laptop that are wide screen base, such as like the new dells insperion 15 and others, the board has a more square shape which resembles the old style of the lap tops which mean either your laptop will not fit correctly on it. leaving some time the fan or hdd being cover by the pads in a slight off angle leaving less air flow. this product is ok but not good. there are other product that will do more for the price then this retailing at 25 bucks, like i said it just a piece of plastic with rubber on it nothing special you can make this out of a plastic cutting board and rubber grips your self for less then the value.
+8. This pad is extremely portable and very efficient. 
+
+------------------------------------------------------------------
+feature : computer, positive Score : 58 and negative Score :-5
+------------------------------------------------------------------
+positive sentences : 
+1. I notice that my battery does last longer when I use it, and my computer doesn't get hot. 
+2. Since I've been using it my computer has stayed cool to the touch when playing games like Battlefield 2142 and WoW.  
+3. If I use my laptop for hours at a time, the rubberized  raised surfaces on the Xpad tend to get pretty hot, though I think this is unavoidable when running your computer for so long in such close proximity to another surface. 
+4. The Xpad fits it perfectly from front to back, however the computer is larger by about 1 cm on each side. 
+5. This may not "cool" down your computer, because it obviously has no fans, but I think in that aspect it makes it better then ones that do, because you are not using unnecessary energy to "cool" your computer down.  
+6. For those who "have places to go," this would easily fit into most computer cases and add little weight.  
+7. It is lightweight and although the computer is 14 1/2" wide (a little wider than the pad), there's no problem keeping it centered on the pad.  
+8. It's a great gift for notebook computer users and it just "feels" right.  
+9. It is less than a perfect fit for my laptop size but the "feet" position perfectly and I have taken several cross country trips without any overheating problems and the computer is on full time.I have also been using it under the computer even when I am at a desk to increase cooling space.  
+10. I have a 15&#34; macBook Pro and gets really hot when you do things for long period on the computer.
+11. However the heat protection is only partial. the computer still gets warm and the heat seeps through to the bottom, and on to your lap. 
+12. I think this will lengthen the usuage of my computer.This is a nice product.I would purchase it again.
+13. My computer is smaller than the Xpad and my wife's computer is the same length and width as the Xpad.
+14. My computer is smaller than the Xpad and my wife's computer is the same length and width as the Xpad.
+15. I use my laptop all day long and rarely at my desk (where I have my larger desktop computer). 
+16. As an old computer geek, I $pend way to much time and money on the latest and greatest. 
+17. Without some type of pad the fan intake is blocked.I even carry the XPad in my computer bag because, on most flights in economy class, there isn't enough room between me and the seat in front of me to extend the monitor to the proper position.  
+18. Pro: light, comfortable, small, reduces heat effect on lap (but heat still builds up over time).Con: One branch of the raised X surface falls directly under the hottest part of a 13" MacBook making that leg much hotter than the others and, I think, keeping the computer hotter than it would be. 
+19. The computer gets hot very quickly and this made all the difference.  
+20. The expense will pay for itself I am sure with no more iritated skin and less strain on the computer. 
+21. It's a little over 14 inches wide inside and computer/Xpad combo fit nicely on the top shelf.In my opinion the Xpad delivers more than was offered, and I am pleased.  
+22. It keeps you and your computer cool, it's lightweight, and it's small enough to fit in a laptop bag (although I don't have one, I imagine the Xpad slim is even more amenable to transport).After a year or so, when the Xpad is exposed to prolonged use (3+ hours of constant computer time), it will become warm enough to cause discomfort.  
+23. It works just by increasing airflow to the computer for better circulation and also by absorbing the heat itself.  
+24. On my lap, on a table or in an airport it makes sure that I have a non-slip surface that also ensures my computer stays as cool as possible.Druable, light weight and they work. 
+25. It's sturdy, seems to distribute heat well and it's just as comfortable if I were using my laptop without it even though it's a tad small for my computer (which is NOT a lightweight to begin with). 
+26. Since getting my macbook pro, I've added some rubber feet to the x-pad (placed on top of the black rubber) in order to elevate the computer higher and keep it cooler ( I did this once I noticed the macbook pro heating up more than I thought reasonable, and it seems to work!).  
+27. No more blisters from traveling with a hot computer in her lap while listening to the GPS Lady say "off route". 
+28. It has been beneficial in keeping my computer cooler. 
+29. Had read reviews of another fanless pad, but several reviewers said computer slipped off the pad when used on their lap.  
+30. It keeps you and your computer cool, it's lightweight, and it's small enough to fit in a laptop bag (although I don't have one, I imagine the Xpad slim is even more amenable to transport).After a year or so, when the Xpad is exposed to prolonged use (3+ hours of constant computer time), it will become warm enough to cause discomfort.  
+31. The only other problem with the original Xpad is that the fabric on the underside of the pad will become worn with age.I really can't fault the designers for my occasionally absurd computer habits, though, so I give the product a 5-star rating for everything but durability.
+32. The only "complaint" I have is that it raises the keyboard of the computer to a higher typing level, but a rolled-up towel placed in front of the computer is an easy fix.
+33. This gives my computer an extra 1 inch of protection from any unwanted smack.Several reviews complained that the underside of the Xpad was sharp against their thighs.  
+34. If your computer's airflow is somewhat restricted or blocked, then adding the little rubber feet would be helpful.The total height of my computer and Xpad is 2 inches.  
+35. These are all excellent suggestions.My current computer is a T41 Thinkpad with a 14 in. diagonal screen. 
+36. And I also learned some interesting facts:  including [1] use velcro to prevent sliding when using your computer at steep angles, [2]Put a Belkin Cushtop Notebook Stand between your legs and the xpad [3]put gel ice-packs on your legs if excess heat transfers through the Xpad, and [3] put little rubber feet on the Xpad to elevate your computer further.  
+37. It keeps the right side of my computer cool but the middle and left side heats up as bad as ever.  
+38. This has to, even in a minute way, make your computer work harder, use more battery and possibly get hotter.  
+39. The XPAD is perfect for my 13 inch computer. 
+40. The only "complaint" I have is that it raises the keyboard of the computer to a higher typing level, but a rolled-up towel placed in front of the computer is an easy fix.
+
+negative sentences : 
+1. If it is placed on a hard surface with the computer on top of it, to me it functions best.  
+2. My laptop is really my desktop computer most of the time, and the Xpad does an excellent job of allowing air to circulate under the computer and certainly helps alleviate the need of the internal computer fan.  
+3. My laptop is really my desktop computer most of the time, and the Xpad does an excellent job of allowing air to circulate under the computer and certainly helps alleviate the need of the internal computer fan.  
+4. Fits right inside my book bag behind my computer and offers even more protection. 
+5. My computer does not get too hot but I wanted something to use beside a book or my lap. 
+
+------------------------------------------------------------------
+feature : heat, positive Score : 39 and negative Score :-25
+------------------------------------------------------------------
+positive sentences : 
+1. This product works okay; I still feel heat through it, but it's way better than nothing. 
+2. However the heat protection is only partial. the computer still gets warm and the heat seeps through to the bottom, and on to your lap. 
+3. However the heat protection is only partial. the computer still gets warm and the heat seeps through to the bottom, and on to your lap. 
+4. The Xpad does not completely insulate from the heat, but it does a better job than just using a large book.I also bought it for use on tables and desks.  
+5. Pro: light, comfortable, small, reduces heat effect on lap (but heat still builds up over time).Con: One branch of the raised X surface falls directly under the hottest part of a 13" MacBook making that leg much hotter than the others and, I think, keeping the computer hotter than it would be. 
+6. So I researched a lot of cooling options -- most of the cooling pads on the market are motorized and use fans etc to cool, but research on technical sites warned me that most didn't cool very well and in fact generated their own amount of heat since they need power to run.  
+7. This does an excellent job of keeping the heat off my lap. 
+8. Putting on top of bed comforters, or even your legs can accumulate the heat super fast. 
+9. I would have given the board 1 star cause it would look weird in public; because I think the Xpad does block the heat a little bit better, and because the laptop keeps sliding around. 
+10. This product is nothing more than a flat surface with some natural rubber like (probably some good conductor of heat) base around its corners, and yet it serves the purpose it is supposed to. 
+11. I have two of these and have used them for a few years. one for my laptop and one for my dvd player. they are great, sturdy, comfortable on my lap and prevent slipping, prevent any heat build up--very useful.
+12. No longer do my thighs get sweaty from the heat coming from my laptop, no longer does my laptop slide of my thighs either.  
+13. It could be insulated a bit better, as I can feel a *little* bit of heat still, but it's a definite improvement.
+14. The Xpad is great and really takes the heat so I don't sweat to death and my laptop doesn't give out with me.The Xpas original isn't as swanky to look at as the new slimmer version but it's perfectly functional and does it's job, so I've not bothered to buy the new one.If you want a no nonsense, no fuss, no noise cooling pad to rest your laptop on your knee while you're typing away or surfin the net then I thoroughly recommend the Xpad
+15. Other products are rather simple, but are little better than using a book or a small piece of wood, in that the laptop's heat eventually makes them hot, too. 
+16. It protects your skin from the heat of your laptop, protects your laptop from it's own heat by ensuring airflow, it is designed to prevent the laptop from sliding off, and it is comfortable to use.I originally bought this for my girlfriend to use with her MACBOOK PRO 15" since her favorite games (Sims variants) tend to hammer the processors generating a lot of heat, compounded by her tendency to set her laptop on a blanket which of course exacerbates the problem by blocking airflow.It completely solved the problem.  
+17. But, if you're looking for pad that is easy to use, lowers the heat enough so that you don't "feel the burn", and is relatively inexpensive you'll probably be pleased with this.  
+18. The Xpad is exactly as described ... non-slip surface, eliminates heat transfer between my legs and my laptop, elevates my laptop to allow proper airflow...and it fits easily into my laptop bag. 
+19. This laptop pad certainly relieves the heat that was frying my legs for months! 
+20. It's sturdy, seems to distribute heat well and it's just as comfortable if I were using my laptop without it even though it's a tad small for my computer (which is NOT a lightweight to begin with). 
+21. You will still feel a little heat from the laptop itself, so if you're looking for something that will 100% cool your notebook, this isn't for you. 
+22. It does a great job dissipating the heat, it's comfortable and lightweight, and obviously it's durable given the length of time I've used it (and the abuse it's taken). 
+23. (The New one is a lot thinner but also bigger and wouldn't fit in my book bag but still does a great job at heat blocking) I got one for my sister, roommate, and friend. 
+24. I expected a little better construction and better heat desipitation. 
+25. The laptop stays cooler and it does shield the heat for an extended period of time.  
+26. My lap never gets uncomfortable from the heat anymore. 
+27. My lap still gets very hot from laptop heat.  
+28. And I also learned some interesting facts:  including [1] use velcro to prevent sliding when using your computer at steep angles, [2]Put a Belkin Cushtop Notebook Stand between your legs and the xpad [3]put gel ice-packs on your legs if excess heat transfers through the Xpad, and [3] put little rubber feet on the Xpad to elevate your computer further.  
+29. My Dell is still perking along nicely (for its age), no more shutdowns due to heat buildup, and I am now on my 3rd X-Pad (for my other 2 laptops)I don't like gimmicks, like USB fams etc that I have to fiddle with.  
+
+negative sentences : 
+1. My laptop wound up producing even more heat than it did while it was on my lap.  
+2. Not to mention that it keeps your legs from the intense heat of your laptop.  
+3. It works great with my wife's SONY VAIO and I don't feel any heat short or long term. 
+4. It is cooler, not cool, so it will still heat a bit, but not nearly as hot as without this pad.  
+5. I spend hours on my laptop lying down because of a bad back and prior to getting the xpad, I would have to put my laptop down and shut it down, as the laptop heat was not only very hot on my lap, but also, my entire body.  
+6. You notice that the laptop doesn't heat as much as before. 
+7. The product does keep away the heat and helps my laptop stay cool.  
+8. I own that laptop for more than 2 years and it wouldn't play a video for more than 1 hour without getting powered off due to excess heat produced by its processor. 
+9. I even used 2 pads stacked on top of each other and the majority of heat still transferred. 
+10. My 15" MacBook Pro generates a lot of heat on the left bottom of the laptop, making it uncomfortable to place it on your lap for more that brief periods.  
+11. It's great being able to use my laptop on my lap for hours, without getting uncomfortable from the heat.  
+12. They just seem like they would create more heat!
+13. The top of the Xpad grips the MacBook nicely, and the bottom of the Xpad is soft and not slippery.Sometimes my MacBook runs hot, which is no problem, since I never feel unwanted heat through the Xpad.  
+14. This is really helpgul, it doesnt cool your laptop as much as you expect, but it is less heat for the battery, and you can take it everywhere.
+15. The heat drove me crazy. 
+16. Finally my laptop burnt out due to the heat.  
+17. With no room for air flow I knew I had to do something or her laptop was going to have a short life with all the trapped heat. 
+18. Plastics are generally not a good conductor of heat and this seems like a cheap plastic. 
+19. The thing I like most is that it protects me from the heat, I'm not sure if my laptop is cooler but my legs are for sure. 
+20. Before buying the Xpad I couldn't use my laptop for long sitting on the couch due to the heat the laptop emitted. 
+21. If you want to cool the laptop, get one of those pads that physically absorbs heat, or just buy a cheap fan to go against it.  
+
+------------------------------------------------------------------
+feature : product, positive Score : 75 and negative Score :-14
+------------------------------------------------------------------
+positive sentences : 
+1. The great thing about this product is that it has no cords and no loud fans to worry about. 
+2. Product is simple and works great!  
+3. Great product, lightweight. 
+4. this is an easy product to recommend.  
+5. What a great product.  
+6. I'm so confident these are the simplest, best product for the job I've actually purchased 5 of 'em over the years for family. 
+7. It's amazing to me that these sell at all, but it must be because people just don't understand how their laptop works.I highly recommend the XPad product.
+8. Fantastic product, took it with me on a recent business trip, and was very pleased.
+9. Beside, this product feel cheap and not quality.
+10. Everybody uses their product in a unique way. 
+11. The X-Pad is a great product at a great price. 
+12. Great product, I was so convinced after using the 1st Xpad that I bought 2 more. 
+13. The product is still high quality, but it may be worth trying your own X shaped foam pad before spending the money for this.
+14. The product itself is great. 
+15. Great product for price point.
+16. -I get lots of comments/ compliments on it.Thanks guys great product
+17. This product is nothing more than a flat surface with some natural rubber like (probably some good conductor of heat) base around its corners, and yet it serves the purpose it is supposed to. 
+18. This product works great.  
+19. I'm convinced that my Dell has functioned this well for as long as it has largely because of this great product. 
+20. I think this will lengthen the usuage of my computer.This is a nice product.I would purchase it again.
+21. This product works okay; I still feel heat through it, but it's way better than nothing. 
+22. Great product!
+23. I was attempting to challenge this idea because of the massive amount of positive response that this product has solicited but I see the masses can be wrong sometimesBad buy!  
+24. I can tell you for sure that this product works. 
+25. This product does it all and best of all you don't have to plug it in nor deal with that noisy fan.  
+26. I'm still with my first Xpad, going strong.Even if you don't think heat from your laptop is a problem I would still recommend using the Xpad as it gives a great steady and secure base for your laptop - no problem with whatever you're wearing.A great product!
+27. This is a great product!  
+28. I researched this product and several others before buying this one.  
+29. I would strongly recommend that you try this before a more expensive, fan-type product.
+30. This is a great product, and certainly worth the regular price of $29.95 - but a true bargain at $19.95 (far less than all of the competing products I looked at)! 
+31. But I am happy and recommend this product.
+32. If the laptop is running really hot, the bottom will get one or two degrees warmer, but not at all hot and definitely nothing that would make you sterile (read the stories on the internet, it happens).All in all, this is a great product and doesn't pull any power from your USB or have any areas where you can't put your leg because there's a fan there. 
+33. I love the price and the look, it is so thin that one do not even see it when I have it on my lapVer dependable seller, product arrived earlier than originally planned,
+34. Great product that doesn't drain my laptop battery or blow dust into my computer.  
+35. I'd tried using a tray or a couple of books but nothing worked.I searched around and found a similar product that used USB cooling but the laptop already has a fan so couldn't see the need for that.  
+36. This product is awesome! 
+37. However, this product would be worth the cost if I actually used my laptop on my lap:)
+38. The only other problem with the original Xpad is that the fabric on the underside of the pad will become worn with age.I really can't fault the designers for my occasionally absurd computer habits, though, so I give the product a 5-star rating for everything but durability.
+39. It also won't eat up battery power.I have been very pleased with this product and would recommend it to anyone.
+40. When I explain, they nod in agreement that it is a great product. 
+41. I've been using this product for several years with my old Dell laptop.  
+42. The product is stable without being bulky or heavy and it doesn't interfere with my unit's internal cooling system.
+43. The XPad for Laptop (original version) is a simple product that does a very important job:  it helps keep your laptop from overheating.  
+44. This is the perfect product for me when I use my laptop in the van.  
+45. Excellent product.
+46. I was also skeptical about this product like many other users, but not as much as all those battery/ electric operated fan coolers..! 
+47. This is a great product that works well under laptops that are not to big. 
+48. If the XPAD got the same rounded edges as the MacBook, it would be the perfect product.
+49. I've been very pleased-particularly since I didn't buy an alternative product that required a fan to be plugged into a USB port for power.The magic of the Xpad is it's simplicity, which achieves functionality without a lot of bell and whistles!
+50. I'm glad that I purchased the product and it is very light and compact. 
+51. Great product.
+52. You will be satisfied with this great product!!!!
+53. This is a great product.  
+54. Thanks again for a great product and especially the great fast shipping! 
+55. Thanks XPad for this great product.
+56. X-Pad is a great product, and if you believe in cooling making a difference, the the X-Pad is the answer between nothing at all, and all of the heavy, noisy, and power dependent cooling rests available on the market.
+57. This product is just great.  
+58. Good product
+59. You can go right to your local mall and buy some over priced thing that plugs in and has a fan on it, which Counters the built in fan on your laptop and drains your battery life... or you can support the American dream of being able to invent a useful product and offer it to people who need or have a use for that invention...  
+60. I purchased this product to keep my laptop cool as I know laptop's are famous from overheating and the fans running all the time as all the components are in a very confined area.  
+61. This product just makes simple, workable sense.
+62. I bought this product after looking at several other options which used laptop power and the other things.  
+63. I didn't have extremely high expectations of this product.  
+64. A better cushioning bottom and insulation would have made this product much better.
+
+negative sentences : 
+1. No one else could need this product more than anyone who owns Lenovo Y410. 
+2. got this for my white 13" macbook because i liked the idea of not sucking up power with a usb-powered cooler w fans. the reviews were pretty convincing to the xpad's cooling power sans fans, but i saw no difference. my mac is still hot as hell. i even downloaded a temperature monitor to see if there was any significant change and nothing. but the pad is comfortable/compact enough (i mostly use my laptop on my bed), keeps my flesh from being burned and has a nice look so i'll keep it. this product is not worth $25; i'll probably reluctantly look into a usb-powered cooling mat with fans.EDIT: couldn't take it anymore. returning as if anything my laptop feels even hotter. i'd rather hear a cooling fan blowing and actually cooling my computer than to hear my laptop's fan blowing full blast all the time.
+3. The rubber plastic is stinky and also this product from China. 
+4. I was skeptical about this product until I read CNET's review of ten different cooling pads and the Xpad was measured as keeping the laptop the coolest, even though it was only .4 degrees lower than the second best. 
+5. One of the most compelling reasons to buy this product is the fact that it allows your laptop to cool itself using the built-in cooling system that the laptop engineers created.  
+6.   :)I just ordered the game "Rome" and so ordered one of these for myself as well since I hear like The Sims games, it likewise hammers the processors.In short I highly recommend the product as it accomplishes for us our two main objectives.  
+7. this is suitable for 14 inch lap tops the size is actually less then 14 inches though. second it a hollow plastic board with 4 rubbers on top and a lite pad on the bottom, hardly worth the price, more or less it should be price around 7 bucks at least, anything more is just a rip off for a product that is just the same as putting a plastic chop board under neath your laptop and putting a cloth underneath. a few issues with the design make i flaw, one is that it not really for the new types of laptop that are wide screen base, such as like the new dells insperion 15 and others, the board has a more square shape which resembles the old style of the lap tops which mean either your laptop will not fit correctly on it. leaving some time the fan or hdd being cover by the pads in a slight off angle leaving less air flow. this product is ok but not good. there are other product that will do more for the price then this retailing at 25 bucks, like i said it just a piece of plastic with rubber on it nothing special you can make this out of a plastic cutting board and rubber grips your self for less then the value.
+8. this is suitable for 14 inch lap tops the size is actually less then 14 inches though. second it a hollow plastic board with 4 rubbers on top and a lite pad on the bottom, hardly worth the price, more or less it should be price around 7 bucks at least, anything more is just a rip off for a product that is just the same as putting a plastic chop board under neath your laptop and putting a cloth underneath. a few issues with the design make i flaw, one is that it not really for the new types of laptop that are wide screen base, such as like the new dells insperion 15 and others, the board has a more square shape which resembles the old style of the lap tops which mean either your laptop will not fit correctly on it. leaving some time the fan or hdd being cover by the pads in a slight off angle leaving less air flow. this product is ok but not good. there are other product that will do more for the price then this retailing at 25 bucks, like i said it just a piece of plastic with rubber on it nothing special you can make this out of a plastic cutting board and rubber grips your self for less then the value.
+9. this is suitable for 14 inch lap tops the size is actually less then 14 inches though. second it a hollow plastic board with 4 rubbers on top and a lite pad on the bottom, hardly worth the price, more or less it should be price around 7 bucks at least, anything more is just a rip off for a product that is just the same as putting a plastic chop board under neath your laptop and putting a cloth underneath. a few issues with the design make i flaw, one is that it not really for the new types of laptop that are wide screen base, such as like the new dells insperion 15 and others, the board has a more square shape which resembles the old style of the lap tops which mean either your laptop will not fit correctly on it. leaving some time the fan or hdd being cover by the pads in a slight off angle leaving less air flow. this product is ok but not good. there are other product that will do more for the price then this retailing at 25 bucks, like i said it just a piece of plastic with rubber on it nothing special you can make this out of a plastic cutting board and rubber grips your self for less then the value.
+10. Perhaps the model that reviewer owned was older than the one I bought several years ago, but I have my XPad on my lap as I type this, and there are NO sharp edges anywhere.The XPad is far more unobtrusive than the products you'll find at most office supply or department stores for laptop cooling, and I wouldn't trade mine for any other product. 
+11. Thanks for such a simple, innovative product!
+12. Reason- laptops generally radiate heat from the center portion, so even if your laptop is 15 or 16 inches , this one will provide enough density of conductor for its back, as opposed to 17 inches which will be obviously sparse in that region due to laws of proportionality.I am not giving this one 5 stars, because its a very good product but yet not perfect. i.e. it has its own limitations. 
+
+------------------------------------------------------------------
+feature : lap, positive Score : 68 and negative Score :-16
+------------------------------------------------------------------
+positive sentences : 
+1. This is just a pad that will keep the laptop efficiently cool and your lap from being overheated.  
+2. It raises the laptop up so much that it is uncomfortable for long periods of typing.Lap top use:  good  Table and desk use:  not so good
+3. The lightweight pad keeps your lap cool if you're going to use it while reclining in an easy chair, or taking notes in class.  
+4. It is comfortable on your lap to use and very light.  
+5. I have a MacBook Retina Pro 10,2 15 inch and it gets really hot just sitting on my lap. 
+6. I found that the xPad, with its simple X design on top, keeps most of the laptop out of contact with the bottom of the pad, and hence, keeps my lap pretty cool. 
+7. It works, and is a nice barrier between my lap and my computer.
+8. It is very comfortable in my lap and laptop doesn't slide around as the alternative use of my pillow. 
+9. It performs the same as the less expensive Targus lap pad that I gave to my son. 
+10. It's plastic, light, looks nice and comfortable when resting on my lap. 
+11. This product does its job - keeping my laptop from A) overheating so easily and B) cooking my lap when it is hot.  
+12. It's also great for my lap, keeping me cool. 
+13. Great for use on your lap or on a desk top.
+14. Pros:- It elevates your laptop to provide better airflow for the intake fans, thus overall cooling your laptop.- It prevents your laptop from overheating when placed on your lap.Cons:- Made of cheap plastic that is moderately flexible, thus causing it to potentially bend overtime.
+15. Pro: light, comfortable, small, reduces heat effect on lap (but heat still builds up over time).Con: One branch of the raised X surface falls directly under the hottest part of a 13" MacBook making that leg much hotter than the others and, I think, keeping the computer hotter than it would be. 
+16. My XPad is with me whenever my laptop is with me - on my desk at home, on my office desk, on the table on our deck or on my lap in the living room (incidentally, it is not uncomfortable on my lap at all). 
+17. The non-slip raised legs hold the laptop in place without covering the vents and its still very comfortable on my lap. 
+18. I have two of these and have used them for a few years. one for my laptop and one for my dvd player. they are great, sturdy, comfortable on my lap and prevent slipping, prevent any heat build up--very useful.
+19. But, it really does keep my lap totally cool! 
+20. My lap still gets plenty hot even with the use of this product.  
+21. the xpad does make some differance to the heat of my laptop, the fan still kicks in but the air channels underneath allow the laptop fan to do its jobthe xpad stays cool enough to have it on you lap , maybe a touch warm after several hours
+22. I do not do the "laptop" on the lap top thing, but that works fine as well.  
+23. It's also more comfortable in my lap than holding the actual laptop because of the cushioned bottom and distributed weight. 
+24. This product, without requiring power and with no moving parts, kept my laptop from over-heating and comfortable enough on my lap so I could still use it. 
+25. The underside of the xpad is covered with a slightly rough fabric that works comfortably on clothes or bare skin.Pros:* no moving parts, so nothing to mysteriously break in a few weeks* works on lap or table* very light* fits in many laptop bags* design accommodates a wide variety of laptop sizes, intake, and fan configurations* stiff design won't block air intakes on bottom of laptopCons:* plastic case is slightly deeper than the foam pad; could dig into bare skin, depending on position of of pad.
+26. I primarily use my notebook away from a desk or table, so it's either on my lap or being held.This is hands down the best *lap* notebook cooler I've seen so far.  
+27. Due to most laptops having all their vents on the bottom for the airflow, and obviously meant to be used on a hard surface and not a lap, these pads are essential. 
+28. My lap never gets uncomfortable from the heat anymore. 
+29. The item was perfect, my MAC was getting a little heated when I use my lap as a rest, This product works perfectly and is very comfortable, It is also very stream linned and not as bulky as some of the other productds that are available. 
+30. Simple design; no battery drain; no cables; keeps my lap cool and now no more worries if I leave the laptop on the sofa. 
+31. However, at times, I still find myself placing a pillow between it and my lap during long term use.  
+32. It also makes my lap top happy.
+33. No more blisters from traveling with a hot computer in her lap while listening to the GPS Lady say "off route". 
+34. no moving parts. no batteries or chord for a fan. keeps hot macbook off my lap. what more do you need?
+35. The bottom is padded, making it fairly comfortable to use on your lap for an extended period.I have been using my XPad for several years now, and it is hardly the worse for wear.  
+36. It keeps my lap cool and is comfortable even when used for 8-9 hours at a time. 
+37. I purchased this because my lap was getting unbearably hot while writing multiple papers a week for college. 
+38. The XPAD offers a cool stable platform for your Laptop.No more hot-spots in your lap which are not only uncomfortable for you but extremely bad for your laptop since it causes it to overheat and possibly shutdown. 
+39. I wanted one I could use either on desk or lap, and have been very pleased with this one.  
+40. It grips the computer well, so no slipping; it's light weight, so it's comfortable on your lap and easy to pack when traveling.  
+41. It is non skid and comfortable to have on the lap for hours. 
+42. My laptop is a 15.6 inch and gets dangerously hot when sitting on my lap and desk after hours of use, but this laptop cooler keeps it nice and cool even after 8 hours of constant usage. 
+43. I wish the bottom of the cooler was padded so that it felt more comfortable on my lap, but I used a pillow under it and it worked just fine. 
+44. This is a great item to keep your lap top from overheating, mine runs so hot it will burn your lap.  
+45. This is a great item to keep your lap top from overheating, mine runs so hot it will burn your lap.  
+46. My lap still gets very hot from laptop heat.  
+47. Highly recommended as a cheap, easy and very effective solution to keeping your laptop cool whilst on your lap.
+48. It's very comfortable on my lap.  
+49. With the Xpad in use, the heat is allowed to escape via the Xpad so that the bottom of the Xpad that lays on your lap is cool and comfortable.  
+50. It provides a bottom layer that protects my lap top while being moved, can take a hit for it, and allows you to put it on an uneven or not extremely clean surface.
+51. I placed my new laptop on this pad (which really doesn't get too hot even after long use)then sat it on my lap to readwithin an hour the heat was coming through to make me uncomfortablejust as if I was not using any padnot sure what this is made out of - but the heat still comes throughyes, there is air flow between the two - and that is about it'false claims' about keeping you cooler when using on lap
+52. Lightweight, comfortable on the lap. 
+53. I use my laptop on my lap and it gets very hot. 
+54. The biggest problem is the bottom edge is rather sharp for the lap.  
+55. Ilove my Xpad it has done a great job for me and it also helpswhen I put it on my lap from not getting my lap warm or hot.I have had it for a good while and I would definitelyreccommend it very highly.So if you are looking for a great Laptop cooler pad, go getan Xpad today!
+56. It's meant for bigger models but it does its job of keeping it cool on my lap. 
+
+negative sentences : 
+1. this is suitable for 14 inch lap tops the size is actually less then 14 inches though. second it a hollow plastic board with 4 rubbers on top and a lite pad on the bottom, hardly worth the price, more or less it should be price around 7 bucks at least, anything more is just a rip off for a product that is just the same as putting a plastic chop board under neath your laptop and putting a cloth underneath. a few issues with the design make i flaw, one is that it not really for the new types of laptop that are wide screen base, such as like the new dells insperion 15 and others, the board has a more square shape which resembles the old style of the lap tops which mean either your laptop will not fit correctly on it. leaving some time the fan or hdd being cover by the pads in a slight off angle leaving less air flow. this product is ok but not good. there are other product that will do more for the price then this retailing at 25 bucks, like i said it just a piece of plastic with rubber on it nothing special you can make this out of a plastic cutting board and rubber grips your self for less then the value.
+2. Having something to sit my laptop on with no slipping, and it's cool and comfortable for my lap. 
+3. Since I literally sit with my laptop on my lap, it would get pretty uncomfortable after a while.  
+4. He mainly leaves it on his desk but has used it on his lap a few times and had no complaints. 
+5. It's always under the laptop.We use it on our antique dining room table and all other wood surfaces in fear that the heat from the laptop might damage the finish.Nothing like a hot lap to ruin your laptop experience!
+6. I spend hours on my laptop lying down because of a bad back and prior to getting the xpad, I would have to put my laptop down and shut it down, as the laptop heat was not only very hot on my lap, but also, my entire body.  
+7. this is suitable for 14 inch lap tops the size is actually less then 14 inches though. second it a hollow plastic board with 4 rubbers on top and a lite pad on the bottom, hardly worth the price, more or less it should be price around 7 bucks at least, anything more is just a rip off for a product that is just the same as putting a plastic chop board under neath your laptop and putting a cloth underneath. a few issues with the design make i flaw, one is that it not really for the new types of laptop that are wide screen base, such as like the new dells insperion 15 and others, the board has a more square shape which resembles the old style of the lap tops which mean either your laptop will not fit correctly on it. leaving some time the fan or hdd being cover by the pads in a slight off angle leaving less air flow. this product is ok but not good. there are other product that will do more for the price then this retailing at 25 bucks, like i said it just a piece of plastic with rubber on it nothing special you can make this out of a plastic cutting board and rubber grips your self for less then the value.
+8. My 15" MacBook Pro generates a lot of heat on the left bottom of the laptop, making it uncomfortable to place it on your lap for more that brief periods.  
+9. My lap never gets hot no matter how long I use it. 
+10. It's great being able to use my laptop on my lap for hours, without getting uncomfortable from the heat.  
+11. Can use on desk or lap and it keeps it cooler. 
+12. Still feel warmth around laptop but it does not get hot on your lap.  
+13. Anyhow, this item is inexpensive, keeps my lap from getting hot and keeps my laptop right at the temperature it should be.A simple and effective solution!
+14. First, it surely keeps my lap cooler, though I am not really sure about the actual laptop temp.  
+15. The laptop is cooler as well as my lap.
+
+------------------------------------------------------------------
+feature : laptop, positive Score : 209 and negative Score :-70
+------------------------------------------------------------------
+positive sentences : 
+1. I now have a new 17" wide screen laptop which doesn't quite fit on this pad so will of course be purchasing the new slim model which is also wider for bigger/widescreen laptops.
+2. If I could only have one accessory with my laptop, it would be my xpad.  
+3. I recommend this product to everyone that buys a new laptop.
+4. I have worked with my laptop sitting on this for several hours, and the pad itself was only slightly warm, my machine even less so, and my stayed nice and cool.
+5. My new laptop is a 17" widescreen with a fullsize keyboard and no matter how I maneuver it none of the feet sit on the pads. 
+6. My laptopp is a cyberpower so either the feet are placed too widely apart on this particular brand of laptop or new laptops are just being made too wide for the xpad. 
+7. This fits the bill, it cools by simply raising the laptop to allow better air circulation.  
+8. I also have one with fans, the Vantech or Vanguard, which of course does lower the temp, but sucks up the battery, plus seems to be very fragile, and my laptop slips off of it often.  
+9. I was using a t.v. tray for my laptop so I was very happy to get this!!  
+10. The XPAD offers a cool stable platform for your Laptop.No more hot-spots in your lap which are not only uncomfortable for you but extremely bad for your laptop since it causes it to overheat and possibly shutdown. 
+11. The XPAD offers a cool stable platform for your Laptop.No more hot-spots in your lap which are not only uncomfortable for you but extremely bad for your laptop since it causes it to overheat and possibly shutdown. 
+12. The Xpad fits in my original Laptop case without over burdening it and I wouldn't use another Laptop without one, especially since it is so affordable and unlike some of the other cooling platforms on the market - it doesn't require power from your laptop to keep it cool. 
+13. The Xpad fits in my original Laptop case without over burdening it and I wouldn't use another Laptop without one, especially since it is so affordable and unlike some of the other cooling platforms on the market - it doesn't require power from your laptop to keep it cool. 
+14. All in all a great bargain for a great addition to your Laptop tool bag
+15. The XPad for Laptop (original version) is a simple product that does a very important job:  it helps keep your laptop from overheating.  
+16. The Xpad is exactly as described ... non-slip surface, eliminates heat transfer between my legs and my laptop, elevates my laptop to allow proper airflow...and it fits easily into my laptop bag. 
+17. It just makes using the laptop slightly more comfortable. 
+18. I've been using this product for several years with my old Dell laptop.  
+19. I own an Alienware laptop which by its very nature runs very hot. 
+20. Therefore it needs to stay cool.When I got this laptop cooler I thought it could not possibly work on this machine but was I surprised! 
+21. Lastly, even though it provides much needed clearance, it doesn't raise the laptop too high (which would make typing harder).  
+22. Its a very nice height.I love this laptop pad and will happily order another if I need one in the future.
+23. This laptop pad certainly relieves the heat that was frying my legs for months! 
+24. If you buy this cooler and you have a large laptop, you might have to turn it slightly so you can keep the laptop cool enough. 
+25. If you buy this cooler and you have a large laptop, you might have to turn it slightly so you can keep the laptop cool enough. 
+26. I bought the xpad when I bought my new 17" HP laptop because a friend's laptop literally fried from being on too long. 
+27. She had to put her laptop in the frig periodically to cool it down.I do not use this product on my lap so I cannot review that part.The xpad raises the laptop just enough to allow easier wrist movement on the keyboard which I like.  
+28. It cools passively so there are no noisey fans going while your laptop is on.  
+29. I've had the original x-pad for almost five years now; initially using it for my pc laptop and currently with my 17" macbook pro this past year.  
+30. it did not make any difference laptop continued to overheat complete waste of money DONT BUT THIS!!!
+31. It was my first laptop and my legs used to get so hot when I was on it a long time, I used to put a blanket on my lap first.  
+32. In fact, I am now on my third Laptop on the same pad.  
+33. It keeps you and your computer cool, it's lightweight, and it's small enough to fit in a laptop bag (although I don't have one, I imagine the Xpad slim is even more amenable to transport).After a year or so, when the Xpad is exposed to prolonged use (3+ hours of constant computer time), it will become warm enough to cause discomfort.  
+34. I was skeptical about this laptop cooler---the design seemed ridiculously simple so how could it possible work? 
+35. My laptop is a 15.6 inch and gets dangerously hot when sitting on my lap and desk after hours of use, but this laptop cooler keeps it nice and cool even after 8 hours of constant usage. 
+36. My husband kept complaining that his laptop would get hot and shut down. 
+37. Then I bought myself a new 17" laptop. 
+38. I can use my laptop all day long or watch a whole dvd without my laptop sotpping. 
+39. Travels well, a bit larger than my laptop in dimensions but way lighter.  
+40. Ilove my Xpad it has done a great job for me and it also helpswhen I put it on my lap from not getting my lap warm or hot.I have had it for a good while and I would definitelyreccommend it very highly.So if you are looking for a great Laptop cooler pad, go getan Xpad today!
+41. It is light weight, allows the laptop to get air and run cooler.  
+42. I gave that to my nephew to use with his new laptop at college and he loved it.My only complaint is that the edges are a bit sharp and so some sitting positions cause it to dig into my legs.  
+43. So I have had the laptop sitting on my lap.I knew that this wasn't good for the laptop or me, so I did some research online.I decided I didn't want to worry about the electrical aspects of a powered cooling pad.This pad does an excellent job of keeping me cooler so I'm quite sure my laptop is also happier.
+44. So I have had the laptop sitting on my lap.I knew that this wasn't good for the laptop or me, so I did some research online.I decided I didn't want to worry about the electrical aspects of a powered cooling pad.This pad does an excellent job of keeping me cooler so I'm quite sure my laptop is also happier.
+45. You will still feel a little heat from the laptop itself, so if you're looking for something that will 100% cool your notebook, this isn't for you. 
+46. It's a little large for my 15" laptop, but it's a little more comfortable to use and more durable.
+47. Using the Xpad guarantees plenty of ventilation and a cool laptop.  
+48. My father in law has one of those bulky Griffin laptop pads. 
+49. Will be purchasing another if the need ever arises to purchase a larger laptop.
+50. I placed my new laptop on this pad (which really doesn't get too hot even after long use)then sat it on my lap to readwithin an hour the heat was coming through to make me uncomfortablejust as if I was not using any padnot sure what this is made out of - but the heat still comes throughyes, there is air flow between the two - and that is about it'false claims' about keeping you cooler when using on lap
+51. I never thought a passive laptop cooler could work as good or better than one with fans, but this one does. 
+52. The xpad definitely keeps my legs cool, however, it does very little to keep the laptop cooler. 
+53. I still give the item 5 stars because I consider the heat issue of the laptop to be a well-known HP issue.The xpad is well made. 
+54. It has a home in the back pocket of my laptop bag because I do not use my computer without it. 
+55. It's ridiculous how much my laptop heats up in the first place, but a slight disappointment that it doesn't work like other people said it does.
+56. The tray is 1.5" smaller than my laptop.
+57. It does okay, again, for basic plastic that just helps elevate the laptop for better ventilation. 
+58. I purchased this product to keep my laptop cool as I know laptop's are famous from overheating and the fans running all the time as all the components are in a very confined area.  
+59. I purchased this product to keep my laptop cool as I know laptop's are famous from overheating and the fans running all the time as all the components are in a very confined area.  
+60. When I purchased my 1st X-Pad my now 6 year old Dell laptop was overheating, and frequently shutting down.  
+61. I bought this product after looking at several other options which used laptop power and the other things.  
+62. with the Xpad the hole thing got hot. as i write, my laptop is cool...using the Antec USB-Powered Notebook Cooler.  
+63. I have a monster laptop with a large number of fans and vents on the underside. 
+64. Since buying one along with a new battery, my laptop stays cool and after more than a year the battery lasts at least a few hours of moderate use.I'd definitely get another x-pad should I ever get another laptop.  
+65. Highly recommended as a cheap, easy and very effective solution to keeping your laptop cool whilst on your lap.
+66. Once you use it, you look at it like a seat belt; you don't want to get caught without it.People underestimate the effect of having a very hot laptop.  
+67. If your laptop is getting so hot that it needs the fan driven cooler to operate properly, then something's wrong with your laptop.  
+68. If your laptop is getting so hot that it needs the fan driven cooler to operate properly, then something's wrong with your laptop.  
+69. My lap still gets very hot from laptop heat.  
+70. It is great for keeping my laptop off my lap but not for keeping it cool. 
+71. This marvelous device lets your laptop breathe. 
+72. I just wanted something lightweight that would raise my laptop enough to allow air to flow beneath it and keep it from directly toughing my legs, and this fits the bill perfectly.  
+73. Makes the laptop and X-Pad almost one "unit" to carry around.  
+74. I did my research on a lap mat for my laptop and was very disappointed with many models until I read about this one. 
+75. It is less than a perfect fit for my laptop size but the "feet" position perfectly and I have taken several cross country trips without any overheating problems and the computer is on full time.I have also been using it under the computer even when I am at a desk to increase cooling space.  
+76. I am sure this would have been ok had I had a smaller laptop.  
+77. My Dell laptop (only a year old) has a tendency to overheat and the fans turn on very high.  
+78. But since using the Xpad, my laptop always stays cool and hasn't had to turn on the fans.  
+79. After looking around for a replacement, I saw this product and gave it a try.My 15" HP laptop has an unusually hot processor and was impossible to use without a desk or table before I tried this XPad.  
+80. I have the original model from last summer and it is a bit thicker than I would like as my laptop bag is small with the cords packed in, but this is my only complaint!  
+81. If I tilt the laptop so the fan is clear of the foot, it works fine, but its very awkward.  
+82. It's about the right size for my laptop. 
+83. But If you have a large laptop, I would check to see if the seller might have one that would fit your laptop properly.
+84. The typical plastic laptop pads didn't absorb the heat.  
+85. I even pulled out a spare tile of stone from the outdoor countertop we installed to use as a laptop pad, but this was a heavy and ridiculous solution.  
+86. The Xpad was much more affordable, and I liked that it didn't need to plug into my laptop to run additional fans.
+87. It allows air to circulate beneath the laptop keeping it cool and preventing over heating.  
+88. This is my 3rd purchase of XPAD 4 LAPTOP.  
+89. This is the most efficent, green, laptop coolers that I have found. 
+90. Unless you put the laptop at a pretty steep angle it will stay put on the Xpad. 
+91. It shields you from the heat generated by the laptop and allows good airflow. 
+92. The laptop stays cooler and it does shield the heat for an extended period of time.  
+93. It's the exact same width as my laptop and about 1 inch longer, which is great because a little bit of slack forward & back keeps it on your lap even when it slides... 
+94. It protects your skin from the heat of your laptop, protects your laptop from it's own heat by ensuring airflow, it is designed to prevent the laptop from sliding off, and it is comfortable to use.I originally bought this for my girlfriend to use with her MACBOOK PRO 15" since her favorite games (Sims variants) tend to hammer the processors generating a lot of heat, compounded by her tendency to set her laptop on a blanket which of course exacerbates the problem by blocking airflow.It completely solved the problem.  
+95. I use it with a TabletPC and need to tilt the entire laptop up to use sometimes. 
+96. I've had this for about as long as I've had my laptop (a new model is out and it's $200 cheaper so that makes it what... about a year?) 
+97. The bottom side has an almost denim like feel to it and keeps everything relatively stable and things don't slide around except at the most extreme angles - the laptop will start to slip at, say, greater than 30 degrees away from you (the monitor half being heavy and towards the bottom - it's just not good) or 45 degrees towards you (which is how I sometimes keep it if I'm lying in bed with it propped up between my stomach and one of my legs). 
+98. If the laptop is running really hot, the bottom will get one or two degrees warmer, but not at all hot and definitely nothing that would make you sterile (read the stories on the internet, it happens).All in all, this is a great product and doesn't pull any power from your USB or have any areas where you can't put your leg because there's a fan there. 
+99. THE LAPTOP RUNS MUCH COOLER AND IT IS NOTICEABLE IF YOU COMPARE IT TO RUNNING THE LAPTOP ON A FLAT SURFACE. 
+100. It is very comfortable in my lap and laptop doesn't slide around as the alternative use of my pillow. 
+101. Some people can probably feel that, others, not so much).Overall, definitely recommended, but I'd give it a few days to get used to  the feeling of having your laptop sitting on a new surface. 
+102. A week after I bought my new laptop, it practically burned my lap, dangerously heated my bedspread, and significantly decreased my battery usage.  
+103. Previously, I had been using laptop desk's with USB powered cooling fans. 
+104. Without extra wires or hardware, this laptop cooler keeps you comfortable while using your laptop even in the sultry, hot summers of Maryland's Eastern Shore.
+105. Without extra wires or hardware, this laptop cooler keeps you comfortable while using your laptop even in the sultry, hot summers of Maryland's Eastern Shore.
+106. I found that the xPad, with its simple X design on top, keeps most of the laptop out of contact with the bottom of the pad, and hence, keeps my lap pretty cool. 
+107. It's lightweight, has a great non skid back, doesn't have extra fans and gadgets I don't need and has kept my laptop running cool and perfectly all these years.  
+108. The laptop is larger than the Xpad by about an inch on both the left and right sides. 
+109. My experience is not as good. its nice to have no fans which is less noise but I don't think it cools better or as well as top rated fan assistant  laptop coolers.
+110. I wish the price was a little cheaper, even $20 or so... but other than that I would recommend this to anyone, and like I said, I'm getting the X-Pad Slim for my new 17" laptop.
+111. Before I bought it, a few minutes with my laptop on my lap would burn my legs. 
+112. However, I've now passed it on for permanent use under a desk-bound laptop at home and bought a second one - equally good.  
+113. I highly recommend this product to anyone - it's very light, works very well and as an added bonus makes routing the power cable, etc. from the laptop very easy because they can be tucked under the laptop (but above the X-pad) and exit on whatever side the power point is.  
+114. I bought the original xpad for my HP tx2000 laptop...which runs very hot. 
+115. It's a brilliant way to keep your laptop from overheating without the annoying noise of those USB plug-in types with the fans.  
+116. This is a really simple laptop pad and I like it.It's great for making sure my MacBook Pro is getting the right amount of venting when I've got it in my lap or laying down on the couch.The only complaint could be the material because it's just plastic, but really for the price I wouldn't expect anything too fancy. 
+117. My laptop is about 2&#34; longer than the Xpad, but I don't mind the 1&#34; over hang on either side and I haven't noticed any stablity issues. 
+118. So far, I feel like this product is going to hold up well and keep my laptop cool, plus it doesn't make a sound or use energy.
+119. This pad gives my laptop a great boost.  
+120. Longer life for the laptop and the knees.  
+121. I  have a 13&#34; laptop and the Xpad fits nicely but it is approximately 1-1/4 bigger than my laptop. 
+122. With regards to long term cooling of another laptop, I could only give it a 4 star. 
+123. Pros:- It elevates your laptop to provide better airflow for the intake fans, thus overall cooling your laptop.- It prevents your laptop from overheating when placed on your lap.Cons:- Made of cheap plastic that is moderately flexible, thus causing it to potentially bend overtime.
+124. It keeps the laptop cool and also provides a nice, slip free platform for you laptop if you're actually using it on your lap.
+125. It keeps the laptop cool and also provides a nice, slip free platform for you laptop if you're actually using it on your lap.
+126. It helps keep my laptop cool and the non-slip pads are great.
+127. This is the simplest yet best designed laptop cooler I've seen. 
+128. I opted to try an X-pad, which is not motorized and merely depends on lifting the laptop enough for air circulation.This was the best (and one of the cheapest) laptop additions I've made.  
+129. The underside of the xpad is covered with a slightly rough fabric that works comfortably on clothes or bare skin.Pros:* no moving parts, so nothing to mysteriously break in a few weeks* works on lap or table* very light* fits in many laptop bags* design accommodates a wide variety of laptop sizes, intake, and fan configurations* stiff design won't block air intakes on bottom of laptopCons:* plastic case is slightly deeper than the foam pad; could dig into bare skin, depending on position of of pad.
+130. The underside of the xpad is covered with a slightly rough fabric that works comfortably on clothes or bare skin.Pros:* no moving parts, so nothing to mysteriously break in a few weeks* works on lap or table* very light* fits in many laptop bags* design accommodates a wide variety of laptop sizes, intake, and fan configurations* stiff design won't block air intakes on bottom of laptopCons:* plastic case is slightly deeper than the foam pad; could dig into bare skin, depending on position of of pad.
+131. I bought this for a laptop that was too hot to hold (turned out to be a heat-sink problem on the CPU). 
+132. This product, without requiring power and with no moving parts, kept my laptop from over-heating and comfortable enough on my lap so I could still use it. 
+133. It's slim enough that I can carry it in my laptop bag, but leaves enough space under the laptop for plenty of cooling. 
+134. It's slim enough that I can carry it in my laptop bag, but leaves enough space under the laptop for plenty of cooling. 
+135. It's also more comfortable in my lap than holding the actual laptop because of the cushioned bottom and distributed weight. 
+136. it has transformed my laptop experience. it also works well when using the laptop on a desk with an extrenal monitor since it helps to keep the laptop cooler (big issue with mac).  
+137. it has transformed my laptop experience. it also works well when using the laptop on a desk with an extrenal monitor since it helps to keep the laptop cooler (big issue with mac).  
+138. Tired of trying to shield my legs with clothing from my hot laptop, I got this thinking that it's a better choice than the ones with the fan since I won't have problems with the noise aspect. 
+139. So in that sense, my xpad is keeping my laptop in as much optimum condition as it can by putting my laptop in its ideal situation. 
+140. So in that sense, my xpad is keeping my laptop in as much optimum condition as it can by putting my laptop in its ideal situation. 
+141. My laptop runs pretty hot, and this pad cools it down a good 7 degrees +.  
+142. I do not do the "laptop" on the lap top thing, but that works fine as well.  
+143. It really depends on your laptop design as to how well this pad will perform.  
+144. but I never hear the fans on my laptop run so I'm pretty sure I saved my laptop. 
+145. but I never hear the fans on my laptop run so I'm pretty sure I saved my laptop. 
+146. Great thing to use laptop on knees, in the bed and outside.
+147. -It fits perfect in my Crumpler laptop bag.
+148. I have had laptop coolers with fans, and the Xpad works so much better!  
+149. the xpad does make some differance to the heat of my laptop, the fan still kicks in but the air channels underneath allow the laptop fan to do its jobthe xpad stays cool enough to have it on you lap , maybe a touch warm after several hours
+150. But the books were too unstable so I started scouring the internet for a special laptop pad. 
+151. I think it also helps with hard drive stability since I pick up the laptop from one stable surface to carry it around the house, not bumping and jarring it as I would if it weren't on a platform. 
+152. I would have given the board 1 star cause it would look weird in public; because I think the Xpad does block the heat a little bit better, and because the laptop keeps sliding around. 
+153. It doesn't have to be plugged in, it fits a 17" laptop, it is lightweight, it fits in my laptop bag.  
+154. It doesn't have to be plugged in, it fits a 17" laptop, it is lightweight, it fits in my laptop bag.  
+155. I have two of these and have used them for a few years. one for my laptop and one for my dvd player. they are great, sturdy, comfortable on my lap and prevent slipping, prevent any heat build up--very useful.
+156. The non-slip raised legs hold the laptop in place without covering the vents and its still very comfortable on my lap. 
+157. It has honestly been fantastic in solving the problem which was worrying me more and more when I used my laptop, namely a repetitively slightly swollen leg and definitely uncomfortably warm top of my leg.I found the Xpad on a general web search, not early on either but so glad I persevered.  
+158. When my Dad finally joined the home-computer-age a couple of years ago I ordered another couple - the second one found a home with my next door neighbour's daughter when she got her first laptop.  
+159. I'm still with my first Xpad, going strong.Even if you don't think heat from your laptop is a problem I would still recommend using the Xpad as it gives a great steady and secure base for your laptop - no problem with whatever you're wearing.A great product!
+160. It works absolutely GREAT for my main laptop, Asus F6V, even after hours of it sitting on the pad with the power turned on. 
+161. And then when I use it for my college laptop, Asus M500A, it's cool for only about 30 minutes (The positive side? 
+162. The Xpad provides a light, stable base for the laptop.  
+163. The only function my Xpad does is boost my laptop up a little higher so that I can slide an ice pack in between the laptop and the Xpad. 
+164. My laptop sits on the sofa next to me when I am not using it and it was getting so hot, I actually had fears of it catching the cushion on fire while I was at work.  
+165. I will be getting a new laptop in the near future and will purchase an XPAD for it also. 
+166. No longer do my thighs get sweaty from the heat coming from my laptop, no longer does my laptop slide of my thighs either.  
+167. No longer do my thighs get sweaty from the heat coming from my laptop, no longer does my laptop slide of my thighs either.  
+168. If you have a laptop that gets hot (ours would get so hot it would shut down) this thing is fabulous!
+169. I sold it off to a friend with a netbook since the thing was far too tiny for my 17" laptop.. 
+170. It has done a good job of keeping my laptop cooler so far.  
+171. All it does is elevates your laptop to allow air flow.Most laptops have a built in fan under it, so placing a laptop on a desk restricts the air and can overheat it.This works great and I can feel the hot air blowing out when I place my hand on the left-side of my elevated laptop.
+172. All it does is elevates your laptop to allow air flow.Most laptops have a built in fan under it, so placing a laptop on a desk restricts the air and can overheat it.This works great and I can feel the hot air blowing out when I place my hand on the left-side of my elevated laptop.
+173. This is just a pad that will keep the laptop efficiently cool and your lap from being overheated.  
+174. I'm so glad I finally discovered this laptop pad. 
+175. The grips on it work great my laptop doesn't budge a bit even at an angle.You don't need a fancy expensive pad with a fan and all that bulk, this one is perfect and you'd use it more than those bulky other ones because its so easy to carry around with your laptop. 
+176. It uses airflow between the x-pad and your laptop to do the cooling. 
+177. It has a nice solid construction and is hands down the best laptop cooling pad on the market. 
+
+negative sentences : 
+1. It rasises it up off the counter about an inch and helps with overall airflow of the laptop.This unit is passive, not plugged in. 
+2. First, it surely keeps my lap cooler, though I am not really sure about the actual laptop temp.  
+3. Anyhow, this item is inexpensive, keeps my lap from getting hot and keeps my laptop right at the temperature it should be.A simple and effective solution!
+4. Another use for it would be at home or in any environment where one placed a laptop on something other than a desk or table (e.g. on a lap).
+5. This is really helpgul, it doesnt cool your laptop as much as you expect, but it is less heat for the battery, and you can take it everywhere.
+6. Finally my laptop burnt out due to the heat.  
+7. I wish so much that I had known about this with my previous laptop, I think I would still have it had I known.
+8. I was looking for something to keep my laptop flat on a uneven surface and could provide cooling with out a fan. 
+9. The thing I like most is that it protects me from the heat, I'm not sure if my laptop is cooler but my legs are for sure. 
+10. Before buying the Xpad I couldn't use my laptop for long sitting on the couch due to the heat the laptop emitted. 
+11. It's great being able to use my laptop on my lap for hours, without getting uncomfortable from the heat.  
+12. My 15" MacBook Pro generates a lot of heat on the left bottom of the laptop, making it uncomfortable to place it on your lap for more that brief periods.  
+13. this is suitable for 14 inch lap tops the size is actually less then 14 inches though. second it a hollow plastic board with 4 rubbers on top and a lite pad on the bottom, hardly worth the price, more or less it should be price around 7 bucks at least, anything more is just a rip off for a product that is just the same as putting a plastic chop board under neath your laptop and putting a cloth underneath. a few issues with the design make i flaw, one is that it not really for the new types of laptop that are wide screen base, such as like the new dells insperion 15 and others, the board has a more square shape which resembles the old style of the lap tops which mean either your laptop will not fit correctly on it. leaving some time the fan or hdd being cover by the pads in a slight off angle leaving less air flow. this product is ok but not good. there are other product that will do more for the price then this retailing at 25 bucks, like i said it just a piece of plastic with rubber on it nothing special you can make this out of a plastic cutting board and rubber grips your self for less then the value.
+14. Using Speccy ( a software that tells you your temps among other things) this kept my laptop cooler than one with a fan.  
+15. (Also explaining my frequent shutdowns in the middle of projects.)I researched many laptop cooler solutions, and settled on the X-Pad for its simple straightforward design, and great value.The intelligent design helped drop my laptops temperature by an amazing amount.  
+16. The neoprene bottom is comfortable on the legs and the laptop is totally stationary on the rubber pads (no slippage when sitting with the MacBook at extreme angles.In all, I would definitely recommend this product to anyone with a laptop.
+17. Fearing that I was starting to get "toasted skin syndrome," I immediately shopped Amazon for a laptop cooler, but I didn't want one with a noisy fan or anything bulky.  
+18. My laptop wound up producing even more heat than it did while it was on my lap.  
+19. and she can still use her comfy blanket and I no longer start arguments via my pedantic horror of a poor laptop's entire air-intake system corked shut while processors run at near full capacity
+20. Furthermore, I pretty much leave it permanently on the Xpad even when I'm not using it, thus dispelling my previous irrational fear that my laptop would overheat and set my sheets on fire if I left it unattended. 
+21. Basically, by providing more room under the laptop, it helps the fan inside your pc (or mac) do it's job better by circling cooler air.3. 
+22. One of the most compelling reasons to buy this product is the fact that it allows your laptop to cool itself using the built-in cooling system that the laptop engineers created.  
+23. I bought my X pad about 2 years ago and it's been in constant use ever since.Using it on a desk / table definitely cools the laptop down by raising it slightly and increasing airflow.It comes into its own when using it on your lap / in bed / resting on a soft surface that used to overheat my laptop to the point of near burning.The padding underneath is firm and very easy to work with.Everyone that's seen it has gone on to order one.
+24. First being that you do not have to plug it in for it to work, so it doesn't draw on the already short battery life of your laptop.  
+25. Not to mention that it keeps your legs from the intense heat of your laptop.  
+26. I was skeptical about this product until I read CNET's review of ten different cooling pads and the Xpad was measured as keeping the laptop the coolest, even though it was only .4 degrees lower than the second best. 
+27. I knew she would be using her laptop many places besides at her desk - mostly on her lap.  
+28. There is no need for the more expensive powered laptop cooling pads if you have an X-Pad. 
+29. No problems with it or laptop slipping due to rubber pads. 
+30. got this for my white 13" macbook because i liked the idea of not sucking up power with a usb-powered cooler w fans. the reviews were pretty convincing to the xpad's cooling power sans fans, but i saw no difference. my mac is still hot as hell. i even downloaded a temperature monitor to see if there was any significant change and nothing. but the pad is comfortable/compact enough (i mostly use my laptop on my bed), keeps my flesh from being burned and has a nice look so i'll keep it. this product is not worth $25; i'll probably reluctantly look into a usb-powered cooling mat with fans.EDIT: couldn't take it anymore. returning as if anything my laptop feels even hotter. i'd rather hear a cooling fan blowing and actually cooling my computer than to hear my laptop's fan blowing full blast all the time.
+31. got this for my white 13" macbook because i liked the idea of not sucking up power with a usb-powered cooler w fans. the reviews were pretty convincing to the xpad's cooling power sans fans, but i saw no difference. my mac is still hot as hell. i even downloaded a temperature monitor to see if there was any significant change and nothing. but the pad is comfortable/compact enough (i mostly use my laptop on my bed), keeps my flesh from being burned and has a nice look so i'll keep it. this product is not worth $25; i'll probably reluctantly look into a usb-powered cooling mat with fans.EDIT: couldn't take it anymore. returning as if anything my laptop feels even hotter. i'd rather hear a cooling fan blowing and actually cooling my computer than to hear my laptop's fan blowing full blast all the time.
+32. I had lost a previous HP laptop due to hard disk melt-down -- evidently laptops sometimes run 'hot' and loss of hard disk is not uncommon.  
+33. The bottom of the unit is no more comfortable than the laptop itself (except that it isn't scorching hot). 
+34. It's always under the laptop.We use it on our antique dining room table and all other wood surfaces in fear that the heat from the laptop might damage the finish.Nothing like a hot lap to ruin your laptop experience!
+35. Even after the heat-sink problem was fixed, and now that I have a different laptop, I still use this. 
+36. It easily fits in my laptop carrying case and weighs next to nothing. 
+37. (There are so many weird products in this laptop table market.)  
+38. I spend hours on my laptop lying down because of a bad back and prior to getting the xpad, I would have to put my laptop down and shut it down, as the laptop heat was not only very hot on my lap, but also, my entire body.  
+39. If your laptop has more issues, get a fan
+40. I generally work with my laptop on a hard surface or desk; however, occasionally I do use it on my lap as well, and the difference is extraordinary (no more hot legs!)
+41. You notice that the laptop doesn't heat as much as before. 
+42. The thin one takes up less space in my laptop travel bag but the thick one elevates it slightly more, so the one you get will depend on your needs.
+43. The product does keep away the heat and helps my laptop stay cool.  
+44. Moreover, with no fans, it is slim enough to easily fit into my  laptop case along with my MacBookPro. 
+45. I own that laptop for more than 2 years and it wouldn't play a video for more than 1 hour without getting powered off due to excess heat produced by its processor. 
+46. But of course if I multitask, the poor XPAD has to give in and the crappy laptop will get turned off. 
+47. I am using it now--the laptop is not getting hot and the pad is not getting hot either. 
+48. However, if you plan on using your laptop for more than say 45 minutes then this product will not adequately insulate you from the increasing heat of your machine. 
+49. I used a program to measure the internal temperature of my laptop before and after using the Xpad. 
+50. Again, your laptop should never feel warm to the touch, and clearly never hot.  
+51. With the fan-operated chill pads, my laptop was cool to sometimes cold.  
+52. I feel the hot air blowing out when I place my hand next to the laptop when it is on the X pad.I didn't go with the other laptop coolers with the fan. 
+53. I feel the hot air blowing out when I place my hand next to the laptop when it is on the X pad.I didn't go with the other laptop coolers with the fan. 
+54. Two reasons: 1) I don't like the idea of a fan that needs to be powered by the laptop, as that creates more work for the laptop (even if it's a separate plug, I don't want to lug around another piece of equipment to plug in), 2) It seems that some laptop coolers with fans can interfere with the natural inflow/outflow of the laptop fan.
+55. Two reasons: 1) I don't like the idea of a fan that needs to be powered by the laptop, as that creates more work for the laptop (even if it's a separate plug, I don't want to lug around another piece of equipment to plug in), 2) It seems that some laptop coolers with fans can interfere with the natural inflow/outflow of the laptop fan.
+56. Two reasons: 1) I don't like the idea of a fan that needs to be powered by the laptop, as that creates more work for the laptop (even if it's a separate plug, I don't want to lug around another piece of equipment to plug in), 2) It seems that some laptop coolers with fans can interfere with the natural inflow/outflow of the laptop fan.
+57. Two reasons: 1) I don't like the idea of a fan that needs to be powered by the laptop, as that creates more work for the laptop (even if it's a separate plug, I don't want to lug around another piece of equipment to plug in), 2) It seems that some laptop coolers with fans can interfere with the natural inflow/outflow of the laptop fan.
+58. I like that I don't have to plug it in - which would work against the laptop's internal fan anyway.  
+59. The laptop is cooler as well as my lap.
+60. I am not that familiar with the technology to keep your laptop cool, but from what I can tell it keeps it cooler than it would otherwise.

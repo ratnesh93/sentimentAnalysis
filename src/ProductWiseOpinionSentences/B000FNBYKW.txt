@@ -1,0 +1,1123 @@
+
+------------------------------------------------------------------
+feature : item, positive Score : 33 and negative Score :-8
+------------------------------------------------------------------
+positive sentences : 
+1. Great item for anyone who has those old hard drives laying  around waiting to be put back to use. 
+2. With Amazon's excellent customer service, i was able to send it back free of charge and request a new item to be sent 1 Day Shipping for free.2nd Item was the same thing. 
+3. Returning this item and getting a full refund. 
+4. Guess i'll have to go elsewhere to buy the correct item.
+5. Couldn't have been easier.As the title says it is truly an excellent item and a really great price.
+6. Considering Prime got this to me in 2 days for free, the price point of this really works on so many levels.The box this item came shipped in was way too big for the item- about the size of 3 stacked dvds-- wasteful!  
+7. Considering Prime got this to me in 2 days for free, the price point of this really works on so many levels.The box this item came shipped in was way too big for the item- about the size of 3 stacked dvds-- wasteful!  
+8. I instantly had an essentially new drive, for just a few dollars for this item and the old drive from my previous laptop.  
+9. I found this item and it has worked great on several occasions. it was a great price and shipped quickly.
+10. With Amazon's excellent customer service, i was able to send it back free of charge and request a new item to be sent 1 Day Shipping for free.2nd Item was the same thing. 
+11. Over all, this is a very good item, worthy of housing your old hard drive.
+12. The item came so damaged that it was not recognizable. 
+13. i was a bit weary when i bought this item because i thought the price would correspond with the quality of the product. when the package came, i was surprised at how close the quality was of other HD enclosures that were triple the price.the product is pretty simple and easy to install. when you get the package, you will get:-aluminum case-ATA/USB adapter-USB to USBx2 ("Y" shaped USB cord)-two tiny screws-a screw driverit might have came with directions, but i didnt bother reading it because ive installed these before. its as easy as plugging your hard drive with the ATA adapter and then slipping it into the aluminum case and then putting the screws in to secure it.the hard drive works instantly as you plug the USB cords into your computer. however, if you use a laptop, you may require using both USB connections (provided) to power your hard drive because some laptops do not put out enough power to run your hard drive. not a problem unless you dont have another free USB port available.MAC and PC users***i use a MAC at home and a PC at work. i wanted to use the device to transport information back and forth with my newly converted external HD. if youre in the same situation, you will have to format your HD to FAT32 so that both platforms will recognize the HD. this will allow you to transfer information both ways from MAC to PC and vise versa. i found it easier to do this from disk utilities app on the MAC. 
+14. Item works fine - nothing fancy but gets the job done for next to no cost.Mine came with screwdriver but no screws - as the screws need to tap into the plastic, some bullying was required to get spare motherboard screws I had lying around to work.A bare drive will be a loose fit in the case - the laptop my drive was rescued from had a heat shrink wrap, so I used that around the drive for a snug fit.
+15. I had this very same item a couple of years ago, but from an other trademark. 
+16. Avoid this item, choose a more expensive device or something else.
+17. I bought this SANOXY USB 2.0 External 2.5-Inch IDE HDD Enclosure Case for Laptop - Blue, I received this Item as described in the website, if it's your first time to buy this adapter, please feel comfortable to get this Item, because I tried and right now, I can doit again, try first and make sure it's the correct item.Best regardsBras SamboAngolan
+18. I bought this SANOXY USB 2.0 External 2.5-Inch IDE HDD Enclosure Case for Laptop - Blue, I received this Item as described in the website, if it's your first time to buy this adapter, please feel comfortable to get this Item, because I tried and right now, I can doit again, try first and make sure it's the correct item.Best regardsBras SamboAngolan
+19. my customers like this item. the only reason i wont give it 5 stars is the dual connection it needs. other wise it does the job for the price.
+20. I scored this item for under a few bucks, it was worth the extra shipping and handling. 
+
+negative sentences : 
+1. This item is cheap, but works well without any problems. 
+2. This item does not have the right adapters for laptop hard drives or internal hard drives for desktop computers either unsure of what kind of hard drive it even connects to. 
+3. The company emailed me and said they would send out the right case at no charge to me and also said I could keep the wrong item.  
+4. Item was mailed to me in a padded envelope.Item did not come in a box.Item had no instructions.Glue that holds the usb plug backplate to the enclosure's board failed 5 minutes after taking it out of the bag.Does not handle a failing hard drive very well.If the hard drive is brand new, it handles fine.  
+5. It's 5 stars.If money is not an issue and you want to use your enclosed HDD as a fashion statement, this would NOT be the right item.
+6. However, the distinction between a SATA connector and IDE connector is stated in the description, but was not clear from the title resulting in me purchasing the wrong item.  
+
+------------------------------------------------------------------
+feature : time, positive Score : 33 and negative Score :-11
+------------------------------------------------------------------
+positive sentences : 
+1. But, the cost was EXCELLENT, delivery was right on time and best of all the unit performed as expected. 
+2. I ordered the first time, and received an SATA enclosure. 
+3. Don't waste your time and buy a better enclousure like the Eagle Tech Mesh IDE Enclousure which is what I got iEagle Tech ET-CS2MU2-BK 2.5-Inch IDE to USB Portable HDD Enclosure (Mesh)and I love it
+4. This item arrived just as they said it would and it was very easy to setup. i was able to retrieve fives from my hard drive in no time! 
+5. I didn't complain the first time because I assumed it was my fault.  
+6. But after nearly stripping one screw, I got the case to assemble correctly.Screws strip easilyThe hard drive will heat up rather quickly if you access it for any substantial amount of time, but I haven't had any problems with the heat yet. 
+7. Just something to keep in mind if you are planning on using the hard drive for long periods of time.
+8. It certainly is not high quality looking but I guess if works for a while then it is worth the price--so, time will tell....update: 8-18-2012 Working fine almost 2 years later, so I guess I can say I'm quite satisfied with this product!
+9. The only complaint I would have is it ships from China and thus takes a long time to arrive. 
+10. I had an older Maxtor 2.5" (plastic) One Touch III (mini edition) that would start only half of the time without using the extra power provided by the shorter "Y" USB cable being plugged in for the additional power.  
+11. The first time I connected this to my computer, Windows 7 could not read it.  
+12. I picked a cheap one as this is for a one time use, disposable. 
+13. might come handy another time. 
+14. Most the time you only need to use one of the plugs.  
+15. Shipping took some time but, it was worth the wait.
+16. Don't worry about heat buildup unless you have an older USB1.1 port and are accessing the drive constantly over a long period of time.  
+17. Most of the time its quite cool idle on USB 2.0.The package comes with a screwdriver to install the screws, a 'Y-cable' for additional devices to connect to the same USB port (which I've never used), a black cloth cover for the case and the external case (silver).Works great!
+18. I knew it was cheap; we'll see how it fares over a period of time.My only quibble is the cable. 
+19. I bought USB 2.0 External 2.5" IDE HDD Enclosure Case Blue For Laptop, Product arrived on time, and in perfect condition.
+20. Electronics board and pins are very flimsy, but as long as you push it in right the first time and don't plan on removing it multiple times, it should work fine. 
+21. The first time a 2.5&#34; harddrive was hooked up to one of the two cases, the red led lit but the harddrive did not spin up.  
+22. Then I put the harddrive in the second case, and everything worked perfectly the first time.  
+23. If yours rattles as well you might experiment with something to cushion the HD if you want it truly portable.I just use it to house my old laptop HD in case I need anything off of it.Never use it for more than a few minutes at a time, so can't comment on heat issues.Works well for what I needed and at a good price.
+24. Will it last for the long haul, only time will tell, but if you need to get to files quickly and cheaply it is worth it.
+25. My brother took his laptop to a computer guy that told him it was time for a new computer, his hard drive was bad and thats why it was so slow and not booting as it should. 
+26. Has worked for a long time under high volume stress.
+27. Every time I move the compiled external drive, I can hear and feel the hard drive jiggle around inside the enclosure.  
+28. I bought this SANOXY USB 2.0 External 2.5-Inch IDE HDD Enclosure Case for Laptop - Blue, I received this Item as described in the website, if it's your first time to buy this adapter, please feel comfortable to get this Item, because I tried and right now, I can doit again, try first and make sure it's the correct item.Best regardsBras SamboAngolan
+
+negative sentences : 
+1. This item arrived from China in a month less time than advertised. 
+2. I had a terrible time getting that tiny screw into place but now that I have it attached it seems to be OK.  
+3. Don't misplace this cable because you will have a hard time finding a replacement on this planet.On a more humorous note, I wonder what they thought the third end was for.-- This, as it turns out, is for power.  
+4. Product arrived on time, wasn't too hard to assemble. 
+5. Tried contacting this vendor numerous time..  
+6. Fits perfectly to 2.5" laptop hard drives; 1 connection to the front panel and 2 screws - very simple design.Some reviews complain about ventilation for overheating, but I can only see it getting hot if you use it for a long period of time transferring large files across a USB 1.0 connection. 
+7. didn't work as expected, cheap workmanship, a waste of time and money.  
+8. Fortunately his unit was inexpensive because by the time I finished trying to get it to work I missed the return deadline.  
+9. Took less time to assemble that it's taking to write this review. 
+10. good product , make sure to not run it for long periods of time (3+ hours) it may get a little warm, as i don't think its meant to be a permanently connected device
+
+------------------------------------------------------------------
+feature : computer, positive Score : 28 and negative Score :-10
+------------------------------------------------------------------
+positive sentences : 
+1. One caveat: the USB interface to this drive is a three-pronged cable, one goes to the external unit and the other two go to the computer. 
+2. You should be a little computer savvy to install your old HD and get it working. 
+3. I do not swap drives in and out of the enclosure - I only plug the complete assembly in to my computer once every weeks or two for a few hours or so.  
+4. We now can use the old hard drive as a backup drive, or drive to move large files from one computer to another.  
+5. My computer died a few weeks ago and I wanted to get something I could use to transfer the data off.  
+6. You have an old hard disk that needs to be seen by a new computer? 
+7. It is a little flimsy, but lets you connect a second HDD to your computer through a USB port.  
+8. The USB interface worked great with my other computer and I was able to read/write to the old IDE drive. 
+9. Works fine with Windows XP but unfortunately I bought this to access data on my old drive from a computer using Windows 7. 
+10. The USB cable is a Y-style cable, designed for using an extra port on your computer for power. 
+11. I just plugged in my old laptop harddrive, hooked the USB up to my computer, and the little "found hardware" icon lit up.  
+12. Often I find than I need to transfer driver files from my main computer to one I am setting up.And with a lot of loose 2.5 inch laptop IDE hard drives handy,putting a high capacity one into this enclosure give me the portability I need without the danger of possibly destroying the drive by accident.Easy to install a drive into this case,you do need to have a precision screwdriver set handy as the little one include is worse than useless.
+13. It comes apart easily, and I had no problem hooking up an old laptop hard disk and accessing it from my new computer. 
+14. I recently put an older computer out to pasture.  
+15. Just a moderately knowledgeable computer user.
+16. My computer was dying and this product allowed me to save my computer, if only for a few more months. 
+17. Hopefully everything is OK inside the laptop, and this incident did not stress the electrical components.I tested the enclosure on an older computer that I could risk the damage.  
+18. This was able to pull my pics up and store them, for viewing on my new computer. 
+19. The ones sold in your local computer stores are way over priced ($60.00 in some cases (Rocketfish) and for what???) 
+20. My brother took his laptop to a computer guy that told him it was time for a new computer, his hard drive was bad and thats why it was so slow and not booting as it should. 
+
+negative sentences : 
+1. Finally broke around 7 months, hard drive would turn on but not be recognized in any computer I tried it in (included ones that it worked in the day before). 
+2. If you connect a small drive that does not require much current and your computer can provide enough power you lucked out. 
+3. This case allowed me to salvage the hard drive from the computer and access the data.Pros:Looks greatInexpensiveWorks fineCons:Lining up the holes of the case with the holes of the case-ends proved to be somewhat difficult and I almost had to flex the case-ends to get them to align properly. 
+4. We installed the hard drive into this case, plugged it into our new computer via USB, and voila!  
+5. The drive registered and my computer recognized the external device and tried to load drivers (however I got the doorbell sound over and over like with a flash drive- the drive was corrupt and couldn't boot up). 
+6. But they work on every other computer that I've plugged them into.I like and dislike the fact that they don't have an external power supply or at least the option to use one. 
+7. I use it to read data on different computer hard drive. 
+8. It worked in helping me salvage the data from the hard drive of a computer that had died.  
+9. I removed the hard drive from an old notebook computer. 
+
+------------------------------------------------------------------
+feature : cable, positive Score : 40 and negative Score :-8
+------------------------------------------------------------------
+positive sentences : 
+1. I copied them over with drag-n-drop.Then formatted the disk with disk-utilities to get rid of the old crud, then copied just the pictures back for a nice external backup.The cable comes with dual-head USB, probably for power, but I only used one.CONS:can't think of any for my needs.$5 unstead of $150 for a disk doctor -- you win!
+2. It is not a long term solution to keep the hard drive in the enclosure due to it being very cheaply made.Pros:Included is the aluminum enclosure, a USB cable with an extra end in case you still have USB 1.1, a mini screw driver to secure one end, and a little slip case for the enclosure.Cons:The USB adapter on the drive is mounted in crooked, so when you plug in the USB cable, it comes out crooked.  
+3. It is not a long term solution to keep the hard drive in the enclosure due to it being very cheaply made.Pros:Included is the aluminum enclosure, a USB cable with an extra end in case you still have USB 1.1, a mini screw driver to secure one end, and a little slip case for the enclosure.Cons:The USB adapter on the drive is mounted in crooked, so when you plug in the USB cable, it comes out crooked.  
+4. But all the parts went together smoothly and the rather odd A-to-A-to-A USB cable let it work with my Windows and Macintosh systems.The little screwdriver is completely useless, though; if you do any computer work you should have a set of tiny Philips-head screwdrivers anyway.In short, the device helped me easily transfer my old drive's contents to a new drive, and also gives me an external disk that doesn't have to be plugged in to a power strip. 
+5. There should be no shock hazard from 5V USB, but the drive could fail.- The tiny set screws to entomb your drive safely in the case may be lost if you breathe during the procedure.- The USB cable is completely non-conforming to the standards, it has the Type A plug on all 3 ends.  
+6. Comes with: USB cable, case, extra screws, and a small screwdriver. 
+7. They all work great.The cable it comes with has 2 USB plugs at one end and I see reviews for these drives where people complain about them using up to ports on the computer.  
+8. It does look and feel cheap, but has functioned exactly as needed.Pros:- Inexpensive.- Includes screwdriver and data cable.Cons:- Did not include anything to shield drive electronics from metal case (a small piece of a mylar antistatic bag worked fine for me).- Complimentary storage bag is poorly constructed and has an awful chemical smell (I never use them anyway).- Connector cable is USB A to A, rather than the more common USB A to B or A to Mini-b; while this doesn't affect performance, it does mean that you'll have to keep track of it, since is likely to be the only such cable you have on hand.Bottom line: I'd buy it again.
+9. The cable is rugged (maybe too much so). 
+10. This is especially important for older disks that are more power hungry.On top of that, it comes with a really weird USB Y cable that has 3 USB A connectors.  
+11. i installed the 2 screws, plugged itinto the usb of my laptop and voila, it worked.it came with a weird usb cable that has 2 male connectors on one end, i'm guessing that maybe that's for extra power if you needit, but since there are no instructions i don't know.It looks cool and seems to be working.just remember, if you have the problem of the drive not sliding all the way in like some people's pictures here, slide thedrive in first, then connect the connector/front panel.
+12. The size is suitable for use when traveling, cable length and connectors are also suitable.
+13. I had an older Maxtor 2.5" (plastic) One Touch III (mini edition) that would start only half of the time without using the extra power provided by the shorter "Y" USB cable being plugged in for the additional power.  
+14. It's easy to plug your device in, much faster than needed, and the case is nigh unbreakable.They even include a little screwdriver and USB cable with the kit. 
+15. The model number of the enclosure is printed on the PC board.Pros* Runs cooler than ice* Works perfectly with non-intel Macs running Mac OS X 10.4* Small, thin (1/2 in. thick) and light* Well made and Inexpensive* Dependable Initio 1511 chip* Small PC board* Well soldered* No heat sink or ventilation needed* Can be used as a long term solutionCons* No on-off switch* Y cable to be connected to two USB ports on your computer.You can plug the cable in just one port, works fine but the hard disk will spina bit slower and will read/write data slower.* Much slower than Firewire* No warranty* Tiny screws* Hard disk moves up and down inside the box.To keep the disk from moving, insert 2 small round pieces of wood (toothpicks)about 6 mm long in the rear hard disk screw holes. 
+16. If plugging directly to your computer, you can probably put this cable back in the box and use a standard USB cable.Like other reviewers, I have a problem with the included set screws. 
+17. The USB cable is a Y-style cable, designed for using an extra port on your computer for power. 
+18. The USB cable is a Y-style cable, designed for using an extra port on your computer for power. 
+19. One caveat: the USB interface to this drive is a three-pronged cable, one goes to the external unit and the other two go to the computer. 
+20. It's important for the case to be 'metal' because metal helps dissipate the heat, unlike 'plastic' which would trap it inside.- 3 little screws which is one more than you need but, them being so small, it's good to have an extra just in case.- A screwdriver for the little screws.- About 1.5" long USB interface cable.- Some low-grade plastic-rubber or rubberized plastic protective sleeve which you are not likely to use.- Strangely, I did NOT get a 'manual', not that one is needed but I see that others got theirs.RATINGFor the price, it doesn't get much better. 
+21. BUT YOU CAN DO IT.Also, don't loose the original usb cable. 
+22. It has a special cable (included) that uses a standard A type plug on both ends. 
+23. This is a really well made case except mounting the drive in .It's very quick assembly, but there is nothing to keep the drive from rattling around in the case.Mine came with 5 small screws of which two is used to secure the face plate which the drive is plugged into, the rest is useless from what I see.It come with a screw driver which was nice, and a duel cable which is cool also.I guess Ill have to shim the drive with something, this is the only flaw I can complain about,strong case though.
+24. My USB cable was ok and works great . 
+25. I knew it was cheap; we'll see how it fares over a period of time.My only quibble is the cable. 
+26. I purchased this unit to replace another enclosure that was larger and used a two cable setup. 
+27. Only requiring the use of one cable was also a big plus, as was the small size. 
+28. The case wouldn't fit, the cable would be some weird non-standard size, or perhaps the whole thing would catch fire.Nope, this case works exactly as advertised.  
+29. It comes with a USB cable and drivers for older Win98/SE systems. 
+30. Not a big deal, but that means that I will need to keep the cable handy instead of using a standard micro USB that other items use.  
+31. The usb isn't the most reliable as the cable will come disconnected very easily. 
+32. I have no issues with the product at all, especially for how cheap it was.My only problem I had was the cable I received had an intermittent problem, but HDE immediately sent me a new cable that worked perfectly. 
+33. I have no issues with the product at all, especially for how cheap it was.My only problem I had was the cable I received had an intermittent problem, but HDE immediately sent me a new cable that worked perfectly. 
+
+negative sentences : 
+1. It was very easy to put together, requiring only a star point screw driver which it came with.On that note however, the included screw driver is slightly fatter than the tiny screws.Also (just a note), the USB cable is a male A to 2 male A, not a male A to mini B like most portable hard drives. 
+2. This makes things a little tough if you lose the cable - because it isn't easily replaced with either a mini or micro USB end, or the standard USB B connector. 
+3. Strange.Normally these enclosures have a B connector and come with an A to B or A to mini B cable.Spend $20 more and get a reliable product.
+4. I could access the hard drive using another cable adapter, but not with this kit.
+5. What this means as this uses a cable that is difficult to find at your local store.  
+6. It's the fact that the cable is a nonstandard USB A-A. 
+7. You have to try all of them to see if it works.However, my biggest problem is that because the cable is so short, I had problem placing the drive. 
+8. Quiet, fast and slim.The vendor sent me a replacement usb cable no extra charge.Thx.
+
+------------------------------------------------------------------
+feature : drives, positive Score : 67 and negative Score :-24
+------------------------------------------------------------------
+positive sentences : 
+1. I had 2 dead windows laptops (10 years old) with IDE drives (the ones with pins). 
+2. Do a Google search to see pictures of hard drives to compare with your drive to make sure you buy the right enclosure.
+3. I have three or four older IDE hard drives that I wanted to use as external USB drives, so I ordered one of these to check out the quality. 
+4. I have three or four older IDE hard drives that I wanted to use as external USB drives, so I ordered one of these to check out the quality. 
+5. Hasn't gotten hot enough to warrant it, but I may a drill a hole in the enclosure, approximately where the HDD breather vent is (the HDD has a label to never cover that hole, yet the case does exactly that).I don't recommend daisy chaining USB hard drives; there is probably only enough juice to safely power one hard drive.Overall, this is a fantastic buy for the price. 
+6. I have a bunch of spare 2.5" laptop hard drives sitting around and decided I needed to do something with them rather than having them collect dust in the drawer.This is a no frills 2.5" external enclosure.  
+7. great value for the money; converts extra drives to storage or backup cheap. 
+8. This is a great little case for the extra drives I had laying around.  
+9. Obviously [from the price] this is not a high-end product; however, it is more than adequate for recycling older drives.  
+10. It is simple enough, and it is cheap in just about every sense of the word.There are really only a few complaints, but consider them carefully:- There are no instructions whatsoever for assembly, but it is simple enough... except:- There is only a small foam pad inside the case, in the back, to prevent the exposed electronics on most small drives from shoring on the metal case.  
+11. Had a couple of old laptop hard drives that I wanted to use, so I got a pair of these enclosures. 
+12. Remember, few laptop drives come as PATAs, so few of you will need this.  
+13. This is a great way to use old laptop hard drives.
+14. The drive had been partitioned into 3 logical drives. 
+15. What you need to do is to go to Device Manager -> Disk Drives -> ::Your harddrive:: Properties and under the Volumes tab, click Populate. 
+16. This makes it quick and easy to test drives or use old and oversized laptop hard drives, or hard drives with built in heatsinks etc. 
+17. This makes it quick and easy to test drives or use old and oversized laptop hard drives, or hard drives with built in heatsinks etc. 
+18. This makes it quick and easy to test drives or use old and oversized laptop hard drives, or hard drives with built in heatsinks etc. 
+19. Great way to keep the laptop hard drive and have easy axsess to the data or easy transfer data to other drives.
+20. Works great for those old IDE laptop hard drives I have kicking around, no sense wasting them.  
+21. Since I had spare drives I was able to create a portable drive a lot cheaper than buying one.
+22. It's amazing how many hard drives get damaged in some manner on laptops nowadays for whatever reason. 
+23. I have several external drives and this is my favorite.
+24. I am using these to recycle old laptop hard drives as external drives.
+25. I am using these to recycle old laptop hard drives as external drives.
+26. As a consultant I have a lot of external drives, and don't want to worry about keeping specific cables with specific drives.
+27. As a consultant I have a lot of external drives, and don't want to worry about keeping specific cables with specific drives.
+28. They have worked using a single USB on a powered USB hub so maybe that is my solution.I mounted several different models of drives and have had no issues.
+29. I have quite a bit of experience with external drives and enclosures. 
+30. Also I tested and confirmed that this enclosure does work with IDE 2.5 drives smaller then 40GB and tested it with a 20gb old laptop ide. 
+31. Make great compact external hard drives. 
+32. Great item for anyone who has those old hard drives laying  around waiting to be put back to use. 
+33. This one I would not swap hard drives because of the difficulty it takes to place them properly. 
+34. A useful tool: Good for external storage, backups, and cloning on old laptop drives, Powers off the computer it is connected to.
+35. Apparently, not all 2.5" laptop drives are the same, or perhaps what i have isn't exactly a 2.5" drive (IBM Travelstar, DCXA-210000, out of an old Dell laptop(?)).  
+36. Instead of destroying old laptop hard drives, turn them into storage. 
+37. I don't know that it's really required and have only needed one of the connectors to be plugged in for my 40GB drives to function properly.The one thing I don't like is that you have to remove tiny screws to change drives inside the case. 
+38. While the drives bounce around a tiny amount inside the case, it's not really much to worry about. 
+39. I was looking for an adapter for a bunch of old 2.5" laptop drives I had lying around and happened upon this jewel. 
+40. This is pretty easy to figure out, but just keep your eyes open for it.Drive recognition is great with this enclosure, and the drive is ready to use almost immediately after plugging it in.Keep a few of these enclosures around for making external drives from dead laptops. 
+41. I don't swap drives since this case is so cheap I bought 3 of them for extra drives.  
+42. Often I find than I need to transfer driver files from my main computer to one I am setting up.And with a lot of loose 2.5 inch laptop IDE hard drives handy,putting a high capacity one into this enclosure give me the portability I need without the danger of possibly destroying the drive by accident.Easy to install a drive into this case,you do need to have a precision screwdriver set handy as the little one include is worse than useless.
+43. Basically, I wouldn't trust a brand new $80 drive in this thing- it is a cheapie from China- buy an Airlink or other reliable long-term solution for that- but this is a great cheap way to salvage old 2.5 drives you have lying around, to get the data off of them or use them to tote around files like music or whatever and share with friends, or use it for a work project of short duration. 
+44. I'd prefer that they made something like2.5" SATA Hard Drive Case (Blue) 500GB Max Capacityfor a comparable price for IDE drives, but I couldn't find one.  
+
+negative sentences : 
+1. I don't know how durable it would be to pull the connector off the hard drive if you swapped drives over and over but that seems silly to me anyway!  
+2. Excellent product for swapping old and new internal drives on my Gateway laptop.One tip is to add a small piece of double sided foam tape in the bottom of the case to keep the hard drive from rattling around in the case.
+3. This item does not have the right adapters for laptop hard drives or internal hard drives for desktop computers either unsure of what kind of hard drive it even connects to. 
+4. This item does not have the right adapters for laptop hard drives or internal hard drives for desktop computers either unsure of what kind of hard drive it even connects to. 
+5. My biggest beef was that it won't work with just any 2.5 hard drive, it is specifically made for an ide connection only (if it is for any 2.5 hard drive then they sure as hell short you the adapter to make it work with the SATA connection on about half of the 2.5 hard drives out there).The company should at least owe all of us who purchaced one of these an adapter for free to show they stand behind their products!!! 
+6. this was a perfect solution for a difficult problem. i had two laptops die and i didn't want to spend $40 a piece on a hard drive enclosure. this product had great reviews and i didn't hesitate in buying qty 2. they came in just 3 days and i installed one of my hard drives just fine. the other had differant connectors that i didn't notice before, my bad. after reading other products, turns out i needed 1 IDE ans 1 SATA enclosure.to all you negitive people, yes it is made out of low quality materials, but for $6 dollars what are you expecting? 
+7. This is a nice gadget. allows me to remove hard drives from computers so I can plug them into any usb port for an external hard. 
+8. It was very easy to put together, requiring only a star point screw driver which it came with.On that note however, the included screw driver is slightly fatter than the tiny screws.Also (just a note), the USB cable is a male A to 2 male A, not a male A to mini B like most portable hard drives. 
+9. Or to repurpose the hard drives off old machines for offline storage easily accessible via USB.
+10. I am constantly using it on different hard drives, when copying data, before formating those hard drives.  
+11. I am constantly using it on different hard drives, when copying data, before formating those hard drives.  
+12. This would fit only HDD of laptops cos its 2.5inch and would not work with the bigger solid state drives - the ones which are normally used for desktop
+13. A true no brainer and a welcome answer to hard drives left over from recently deceased laptops.
+14. So I can't use on of the dozens existing cables that I use for all other USB drives.The second thing I don't like is how the drive sits in the case.  
+15. I know the hard drives are good. 
+16. Fits perfectly to 2.5" laptop hard drives; 1 connection to the front panel and 2 screws - very simple design.Some reviews complain about ventilation for overheating, but I can only see it getting hot if you use it for a long period of time transferring large files across a USB 1.0 connection. 
+17. I got these to make cheap external drives for several linux projects. 
+18. A couple of my older laptops crashed, used this HDD enclosure to recover data from the hard drives.  
+19. I learned that many IDE drives are actually sATA/IDE (difference is flat connector vs two rows of pins, mine had a small flatpin connector plugged into the 2-row IDE scheme- this drive is IDE/2-row so I gently pried off the flat converter and plugged it in. 
+20. I use this HDD case to repurpose the hard drives from my XP PC. 
+
+------------------------------------------------------------------
+feature : data, positive Score : 39 and negative Score :-12
+------------------------------------------------------------------
+positive sentences : 
+1. Works fine with Windows XP but unfortunately I bought this to access data on my old drive from a computer using Windows 7. 
+2. I was expecting at the price just the enclosure and nothing else (except a decent manual which is mandatory).Pro: affordable, comes with partsCon: you get what you paid for, Damaged port, Piss poor user manualTip: Dont use this for important data.  
+3. I was able to recover the data I needed. 
+4. Able to get all my data off an ancient laptop harddrive.
+5. I work on computers and had a customer that wanted data transfered from their older desktop, that the motherboard went out on, to their laptop. 
+6. I pop the hard drive into one of these and instant data recovery.They have an extra USB connector in case you do not have a USB 2.0.  
+7. Compared to an Acomdata hard drive case I bought last year, this is one has a slow data transfer and by the looks of it will not last as long either, but if you take good care of it and use the pouch protector provided, it could serve its use for a long while.This product is good as a quick and cheap alternative. 
+8. The model number of the enclosure is printed on the PC board.Pros* Runs cooler than ice* Works perfectly with non-intel Macs running Mac OS X 10.4* Small, thin (1/2 in. thick) and light* Well made and Inexpensive* Dependable Initio 1511 chip* Small PC board* Well soldered* No heat sink or ventilation needed* Can be used as a long term solutionCons* No on-off switch* Y cable to be connected to two USB ports on your computer.You can plug the cable in just one port, works fine but the hard disk will spina bit slower and will read/write data slower.* Much slower than Firewire* No warranty* Tiny screws* Hard disk moves up and down inside the box.To keep the disk from moving, insert 2 small round pieces of wood (toothpicks)about 6 mm long in the rear hard disk screw holes. 
+9. I bought this item to try to see if I could recover any data from a mechanically failed hard drive... did not work but I still have an enclosure in the event that I want to use it for a backup HD.
+10. Great way to keep the laptop hard drive and have easy axsess to the data or easy transfer data to other drives.
+11. Great way to keep the laptop hard drive and have easy axsess to the data or easy transfer data to other drives.
+12. So I purchased this and it was very helpful in retrieving my data. 
+13. My came within a couple of days, was very happy with that since, it was pretty important to get an external hard-drive case for data recovery.  
+14. My friend was very thankful that I was able to help her retrieve her old data from the drive and I was able to do all this for only $6!
+15. When I connected my HDD to this new enclosure, it worked and I could recover my valuable data!!
+16. I recovered my data easily, nice product!!
+17. I ended up buying a SATA to USB cable that served the purpose of transferring data from my old hard disk to a newer one. 
+18. I used this enclosure to turn the hard drive of an old, broken down laptop into an external drive and be able to extract all the data from the drive.Even though the instructions are not that clear, the installation is extremely easy to perform. 
+19. Has a red activity light for monitoring data flow.  
+20. I decided to reformate the drive to clear out the old data and then reinstalled it into the cased but there was no difference in the operation.  
+21. The enclosure is strong and sturdy and a great deal for being under $10.It works as it should as a back up external drive or as a data recovery tool.I would buy another.
+22. This is a great product for when you're in a bind and just need an efficient way to get your data from Point A to Point B.  
+23. Luckily I didn't have important data on the drive. 
+24. I was able to save the data and use it as an external memory while keeping my old music and picturs.
+25. Very handy to backup data and other items such as pictures, manuals, etc.
+26. Excellent IDE enclosure to keep laptop hard drive with saved data.  
+27. It does look and feel cheap, but has functioned exactly as needed.Pros:- Inexpensive.- Includes screwdriver and data cable.Cons:- Did not include anything to shield drive electronics from metal case (a small piece of a mylar antistatic bag worked fine for me).- Complimentary storage bag is poorly constructed and has an awful chemical smell (I never use them anyway).- Connector cable is USB A to A, rather than the more common USB A to B or A to Mini-b; while this doesn't affect performance, it does mean that you'll have to keep track of it, since is likely to be the only such cable you have on hand.Bottom line: I'd buy it again.
+28. It does not need a fan because the drive is against the aluminum case, which acts as a passive heater which is completely adequate.This enclosure is a quick fix to recover some data.  
+29. I hooked it up to an old drive to salvage data but I think the old drive was fried to begin with. 
+30. Both cases are still working well when used for occasional data backup and storage.
+
+negative sentences : 
+1. , and we needed to get the data off the hard drive.  
+2. I needed to recover data from a dead laptop's hard drive, and this worked perfectly.  
+3. I am constantly using it on different hard drives, when copying data, before formating those hard drives.  
+4. This is the perfect solution if you need to get data off an old laptop drive that does not work any longer, or a laptop that does not work any longer but you want what was on it. 
+5. A couple of my older laptops crashed, used this HDD enclosure to recover data from the hard drives.  
+6. Needed unit to save data from my wife's 7yr old laptop that finally died. 
+7. I use it to read data on different computer hard drive. 
+8. It worked in helping me salvage the data from the hard drive of a computer that had died.  
+9. Allowed me to recover the data from my blue-screened laptop. 
+10. I'm happy because with it I managed to have back all my data I had in a hard drive.
+11. Like most who buy products like this, I needed to recover data from the hard drive of a laptop that had died.  
+
+------------------------------------------------------------------
+feature : price, positive Score : 55 and negative Score :-11
+------------------------------------------------------------------
+positive sentences : 
+1. For the price they work great, in, out  done. 
+2. Great price for a product that looks good and built well. 
+3. This is a simple product for a simple price. 
+4. I was instantly credited my full price when I complained and it was less than $5, but still.This enclosure came as ordered and quickly without any issues.I would do it again.
+5. The price was great. 
+6. Hasn't gotten hot enough to warrant it, but I may a drill a hole in the enclosure, approximately where the HDD breather vent is (the HDD has a label to never cover that hole, yet the case does exactly that).I don't recommend daisy chaining USB hard drives; there is probably only enough juice to safely power one hard drive.Overall, this is a fantastic buy for the price. 
+7. Considering Prime got this to me in 2 days for free, the price point of this really works on so many levels.The box this item came shipped in was way too big for the item- about the size of 3 stacked dvds-- wasteful!  
+8. At the end this is a great product for an even greater price.
+9. The price was very reasonable.  
+10. This is a very good quality product&#8230;is very simple and the price is a good deal. i will recommended this product
+11. Will have to see how it last long term, but for the price, almost anything would beat my expectations.  
+12. It certainly is not high quality looking but I guess if works for a while then it is worth the price--so, time will tell....update: 8-18-2012 Working fine almost 2 years later, so I guess I can say I'm quite satisfied with this product!
+13. I was suspicious because the price is so low but I took a chance and ordered it.  
+14. It installed instantly on my 10 yo Toshibal laptop running XP, and is a good value for the price.  
+15. Great enclosure for the price.
+16. This enclosure is pretty good for the price.  
+17. Excellent low price and good quality too.  
+18. Very worth the price.  
+19. Well, the thing feels like you could crush it with two fingers simply because it is so light (thanks to the aluminum), but it's actually pretty darn good for the price.  
+20. Now that I have bought 10 of these, I have quite the little collection.Thanks for the excellent price, too!
+21. It showed up as an external drive and ALLmy potentially "missing" files were there.  1/4 hour from unpacking to plugginginto the MAC.Price is great!
+22. I found this item and it has worked great on several occasions. it was a great price and shipped quickly.
+23. Couldn't have been easier.As the title says it is truly an excellent item and a really great price.
+24. Good price. 
+25. Unit works as described, well worth the price. 
+26. The price is unbeatable.  
+27. The price made this unit very attractive. 
+28. Worked fine after I got the drive in there.Great value for the price.
+29. well made for the price, works 100% as advertised, I would buy this product all over again if I had more 2.5" IDE drives.
+30. You can't beat the price this,  Great little gadget for the money.
+31. great for price...okwelli likeill buy morebuy itMake it fun! 
+32. Excellent price and ships fast.
+33. It's important for the case to be 'metal' because metal helps dissipate the heat, unlike 'plastic' which would trap it inside.- 3 little screws which is one more than you need but, them being so small, it's good to have an extra just in case.- A screwdriver for the little screws.- About 1.5" long USB interface cable.- Some low-grade plastic-rubber or rubberized plastic protective sleeve which you are not likely to use.- Strangely, I did NOT get a 'manual', not that one is needed but I see that others got theirs.RATINGFor the price, it doesn't get much better. 
+34. This product may be good for the price advertised but ensure that this one serves the purpose. 
+35. i was a bit weary when i bought this item because i thought the price would correspond with the quality of the product. when the package came, i was surprised at how close the quality was of other HD enclosures that were triple the price.the product is pretty simple and easy to install. when you get the package, you will get:-aluminum case-ATA/USB adapter-USB to USBx2 ("Y" shaped USB cord)-two tiny screws-a screw driverit might have came with directions, but i didnt bother reading it because ive installed these before. its as easy as plugging your hard drive with the ATA adapter and then slipping it into the aluminum case and then putting the screws in to secure it.the hard drive works instantly as you plug the USB cords into your computer. however, if you use a laptop, you may require using both USB connections (provided) to power your hard drive because some laptops do not put out enough power to run your hard drive. not a problem unless you dont have another free USB port available.MAC and PC users***i use a MAC at home and a PC at work. i wanted to use the device to transport information back and forth with my newly converted external HD. if youre in the same situation, you will have to format your HD to FAT32 so that both platforms will recognize the HD. this will allow you to transfer information both ways from MAC to PC and vise versa. i found it easier to do this from disk utilities app on the MAC. 
+36. If yours rattles as well you might experiment with something to cushion the HD if you want it truly portable.I just use it to house my old laptop HD in case I need anything off of it.Never use it for more than a few minutes at a time, so can't comment on heat issues.Works well for what I needed and at a good price.
+37. A true value for the price paid.
+38. Obviously [from the price] this is not a high-end product; however, it is more than adequate for recycling older drives.  
+39. Good product at a great price. 
+40. Great price and fast shipping.
+41. Amazon is a Great place to buy stuff/Great Price/good delivery speed.
+42. Great deal, couldn't ask for a better price and did exactly what I needed.
+43. Perfect product at a great price. 
+44. I'd prefer that they made something like2.5" SATA Hard Drive Case (Blue) 500GB Max Capacityfor a comparable price for IDE drives, but I couldn't find one.  
+45. Connection is good, work well so farGood product considering the price
+46. Works Fine and a good price.
+
+negative sentences : 
+1. ...by the low price.  
+2. cheap price and ok quality.  
+3. If you want fancy, easy, and something to show off, there are plenty of enclosures available that are 5 times the price that do more or less of the same thing.
+4. The price was cheap and there were a few bad reviews.  
+5. I was a little leary about the enclosure, with such a cheap price, but the product does what it is supposed to.. 
+6. Great Price, easy assembly, no problems, works well. 
+7. Good price for a no frills 2.5" drive enclosure. 
+8. bought product and it arrived 2 days later. seller was quick, price was amazing. 2 weeks later after using the enclosure half a dozen times the front part of the case where the drive plugs in came apart. the plastic end came unglued from the board. looking at it i noticed it's only held in place by 2 dabs of glue. now it won't stay back on, even tried gluing it back with super glue but the amount of force needed to pull the drive out is too much even for that since the glue just touches the edge of the pcb board.i decided i needed a firewire enclosure too so i had already bought another one last week before this came apart on me tonight. like i said, seller was great but the product...well, you get what you pay for. not worth an RMA either as i paid $5.66 for the enclosure and $5.49 shipping. would cost another $5.49 to ship it back for a new one.
+9. I couldn't get the endcap on, and had to file the tabs down  -not a huge problem, but a bit of a nuisance.Given the low price and the fact that it gets the job done without too much complication, I would buy this product again (but only as a short-term solution).
+10. I didn't realize this until it was way to late to return it but at this price it's no huge loss. 
+
+------------------------------------------------------------------
+feature : screws, positive Score : 52 and negative Score :-20
+------------------------------------------------------------------
+positive sentences : 
+1. The enclosure arrived with everything advertised (including all of it's screws) and was simple to put together. 
+2. Comes with: USB cable, case, extra screws, and a small screwdriver. 
+3. The product is good.The assembly, with the small screws and small screwdriver, which broke after the first use, was a challenge to say the least.
+4. I fell for it this time :(Gave it to a friend and he commented the end caps didn't have holes to insert the screws to secure them.The good thing is it's cheap enough that it's not a great loss.  
+5. Slightly awkward to NOT drop the screws & loose them!
+6. The did supply a little phillips driver for those screws but the head of the supplied driver was way too big for the screws. 
+7. The did supply a little phillips driver for those screws but the head of the supplied driver was way too big for the screws. 
+8. since its aluminum it shouldn't absorb any strange  smells as it is  The plastic ends fit nice and tight with the four screws.  
+9. But after nearly stripping one screw, I got the case to assemble correctly.Screws strip easilyThe hard drive will heat up rather quickly if you access it for any substantial amount of time, but I haven't had any problems with the heat yet. 
+10. Flimsy case and extremely small screws that will strip if opened too many times.  
+11. It comes with tiny screws and a screw driver, but the screws did not fit well. 
+12. The first one worked perfectly, it was easy to plug the drive into the connector, then fit the drive and connector into the container, and then finally fasten the assembly with two small screws. 
+13. The model number of the enclosure is printed on the PC board.Pros* Runs cooler than ice* Works perfectly with non-intel Macs running Mac OS X 10.4* Small, thin (1/2 in. thick) and light* Well made and Inexpensive* Dependable Initio 1511 chip* Small PC board* Well soldered* No heat sink or ventilation needed* Can be used as a long term solutionCons* No on-off switch* Y cable to be connected to two USB ports on your computer.You can plug the cable in just one port, works fine but the hard disk will spina bit slower and will read/write data slower.* Much slower than Firewire* No warranty* Tiny screws* Hard disk moves up and down inside the box.To keep the disk from moving, insert 2 small round pieces of wood (toothpicks)about 6 mm long in the rear hard disk screw holes. 
+14. Love the leather carry case and the screwdriver saved me from wrecking the screws with a normal screwdriver.
+15. It connects on one end with the pins and secures with two tiny screws. 
+16. I had difficulty finding 2 tiny coutersunk screws to hold the assembly to the case which I thought should be part of the kit, otherwise I am satisfied. 
+17. The baby screw driver and tiny screws are a pain in the butt. 
+18. There should be no shock hazard from 5V USB, but the drive could fail.- The tiny set screws to entomb your drive safely in the case may be lost if you breathe during the procedure.- The USB cable is completely non-conforming to the standards, it has the Type A plug on all 3 ends.  
+19. I don't know that it's really required and have only needed one of the connectors to be plugged in for my 40GB drives to function properly.The one thing I don't like is that you have to remove tiny screws to change drives inside the case. 
+20. This is very light and easy to use. 2 screws a quick swap and you are back in business.
+21. The kit includes two very small screws (watch out, don't lose them!) 
+22. Search specifically for 2.5" SATA cases.]Installation consists on pushing the HDD in and screwing 2 little screws using the little screwdriver provided. 
+23. It's all done in less than 5 minutes but you need good eyes and a steady hand because the little screws are VERY small.The disc, once in the enclosure, connects to the computer via an (included) USB wire which powers the disc. 
+24. It's important for the case to be 'metal' because metal helps dissipate the heat, unlike 'plastic' which would trap it inside.- 3 little screws which is one more than you need but, them being so small, it's good to have an extra just in case.- A screwdriver for the little screws.- About 1.5" long USB interface cable.- Some low-grade plastic-rubber or rubberized plastic protective sleeve which you are not likely to use.- Strangely, I did NOT get a 'manual', not that one is needed but I see that others got theirs.RATINGFor the price, it doesn't get much better. 
+25. It's important for the case to be 'metal' because metal helps dissipate the heat, unlike 'plastic' which would trap it inside.- 3 little screws which is one more than you need but, them being so small, it's good to have an extra just in case.- A screwdriver for the little screws.- About 1.5" long USB interface cable.- Some low-grade plastic-rubber or rubberized plastic protective sleeve which you are not likely to use.- Strangely, I did NOT get a 'manual', not that one is needed but I see that others got theirs.RATINGFor the price, it doesn't get much better. 
+26. Comes with tiny screws and a screwdriver, and the screws actually fit.  
+27. The hard drive fit perfectly and it even comes with a little screwdriver to secure the enclosure together with the 2 tiny screws that come with it.
+28. it would have been nice if it came with a few extra screws, I dropped one and still can't find it, but just the one screw hold the case together fine.
+29. This is a really well made case except mounting the drive in .It's very quick assembly, but there is nothing to keep the drive from rattling around in the case.Mine came with 5 small screws of which two is used to secure the face plate which the drive is plugged into, the rest is useless from what I see.It come with a screw driver which was nice, and a duel cable which is cool also.I guess Ill have to shim the drive with something, this is the only flaw I can complain about,strong case though.
+30. The endcap of the case is supposed to be attached with tiny phillips screws. 
+31. If plugging directly to your computer, you can probably put this cable back in the box and use a standard USB cable.Like other reviewers, I have a problem with the included set screws. 
+32. Slide in sleeve and secure with two very small screws supplied with small Philips driver.DONE !! 
+33. Do be careful with the screws that hold the aluminum case to the plastic, the are tiny, and would be extremely  hard to replace, if lost.
+34. Item works fine - nothing fancy but gets the job done for next to no cost.Mine came with screwdriver but no screws - as the screws need to tap into the plastic, some bullying was required to get spare motherboard screws I had lying around to work.A bare drive will be a loose fit in the case - the laptop my drive was rescued from had a heat shrink wrap, so I used that around the drive for a snug fit.
+35. The screws are little and require a little force with the screwdriver but you can get them in and when you do, tighten them down all the way. 
+36. Most of the time its quite cool idle on USB 2.0.The package comes with a screwdriver to install the screws, a 'Y-cable' for additional devices to connect to the same USB port (which I've never used), a black cloth cover for the case and the external case (silver).Works great!
+37. It it's not just move the jumper until you figure out the right setting for it.Just make sure that you have the 2.5" drive set to either master or single (the jumper setting, normally single is without a jumper).Also be careful with the screws for the top of the case they will strip out easily if you try to TIGHTEN them too much.
+
+negative sentences : 
+1. The screws are meant to screw the hard drive in place to the enclosure so that the hard drive doesn't move around inside the enclosure.I have never in my life seen screws this small. 
+2. And if you drop one you can forget about finding it ever again.Since these screws are impossible to use, you will just have to use the hard drive inside the enclosure without screwing it in and securing it.Other than that, the enlosure works OK. 
+3. Installation of the drive into the enclosure is a snap: simply pop the hard drive out of your laptop, plug the head cap onto it, slip it into the enclosure, and fasten with the set screws.The included sleeve is wonderful and protects the finish from scratches. 
+4. The screws are very small and the screwdriver is not a quality tool. 
+5. I only gave it three stars for reliability because there are no screws, or even adhesive tape, to hold the hard-drive in place. 
+6. But one of the screws was impossible to get in, as the hole wasn't fully open.
+7. Comes with 2 teeny weeny screws & a small screwdriver. 
+8. This hard drive enclosure works just fine, but it comes with a couple of ridiculous screws that are so unbelievably tiny that there is no way that I could possibly get a grip on them to put them in. 
+9. Enclosure is good, but not great.Screws are tiny and won't bear removal - reinsertion for very many times.  
+10. Easy assembly - but be careful not to strip the screws for the plastic electronic end! 
+11. In my opinion, this is as good of a solution as some of the other "passport" sized solutions on the market.Like some other reviews mentioned, the two screws used when assembling are tiny and screw through the aluminum case into plastic, which will probably not hold up if continually removed and reinstalled. 
+12. I could not screw in two of the screws since my hard drive holes didn't align, but they aren't really necessary. 
+13. It comes with the usb cord with 2 plugs if you have usb 1, a soft case to protect it, the aluminum blue case, screws, and the front part that the harddrive fits into and is screwed into the case.  
+14. Fits perfectly to 2.5" laptop hard drives; 1 connection to the front panel and 2 screws - very simple design.Some reviews complain about ventilation for overheating, but I can only see it getting hot if you use it for a long period of time transferring large files across a USB 1.0 connection. 
+15. Secondly, with my ham hands, I would never be able to put those tiny screws in to permanently secure it, and Mrs. 
+16. The screws were hard to screw on. 
+17. Assembling the thing is pretty much a no brainer, although try not drop the tiny screws or I'm sure you loose them. 
+18. It was very easy to put together, requiring only a star point screw driver which it came with.On that note however, the included screw driver is slightly fatter than the tiny screws.Also (just a note), the USB cable is a male A to 2 male A, not a male A to mini B like most portable hard drives. 
+
+------------------------------------------------------------------
+feature : product, positive Score : 58 and negative Score :-22
+------------------------------------------------------------------
+positive sentences : 
+1. Even with all of the positive reviews for the product, I was skeptical. 
+2. This is a simple product for a simple price. 
+3. I do not recommend this product for any long term usage.
+4. At the end this is a great product for an even greater price.
+5. This is a very good quality product&#8230;is very simple and the price is a good deal. i will recommended this product
+6. I recovered my data easily, nice product!!
+7. This product was a great purchase.  
+8. All in all it is a great product.
+9. Only downside is it just takes so long to get the product. 
+10. The product is good.The assembly, with the small screws and small screwdriver, which broke after the first use, was a challenge to say the least.
+11. Obviously [from the price] this is not a high-end product; however, it is more than adequate for recycling older drives.  
+12. Great price for a product that looks good and built well. 
+13. All in all, a very pleasant experience for a $3 product.
+14. Nice product huh? 
+15. To determine Support 2.5" IDE Hard Drives 40~500GB USB 2.0 to IDEBest product offer by Generic in CE today we allow you an easy way to narrow your purchase USB 2.0 External 2.5" IDE HDD Enclosure Case Blue For Laptop find the best product or good service and all you need to make your perfect life. 
+16. The website will change your product when you look at additional offers ! 
+17. I like the convenience of the product and fast delivery.  
+18. Just in case, I would not use this product with a higher quality HDD unit, as the risk might not be worth it.Overall, it is a sleek, metallic blue HDD box that serves it's purpose well, and I would definitely recommend this product, especially for first timers.
+19. Just in case, I would not use this product with a higher quality HDD unit, as the risk might not be worth it.Overall, it is a sleek, metallic blue HDD box that serves it's purpose well, and I would definitely recommend this product, especially for first timers.
+20. Compared to an Acomdata hard drive case I bought last year, this is one has a slow data transfer and by the looks of it will not last as long either, but if you take good care of it and use the pouch protector provided, it could serve its use for a long while.This product is good as a quick and cheap alternative. 
+21. For the price, the quality of this product is very much worth it. 
+22. Good product, It has a good finish, easy to use. 
+23. Very happy with product and purchase.
+24. Excellent product, I highly recommend!
+25. Anyways, great product, shipped fast, and will easily buy from this seller again in the future.
+26. This case is a very reliable product. 
+27. This product may be good for the price advertised but ensure that this one serves the purpose. 
+28. Excellent customer support; excellent product.
+29. I am still using this external case (3 months later) and it has taken a pretty decent amount of use (I don't abuse my equipment, but it has been dropped a couple of times...)I DO NOT use this for storing client data (I run a photography business)...I don't trust it that much, but for the 15 bucks I paid I really can't complain.Great little product for short-term/non-crucial memory storage!
+30. This is a pretty good product! 
+31. As far as value goes, this product is excellent.  
+32. I still need an enclosure  Again, product was exactly as advertised, shipping was fast and I will use this for an older laptop HDD I have.
+33. well made for the price, works 100% as advertised, I would buy this product all over again if I had more 2.5" IDE drives.
+34. This is a great product for when you're in a bind and just need an efficient way to get your data from Point A to Point B.  
+35. As a computer-not-so-saavy person, I appreciate how easy this product was to use.  
+36. Not sure if it was the seller or manufacturer fault, but this product was so defective it's not even funny.  
+37. This laptop hard drive enclose is an excellent product. 
+38. Great product with ease of use.  
+39. i was a bit weary when i bought this item because i thought the price would correspond with the quality of the product. when the package came, i was surprised at how close the quality was of other HD enclosures that were triple the price.the product is pretty simple and easy to install. when you get the package, you will get:-aluminum case-ATA/USB adapter-USB to USBx2 ("Y" shaped USB cord)-two tiny screws-a screw driverit might have came with directions, but i didnt bother reading it because ive installed these before. its as easy as plugging your hard drive with the ATA adapter and then slipping it into the aluminum case and then putting the screws in to secure it.the hard drive works instantly as you plug the USB cords into your computer. however, if you use a laptop, you may require using both USB connections (provided) to power your hard drive because some laptops do not put out enough power to run your hard drive. not a problem unless you dont have another free USB port available.MAC and PC users***i use a MAC at home and a PC at work. i wanted to use the device to transport information back and forth with my newly converted external HD. if youre in the same situation, you will have to format your HD to FAT32 so that both platforms will recognize the HD. this will allow you to transfer information both ways from MAC to PC and vise versa. i found it easier to do this from disk utilities app on the MAC. 
+40. Connection is good, work well so farGood product considering the price
+41. Would purchase again if I needed the same product.
+42. This product is good if you are in a jam where you just need to save a hard drive.  
+43. Good product at a great price. 
+44. I am very happy with this product, and I will definitely buy more.
+45. Excellent product.  
+46. The product is fine, but Amazon search engine is deceptive
+47. This is a very good product it may seem cheap but it does what it needs to.I had no issues getting it to work just plugged it in and it worked just fine. 
+48. Excellent product and easy to use.  
+49. Perfect product at a great price. 
+50. At first, this worked good.About 2-months after purchasing this product, I plugged it in to my laptop and all USB items that I had plugged into my laptop disconnected (external mouse & usb memory stick)!!!  
+51. I purchased this product to enclose a spare IDE drive I had lying around. 
+
+negative sentences : 
+1. After assembling the hard drive into the box, connecting to the computer, the drive was scanned fully by 2 malware programs.So this product is exactly what we needed.
+2. I would deff not recomend this product to anyone.
+3. I got my housemate to apply his strength to it, and it worked fine.Other than that, a terrific product
+4. I have found no problems with their product as long as it is used with an ide drive, but be cautious when considering it for purchase because it is shown nowhere that it is only ide specific and THEIR PRODUCT IS NOT SATA COMPLIANT!!!
+5. This product is affordable.  
+6. (Hitachi and Fujitsu).I have used lots of these in the past and I know what I am talking about, this is a very poor product.It's main problem may be that it cannot function from the limited power that USB provides and has no means of an external power supply.  
+7. Strange.Normally these enclosures have a B connector and come with an A to B or A to mini B cable.Spend $20 more and get a reliable product.
+8. this was a perfect solution for a difficult problem. i had two laptops die and i didn't want to spend $40 a piece on a hard drive enclosure. this product had great reviews and i didn't hesitate in buying qty 2. they came in just 3 days and i installed one of my hard drives just fine. the other had differant connectors that i didn't notice before, my bad. after reading other products, turns out i needed 1 IDE ans 1 SATA enclosure.to all you negitive people, yes it is made out of low quality materials, but for $6 dollars what are you expecting? 
+9. Excellent product for swapping old and new internal drives on my Gateway laptop.One tip is to add a small piece of double sided foam tape in the bottom of the case to keep the hard drive from rattling around in the case.
+10. Cheap, cheap product. 
+11. Either mine was very, very broken, or as a trend this is a faulty product. 
+12. Although the process was difficult the product was exactly what I paid for and worked wonderfully. 
+13. Also, this product does not come with hd supports, but you can just rip off a small piece of the box it cam in and shove it in with the hd.  
+14. bought product and it arrived 2 days later. seller was quick, price was amazing. 2 weeks later after using the enclosure half a dozen times the front part of the case where the drive plugs in came apart. the plastic end came unglued from the board. looking at it i noticed it's only held in place by 2 dabs of glue. now it won't stay back on, even tried gluing it back with super glue but the amount of force needed to pull the drive out is too much even for that since the glue just touches the edge of the pcb board.i decided i needed a firewire enclosure too so i had already bought another one last week before this came apart on me tonight. like i said, seller was great but the product...well, you get what you pay for. not worth an RMA either as i paid $5.66 for the enclosure and $5.49 shipping. would cost another $5.49 to ship it back for a new one.
+15. Make sure your hard drive is compatible with this product.
+16. I was a little leary about the enclosure, with such a cheap price, but the product does what it is supposed to.. 
+17. Even though I purchased the wrong product, we gave it as a gift to a friend.  
+18. Bad product.
+19. good product , make sure to not run it for long periods of time (3+ hours) it may get a little warm, as i don't think its meant to be a permanently connected device
+
+------------------------------------------------------------------
+feature : laptop, positive Score : 123 and negative Score :-37
+------------------------------------------------------------------
+positive sentences : 
+1. My buddy had great music on his old dell laptop, but i hated having to plug a screen into it every time we wanted to access it. 
+2. I used this enclosure to turn the hard drive of an old, broken down laptop into an external drive and be able to extract all the data from the drive.Even though the instructions are not that clear, the installation is extremely easy to perform. 
+3. I purchased this to house a working IDE drive I removed and replaced from my Laptop with a larger storage drive and wanted to keep the old drive as a portable storage device. 
+4. This laptop hard drive enclose is an excellent product. 
+5. It comes apart easily, and I had no problem hooking up an old laptop hard disk and accessing it from my new computer. 
+6. This drive enclosure works as intended and is great for salvaging that old laptop hard drive that hit the dust. 
+7. Also I tested and confirmed that this enclosure does work with IDE 2.5 drives smaller then 40GB and tested it with a 20gb old laptop ide. 
+8. If you intend to be making a external hard drive that you take with you everyday and gets jostled around in a laptop bag constantly you might want to look for an enclosure that had a drive seating. 
+9. One time a laptop saw the enclosed hard drive but nothing since. 
+10. he was able to install his old laptop harddrive into it and get it to work in 10 minutes.
+11. I still need an enclosure  Again, product was exactly as advertised, shipping was fast and I will use this for an older laptop HDD I have.
+12. This enclosure does not work with HP laptop hard drive.  
+13. I had a laptop motherboard start smoking and crash, and I had lots of important files on it.  
+14. just what is needed for the upgrade of my older laptop. just plug it in and go after to put the cover back on
+15. I had a laptop harddrive that was REFUSING to be read by the OS when plugged in through IDE.I installed it into this case, plugged it into USB and was able to do a full restore and repair on this drive. 
+16. I had an old 2.5" hard drive that cam out of an old laptop. 
+17. The enclosure works perfectly with my old laptop hd.
+18. Had an old laptop hard drive that I wanted to use as a portable and this made it easy to do that.
+19. If yours rattles as well you might experiment with something to cushion the HD if you want it truly portable.I just use it to house my old laptop HD in case I need anything off of it.Never use it for more than a few minutes at a time, so can't comment on heat issues.Works well for what I needed and at a good price.
+20. I am using these to recycle old laptop hard drives as external drives.
+21. A useful tool: Good for external storage, backups, and cloning on old laptop drives, Powers off the computer it is connected to.
+22. At first, this worked good.About 2-months after purchasing this product, I plugged it in to my laptop and all USB items that I had plugged into my laptop disconnected (external mouse & usb memory stick)!!!  
+23. Hopefully everything is OK inside the laptop, and this incident did not stress the electrical components.I tested the enclosure on an older computer that I could risk the damage.  
+24. Anyways, it does work for housing my old hard drive from a crashed dell from around 2005 and connecting it to my new laptop. 
+25. Often I find than I need to transfer driver files from my main computer to one I am setting up.And with a lot of loose 2.5 inch laptop IDE hard drives handy,putting a high capacity one into this enclosure give me the portability I need without the danger of possibly destroying the drive by accident.Easy to install a drive into this case,you do need to have a precision screwdriver set handy as the little one include is worse than useless.
+26. My old laptop died, and I needed to get the files copied over to my new laptop.  
+27. My old laptop died, and I needed to get the files copied over to my new laptop.  
+28. This worked well converting a spare PATA laptop drive into an external USB drive.  
+29. The inside of a laptop gets much warmer than this external case does.  
+30. I just plugged in my old laptop harddrive, hooked the USB up to my computer, and the little "found hardware" icon lit up.  
+31. I turned my dad's old hard drive from his laptop to a external drive with this enclosure and it's alot cheaper than buying a regular external hard drive which made him very happy.
+32. The motherboard in my old laptop died so I took the HDD out and put it in this. 
+33. when ever i plugged it in the light would stay red and pc/laptop would not read the drive. i tested the drive and it was fine. i'm going to try another enclosure and review. good luck if you buy it, i mean its cheap so you probably get your moneys worth!
+34. I was looking for an adapter for a bunch of old 2.5" laptop drives I had lying around and happened upon this jewel. 
+35. Instead of destroying old laptop hard drives, turn them into storage. 
+36. I had an old laptop that died, and in the hard drive I had invaluable memories, the HDD enclosure gave me an inexpensive option to save those memories, very simple to use and you don't have to be a computer genius to use it.
+37. A uselful device for getting use out of an old laptop drive sitting around collecting dust. really cheap feel and construction, but it works well enough though.
+38. Apparently, not all 2.5" laptop drives are the same, or perhaps what i have isn't exactly a 2.5" drive (IBM Travelstar, DCXA-210000, out of an old Dell laptop(?)).  
+39. Apparently, not all 2.5" laptop drives are the same, or perhaps what i have isn't exactly a 2.5" drive (IBM Travelstar, DCXA-210000, out of an old Dell laptop(?)).  
+40. Slapped an old laptop hard drive in it, now I have an external portable drive. 
+41. Our old laptop was dropped (oops!)
+42. I placed my old drive in this case and installed the new drive in the laptop. 
+43. It certainly works fine for replacing the hard drive in a laptop, or other occasional use, but I would question its durability if you were toting it back and forth to school or the office. 
+44. I had an old 3.5 40gb Hard drive removed from an upgrade I did on my IBook laptop. 
+45. Sure, it's not tough as nails and I wouldn't feel comfortable tossing it around, but it is very functional and a very inexpensive way to turn that old laptop's hard drive into an external USB drive.
+46. Excellent IDE enclosure to keep laptop hard drive with saved data.  
+47. I needed to download files from a laptop HD before it went belly-up and this worked like a charm.  
+48. I bought this casing to house the old 20GB hard drive I retrieved out of my old laptop that died a while back. 
+49. Great way to reuse a laptop internal harddrive and gain a nice size externalMobile harddrive/usb linux os. 
+50. My laptop crashed a few weeks ago and wouldn't even load BIOS.  
+51. Works for older laptop HDDs that need to be moved to newer equipment. 
+52. I have a bunch of spare 2.5" laptop hard drives sitting around and decided I needed to do something with them rather than having them collect dust in the drawer.This is a no frills 2.5" external enclosure.  
+53. This got here. this worked for backing up an old salvaged laptop hard drive. 
+54. I bought this to transfer the contents of a laptop harddrive from a laptop that died and it worked well, but it does not appear to be very durable.  
+55. I bought this to transfer the contents of a laptop harddrive from a laptop that died and it worked well, but it does not appear to be very durable.  
+56. Inserted my laptop hard drive easily but cannot get my desktop or laptop to recognize it. 
+57. Able to get all my data off an ancient laptop harddrive.
+58. Even if I used it once and threw it away it would be worth it for all the files I was able to rescue from the old laptop.  
+59. I plugged it into my new (windows 7) laptop and everything worked without a hitch.  
+60. I had an old hard drive from a extremely GHETTO laptop that I owned several hundred years ago. 
+61. Pulled this out of the mailer, quickly and easily put in my old laptop's drive, plugged it into my new laptop, and it fired right up!  
+62. Pulled this out of the mailer, quickly and easily put in my old laptop's drive, plugged it into my new laptop, and it fired right up!  
+63. I instantly had an essentially new drive, for just a few dollars for this item and the old drive from my previous laptop.  
+64. It saved my old laptop hard drive from the land fill.  
+65. Used this to enclose an old laptop hard drive for external storage.  
+66. Very easy to install laptop hard drive in the case. 
+67. After my old laptop died, I wanted a simple way of using its hard drive for additional storage.  
+68. I got this to extract files off a 7 year old Dell Inspiron laptop internal hdd, which had stopped working atleast 2 years back.
+69. was able to get the info from my old laptop harddisk. 
+70. The ones that worked, worked well which is why I keep buying them whenever a customer wants to upgrade their drive size in their laptop and keep their old HDD as an extra back-up. 
+71. Had a couple of old laptop hard drives that I wanted to use, so I got a pair of these enclosures. 
+72. Remember, few laptop drives come as PATAs, so few of you will need this.  
+73. Works great for those old IDE laptop hard drives I have kicking around, no sense wasting them.  
+74. This case works really well and was easy to install my old laptop hard drive into.  
+75. The only reason I am giving this item 4 stars is because the case didn't feel very sturdy, when I installed my laptop hard drive into it there wasn't a solid feel, it felt like the drive moves around inside the case.  
+76. Great way to keep the laptop hard drive and have easy axsess to the data or easy transfer data to other drives.
+77. I had an old laptop drive that I wanted to use and this was the perfect solution. 
+78. I used this for my old and dead Acer laptop's 60 gig hard drive. 
+79. For less than $10, and the cost of an old unused laptop drive, I now have an external drive to move around large files.
+80. It installed instantly on my 10 yo Toshibal laptop running XP, and is a good value for the price.  
+81. Very inexpensive, works perfectly with my old gateway laptop hdd. 
+82. This makes it quick and easy to test drives or use old and oversized laptop hard drives, or hard drives with built in heatsinks etc. 
+83. Use this aluminum case to turn your laptop drive into an external hard drive. 
+84. To determine Support 2.5" IDE Hard Drives 40~500GB USB 2.0 to IDEBest product offer by Generic in CE today we allow you an easy way to narrow your purchase USB 2.0 External 2.5" IDE HDD Enclosure Case Blue For Laptop find the best product or good service and all you need to make your perfect life. 
+85. I needed to read a friend's old IDE hard drive from an old laptop and the Windows XP installation on that HD was corrupt. 
+86. This is a great way to use old laptop hard drives.
+87. My mom's old HP Laptop motherboard died and she had some the familiespictures and other information that we could not get too on the HardDrive.Went on e-bay to see what it would cost for a use HP laptop of the samekind  to put the HardDrive in and I was looking at over a hundred Buck.Saw this on Amazon for Five bucks and some change.Purchased it-shippingwas very fast'slapped the harddrive in it and was able to get all of mom'spictures and the rest of her things off the harddrive.After removing allthe information we wanted I formatted the harddrive and now she uses itas a external backup drive.This thing is Great!
+
+negative sentences : 
+1. Allowed me to recover the data from my blue-screened laptop. 
+2. After my second hand laptop failed I salvaged the 40Gb hard drive and ordered this enclosure. 
+3. Needed unit to save data from my wife's 7yr old laptop that finally died. 
+4. No issues using my old laptop hard drive with this one. 
+5. Making an old laptop HD external was a snap with this very affordable enclosure.  
+6. This is the perfect solution if you need to get data off an old laptop drive that does not work any longer, or a laptop that does not work any longer but you want what was on it. 
+7. If, like me, you have an old IDE hard drive from a dead laptop, this is an inexpensive way to covert it to a usb drive. 
+8. Purchased from digisearchs.Arrived promptly.No written instructions.Removed HDD assembly from laptop (Toshiba satellite in my case.)Remove back plastic surround around pins if yours has this.you cant put socket on pins if you don't do this.Remove HDD from Toshiba mounting metal case so it will fit in blue case sleeve.Now it rattled in sleeve, so looked at carefully, concerned about bare copper on back of HDD, then noted clear plastic insulator in Toshiba mounting.Removed and attached to HDD with black insulating tape in four corners.put socket on pins, very tight, keep straight and push !!!
+9. Lightweight and effective solution for getting use out of an old IDE 2.5&#34; laptop hard drive. 
+10. Installation of the drive into the enclosure is a snap: simply pop the hard drive out of your laptop, plug the head cap onto it, slip it into the enclosure, and fasten with the set screws.The included sleeve is wonderful and protects the finish from scratches. 
+11. I used this enclosure on a hard drive fresh out of a laptop, and it had such an adapter. 
+12. I bought this to store a hard drive from a broken Mac G3 laptop.  
+13. I had an old Dell laptop that would not boot.  
+14. I took the hard drive out of my broken laptop and popped it in this case.  
+15. I needed to recover data from a dead laptop's hard drive, and this worked perfectly.  
+16. Popped the hard drive out of the dead laptop, slide it into this enclosure, closed the cap, which pushes into the IDE pins, and plugged the usb into my tower. 
+17. Other reviews say this works OK, but It did not work with my laptop hard drive, because of not enough power supplied through USB. 
+18. My laptop motherboard blew up and i had no way of getting the files from my hard drive back. 
+19. I replaced the hard drive in my laptop and needed to transfer my old files to the new drive. 
+20. Excellent product for swapping old and new internal drives on my Gateway laptop.One tip is to add a small piece of double sided foam tape in the bottom of the case to keep the hard drive from rattling around in the case.
+21. Received this in order to backup a dead laptop's hard drive. 
+22. None of my computers recognize it (laptop with XP, another with 7, and a Mac).  
+23. This item does not have the right adapters for laptop hard drives or internal hard drives for desktop computers either unsure of what kind of hard drive it even connects to. 
+24. I had to take the hard drive out of my laptop so I can fix it with a desktop.  
+25. Have to say this is a most buy for IDE hard drive, remember most laptop have SATA hard drive which is different.
+26. Is also helpful to grab info from a dead laptop.
+27. The laptop stopped working and was unrepairable.  
+28. I resurrected my old Powerbook G4 laptop HD with this enclosure after frying the laptop due to a spilled drink. 
+29. I resurrected my old Powerbook G4 laptop HD with this enclosure after frying the laptop due to a spilled drink. 
+30. Like most who buy products like this, I needed to recover data from the hard drive of a laptop that had died.  
+31. It lacked assembly directions -- but it was very easy to figure out.I removed my IDE disk from my dead laptop, assembled it into this enclosurecase and pluged it into my new MAC. 
+32. I use them when I find a laptop with a bad motherboard or display that can't be fixed.  
+33. I have to older laptops that I use and both of them use IDE/ATA so this will become handy just in case my other laptop dies.The aluminum case is good for less heat. 
+
+------------------------------------------------------------------
+feature : case, positive Score : 94 and negative Score :-26
+------------------------------------------------------------------
+positive sentences : 
+1. My came within a couple of days, was very happy with that since, it was pretty important to get an external hard-drive case for data recovery.  
+2. Nice aluminum case. 
+3. It does look and feel cheap, but has functioned exactly as needed.Pros:- Inexpensive.- Includes screwdriver and data cable.Cons:- Did not include anything to shield drive electronics from metal case (a small piece of a mylar antistatic bag worked fine for me).- Complimentary storage bag is poorly constructed and has an awful chemical smell (I never use them anyway).- Connector cable is USB A to A, rather than the more common USB A to B or A to Mini-b; while this doesn't affect performance, it does mean that you'll have to keep track of it, since is likely to be the only such cable you have on hand.Bottom line: I'd buy it again.
+4. I'd recommend it to anybody looking for a light duty, occasional use hard drive case.
+5. And, while it's no work of art, it's definitely functional.The bottom line is, this case does exactly what it's supposed to. 
+6. I placed my old drive in this case and installed the new drive in the laptop. 
+7. This case worked great for what I wanted it to do. 
+8. The second one is there in case your computer or device don't put out enough power to spin the drive.  
+9. Comes with: USB cable, case, extra screws, and a small screwdriver. 
+10. It is simple enough, and it is cheap in just about every sense of the word.There are really only a few complaints, but consider them carefully:- There are no instructions whatsoever for assembly, but it is simple enough... except:- There is only a small foam pad inside the case, in the back, to prevent the exposed electronics on most small drives from shoring on the metal case.  
+11. It electronically edge-connected to my drive & provides the USB2.0 interface, but i do have to leave the drive out of the case, naked / exposed.  
+12. The case itself is durable and can take a bit of abuse. 
+13. While the drives bounce around a tiny amount inside the case, it's not really much to worry about. 
+14. This case is a very reliable product. 
+15. It is not a long term solution to keep the hard drive in the enclosure due to it being very cheaply made.Pros:Included is the aluminum enclosure, a USB cable with an extra end in case you still have USB 1.1, a mini screw driver to secure one end, and a little slip case for the enclosure.Cons:The USB adapter on the drive is mounted in crooked, so when you plug in the USB cable, it comes out crooked.  
+16. Nice carrying case too.
+17. Is a nice case and works great. 
+18. This is a great little case for the extra drives I had laying around.  
+19. The case was too small, barely too small, for my MacBook hard drive. 
+20. This case works well with my old hard drive and helped me diagnose my computer's problem as RAM issue, not HDD.  
+21. The only reason I am giving this item 4 stars is because the case didn't feel very sturdy, when I installed my laptop hard drive into it there wasn't a solid feel, it felt like the drive moves around inside the case.  
+22. If you want a SATA version of this, try searching for 2.5" SATA external case USB 2.0.
+23. Compared to an Acomdata hard drive case I bought last year, this is one has a slow data transfer and by the looks of it will not last as long either, but if you take good care of it and use the pouch protector provided, it could serve its use for a long while.This product is good as a quick and cheap alternative. 
+24. It's easy to plug your device in, much faster than needed, and the case is nigh unbreakable.They even include a little screwdriver and USB cable with the kit. 
+25. I think they used cheap wires for the power inside the case - Direct Current needs heavier wiring than AC.Fast forward about five years later - after installing the drive from the Maxtor enclosure into this new blue enclosure, the drive spun instantly without the need of the extra USB power Y.  
+26. I pop the hard drive into one of these and instant data recovery.They have an extra USB connector in case you do not have a USB 2.0.  
+27. Very easy to install laptop hard drive in the case. 
+28. Flimsy case and extremely small screws that will strip if opened too many times.  
+29. The drive was not backed up, so we removed it an put it in this external case.  
+30. The soft case is stretchy enough to hold the disk enclosure and the cable, which makes transporting everything more convenient.  
+31. It does have a nice slip-in case and sleek color.
+32. the space is for the old old models (they where little more thick) the case is aluminum, well built, connection is no brain as well. 
+33. It is not a long term solution to keep the hard drive in the enclosure due to it being very cheaply made.Pros:Included is the aluminum enclosure, a USB cable with an extra end in case you still have USB 1.1, a mini screw driver to secure one end, and a little slip case for the enclosure.Cons:The USB adapter on the drive is mounted in crooked, so when you plug in the USB cable, it comes out crooked.  
+34. Find a better case.
+35. First off, the case is really thin and cheap. 
+36. This is a really well made case except mounting the drive in .It's very quick assembly, but there is nothing to keep the drive from rattling around in the case.Mine came with 5 small screws of which two is used to secure the face plate which the drive is plugged into, the rest is useless from what I see.It come with a screw driver which was nice, and a duel cable which is cool also.I guess Ill have to shim the drive with something, this is the only flaw I can complain about,strong case though.
+37. This is a really well made case except mounting the drive in .It's very quick assembly, but there is nothing to keep the drive from rattling around in the case.Mine came with 5 small screws of which two is used to secure the face plate which the drive is plugged into, the rest is useless from what I see.It come with a screw driver which was nice, and a duel cable which is cool also.I guess Ill have to shim the drive with something, this is the only flaw I can complain about,strong case though.
+38. it would have been nice if it came with a few extra screws, I dropped one and still can't find it, but just the one screw hold the case together fine.
+39. The aluminum case does make a decent heat sink, I have left it running (writing data, not just plugged in) for several hours and it never got overly hot.  
+40. I don't see any real problems with this case other that cheap construction, but if you don't abuse it, it will be fine.  
+41. Wrong Enclosure SATA not IDESANOXY USB 2.0 /YESExternal 2.5-Inch /YESIDE HDD Enclosure Case /NOfor Laptop - Blue /YES
+42. The fit seemed perfect outside of the aluminum case, but when the drive was inside the case, the plastic tabs that hold on the endcap created too snug a fit.  
+43. It's a sturdy, light-weight aluminum case with plastic end caps.  
+44. Case seems pretty lightweight, so long-term use may be sketchy especially if it gets dropped ( the sleeve that comes free with the case is too lightweight to help much if the unit is dropped). 
+45. Case seems pretty lightweight, so long-term use may be sketchy especially if it gets dropped ( the sleeve that comes free with the case is too lightweight to help much if the unit is dropped). 
+46. My old 120 GB HDD is now a backup drive.Great case that actually holds a 2.5" drive snugly and works well.  
+47. It's important for the case to be 'metal' because metal helps dissipate the heat, unlike 'plastic' which would trap it inside.- 3 little screws which is one more than you need but, them being so small, it's good to have an extra just in case.- A screwdriver for the little screws.- About 1.5" long USB interface cable.- Some low-grade plastic-rubber or rubberized plastic protective sleeve which you are not likely to use.- Strangely, I did NOT get a 'manual', not that one is needed but I see that others got theirs.RATINGFor the price, it doesn't get much better. 
+48. It's important for the case to be 'metal' because metal helps dissipate the heat, unlike 'plastic' which would trap it inside.- 3 little screws which is one more than you need but, them being so small, it's good to have an extra just in case.- A screwdriver for the little screws.- About 1.5" long USB interface cable.- Some low-grade plastic-rubber or rubberized plastic protective sleeve which you are not likely to use.- Strangely, I did NOT get a 'manual', not that one is needed but I see that others got theirs.RATINGFor the price, it doesn't get much better. 
+49. Most of the time its quite cool idle on USB 2.0.The package comes with a screwdriver to install the screws, a 'Y-cable' for additional devices to connect to the same USB port (which I've never used), a black cloth cover for the case and the external case (silver).Works great!
+50. Most of the time its quite cool idle on USB 2.0.The package comes with a screwdriver to install the screws, a 'Y-cable' for additional devices to connect to the same USB port (which I've never used), a black cloth cover for the case and the external case (silver).Works great!
+51. With the adapter plate on the drive, I pushed the drive in tight against the foam in the case. this holds everything nice and firm and still cushions the drive. 
+52. But, it fits snugly inside the case with little room to move so it shouldn't be to bad. 
+53. The case itself is sturdy and well made of aluminum. 
+54. The new case arrived very shortly after I received the email and it was a perfect fit.  
+55. I highly recommend this case for a backup drive.HW
+56. I don't swap drives since this case is so cheap I bought 3 of them for extra drives.  
+57. The inside of a laptop gets much warmer than this external case does.  
+58. The drive case is slim, light, fits in your shirt pocket and fits the 2.5" drive perfectly.  
+59. It simple to hook up (if you remember to take the adapter off the hard dirve :-) )  Comes with everything you need as well as a nice little storage case.  
+60. I bought this SANOXY USB 2.0 External 2.5-Inch IDE HDD Enclosure Case for Laptop - Blue, I received this Item as described in the website, if it's your first time to buy this adapter, please feel comfortable to get this Item, because I tried and right now, I can doit again, try first and make sure it's the correct item.Best regardsBras SamboAngolan
+61. I am still using this external case (3 months later) and it has taken a pretty decent amount of use (I don't abuse my equipment, but it has been dropped a couple of times...)I DO NOT use this for storing client data (I run a photography business)...I don't trust it that much, but for the 15 bucks I paid I really can't complain.Great little product for short-term/non-crucial memory storage!
+62. The Aluminum case is better than that of my WDC 640 and 500 GB external 2.5" FF HDDs.
+63. Then I put the harddrive in the second case, and everything worked perfectly the first time.  
+64. When I put the harddrive back into the first case, it did spin up successfully.  
+65. If yours rattles as well you might experiment with something to cushion the HD if you want it truly portable.I just use it to house my old laptop HD in case I need anything off of it.Never use it for more than a few minutes at a time, so can't comment on heat issues.Works well for what I needed and at a good price.
+66. Item works fine - nothing fancy but gets the job done for next to no cost.Mine came with screwdriver but no screws - as the screws need to tap into the plastic, some bullying was required to get spare motherboard screws I had lying around to work.A bare drive will be a loose fit in the case - the laptop my drive was rescued from had a heat shrink wrap, so I used that around the drive for a snug fit.
+
+negative sentences : 
+1. We installed the hard drive into this case, plugged it into our new computer via USB, and voila!  
+2. Now, I keep the old drive in the case and use it to back up my files from time to time.I suppose it could serve as a portable drive enclosure, too. 
+3. Excellent product for swapping old and new internal drives on my Gateway laptop.One tip is to add a small piece of double sided foam tape in the bottom of the case to keep the hard drive from rattling around in the case.
+4. The drive connected to the interface with no issues but the holes for the screws didn't line up between the aluminum case and the mounting holes on the plastic piece. 
+5. This blue aluminum case enclosure works great.  
+6. Return postage would cost more than the case.Bluemall, aka BargainCell, is a good seller though.
+7. Other than that, the case works really well and for the price you can't beat it.
+8. I use this HDD case to repurpose the hard drives from my XP PC. 
+9. I have to older laptops that I use and both of them use IDE/ATA so this will become handy just in case my other laptop dies.The aluminum case is good for less heat. 
+10. I have to older laptops that I use and both of them use IDE/ATA so this will become handy just in case my other laptop dies.The aluminum case is good for less heat. 
+11. It didn't fit in the aluminum case... real close, but no cigar.  
+12. I would much prefer some kind of quick release but this will have to do for now.Also, while the description says the case is blue, mine came in silver.Over all, definitely worth the money.
+13. Ordered this USB IDE Enclosure:they sent a cheap plastic Iphone case instead. 
+14. I have ruled out the hard drive being the issue because I have since purchased another external case and have had no further issues. 
+15. While the case functions well and the blue color is nice, there are a few drawbacks.  
+16. the only conceivable way that this would over heat is to use it in an insulator (the cheap case that came with it) and not out in the open.  
+17. It comes with the usb cord with 2 plugs if you have usb 1, a soft case to protect it, the aluminum blue case, screws, and the front part that the harddrive fits into and is screwed into the case.  
+18. It comes with the usb cord with 2 plugs if you have usb 1, a soft case to protect it, the aluminum blue case, screws, and the front part that the harddrive fits into and is screwed into the case.  
+19. bought product and it arrived 2 days later. seller was quick, price was amazing. 2 weeks later after using the enclosure half a dozen times the front part of the case where the drive plugs in came apart. the plastic end came unglued from the board. looking at it i noticed it's only held in place by 2 dabs of glue. now it won't stay back on, even tried gluing it back with super glue but the amount of force needed to pull the drive out is too much even for that since the glue just touches the edge of the pcb board.i decided i needed a firewire enclosure too so i had already bought another one last week before this came apart on me tonight. like i said, seller was great but the product...well, you get what you pay for. not worth an RMA either as i paid $5.66 for the enclosure and $5.49 shipping. would cost another $5.49 to ship it back for a new one.
+20. If you want a tough case that can take punishment, try the Transcend milspec drives- i have the 500G and it's awesome for backup.
+21. Purchased from digisearchs.Arrived promptly.No written instructions.Removed HDD assembly from laptop (Toshiba satellite in my case.)Remove back plastic surround around pins if yours has this.you cant put socket on pins if you don't do this.Remove HDD from Toshiba mounting metal case so it will fit in blue case sleeve.Now it rattled in sleeve, so looked at carefully, concerned about bare copper on back of HDD, then noted clear plastic insulator in Toshiba mounting.Removed and attached to HDD with black insulating tape in four corners.put socket on pins, very tight, keep straight and push !!!
+22. Purchased from digisearchs.Arrived promptly.No written instructions.Removed HDD assembly from laptop (Toshiba satellite in my case.)Remove back plastic surround around pins if yours has this.you cant put socket on pins if you don't do this.Remove HDD from Toshiba mounting metal case so it will fit in blue case sleeve.Now it rattled in sleeve, so looked at carefully, concerned about bare copper on back of HDD, then noted clear plastic insulator in Toshiba mounting.Removed and attached to HDD with black insulating tape in four corners.put socket on pins, very tight, keep straight and push !!!
+23. The company emailed me and said they would send out the right case at no charge to me and also said I could keep the wrong item.  
+24. But without using it, I've found the outside case is a thin aluminum, and a cheap plastic to hold the hard drive in.  
+
+------------------------------------------------------------------
+feature : enclosure, positive Score : 67 and negative Score :-42
+------------------------------------------------------------------
+positive sentences : 
+1. The other end of the drive is free to clink against the enclosure as you move it around. 
+2. I have a bunch of spare 2.5" laptop hard drives sitting around and decided I needed to do something with them rather than having them collect dust in the drawer.This is a no frills 2.5" external enclosure.  
+3. When I connected my HDD to this new enclosure, it worked and I could recover my valuable data!!
+4. Excellent IDE enclosure to keep laptop hard drive with saved data.  
+5. The only use for this enclosure is to retrieve data from another HDD.The solder joints are weak and look like their about to break.This product is not going to last very long so get a this is not for you if your going use it long term.
+6. I had an old laptop that died, and in the hard drive I had invaluable memories, the HDD enclosure gave me an inexpensive option to save those memories, very simple to use and you don't have to be a computer genius to use it.
+7. It got flakey one day before finally quitting and has not worked since.I had just written it off and was taking the drive out and shopping for a new enclosure when I realized that there is some looseness to how the drive fits into the enclosure which had allowed the drive to partially unseat from the connector built into the enclosure.  
+8. It does not need a fan because the drive is against the aluminum case, which acts as a passive heater which is completely adequate.This enclosure is a quick fix to recover some data.  
+9. It is not a long term solution to keep the hard drive in the enclosure due to it being very cheaply made.Pros:Included is the aluminum enclosure, a USB cable with an extra end in case you still have USB 1.1, a mini screw driver to secure one end, and a little slip case for the enclosure.Cons:The USB adapter on the drive is mounted in crooked, so when you plug in the USB cable, it comes out crooked.  
+10. It is not a long term solution to keep the hard drive in the enclosure due to it being very cheaply made.Pros:Included is the aluminum enclosure, a USB cable with an extra end in case you still have USB 1.1, a mini screw driver to secure one end, and a little slip case for the enclosure.Cons:The USB adapter on the drive is mounted in crooked, so when you plug in the USB cable, it comes out crooked.  
+11. I would highly recommend this enclosure over more expensive enclosures offered by others.
+12. I intend to either wrap the enclosure in duct tape (it'll look like a small improvised plastic explosive), or if I'm bored one day, sand and polish for svelt appearance.There are no vents on this enclosure, albeit there are some small gaps toward the plastic end caps.  
+13. I intend to either wrap the enclosure in duct tape (it'll look like a small improvised plastic explosive), or if I'm bored one day, sand and polish for svelt appearance.There are no vents on this enclosure, albeit there are some small gaps toward the plastic end caps.  
+14. SANOXY new IDE HDD Enclosure is heavy duty and you could carry this in you pants pocket and not worry about crushing it. 
+15. Great enclosure for the price.
+16. So I looked at all the new available offers for the SATA enclosure. 
+17. This enclosure may not offer the highest transfer rate or best connection and casing, but it does do the job.  
+18. This enclosure is pretty good for the price.  
+19. Do a Google search to see pictures of hard drives to compare with your drive to make sure you buy the right enclosure.
+20. Not only that, but the files are saved/transferred about twice as fast.One note to would be buyers, make sure the enclosure you buy is IDE or SATA to fit the IDE or SATA drive you want to use.  
+21. I think they used cheap wires for the power inside the case - Direct Current needs heavier wiring than AC.Fast forward about five years later - after installing the drive from the Maxtor enclosure into this new blue enclosure, the drive spun instantly without the need of the extra USB power Y.  
+22. I think they used cheap wires for the power inside the case - Direct Current needs heavier wiring than AC.Fast forward about five years later - after installing the drive from the Maxtor enclosure into this new blue enclosure, the drive spun instantly without the need of the extra USB power Y.  
+23. I am actually surprised by the quality of this enclosure considering how little it costs, but this enclosure will hold up fine as long as you're not throwing it around (with a harddrive inside, why would you want to?) 
+24. I am actually surprised by the quality of this enclosure considering how little it costs, but this enclosure will hold up fine as long as you're not throwing it around (with a harddrive inside, why would you want to?) 
+25. This enclosure is an excellent value. 
+26. I went through a large list of HDD Enclosures and after couple of days purchased this item - waited for couple of days only to find out that this enclosure does not fit my internal hard disk. 
+27. First things first, this enclosure is not blue, as listed.  
+28. Overall for the money this is a great little enclosure and I would buy it again.
+29. Wrong Enclosure SATA not IDESANOXY USB 2.0 /YESExternal 2.5-Inch /YESIDE HDD Enclosure Case /NOfor Laptop - Blue /YES
+30. Wrong Enclosure SATA not IDESANOXY USB 2.0 /YESExternal 2.5-Inch /YESIDE HDD Enclosure Case /NOfor Laptop - Blue /YES
+31. But still, just be aware that this enclosure, due to its slim design, will not provide you with any shock absorption at all.
+32. The enclosure is strong and sturdy and a great deal for being under $10.It works as it should as a back up external drive or as a data recovery tool.I would buy another.
+33. This is true, the enclosure keeps the drive nice and cool and generally 2.5s don't produce a whole lot of heat anyway. 
+34. I ordered this little enclosure so I could keep the hard drive as an external and it works great.  
+35. The hard drive fit perfectly and it even comes with a little screwdriver to secure the enclosure together with the 2 tiny screws that come with it.
+36. I used this enclosure to turn the hard drive of an old, broken down laptop into an external drive and be able to extract all the data from the drive.Even though the instructions are not that clear, the installation is extremely easy to perform. 
+37. It is silver, and looks very similar to my other enclosure, which causes me some confusion, and is why I bought (or attempted to) a blue one.Otherwise, it works fairly well.  
+38. I purchased this unit to replace another enclosure that was larger and used a two cable setup. 
+39. This type of enclosure is very conducive to R3 (Resource Reclamation & Re-utlization).  
+40. Its a nice metal enclosure.  
+41. when ever i plugged it in the light would stay red and pc/laptop would not read the drive. i tested the drive and it was fine. i'm going to try another enclosure and review. good luck if you buy it, i mean its cheap so you probably get your moneys worth!
+42. This is pretty easy to figure out, but just keep your eyes open for it.Drive recognition is great with this enclosure, and the drive is ready to use almost immediately after plugging it in.Keep a few of these enclosures around for making external drives from dead laptops. 
+43. I turned my dad's old hard drive from his laptop to a external drive with this enclosure and it's alot cheaper than buying a regular external hard drive which made him very happy.
+44. I had an old external 3.5 IDE enclosure but my 3.5 to 2.5 adapter was worn out.  
+45. Often I find than I need to transfer driver files from my main computer to one I am setting up.And with a lot of loose 2.5 inch laptop IDE hard drives handy,putting a high capacity one into this enclosure give me the portability I need without the danger of possibly destroying the drive by accident.Easy to install a drive into this case,you do need to have a precision screwdriver set handy as the little one include is worse than useless.
+46. The computer recognized the enclosure, and after a few minutes, the hard drive inside, but would never mount the disk (show a drive letter for the drive), thus giving me no access to the drive.  
+47. Hopefully everything is OK inside the laptop, and this incident did not stress the electrical components.I tested the enclosure on an older computer that I could risk the damage.  
+48. I bought this SANOXY USB 2.0 External 2.5-Inch IDE HDD Enclosure Case for Laptop - Blue, I received this Item as described in the website, if it's your first time to buy this adapter, please feel comfortable to get this Item, because I tried and right now, I can doit again, try first and make sure it's the correct item.Best regardsBras SamboAngolan
+49. The enclosure works perfectly with my old laptop hd.
+50. This enclosure is excellent. 
+
+negative sentences : 
+1. and this enclosure is very effecient.
+2. this was a perfect solution for a difficult problem. i had two laptops die and i didn't want to spend $40 a piece on a hard drive enclosure. this product had great reviews and i didn't hesitate in buying qty 2. they came in just 3 days and i installed one of my hard drives just fine. the other had differant connectors that i didn't notice before, my bad. after reading other products, turns out i needed 1 IDE ans 1 SATA enclosure.to all you negitive people, yes it is made out of low quality materials, but for $6 dollars what are you expecting? 
+3. I didn't want to spend a lot of money on an obsolete IDE enclosure, so this one did the trick after adding a new USB cord.  
+4. The enclosure itself is very low quality. 
+5. It comes with the bare necessities to get you running:- Cheap Aluminum enclosure with cheap powdercoat finish. 
+6. Now, I keep the old drive in the case and use it to back up my files from time to time.I suppose it could serve as a portable drive enclosure, too. 
+7. It has two connectors on one end (I assume it's for giving the enclosure more power than the standard 500mA a single port provides). 
+8. Ordered this USB IDE Enclosure:they sent a cheap plastic Iphone case instead. 
+9. I resurrected my old Powerbook G4 laptop HD with this enclosure after frying the laptop due to a spilled drink. 
+10. I slipped the hard drive into the very high-quality aluminum enclosure, plugged in the adapter, secured it with the supplied screws using the supplied screwdriver, connected it to another computer using the USB cable they also supplied and it worked immediately.  
+11. While I am moving around with enclosure, I can hear the hard drive rattling inside.The Enclosure is OK for the stationary setup, but would not work for any mobile tasks.
+12. While I am moving around with enclosure, I can hear the hard drive rattling inside.The Enclosure is OK for the stationary setup, but would not work for any mobile tasks.
+13. This enclosure was cheap and worked perfectly. 2 minutes after opening the box it was set up and running....AWESOME for the price!
+14. This enclosure is incredibly cheap, and does allow you to power and read a drive by USB. 
+15. Was ______ when the enclosure arrived wrong. 
+16. External enclosure worked for less than 2 minutes. 
+17. This blue aluminum case enclosure works great.  
+18. I needed the enclosure to complete a PC hard disc failure recover and I'm still waiting to pump the damaged drive, but no enclosure.
+19. Popped the hard drive out of the dead laptop, slide it into this enclosure, closed the cap, which pushes into the IDE pins, and plugged the usb into my tower. 
+20. This is not an easy quick swap, so if you will be replacing the drive frequently, you should get a screwless enclosure instead.
+21. I was hoping to luck out with a cheap enclosure. 
+22. After my second hand laptop failed I salvaged the 40Gb hard drive and ordered this enclosure. 
+23. I read some good reviews and some bad reviews on this enclosure, but figured for the price, I couldn't say no. 
+24. The description says IDE hard drive enclosure but I received a SATA enclosure.  
+25. Enclosure is good, but not great.Screws are tiny and won't bear removal - reinsertion for very many times.  
+26. This hard drive enclosure is a breeze to assemble and use.  
+27. I had an issue with placing the hard drive in the enclosure and the reason was that the case and cutout holes for the usb connector did not line up well at all. 
+28. Making an old laptop HD external was a snap with this very affordable enclosure.  
+29. I was a little leary about the enclosure, with such a cheap price, but the product does what it is supposed to.. 
+30. This is by far not the most rugged enclosure I have seen, but I just wanted a quick and cheap way to get my stuff.  
+31. i first ordered the wrong enclosure (ata) but got excellent help from the supplier and shortly received the correct (sata) enclosure that worked perfecly.
+32. i first ordered the wrong enclosure (ata) but got excellent help from the supplier and shortly received the correct (sata) enclosure that worked perfecly.
+33. This hard drive enclosure works just fine, but it comes with a couple of ridiculous screws that are so unbelievably tiny that there is no way that I could possibly get a grip on them to put them in. 
+34. The screws are meant to screw the hard drive in place to the enclosure so that the hard drive doesn't move around inside the enclosure.I have never in my life seen screws this small. 
+35. And if you drop one you can forget about finding it ever again.Since these screws are impossible to use, you will just have to use the hard drive inside the enclosure without screwing it in and securing it.Other than that, the enlosure works OK. 
+36. If you want an inexpensive enclosure, this is for you.
+37. I used this enclosure on a hard drive fresh out of a laptop, and it had such an adapter. 
+38. Item was mailed to me in a padded envelope.Item did not come in a box.Item had no instructions.Glue that holds the usb plug backplate to the enclosure's board failed 5 minutes after taking it out of the bag.Does not handle a failing hard drive very well.If the hard drive is brand new, it handles fine.  
+
+------------------------------------------------------------------
+feature : drive, positive Score : 266 and negative Score :-135
+------------------------------------------------------------------
+positive sentences : 
+1. I used this enclosure to turn the hard drive of an old, broken down laptop into an external drive and be able to extract all the data from the drive.Even though the instructions are not that clear, the installation is extremely easy to perform. 
+2. I used this enclosure to turn the hard drive of an old, broken down laptop into an external drive and be able to extract all the data from the drive.Even though the instructions are not that clear, the installation is extremely easy to perform. 
+3. One caveat: the USB interface to this drive is a three-pronged cable, one goes to the external unit and the other two go to the computer. 
+4. Notebook recyclers (Best Buy) really don't want your old hard drive and unless you can sanitize it, you don't want to give a used HDD away either.  
+5. Re-purpose your old IDE hard drive as an external, backup HDD for your new Windows 7 notebook.  
+6. My old 120 GB HDD is now a backup drive.Great case that actually holds a 2.5" drive snugly and works well.  
+7. I purchased this to house a working IDE drive I removed and replaced from my Laptop with a larger storage drive and wanted to keep the old drive as a portable storage device. 
+8. I purchased this to house a working IDE drive I removed and replaced from my Laptop with a larger storage drive and wanted to keep the old drive as a portable storage device. 
+9. I removed the drive and installed in my desk top using an adapter and was able to verify the drive was still good.  
+10. I decided to reformate the drive to clear out the old data and then reinstalled it into the cased but there was no difference in the operation.  
+11. This laptop hard drive enclose is an excellent product. 
+12. The hard drive fit perfectly and it even comes with a little screwdriver to secure the enclosure together with the 2 tiny screws that come with it.
+13. I ordered this little enclosure so I could keep the hard drive as an external and it works great.  
+14. This drive enclosure works as intended and is great for salvaging that old laptop hard drive that hit the dust. 
+15. While this hard drive might not be the most stylish one out there it is cheap and it works, and it does it in a effective manor. 
+16. If you intend to be making a external hard drive that you take with you everyday and gets jostled around in a laptop bag constantly you might want to look for an enclosure that had a drive seating. 
+17. This is true, the enclosure keeps the drive nice and cool and generally 2.5s don't produce a whole lot of heat anyway. 
+18. The enclosure is strong and sturdy and a great deal for being under $10.It works as it should as a back up external drive or as a data recovery tool.I would buy another.
+19. One time a laptop saw the enclosed hard drive but nothing since. 
+20. Unfortunately it does not work with the hard drive out of my busted HP Pavillion Entertainment PC.  
+21. This enclosure does not work with HP laptop hard drive.  
+22. It is more expensive, but the hard drive fits right into it and works great.
+23. This one is no exception.When I first got it, the drive looks slim, which is pleasing to the eye. 
+24. Luckily I didn't have important data on the drive. 
+25. Had to modify this baby a bit, drive would shake in its housing, problem solved by placing a small piece of Styrofoam in the back now drive sits snug in its casing. 
+26. This is likely to kill any drive fairly quick if its transported. 
+27. Sometime the hard drive is recognized sometimes not
+28. item took forever to get here, does not work with the hard drive I wanted to use in it, but I have been able to use another one I had lying around.
+29. This is a really well made case except mounting the drive in .It's very quick assembly, but there is nothing to keep the drive from rattling around in the case.Mine came with 5 small screws of which two is used to secure the face plate which the drive is plugged into, the rest is useless from what I see.It come with a screw driver which was nice, and a duel cable which is cool also.I guess Ill have to shim the drive with something, this is the only flaw I can complain about,strong case though.
+30. Worked fine after I got the drive in there.Great value for the price.
+31. Before closing the case up and putting the screws in just go ahead and start it up and make sure that your drive is accessible. 
+32. Let me just start out by saying you have to have a good drive. 
+33. With the adapter plate on the drive, I pushed the drive in tight against the foam in the case. this holds everything nice and firm and still cushions the drive. 
+34. With the adapter plate on the drive, I pushed the drive in tight against the foam in the case. this holds everything nice and firm and still cushions the drive. 
+35. I wouldn't say any of the plastic pieces are of "junk" quality, but I can definitely see how if you aren't gentle with it the drive could disconnect after assembly or you could maybe crack the plastic endcaps.  
+36. Then it hit me I can make it into an external hard drive for extra storage. 
+37. I wanted to make that drive into a external hard drive.  
+38. I wanted to make that drive into a external hard drive.  
+39. I bought this enclosure specifically to plug in a new hard drive to directly clone my old drive to the new drive, and it worked perfectly. 
+40. I bought this enclosure specifically to plug in a new hard drive to directly clone my old drive to the new drive, and it worked perfectly. 
+41. I bought this enclosure specifically to plug in a new hard drive to directly clone my old drive to the new drive, and it worked perfectly. 
+42. I now use it to store my old drive as an operational external hard drive. 
+43. I now use it to store my old drive as an operational external hard drive. 
+44. I had an old 2.5" hard drive that cam out of an old laptop. 
+45. I was able to make use of my older 250 GB drive after upgrading my notebook to two 640 GB internal SATA3 HDDs.  
+46. Had an old laptop hard drive that I wanted to use as a portable and this made it easy to do that.
+47. i was a bit weary when i bought this item because i thought the price would correspond with the quality of the product. when the package came, i was surprised at how close the quality was of other HD enclosures that were triple the price.the product is pretty simple and easy to install. when you get the package, you will get:-aluminum case-ATA/USB adapter-USB to USBx2 ("Y" shaped USB cord)-two tiny screws-a screw driverit might have came with directions, but i didnt bother reading it because ive installed these before. its as easy as plugging your hard drive with the ATA adapter and then slipping it into the aluminum case and then putting the screws in to secure it.the hard drive works instantly as you plug the USB cords into your computer. however, if you use a laptop, you may require using both USB connections (provided) to power your hard drive because some laptops do not put out enough power to run your hard drive. not a problem unless you dont have another free USB port available.MAC and PC users***i use a MAC at home and a PC at work. i wanted to use the device to transport information back and forth with my newly converted external HD. if youre in the same situation, you will have to format your HD to FAT32 so that both platforms will recognize the HD. this will allow you to transfer information both ways from MAC to PC and vise versa. i found it easier to do this from disk utilities app on the MAC. 
+48. i was a bit weary when i bought this item because i thought the price would correspond with the quality of the product. when the package came, i was surprised at how close the quality was of other HD enclosures that were triple the price.the product is pretty simple and easy to install. when you get the package, you will get:-aluminum case-ATA/USB adapter-USB to USBx2 ("Y" shaped USB cord)-two tiny screws-a screw driverit might have came with directions, but i didnt bother reading it because ive installed these before. its as easy as plugging your hard drive with the ATA adapter and then slipping it into the aluminum case and then putting the screws in to secure it.the hard drive works instantly as you plug the USB cords into your computer. however, if you use a laptop, you may require using both USB connections (provided) to power your hard drive because some laptops do not put out enough power to run your hard drive. not a problem unless you dont have another free USB port available.MAC and PC users***i use a MAC at home and a PC at work. i wanted to use the device to transport information back and forth with my newly converted external HD. if youre in the same situation, you will have to format your HD to FAT32 so that both platforms will recognize the HD. this will allow you to transfer information both ways from MAC to PC and vise versa. i found it easier to do this from disk utilities app on the MAC. 
+49. i was a bit weary when i bought this item because i thought the price would correspond with the quality of the product. when the package came, i was surprised at how close the quality was of other HD enclosures that were triple the price.the product is pretty simple and easy to install. when you get the package, you will get:-aluminum case-ATA/USB adapter-USB to USBx2 ("Y" shaped USB cord)-two tiny screws-a screw driverit might have came with directions, but i didnt bother reading it because ive installed these before. its as easy as plugging your hard drive with the ATA adapter and then slipping it into the aluminum case and then putting the screws in to secure it.the hard drive works instantly as you plug the USB cords into your computer. however, if you use a laptop, you may require using both USB connections (provided) to power your hard drive because some laptops do not put out enough power to run your hard drive. not a problem unless you dont have another free USB port available.MAC and PC users***i use a MAC at home and a PC at work. i wanted to use the device to transport information back and forth with my newly converted external HD. if youre in the same situation, you will have to format your HD to FAT32 so that both platforms will recognize the HD. this will allow you to transfer information both ways from MAC to PC and vise versa. i found it easier to do this from disk utilities app on the MAC. 
+50. i was a bit weary when i bought this item because i thought the price would correspond with the quality of the product. when the package came, i was surprised at how close the quality was of other HD enclosures that were triple the price.the product is pretty simple and easy to install. when you get the package, you will get:-aluminum case-ATA/USB adapter-USB to USBx2 ("Y" shaped USB cord)-two tiny screws-a screw driverit might have came with directions, but i didnt bother reading it because ive installed these before. its as easy as plugging your hard drive with the ATA adapter and then slipping it into the aluminum case and then putting the screws in to secure it.the hard drive works instantly as you plug the USB cords into your computer. however, if you use a laptop, you may require using both USB connections (provided) to power your hard drive because some laptops do not put out enough power to run your hard drive. not a problem unless you dont have another free USB port available.MAC and PC users***i use a MAC at home and a PC at work. i wanted to use the device to transport information back and forth with my newly converted external HD. if youre in the same situation, you will have to format your HD to FAT32 so that both platforms will recognize the HD. this will allow you to transfer information both ways from MAC to PC and vise versa. i found it easier to do this from disk utilities app on the MAC. 
+51. Item works fine - nothing fancy but gets the job done for next to no cost.Mine came with screwdriver but no screws - as the screws need to tap into the plastic, some bullying was required to get spare motherboard screws I had lying around to work.A bare drive will be a loose fit in the case - the laptop my drive was rescued from had a heat shrink wrap, so I used that around the drive for a snug fit.
+52. Item works fine - nothing fancy but gets the job done for next to no cost.Mine came with screwdriver but no screws - as the screws need to tap into the plastic, some bullying was required to get spare motherboard screws I had lying around to work.A bare drive will be a loose fit in the case - the laptop my drive was rescued from had a heat shrink wrap, so I used that around the drive for a snug fit.
+53. I purchased this product to enclose a spare IDE drive I had lying around. 
+54. Great to slip a spare drive in for portable use.
+55. Unfortunately, nothing keeps the hard drive securely in place in the enclosure once it's closed.  
+56. Every time I move the compiled external drive, I can hear and feel the hard drive jiggle around inside the enclosure.  
+57. Every time I move the compiled external drive, I can hear and feel the hard drive jiggle around inside the enclosure.  
+58. All I wanted to do was to recover some files off of an old hard drive which had been removed from a laptop and this converted the drive into an external drive and allowed me to save the old files. 
+59. All I wanted to do was to recover some files off of an old hard drive which had been removed from a laptop and this converted the drive into an external drive and allowed me to save the old files. 
+60. All I wanted to do was to recover some files off of an old hard drive which had been removed from a laptop and this converted the drive into an external drive and allowed me to save the old files. 
+61. Just make sure you know which hard drive you have a IDE or SATA. 
+62. After retrieving the data the HDD was formatted and now I have a nice portable hard drive for $5.
+63. The computer recognized the enclosure, and after a few minutes, the hard drive inside, but would never mount the disk (show a drive letter for the drive), thus giving me no access to the drive.  
+64. Works as good as drive adapters costing several times as much. 
+65. Anyways, it does work for housing my old hard drive from a crashed dell from around 2005 and connecting it to my new laptop. 
+66. I hooked it up to an old drive to salvage data but I think the old drive was fried to begin with. 
+67. I hooked it up to an old drive to salvage data but I think the old drive was fried to begin with. 
+68. Basically, I wouldn't trust a brand new $80 drive in this thing- it is a cheapie from China- buy an Airlink or other reliable long-term solution for that- but this is a great cheap way to salvage old 2.5 drives you have lying around, to get the data off of them or use them to tote around files like music or whatever and share with friends, or use it for a work project of short duration. 
+69. have two of these and they work with no problem glad to have found themi was able to transfer old files from a hard drive now i use as a portable
+70. My brother took his laptop to a computer guy that told him it was time for a new computer, his hard drive was bad and thats why it was so slow and not booting as it should. 
+71. The usb wire is the best part, it has 2 usb's on the computer end and I believe this speeds up file transfers.The only con is that the drive is loose on the other end from the interface and rattles around. 
+72. Often I find than I need to transfer driver files from my main computer to one I am setting up.And with a lot of loose 2.5 inch laptop IDE hard drives handy,putting a high capacity one into this enclosure give me the portability I need without the danger of possibly destroying the drive by accident.Easy to install a drive into this case,you do need to have a precision screwdriver set handy as the little one include is worse than useless.
+73. Often I find than I need to transfer driver files from my main computer to one I am setting up.And with a lot of loose 2.5 inch laptop IDE hard drives handy,putting a high capacity one into this enclosure give me the portability I need without the danger of possibly destroying the drive by accident.Easy to install a drive into this case,you do need to have a precision screwdriver set handy as the little one include is worse than useless.
+74. I ended up sending this back, it just wasn't worth risking ruining my drive with
+75. This worked well converting a spare PATA laptop drive into an external USB drive.  
+76. This worked well converting a spare PATA laptop drive into an external USB drive.  
+77. The drive case is slim, light, fits in your shirt pocket and fits the 2.5" drive perfectly.  
+78. Don't worry about heat buildup unless you have an older USB1.1 port and are accessing the drive constantly over a long period of time.  
+79. I highly recommend this case for a backup drive.HW
+80. This saved me the $85 a tech shop would have charged to recover my data, and now I have a neat little USB-powered external drive for when I need it.
+81. You do need two USB ports to plug it in though, not one, in order to provide enough power to the drive.
+82. I turned my dad's old hard drive from his laptop to a external drive with this enclosure and it's alot cheaper than buying a regular external hard drive which made him very happy.
+83. I turned my dad's old hard drive from his laptop to a external drive with this enclosure and it's alot cheaper than buying a regular external hard drive which made him very happy.
+84. I turned my dad's old hard drive from his laptop to a external drive with this enclosure and it's alot cheaper than buying a regular external hard drive which made him very happy.
+85. You might need that extra plug if using the drive on a USB hub. 
+86. This is pretty easy to figure out, but just keep your eyes open for it.Drive recognition is great with this enclosure, and the drive is ready to use almost immediately after plugging it in.Keep a few of these enclosures around for making external drives from dead laptops. 
+87. This is pretty easy to figure out, but just keep your eyes open for it.Drive recognition is great with this enclosure, and the drive is ready to use almost immediately after plugging it in.Keep a few of these enclosures around for making external drives from dead laptops. 
+88. when ever i plugged it in the light would stay red and pc/laptop would not read the drive. i tested the drive and it was fine. i'm going to try another enclosure and review. good luck if you buy it, i mean its cheap so you probably get your moneys worth!
+89. Not to mention, I've now got a tiny portable 80GB hard drive that I can use until it stops working from being shaken around too much. 
+90. This product is good if you are in a jam where you just need to save a hard drive.  
+91. It is not a long term solution to keep the hard drive in the enclosure due to it being very cheaply made.Pros:Included is the aluminum enclosure, a USB cable with an extra end in case you still have USB 1.1, a mini screw driver to secure one end, and a little slip case for the enclosure.Cons:The USB adapter on the drive is mounted in crooked, so when you plug in the USB cable, it comes out crooked.  
+92. It is not a long term solution to keep the hard drive in the enclosure due to it being very cheaply made.Pros:Included is the aluminum enclosure, a USB cable with an extra end in case you still have USB 1.1, a mini screw driver to secure one end, and a little slip case for the enclosure.Cons:The USB adapter on the drive is mounted in crooked, so when you plug in the USB cable, it comes out crooked.  
+93. I had upgraded my Titanium Powerbook's HD and had that spare 2.5" drive sitting around. 
+94. But all the parts went together smoothly and the rather odd A-to-A-to-A USB cable let it work with my Windows and Macintosh systems.The little screwdriver is completely useless, though; if you do any computer work you should have a set of tiny Philips-head screwdrivers anyway.In short, the device helped me easily transfer my old drive's contents to a new drive, and also gives me an external disk that doesn't have to be plugged in to a power strip. 
+95. But all the parts went together smoothly and the rather odd A-to-A-to-A USB cable let it work with my Windows and Macintosh systems.The little screwdriver is completely useless, though; if you do any computer work you should have a set of tiny Philips-head screwdrivers anyway.In short, the device helped me easily transfer my old drive's contents to a new drive, and also gives me an external disk that doesn't have to be plugged in to a power strip. 
+96. Over all, this is a very good item, worthy of housing your old hard drive.
+97. I use this as a carry box for a spare hard drive. 
+98. But I was able to drop a new hard drive into it and have it up an running in no time.  
+99. The plastic end piece that holds the end of hard drive (opposite the connectors) in place took a little jiggling to get the drive to align into the slot, but once I got that to line up the case closed up nicely and holds the drive snugly.  
+100. The plastic end piece that holds the end of hard drive (opposite the connectors) in place took a little jiggling to get the drive to align into the slot, but once I got that to line up the case closed up nicely and holds the drive snugly.  
+101. I had an old laptop that died, and in the hard drive I had invaluable memories, the HDD enclosure gave me an inexpensive option to save those memories, very simple to use and you don't have to be a computer genius to use it.
+102. A uselful device for getting use out of an old laptop drive sitting around collecting dust. really cheap feel and construction, but it works well enough though.
+103. It electronically edge-connected to my drive & provides the USB2.0 interface, but i do have to leave the drive out of the case, naked / exposed.  
+104. It electronically edge-connected to my drive & provides the USB2.0 interface, but i do have to leave the drive out of the case, naked / exposed.  
+105. There should be no shock hazard from 5V USB, but the drive could fail.- The tiny set screws to entomb your drive safely in the case may be lost if you breathe during the procedure.- The USB cable is completely non-conforming to the standards, it has the Type A plug on all 3 ends.  
+106. Slapped an old laptop hard drive in it, now I have an external portable drive. 
+107. Slapped an old laptop hard drive in it, now I have an external portable drive. 
+108. The second one is there in case your computer or device don't put out enough power to spin the drive.  
+109. We now can use the old hard drive as a backup drive, or drive to move large files from one computer to another.  
+110. We now can use the old hard drive as a backup drive, or drive to move large files from one computer to another.  
+111. We now can use the old hard drive as a backup drive, or drive to move large files from one computer to another.  
+112. I placed my old drive in this case and installed the new drive in the laptop. 
+113. I placed my old drive in this case and installed the new drive in the laptop. 
+114. That's because the drive is just a little loose when it's installed. 
+115. It certainly works fine for replacing the hard drive in a laptop, or other occasional use, but I would question its durability if you were toting it back and forth to school or the office. 
+116. I'd recommend it to anybody looking for a light duty, occasional use hard drive case.
+117. This is a piece of junk and despite the ease of installing the new drive in the housing, it doesnt do any good.  
+118. I had an old 3.5 40gb Hard drive removed from an upgrade I did on my IBook laptop. 
+119. Drive was detected and was able to use it at ease!
+120. Sure, it's not tough as nails and I wouldn't feel comfortable tossing it around, but it is very functional and a very inexpensive way to turn that old laptop's hard drive into an external USB drive.
+121. Sure, it's not tough as nails and I wouldn't feel comfortable tossing it around, but it is very functional and a very inexpensive way to turn that old laptop's hard drive into an external USB drive.
+122. Excellent IDE enclosure to keep laptop hard drive with saved data.  
+123. I accidently dropped my external hard drive and it stopped working, I didn't know whether the IDE USB connector is at fault or HDD itself or both. 
+124. This external hard drive was everything I was looking for. 
+125. One goes to the external hard drive and the other two need to be plugged into your computer, not just one.
+126. I bought this casing to house the old 20GB hard drive I retrieved out of my old laptop that died a while back. 
+127. I did not need to recover any files (although I clearly could have recovered everything), I just thought I might as well use the drive for external storage. 
+128. Unfortunately, I had been negligent in putting new files on my external hard drive, so lots of important ones were left on the old OS.  
+129. This item arrived just as they said it would and it was very easy to setup. i was able to retrieve fives from my hard drive in no time! 
+130. Drive is slow and USB port was rusted and/or corroded. comes with tools too! 
+131. Hasn't gotten hot enough to warrant it, but I may a drill a hole in the enclosure, approximately where the HDD breather vent is (the HDD has a label to never cover that hole, yet the case does exactly that).I don't recommend daisy chaining USB hard drives; there is probably only enough juice to safely power one hard drive.Overall, this is a fantastic buy for the price. 
+132. This got here. this worked for backing up an old salvaged laptop hard drive. 
+133. It's nice to be able to keep an old hard drive in use for some other storage needs.
+134. Inserted my laptop hard drive easily but cannot get my desktop or laptop to recognize it. 
+135. I'm so happy to have my old hard drive, which has been sitting about in a protective sock for over a year, back up in action for a couple of dollars.Very happy.
+136. This is for a IDE hard drive not the newer started in 2002 SATA's that come in the newer computers
+137. Bought this for my ultra ata 100 drive from my old thinkpad.  
+138. I ordered the enclosure and received it but it was not recognizing my hard drive, I don't know if was banged around but when I got in touch with their customer support they sent me a replacement relatively quick and the replacement works just fine I can now use it for data backup on the go.
+139. It works and I can get all my music off my old hard drive.ProsCheapWorksColorConsNone
+140. I had an old hard drive from a extremely GHETTO laptop that I owned several hundred years ago. 
+141. But after nearly stripping one screw, I got the case to assemble correctly.Screws strip easilyThe hard drive will heat up rather quickly if you access it for any substantial amount of time, but I haven't had any problems with the heat yet. 
+142. Just something to keep in mind if you are planning on using the hard drive for long periods of time.
+143. Pulled this out of the mailer, quickly and easily put in my old laptop's drive, plugged it into my new laptop, and it fired right up!  
+144. I instantly had an essentially new drive, for just a few dollars for this item and the old drive from my previous laptop.  
+145. I instantly had an essentially new drive, for just a few dollars for this item and the old drive from my previous laptop.  
+146. It saved my old laptop hard drive from the land fill.  
+147. Now I have a fully functional external hard drive.  
+148. If you connect say a 160G Drive that requires more current than is available from a USB connection, it will not work and there is no work around, such as bringing additional power. 
+149. Especially works well when you have a laptop that will not boot up from a hard drive and all you wanted was to get some documents or pictures to transfer to a new or another hard drive - this works great for that. 
+150. Especially works well when you have a laptop that will not boot up from a hard drive and all you wanted was to get some documents or pictures to transfer to a new or another hard drive - this works great for that. 
+151. Used this to enclose an old laptop hard drive for external storage.  
+152. It showed up as an external drive and ALLmy potentially "missing" files were there.  1/4 hour from unpacking to plugginginto the MAC.Price is great!
+153. Very easy to install laptop hard drive in the case. 
+154. The first one worked perfectly, it was easy to plug the drive into the connector, then fit the drive and connector into the container, and then finally fasten the assembly with two small screws. 
+155. A better method of holding drive and connector firmly into the container should be found.I just bought two more of these I like them so much! 
+156. I pop the hard drive into one of these and instant data recovery.They have an extra USB connector in case you do not have a USB 2.0.  
+157. I think they used cheap wires for the power inside the case - Direct Current needs heavier wiring than AC.Fast forward about five years later - after installing the drive from the Maxtor enclosure into this new blue enclosure, the drive spun instantly without the need of the extra USB power Y.  
+158. Do a Google search to see pictures of hard drives to compare with your drive to make sure you buy the right enclosure.
+159. After my old laptop died, I wanted a simple way of using its hard drive for additional storage.  
+160. I then fully formatted the entire drive and again tried it on Windows 7.  
+161. Overall, for about $6 you can't really beat this deal especially if you are like me and have an old hard drive lying around.
+162. Compared to an Acomdata hard drive case I bought last year, this is one has a slow data transfer and by the looks of it will not last as long either, but if you take good care of it and use the pouch protector provided, it could serve its use for a long while.This product is good as a quick and cheap alternative. 
+163. If you've got an older notebook ide/pata drive lying around, you should get one of these and put it to use.
+164. Since I had spare drives I was able to create a portable drive a lot cheaper than buying one.
+165. I bought this item to try to see if I could recover any data from a mechanically failed hard drive... did not work but I still have an enclosure in the event that I want to use it for a backup HD.
+166. This case works really well and was easy to install my old laptop hard drive into.  
+167. The only reason I am giving this item 4 stars is because the case didn't feel very sturdy, when I installed my laptop hard drive into it there wasn't a solid feel, it felt like the drive moves around inside the case.  
+168. Great way to keep the laptop hard drive and have easy axsess to the data or easy transfer data to other drives.
+169. Second - there is a tiny bit of footroom in the case -- nothing really exists to hold the hard drive firmly in place (no grooves down the sides, and the tolerances are loose-fitting for the particular drive I used). 
+170. Second - there is a tiny bit of footroom in the case -- nothing really exists to hold the hard drive firmly in place (no grooves down the sides, and the tolerances are loose-fitting for the particular drive I used). 
+171. I had an old laptop drive that I wanted to use and this was the perfect solution. 
+172. I used this for my old and dead Acer laptop's 60 gig hard drive. 
+173. The other end of the drive is free to clink against the enclosure as you move it around. 
+174. It was easy to install my hard drive in this unit. 
+175. For less than $10, and the cost of an old unused laptop drive, I now have an external drive to move around large files.
+176. For less than $10, and the cost of an old unused laptop drive, I now have an external drive to move around large files.
+177. This case works well with my old hard drive and helped me diagnose my computer's problem as RAM issue, not HDD.  
+178. I had a small drive from years ago that the original board quit working for. 
+179. If you buy a new or pre-formatted hard drive to use in this, it may not come up in 'My Computer', even though the computer will report that everything is working alright. 
+180. The case was too small, barely too small, for my MacBook hard drive. 
+181. Use this aluminum case to turn your laptop drive into an external hard drive. 
+182. Use this aluminum case to turn your laptop drive into an external hard drive. 
+183. I would recommend that you use clear tape to hold the drive in place lol, that's what I did. 
+184. The drive is functional.  
+185. On the top of that, IDE connection is the only thing that hold the drive inside the case. 
+186. I needed to read a friend's old IDE hard drive from an old laptop and the Windows XP installation on that HD was corrupt. 
+187. The USB interface worked great with my other computer and I was able to read/write to the old IDE drive. 
+188. My friend was very thankful that I was able to help her retrieve her old data from the drive and I was able to do all this for only $6!
+189. Works fine with Windows XP but unfortunately I bought this to access data on my old drive from a computer using Windows 7. 
+190. it took me a few extra minutes to plug in my drive and the usb cable came with the drive didn't work at first, but I figure out that problem and now it works great.  
+191. My mom's old HP Laptop motherboard died and she had some the familiespictures and other information that we could not get too on the HardDrive.Went on e-bay to see what it would cost for a use HP laptop of the samekind  to put the HardDrive in and I was looking at over a hundred Buck.Saw this on Amazon for Five bucks and some change.Purchased it-shippingwas very fast'slapped the harddrive in it and was able to get all of mom'spictures and the rest of her things off the harddrive.After removing allthe information we wanted I formatted the harddrive and now she uses itas a external backup drive.This thing is Great!
+
+negative sentences : 
+1. When i pulled out his hard drive i noticed it was already a legacy drive with IDE. 
+2. If you are using a computer that has only one USB port you might run into trouble.The design is functional but slightly ugly due to the inscription on the side of the unit, and the enclosure does not adjust completely to the shape of the drive and makes a clanking noise when you are transporting the unit, hence the three stars.In any case, the value proposition is very interesting and does the trick as it should.
+3. I'm happy because with it I managed to have back all my data I had in a hard drive.
+4. All three of the computers would recognize the new hardware and would install the USB to IDE driver but would not setup a new drive that I could access.  
+5. No new drive letters (or Disks) show up in Windows Explorer, Device manager, or the Disk Storage Manager.  
+6. I'm replacing another hard drive and ordering another one of these babies.  
+7. Also one of the other reviewers mentioned this drive is passively cooled through contact with the metal conducting heat away from it. 
+8. quality was cheap but it worked for what i needed. unfortunetly the hard drive i was trying to save was not working properly so i'll need to send to professionals to recover it..
+9. I have ruled out the hard drive being the issue because I have since purchased another external case and have had no further issues. 
+10. This is a handy device to check your hard drive if you have a problem with your laptop not booting up. 
+11. I just replaced my hard drive and it worked for a week and died.  
+12. I connected the hard drive to this and I was able to see the drive.I would have gave it 5 stars so here are the 2 things I did not like about this was, 1) the cord is too short  and 2) you have to plug it into 2 USB ports. 
+13. I connected the hard drive to this and I was able to see the drive.I would have gave it 5 stars so here are the 2 things I did not like about this was, 1) the cord is too short  and 2) you have to plug it into 2 USB ports. 
+14. Item was mailed to me in a padded envelope.Item did not come in a box.Item had no instructions.Glue that holds the usb plug backplate to the enclosure's board failed 5 minutes after taking it out of the bag.Does not handle a failing hard drive very well.If the hard drive is brand new, it handles fine.  
+15. Item was mailed to me in a padded envelope.Item did not come in a box.Item had no instructions.Glue that holds the usb plug backplate to the enclosure's board failed 5 minutes after taking it out of the bag.Does not handle a failing hard drive very well.If the hard drive is brand new, it handles fine.  
+16. Recieved this today and it was missing parts the part that hooks up the hard drive so I can't even use it the blue color is nice but what good is it if you cant hook a drive up
+17. It does not have the same connections as the hard drive, so you cannot use it to transfer files from your hard drive.  
+18. It does not have the same connections as the hard drive, so you cannot use it to transfer files from your hard drive.  
+19. The drive inside is unsupported so it can move and rattle around. 
+20. It worked in helping me salvage the data from the hard drive of a computer that had died.  
+21. I use it to read data on different computer hard drive. 
+22. After my second hand laptop failed I salvaged the 40Gb hard drive and ordered this enclosure. 
+23. Again , if you have a bad drive.... 
+24. The description says IDE hard drive enclosure but I received a SATA enclosure.  
+25. Almost every other USB drive is A-B or A-mini B. 
+26. I could not screw in two of the screws since my hard drive holes didn't align, but they aren't really necessary. 
+27. The installation of the drive took less than a minute, and the product was up and running right away. 
+28. Youd have to go to the partition tab and set the hard drive to "free space" and select the MS-DOS format. it shouldnt take more than 5-10 minutes.OVER ALLit doesnt look as ugly as it does in the pictures above.its cheap.it works.
+29. They are close to stripping out after a couple of times.Hard drive rattles around inside the metal case.  
+30. Had a little bit of trouble getting the hard drive to fit in the case.  
+31. This hard drive enclosure is a breeze to assemble and use.  
+32. I had an issue with placing the hard drive in the enclosure and the reason was that the case and cutout holes for the usb connector did not line up well at all. 
+33. This seems to work to get data on and off my IDE hard drive, but the performance is a little shaky.  
+34. I had a hard drive crash on my Acer notebook. 
+35. But this quickly converts a spare 2.5 HD into a back up drive, or allows the rescue of data from a drive in a dead machine.
+36. No issues using my old laptop hard drive with this one. 
+37. Make sure your hard drive is compatible with this product.
+38. I learned that many IDE drives are actually sATA/IDE (difference is flat connector vs two rows of pins, mine had a small flatpin connector plugged into the 2-row IDE scheme- this drive is IDE/2-row so I gently pried off the flat converter and plugged it in. 
+39. The drive registered and my computer recognized the external device and tried to load drivers (however I got the doorbell sound over and over like with a flash drive- the drive was corrupt and couldn't boot up). 
+40. The drive registered and my computer recognized the external device and tried to load drivers (however I got the doorbell sound over and over like with a flash drive- the drive was corrupt and couldn't boot up). 
+41. These fit my hard drive perfectly and was very easy to use. 
+42. This product was almost exactly as I expected, compact, good looking, metal made. the only thing is you have to screw every time you extract or put a hard drive on it. but in general it works great, excellente for carry your files or back up on IDE HD.
+43. This is the perfect solution if you need to get data off an old laptop drive that does not work any longer, or a laptop that does not work any longer but you want what was on it. 
+44. If, like me, you have an old IDE hard drive from a dead laptop, this is an inexpensive way to covert it to a usb drive. 
+45. If, like me, you have an old IDE hard drive from a dead laptop, this is an inexpensive way to covert it to a usb drive. 
+46. It comes with all you need to install hard drive.Here are the pros1. cheap2. slim3. made of aluminum to help get rid of heat4. works with Macs and windowsI would have a con list but I can think of any
+47. I don't know how durable it would be to pull the connector off the hard drive if you swapped drives over and over but that seems silly to me anyway!  
+48. This hard drive enclosure works just fine, but it comes with a couple of ridiculous screws that are so unbelievably tiny that there is no way that I could possibly get a grip on them to put them in. 
+49. The screws are meant to screw the hard drive in place to the enclosure so that the hard drive doesn't move around inside the enclosure.I have never in my life seen screws this small. 
+50. The screws are meant to screw the hard drive in place to the enclosure so that the hard drive doesn't move around inside the enclosure.I have never in my life seen screws this small. 
+51. And if you drop one you can forget about finding it ever again.Since these screws are impossible to use, you will just have to use the hard drive inside the enclosure without screwing it in and securing it.Other than that, the enlosure works OK. 
+52. Lightweight and effective solution for getting use out of an old IDE 2.5&#34; laptop hard drive. 
+53. It is a sharp-looking blue color with black end pieces, and the drive light features red (inactive/unmounted) and green (ready to work). 
+54. Installation of the drive into the enclosure is a snap: simply pop the hard drive out of your laptop, plug the head cap onto it, slip it into the enclosure, and fasten with the set screws.The included sleeve is wonderful and protects the finish from scratches. 
+55. I used this enclosure on a hard drive fresh out of a laptop, and it had such an adapter. 
+56. I bought this to store a hard drive from a broken Mac G3 laptop.  
+57. I took the hard drive out of my broken laptop and popped it in this case.  
+58. I needed to recover data from a dead laptop's hard drive, and this worked perfectly.  
+59. Popped the hard drive out of the dead laptop, slide it into this enclosure, closed the cap, which pushes into the IDE pins, and plugged the usb into my tower. 
+60. I immediately got full access to both partitions on my hard drive. 
+61. So, I thought maybe it was the drive, maybe that WD drive is extra long or something...no, I pulled the drive out of my laptop and tried it...SAME THING! 
+62. (See the pictures at the top once I get them posted.)This thing will attract dust and dirt with one of the two endcaps not being able to seat, so I would really shorten the life of my drive if I tried to use this thing...but I paid less than $6 so it's not really worth trying to return it.I guess I got a dud here since so many other people don't mention the drive not fitting (I'd think that would be something everyone would notice).
+63. Other reviews say this works OK, but It did not work with my laptop hard drive, because of not enough power supplied through USB. 
+64. Connecting to a powered USB hub doesn't help either and to multiple computers, so it depends on your luck - which brand of hard drive you have. 
+65. I could access the hard drive using another cable adapter, but not with this kit.
+66. I would not keep a valuable drive in this.
+67. All you do is plug the hard drive into the socket and slip it into the metal case.  
+68. My laptop motherboard blew up and i had no way of getting the files from my hard drive back. 
+69. So i removed the hard drive plugged it in the case and plugged the case into my desktop and almost instantly the hard rive popped up allowing me to copy over my files that I thought where gone forever. 
+70. Bad so bad, i buy a hard disk drive for complete, and this is not good, dont works good !
+71. It's not meant for fast drive changes, but I only have one HDD to use for it and it's fine.
+72. If the USB port does not provide enough power for your drive, then plug the third USB-A connector into another power source...  
+73. , and we needed to get the data off the hard drive.  
+74. We installed the hard drive into this case, plugged it into our new computer via USB, and voila!  
+75. I replaced the hard drive in my laptop and needed to transfer my old files to the new drive. 
+76. I replaced the hard drive in my laptop and needed to transfer my old files to the new drive. 
+77. The transfer was flawless, with everything moved to the new, bigger drive with no problems. 
+78. Now, I keep the old drive in the case and use it to back up my files from time to time.I suppose it could serve as a portable drive enclosure, too. 
+79. Now, I keep the old drive in the case and use it to back up my files from time to time.I suppose it could serve as a portable drive enclosure, too. 
+80. Excellent product for swapping old and new internal drives on my Gateway laptop.One tip is to add a small piece of double sided foam tape in the bottom of the case to keep the hard drive from rattling around in the case.
+81. After assembling the hard drive into the box, connecting to the computer, the drive was scanned fully by 2 malware programs.So this product is exactly what we needed.
+82. Received this in order to backup a dead laptop's hard drive. 
+83. After connecting the hard drive, all ya had to do is slide it in the enclosure and take two screws along with a Phillips head screw driver (which both was included with the kit!) 
+84. This item does not have the right adapters for laptop hard drives or internal hard drives for desktop computers either unsure of what kind of hard drive it even connects to. 
+85. The only problem I've had is that I can't get the hard drive all the way down inside of it.  
+86. I had to take the hard drive out of my laptop so I can fix it with a desktop.  
+87. Have to say this is a most buy for IDE hard drive, remember most laptop have SATA hard drive which is different.
+88. Have to say this is a most buy for IDE hard drive, remember most laptop have SATA hard drive which is different.
+89. Product does everything it should and promises except leads you to beleive it works on any 2.5 hard drive. 
+90. My biggest beef was that it won't work with just any 2.5 hard drive, it is specifically made for an ide connection only (if it is for any 2.5 hard drive then they sure as hell short you the adapter to make it work with the SATA connection on about half of the 2.5 hard drives out there).The company should at least owe all of us who purchaced one of these an adapter for free to show they stand behind their products!!! 
+91. My biggest beef was that it won't work with just any 2.5 hard drive, it is specifically made for an ide connection only (if it is for any 2.5 hard drive then they sure as hell short you the adapter to make it work with the SATA connection on about half of the 2.5 hard drives out there).The company should at least owe all of us who purchaced one of these an adapter for free to show they stand behind their products!!! 
+92. I just cut it a little bigger than the leading edge of the hard drive being shoved into the enclosure case, and shoved it in. 
+93. It is not a long term solution for drive storage because there is no support inside the enclosure to keep the drive from clanging around. 
+94. Finally broke around 7 months, hard drive would turn on but not be recognized in any computer I tried it in (included ones that it worked in the day before). 
+95. Also the USB Type A as the connector for the hard drive is pretty stupid. 
+96. Why not just use a miniUSB like every other external drive I have ever seen?
+97. My primary hobby used to be computers, and even though I've moved on to different things, I still help people with their computers if need be.As long as you're careful to ground yourself (so that static electricity doesn't kill your hard drive), you don't even need the enclosure (though don't keep the hard drive exposed for too long). 
+98. My primary hobby used to be computers, and even though I've moved on to different things, I still help people with their computers if need be.As long as you're careful to ground yourself (so that static electricity doesn't kill your hard drive), you don't even need the enclosure (though don't keep the hard drive exposed for too long). 
+99. It only cost $6, so I'm not terribly disappointed, but would have enjoyed having the hard drive enclosed! 
+100. Fast Data/File Access and Transfer Rate up to 480MB/s Need a new house for your 2.5" hard drive? 
+101. While I am moving around with enclosure, I can hear the hard drive rattling inside.The Enclosure is OK for the stationary setup, but would not work for any mobile tasks.
+102. I removed the hard drive from an old notebook computer. 
+103. I accidentally bought this item thinking it would work for my SATA hard drive, but it's IDE.  
+104. But without using it, I've found the outside case is a thin aluminum, and a cheap plastic to hold the hard drive in.  
+105. Windows 7 says the drive is invalid and only give me an option to format it. 
+106. The drive was recognized as such, but the native XP drivers failed to load, and the drive title in the hardware manager was coming through as random gibberish.  
+107. Could have had some instructions to clarify a pin cover that needed to be removed to fit the internal drive.
+108. It's a cheap cover for your hard drive, but it does work just as designed.  
+109. I have found no problems with their product as long as it is used with an ide drive, but be cautious when considering it for purchase because it is shown nowhere that it is only ide specific and THEIR PRODUCT IS NOT SATA COMPLIANT!!!
+110. When the hard drive is installed as intended, there is a bit of wiggle room and play in the drive-- this will eventually wear and loosen the IDE connection and cause the drive to jostle needlessly, reducing its life.  
+111. unfortunately i don't use this items , its not working with me i have a sata drive not ide .. its useless
+112. A customer had an older IBM Thinkpad with an IDE hard drive.  
+113. this was a perfect solution for a difficult problem. i had two laptops die and i didn't want to spend $40 a piece on a hard drive enclosure. this product had great reviews and i didn't hesitate in buying qty 2. they came in just 3 days and i installed one of my hard drives just fine. the other had differant connectors that i didn't notice before, my bad. after reading other products, turns out i needed 1 IDE ans 1 SATA enclosure.to all you negitive people, yes it is made out of low quality materials, but for $6 dollars what are you expecting? 
+114. Therefore, it's worthless as you can't access anything on your hard drive. 
+115. the unit arrived with no instructions- the connector didnot match my hard drive's connectors but i guessed that some pins would not be used and guessed right as far as which ones.
+116. This case allowed me to salvage the hard drive from the computer and access the data.Pros:Looks greatInexpensiveWorks fineCons:Lining up the holes of the case with the holes of the case-ends proved to be somewhat difficult and I almost had to flex the case-ends to get them to align properly. 
+117. Like most who buy products like this, I needed to recover data from the hard drive of a laptop that had died.  
+118. I slipped the hard drive into the very high-quality aluminum enclosure, plugged in the adapter, secured it with the supplied screws using the supplied screwdriver, connected it to another computer using the USB cable they also supplied and it worked immediately.  
+119. If you connect a small drive that does not require much current and your computer can provide enough power you lucked out. 
+120. This enclosure functions and comes with the necessary tools to install your 2.5in drive.  
+121. It looks exactly as it does in the photos and came with all the pieces you would need to put it together (minus the hard drive, of course!)
+122. Upon receiving it I found I was extremely satisfied and was very happy with the quality as it does exactly what it is supposed to do, house an IDE 2.5" hard drive.  
+123. I use this device for my Notebook hard drive, but the connector is the wrong type. 

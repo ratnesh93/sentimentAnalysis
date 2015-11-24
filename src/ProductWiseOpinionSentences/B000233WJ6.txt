@@ -1,0 +1,701 @@
+
+------------------------------------------------------------------
+feature : wall, positive Score : 13 and negative Score :-3
+------------------------------------------------------------------
+positive sentences : 
+1. I use this heavy-duty extension cord to connect my compact power strip to a wall outlet that's too far away.  
+2. Well built and looks really clean when mounted on the wall.
+3. The extension does a perfectly adequate job of allowing me to plug something in further away from the wall.
+4. It's just long enough to make a wall outlet convenient when behind furniture without having to coil it. 
+5. The receptacle and plug both seem to fit well (e.g. plug into a wall outlet and receptacle into another AC plug).The 18 AWG wire is rated for 10 Amps capacity which should be completely fine for power cubes. 
+6. I was running the power cord from the tv mounted on the wall and I didn't want a big bulky extension cord dangling from my wall so this was perfect. 
+7. It also works great for the "wall warts" of other devices and enables one to maximize the usage of available outlets. 
+8. Used for our remodel and TV/wall mount remodelEasy to use, great product and will use for other Family Members remodels :)Thank you!
+9. This was a great solution for me when I hung my LCD flat screen on my wall and needed a power extension to plug in a surge protector for my television.  
+
+negative sentences : 
+1. This short extension cord was perfect for my battery charger, but I could also see using it to extend an outlet to allow multiple wall warts, DC adapters, power supplies to plug into an outlet without blocking each other.
+
+------------------------------------------------------------------
+feature : job, positive Score : 10 and negative Score :-2
+------------------------------------------------------------------
+positive sentences : 
+1. Does the job at a reasonable price. 
+2. I have many products from C2G and they've all been great and have done the job perfectly! 
+3. Perfect length, heavy duty 2 prong extension cord for the job.Well worth the money!
+4. Good sturdy quality that does the job. 
+5. I use a variety of lengths for different devices so that each one can have the shortest cable necessary to do the job.
+6. The extension does a perfectly adequate job of allowing me to plug something in further away from the wall.
+7. I used this as an extension cord and it does a great job at it. 
+
+negative sentences : 
+1. This 10 foot extension cord gets the job done and the black color is low key. 
+2. helped extend my monitor cable wire further so it wasn't hanging. did the job, no disconnects or anything. happy customer.
+
+------------------------------------------------------------------
+feature : plug, positive Score : 32 and negative Score :-8
+------------------------------------------------------------------
+positive sentences : 
+1. I'm using it to plug a wide AC adapter into a power strip, no problems here!
+2. These are perfect for power strips, especially when you have multiple devices that have large blocks at the plug.
+3. The receptacle and plug both seem to fit well (e.g. plug into a wall outlet and receptacle into another AC plug).The 18 AWG wire is rated for 10 Amps capacity which should be completely fine for power cubes. 
+4. Just don't plug a 1500 Watt space heater or hair dryer, or equivalent item above 1200 Watts power dissipation) into it.Will work well either:* with a surge protector strip where you need to plug in a large power cube off the actual power strip to conserve space* with a mini power strip such as theBelkin Mini Surge Protector Dual USB Charger. 
+5. The extension does a perfectly adequate job of allowing me to plug something in further away from the wall.
+6. Bought for my garage gym tv to extend the power plug and it works perfect!  
+7. I like that it is a 3 prong plug which makes it good for plugging in computer equipment or appliances.
+8. The only issue is that you plug it into the wall and then the electricity consuming device into it, after, you have to get down on your hands and knees to view the reading. 
+9. I purchased and installed a new dishwasher, but the plug on it hung down over the lower plug which is needed for the garbage disposal.  
+10. I purchased and installed a new dishwasher, but the plug on it hung down over the lower plug which is needed for the garbage disposal.  
+11. There are actually 3 different versions of these short cables and while all three types make it easy to access all the outlets on a power strip with transformers/AC adapters, this only only accommodates a single device on a single outlet.There is a version that can permit two cables to be plugged into a single outlet and another that has two female ends and single plug end. 
+12. There is a thick coating to protect it and it has heavy plug ends.
+13. Now I have a nice long cord to plug my laptop charger in. 
+14. it is rated at 18 AWG, so make sure what use plug it into is safe for this gauge of cord.
+15. Got a set of these to use in my computer multi plug and they are amazing. 
+16. I also like the fact that it gives you an extra outlet where you can plug in something else. 
+17. Not a criticism of this cord, but rather as a marketing suggestion, it would be nice to be able to find short extension cords with less bulky plug and receptacles. 
+18. It's like a little 1 foot slice of electrical heaven... good times... good times...Or you can just use it to plug all those bulky AC/DC adapters into a single powerstrip without taking up two or three plugs each.  
+19. I needed the 3-prong cord to plug my TV into a power strip, length worked great. 
+20. If you need the extra length for a 3-prong plug, get this.
+21. I used a recessed outlet, which I installed, and could not plug in a cheap surge protector directly, so this cable came to the rescue and saved me time and money.
+22. It has a three-pronged grounded plug. 
+23. I use it to plug in a large AC transformer, thus clearing up space on my surge protector. 
+24. Because how small this extension is, I can plug in new cords without being blocked by the current huge power supplies from my other electrical cords. 
+25. A nice single plug extension chord. 
+
+negative sentences : 
+1. My electric start snow-blower has the plug in a very odd spot. 
+2. I got a brand new tv and mounted it to the wall. the cord was just a bit short of being able to plug into my surge protector/ battery backup. got this. 
+3. I needed an extension cord with 3 prongs for my tv, as it sits high on a shelf, so I could plug it into the electric surge protector strip and this one fit the bill!!  
+4. I've been unable to find a short cord with a grounded plug and was happy to find it here.
+5. The input on this cable is not a standard plug. 
+6. The only downside is not being able to find one with multiple outlets so I can plug in more than one device at a time.
+7. I also recommend the 6-inch extension cords that allow you to easily plug in bulbous DC power adapters.
+
+------------------------------------------------------------------
+feature : foot, positive Score : 10 and negative Score :-6
+------------------------------------------------------------------
+positive sentences : 
+1. When it said 1 foot, I was thinking the actual cord was 1 foot long(from plug to plug). 
+2. I payed ~$4 for the 3 foot cord - Much cheaper than the average hardware store.PROS: * Sturdy and durable * Not too heavy * Securely plugs into an outlet * CheapCON: Difficult to unplug something from the extension end - After a few attempts, this has become easier.  
+3. I purchased the 1 foot long version of this cord.  
+4. this is a very nice 25 foot black extension cord.  
+5. This is the best 25 Foot Outlet Saver 18 AWG Power Extension Cord I've bought in a very long time. 
+6. I used one on my patio---the short (1 foot) extension cord allowed me connect a heavy timer and fasten it to the wall, away from the AC outlet.A ham radio operator told me once that if you place all those heavy power supplies (that are off to the side of the power strip) on an old aluminum cookie sheet--- e.g., about 9x12", it will act as a "heat sink," thereby dissipating the heat.  
+7. I can easily bring the jump box into my patio area and use the 6 foot cord verses using the big heavy 50' cord I store in my truck tool box. 
+8. It's like a little 1 foot slice of electrical heaven... good times... good times...Or you can just use it to plug all those bulky AC/DC adapters into a single powerstrip without taking up two or three plugs each.  
+9. When it said 1 foot, I was thinking the actual cord was 1 foot long(from plug to plug). 
+
+negative sentences : 
+1. I DIDN'T RECEIVE THIS ONE FOOT CABLE THAT I ORDERED, I RECEIVED A BLACK 6 FOOT EXTENSION CORD. 
+2. Due to the fact that my surge protector was about a foot and half short this little extension cord filled that role very nicely. 
+3. For the love of all that's holy why do they not make a SEVEN foot extension cord!!!  
+4. Who hasn't gone to the store and thought that the 6 foot was just not long enough and the eight foot was like WAY overkill.  
+5. Who hasn't gone to the store and thought that the 6 foot was just not long enough and the eight foot was like WAY overkill.  
+6. Had thought about getting a three foot cord, but got the six foot to have more placement flexibility.
+
+------------------------------------------------------------------
+feature : price, positive Score : 32 and negative Score :-2
+------------------------------------------------------------------
+positive sentences : 
+1. There's not much to say about this power extension but the price is good for me and the item works well as described. 
+2. You could....I guess.....make your own, but for the price, I don't think you can beat this. 
+3. You can not find and purchase a cord for a specific purpose, for this price. 
+4. Also, the price is very reasonable.
+5. Solid construction at a good price.  
+6. This item or one like it is needed for the battery charger I bought and it is nice and flexible and it was a fair price.
+7. The price was great and the overall quality is surprising for the price.
+8. The price was great and the overall quality is surprising for the price.
+9. Functions as expected, and good price for the item.
+10. If I had payed full price for this product, this factor would have made me return it.OVERALL, a good extension cord at a cheap price.
+11. If I had payed full price for this product, this factor would have made me return it.OVERALL, a good extension cord at a cheap price.
+12. Quality cords at a good price.
+13. Very pleased with price & fast shipping.
+14. Great product at a great price.  
+15. Definitely worth the price.
+16. Used these to extend my powered speakers cord ,instead of ordering one of the high ones they sell, worked great for a lower price.
+17. I keep it in the car all the time, and the price was very reasonable.  
+18. Good price. 
+19. Great cords for the price, I use these to wire up low amperage LED DJ lights. 
+20. Good quality for price.
+21. Nothing much to say about this cable besides the fact that it is of good quality, works just as intended and is purchasable for an unbeatable price.
+22. The heavy duty design ensures that the cord will last a lifetime and for the price charged is a real bargain.
+23. Does the job at a reasonable price. 
+24. Great price. 
+25. these were perfect for extending some power cords that i was loosing a bit of length to due to the fact they were being run through the wall for a mounted tv and soundbar. the quality is good and the price is even better!
+26. Great deal at a great price as it serves my purpose well. 
+27. (Used for a low power device) - About the same style and price as local store but this was the exact length I needed.
+
+negative sentences : 
+1. It should however, be  included in the price so that other customers don't have to go searching for the cord.  
+2. The affordable price motivated me to order a few more things so I could get free shipping!  
+
+------------------------------------------------------------------
+feature : length, positive Score : 28 and negative Score :-12
+------------------------------------------------------------------
+positive sentences : 
+1. Great power cable, has plenty of length behind it for pretty much anything that you need to be plugged in at a distance.
+2. I need a good heavy duty short length power cord to keep with my Instant Power Jump Starter for charging, and this was perfect. 
+3. This extension cord seems to be good and sturdy and just the length I needed. 
+4. Currently i have to hide the extra length behind the tv.
+5. Again, they're just the right length.
+6. I picked the right length and it functions as designed.
+7. Before buying any cable, make sure the length is what you need; I bought this to allow my monitor to be moved more freely, so I can adjust quickly between a standing and seated desk layout (regular cables are too short).  
+8. It works well and is the right length. 
+9. It's the perfect length for the connection.
+10. The shorter it is, the more important accurate length is.Well the cord comes up about 25% short of a foot.  
+11. (Used for a low power device) - About the same style and price as local store but this was the exact length I needed.
+12. these were perfect for extending some power cords that i was loosing a bit of length to due to the fact they were being run through the wall for a mounted tv and soundbar. the quality is good and the price is even better!
+13. Perfect length, heavy duty 2 prong extension cord for the job.Well worth the money!
+14. This cable is the perfect length and fit for my Clore JNC660 Jump-N-Carry 12-Volt Battery Jump Starter. 
+15. I needed the 3-prong cord to plug my TV into a power strip, length worked great. 
+16. If you need the extra length for a 3-prong plug, get this.
+17. It gives me extra length without the weight.
+18. I needed this plug for a battery that I needed to charge It is 6 feet but still would of loved to get a longer one if you need length this isnt it. 
+19. It changes a two prong outlet to  a three prong and with just the right of of length that makes it manageable.
+20. I recieve this item it works great just for what i needed it for instead of a long cord that would be to long this cord was the right length.
+21. Perfect length, super high quality and just a straight up heck of a cable. 
+22. Cable is heavy and the perfect length!
+
+negative sentences : 
+1. Just the right size and not to worry about the extra length which can trip you over when I plugged in the Jump-N-Carry battery where I put in the family room.  
+2. I bought this extension cord because I needed just a little more length for my monitor to reach an outlet.  
+3. Just th right (very short) length for this use. 
+4. I wanted the 3ft length but I was sent the 6ft length.  
+5. I wanted the 3ft length but I was sent the 6ft length.  
+6. My cord arrived early and works perfectly, the only problem is I was sent the wrong length.  
+7. This was happily exactly what I was looking for, a cord to attach to a hot water pot that needed just a bit of extra length that did not need to be shortened by tying it up and that was not available in any of the local hardware stores.  
+8. The actual cord length, not measuring the plugs, is exactly nine inches long. 
+9. Perfect size extension cord that I can carry in my laptop case that is not to bulky and of the short extra length needed for pluggin in your charger if you are in a meeting room situation.
+
+------------------------------------------------------------------
+feature : quality, positive Score : 45 and negative Score :-3
+------------------------------------------------------------------
+positive sentences : 
+1. The quality is excellent. 
+2. I have found these extension cables to be good quality, just as described. 
+3. It is good quality and does what it is supposed. to do.
+4. Quality molded ends and good cable.  
+5. Great Cord, High Quality, Cant have enough cord choices around with all the new electonics and electrical devices. 
+6. Plastics and metal are of good quality. 
+7. It's a good quality extension cord from a good manufacturer of cables.  
+8. anyway, it is high quality, wire appear to be plenty large and the sockets are well made/beefy to handle abuse. 
+9. I wanted a good quality cord to keep with my portable jump starter. 
+10. Appears to be good quality. 
+11. The price was great and the overall quality is surprising for the price.
+12. It's just the size that I want and I feel like the cord has the high quality I would expect. 
+13. Quality cords at a good price.
+14. Cables to Go (C2G) makes good quality, cheap cables. 
+15. See my two images.To examine the cable it would seem to be well made and good quality. 
+16. actually alot better quality than i originally thought, great for large electronics, or microwave, very good quality, thickness, and weight to it!
+17. actually alot better quality than i originally thought, great for large electronics, or microwave, very good quality, thickness, and weight to it!
+18. Good sturdy quality that does the job. 
+19. these were perfect for extending some power cords that i was loosing a bit of length to due to the fact they were being run through the wall for a mounted tv and soundbar. the quality is good and the price is even better!
+20. Good quality.  
+21. This extension cable is good quality. 
+22. It seems to be a good quality extension cord, and it says made in China. 
+23. I suppose $12 could be seen as expensive, but it seems to be of fairly high quality materials and is definitely sturdier than the typical extension cord. 
+24. Seems to be high quality for household needs. 
+25. Good quality for price.
+26. Good quality and more then long enough.
+27. Excellent Quality and Heavy Duty. 
+28. I have had similar Extension Cords from Cables to Go and they all have been of Excellent Quality.
+29. Nothing much to say about this cable besides the fact that it is of good quality, works just as intended and is purchasable for an unbeatable price.
+30. Exactly what it said it was, seems to be good thick and durable quality. would recommend this product to anyone
+31. This is a power cord so there really isn't much to say about it except that it does it's job well and appears to be of high quality.  
+32. Perfect length, super high quality and just a straight up heck of a cable. 
+33. Made of very good quality. 
+34. The great thing about these cords is that they come in different sizes and what I really love about them is their great quality. 
+35. Although a &#34;white label,&#34; it's probably higher quality (and certainly a better gauge) than the Cables to Go model.
+36. Yes.Not inexpensive, but good quality.
+
+negative sentences : 
+1. I use it to connect a meter gauge so I can keep track of how much electricity a specific computer is using up. no issues, good quality.
+2. Its not the best quality, but it does the job. 
+3. But the attached "10A" tag means the inferior quality is in the gauge of the conductors. 
+
+------------------------------------------------------------------
+feature : outlet, positive Score : 25 and negative Score :-19
+------------------------------------------------------------------
+positive sentences : 
+1. I also like the fact that it gives you an extra outlet where you can plug in something else. 
+2. For years my high def TV sat there uselessly, as the cord wasn't quite long enough to reach the nearest outlet. 
+3. The receptacle and plug both seem to fit well (e.g. plug into a wall outlet and receptacle into another AC plug).The 18 AWG wire is rated for 10 Amps capacity which should be completely fine for power cubes. 
+4. If you need to plug the Belkin adapter into an outlet with very little clearance (e.g. the outlet built into the base of a lamp in some hotel rooms) this may be what you need. 
+5. If you need to plug the Belkin adapter into an outlet with very little clearance (e.g. the outlet built into the base of a lamp in some hotel rooms) this may be what you need. 
+6. It's just long enough to make a wall outlet convenient when behind furniture without having to coil it. 
+7. I payed ~$4 for the 3 foot cord - Much cheaper than the average hardware store.PROS: * Sturdy and durable * Not too heavy * Securely plugs into an outlet * CheapCON: Difficult to unplug something from the extension end - After a few attempts, this has become easier.  
+8. There are actually 3 different versions of these short cables and while all three types make it easy to access all the outlets on a power strip with transformers/AC adapters, this only only accommodates a single device on a single outlet.There is a version that can permit two cables to be plugged into a single outlet and another that has two female ends and single plug end. 
+9. There are actually 3 different versions of these short cables and while all three types make it easy to access all the outlets on a power strip with transformers/AC adapters, this only only accommodates a single device on a single outlet.There is a version that can permit two cables to be plugged into a single outlet and another that has two female ends and single plug end. 
+10. My dad set up my tv just 3 inches too far from the outlet, so now this little guy works great and was super cheap! 
+11. Works to allow me to have a separate outlet for my phone chargers etc
+12. Basic cord that's durable and well made and is perfect when you need a few several extra feet to reach an outlet.
+13. This worked great when my home theater projector screen wasn't long enough to reach the outlet. 
+14. I tried to plug the lamp transformer into a separate outlet in the room with a standard extension cord, but the interference continued.  
+15. Seeing that this Cables to Go outlet saver had some good insulation on it, I plugged the lamp transformer directly into the outlet saver, and ran it over to a separate outlet, freeing up two plugs on the power strip for a photo scanner.  
+16. Seeing that this Cables to Go outlet saver had some good insulation on it, I plugged the lamp transformer directly into the outlet saver, and ran it over to a separate outlet, freeing up two plugs on the power strip for a photo scanner.  
+17. I used a recessed outlet, which I installed, and could not plug in a cheap surge protector directly, so this cable came to the rescue and saved me time and money.
+18. I needed to extend my projector screen power cord by about 3 feet and this fit the bill.Adequate, sturdy enough but not too thick  - 18 AWG - such that its bend radius is small enough that combined with a recessed outlet I could hide the cable.Nice, neat solution.
+19. This is the best 25 Foot Outlet Saver 18 AWG Power Extension Cord I've bought in a very long time. 
+20. I use this for plugging in battery chargers and other things that would otherwise cover up another nearby outlet. 
+
+negative sentences : 
+1. I needed a short extension chord for a recessed outlet behind my flat panel tv mount. 
+2. This short extension cord was perfect for my battery charger, but I could also see using it to extend an outlet to allow multiple wall warts, DC adapters, power supplies to plug into an outlet without blocking each other.
+3. This short extension cord was perfect for my battery charger, but I could also see using it to extend an outlet to allow multiple wall warts, DC adapters, power supplies to plug into an outlet without blocking each other.
+4. We used this cable to connect an electric cord that was too short to reach the outlet. 
+5. I have an electric kettle with a short cord and an outlet that's a foot and a half up the wall. 
+6. I ordered another set plus one that lights up for my rock band to show when a circuit is out (rather than suspecting an amp or other piece of equipment when it was a dead outlet).
+7. I couldn't purchase one extension cord because the lamps were on opposite sides of the same outlet.  
+8. It can be used for a variety of purposes.Pros:Very rugged design.Inexpensive.Works as advertised.Saves outlets on your surge protector.Cons:None.This is a versatile, extremely rugged outlet saver extension cord. 
+9. I carry it in my computer case in case the electrical outlet wherever I am is farther away than my charger cord will reach.  
+10. I needed to plug in my Kill-A-Watt without blocking other outlet and this is a must have for said scenario.
+11. I have used them all over my place as I find certain small appliances that are grounded will not allow you to plug two on top of each other in an outlet. 
+12. I need to connect my portable air-conditioner to the outlet which is far way.  
+
+------------------------------------------------------------------
+feature : product, positive Score : 20 and negative Score :-5
+------------------------------------------------------------------
+positive sentences : 
+1. I was shocked that such a product was even available!  
+2. The quality and condition of the product are excellent.  
+3. If I had payed full price for this product, this factor would have made me return it.OVERALL, a good extension cord at a cheap price.
+4. It was a good product I underestimated how short 3 feet really was but it worked out well for what I needed
+5. The dimensions are correct to the product I received.
+6. All I can say is the product functions perfect and the sipping was very fast.  
+7. Disappointed that it wasn't the correct product as advertised...
+8. It is a good product and serves its purpose.  
+9. This product is perfect for indoor use.  
+10. Simple but quite useful product.I have a UPS and a few powerstrips in the house. 
+11. Excellent product , work great .Should be used indoor only ,  I don't think this will last being an outdoor extension .Thanks
+12. it seems silly, but MAN does this product ever rock!  
+13. Very happy with the product.
+14. Solid product, great value. 
+15. This product is fine if you are just using it to free up space on your surge protector or UPS that would otherwise be used by A/C adapters for cell phones, speakers, etc.However, this cord is only rated for 10 amps.  
+16. Used for our remodel and TV/wall mount remodelEasy to use, great product and will use for other Family Members remodels :)Thank you!
+17. Exactly what it said it was, seems to be good thick and durable quality. would recommend this product to anyone
+18. Great product at a great price.  
+
+negative sentences : 
+1. _this is bottom filler text meant to meet the minimum requirement in a product review; please ignore this__
+2. nothing to complain about...good product for the money...so far no issues...need to wait for long see if there is a problem ...
+3. Five stars, minus one for the incomplete product description.
+4. Not really a lot to write here other than the product is exactly what it is described to be. 
+5. And I reprimand Amazon for its inadequate care in gathering product info and publishing accurate descriptions.
+
+------------------------------------------------------------------
+feature : cords, positive Score : 24 and negative Score :-17
+------------------------------------------------------------------
+positive sentences : 
+1. Not a criticism of this cord, but rather as a marketing suggestion, it would be nice to be able to find short extension cords with less bulky plug and receptacles. 
+2. Because how small this extension is, I can plug in new cords without being blocked by the current huge power supplies from my other electrical cords. 
+3. these were perfect for extending some power cords that i was loosing a bit of length to due to the fact they were being run through the wall for a mounted tv and soundbar. the quality is good and the price is even better!
+4. just what I needed to extend power source with out using additional cords. well made , works well , would reccomend
+5. I'm able to run my sound equipment at parties without having those awful orange cords screaming &#34;look at me!
+6. I needed to make my cords more clean looking and be able to reach the APC Back-Up for my setup. 
+7. Good alternative to long extension cords.  
+8. Nice extension cords. 
+9. Quality cords at a good price.
+10. Because how small this extension is, I can plug in new cords without being blocked by the current huge power supplies from my other electrical cords. 
+11. Unlike those extension cords, this one feels professional and I would use it for the more heavy duty extension cord related activities around the house, yard or garage.
+12. They sent me THREE computer power cords instead of two three prong extension cords, safe to say they were unusable, too cheap to bother to return
+13. Great cords for the price, I use these to wire up low amperage LED DJ lights. 
+14. These are 18 gauge cords, make sure they suit the purpose you and intending them for. 
+15. I have had similar Extension Cords from Cables to Go and they all have been of Excellent Quality.
+16. this are a perfect solution to the issue of short appliance cords not too long and not too short. they make extending the cabling of most devices a breeze.Belkin F3A102-06 AC Extension Power Cord (6-Feet)
+17. This is a well built plug that I use for lights and it keeps things simple by connecting short cords to a long one that goes to a power source.
+18. The great thing about these cords is that they come in different sizes and what I really love about them is their great quality. 
+19. I am very happy with how this extension cords works just like a real extension cord. 
+
+negative sentences : 
+1. As always, be sure to observe common-sense safety rules when using anything electrical like these short extension cords.
+2. Why are cords always 6 feet short of what you need?
+3. These short 1 ft extension cords are great and fit into tight spaces, on power strips and UPSs.  
+4. It's so hard to find black extension cords, but they look so much nicer than those garish orange ones.
+5. This extension cord is only rated for 13A, so be cautious when plugging devices into it (most other extension cords & power strips are rated 15A). 
+6. This frees up more outlets on your power strip for other cords.  
+7. I have plenty of $5 extension cords for those electric candles you put in your windows at Christmas. 
+8. Need some short extension cords  to use with a power strip and this is just what I needed. 
+9. These short extension cords are great, but they are only rated for 10 Amps.  
+10. I see so many people buy thin cords and complain that they don't deliver the power they need:/ If your trying to go LONG DISTANCES or run heavy electrical tools GET 12 GAUGE CORDS!!! 
+11. I see so many people buy thin cords and complain that they don't deliver the power they need:/ If your trying to go LONG DISTANCES or run heavy electrical tools GET 12 GAUGE CORDS!!! 
+12. I had been looking for a 25 ft black cords for weeks.  
+13. I still rated this cord 5 stars because all other cords fit without any problems.
+14. I also recommend the 6-inch extension cords that allow you to easily plug in bulbous DC power adapters.
+
+------------------------------------------------------------------
+feature : cable, positive Score : 52 and negative Score :-20
+------------------------------------------------------------------
+positive sentences : 
+1. It's heavy duty for my equipment but I don't have a bunch of excess cable to tuck anywhere.
+2. I knew this cable would be thin based on the gauge.  
+3. It is long enough to fit but without all the extra cable to roll up behind the TV.
+4. I bought 2 of these.Last Black Friday I bought a TV for my bed room, and the position where I hang the tv requires a long cable run. 
+5. It has really simplified the process as it keeps the Kill-A-Watt brick from blocking other nearby usable sockets.Great Short cable
+6. Quality molded ends and good cable.  
+7. I initially bought it to extend a power cable to a projector, but I went with a higher gauge cable to be safe.
+8. It would be fine for single devices that aren't high demand, but be careful to not over draw as the cable gets noticeably warm. 
+9. It's an extension cable and it works, but it uses smaller gauge cable (I know it's listed that way). 
+10. This cable works great to recharge my Energizer power pack. 
+11. Risk of electrical fire if you try to use it with appliances or heavily powered equipment.Other than that, it's a basic extension cable. 
+12. Durable Heavy Duty Cable.  
+13. I use a variety of lengths for different devices so that each one can have the shortest cable necessary to do the job.
+14. The cable is thick and strong. 
+15. The cord itself seems about as thick as a piece of coaxial cable used for the TV. 
+16. This cable is very thick and feels substantial. 
+17. The cable is not that much think but thick enough and allows to save space and make it handy. 
+18. This cable works perfect for my jumper/compressor. 
+19. Not sure what you can really say about a cable except the fact that it works, is a nice heavy cable and I can't complain.
+20. Combined with a longer monitor cable, this has worked perfectly.
+21. Before buying any cable, make sure the length is what you need; I bought this to allow my monitor to be moved more freely, so I can adjust quickly between a standing and seated desk layout (regular cables are too short).  
+22. This is a useful cable. 
+23. I bought this through AmaMax- Fast shipping.This cable was new and much cheaper than other sources I tried. 
+24. Needed a simple three-prong extension for my printer, and didn't want to deal with any power strips.One connection was all I needed, and this fit my needs perfectly.Hid my printer in the closet with the long 25ft, and hid the black cable without any trouble.
+25. I was not able to insert the charging cable into the extension cord because the bottom prong was to thick. 
+26. Sturdy cable. 
+27. Great power cable, has plenty of length behind it for pretty much anything that you need to be plugged in at a distance.
+28. Great cable, very solid.  
+29. Not sure if other packages differ.In all a pretty good idea, not crazy about adding the extra cable but is certainly allows me to get more mileage out of a very expensive surge protector since I can now use all the outlets without wasting any to space constraints.
+30. Just keep in mind that this isn't a big industrial cable so while it will do for your electronics, I wouldn't recommend running big machinery on it!
+31. The battery didn't come with a charge cable and this works great.  
+32. It&#8217;s just a cable but is made with strong components. 
+33. solid durable cable, this is tough even if you plan to use it outside works great for me in the office.
+34. This extension cable is good quality. 
+35. This cable is the perfect length and fit for my Clore JNC660 Jump-N-Carry 12-Volt Battery Jump Starter. 
+36. This is the simplest version (as oppose to a "Y" one that power two devices), and to charge almost $12 for it is ridiculous.Sometimes Cable To Go produces things that justify a high cost, but there is nothing about this product that does so.
+37. Nothing much to say about this cable besides the fact that it is of good quality, works just as intended and is purchasable for an unbeatable price.
+38. Good size, accommodates our needs beautifully. 25 ft extension cable, not too much else to say about it.I would recommend this product to a friend.
+39. Just needed a simple extension cable with a clean look and this fit the bill. 
+40. I will  not change my review until the seller sends the correct cable!
+41. When I received the 18AWG gage cable, I thought it was to light, so I made my own cable out of 12 AWG cable and it works great.  .
+42. When I received the 18AWG gage cable, I thought it was to light, so I made my own cable out of 12 AWG cable and it works great.  .
+43. Cable is heavy and the perfect length!
+44. Perfect length, super high quality and just a straight up heck of a cable. 
+45. This power cable is incredible. 
+46. I needed to extend my projector screen power cord by about 3 feet and this fit the bill.Adequate, sturdy enough but not too thick  - 18 AWG - such that its bend radius is small enough that combined with a recessed outlet I could hide the cable.Nice, neat solution.
+47. But It works good nice thick cable
+
+negative sentences : 
+1. We used this cable to connect an electric cord that was too short to reach the outlet. 
+2. It is hard to find a very short cable and this one was exactly what I expected to receive when I ordered it.  
+3. Anyone who needs a cable where a short cord is needed would find this very useful.  
+4. I use to connect my monster cable surge protector, so I can have it closer to my desk with out needing a thousand more cable extenders
+5. We are using the cable for extension for our projector, its a pretty simple cable so there's no issues or complaints.
+6. I am another victim of receiving wrong cable... with 210 5 Star's i didnt bother to read these 1 stars...anyways asking Amazon for help now...
+7. I bought this short cable to connect my surge protector to the MIDLITE 4642-W Single Gang D&eacute;cor recessed power inlet. 
+8. I wouldn't trust this cable with anything but very low voltage appliances. 
+9. The input on this cable is not a standard plug. 
+10. I love this cable, it's just a short little extension that comes in really handy.Everyone has power outlets and strips in their house, you have one by your computer, by your television, and in many other spots where you have tons of electronics hogging the outlets. 
+11. Like many others, I was sent the wrong cable. 
+12. I use it to move the wireless router to the storage and the cable is flexible so that I can fix it to the wall with clips and move it from beneath the storage door.
+13. Not much else you can say about a cheap cable.
+14. " Haven't opened package yet but cable looks good and solid. 
+15. I had a surge protector with a really short cable. 
+16. It's very convenient that they are black as 90% of the appliances we have are with a black power cable and this allows for a smooth transaction between the two cables and goes unnoticeable to the eye and just looks nice overall.
+17. Bought this to use outdoor at the front porch area to hook up security camera and not wanting long cable hanging down.  
+18. Needed a short extension cable for my microwave and this guy does the job. 
+19. The cable is stamped "18 AWG," i.e., 18 gauge, the maximum safe load of which in this type of three-conductor cable is 10 Amps. 
+
+------------------------------------------------------------------
+feature : power, positive Score : 57 and negative Score :-24
+------------------------------------------------------------------
+positive sentences : 
+1. Bought for my garage gym tv to extend the power plug and it works perfect!  
+2. This is a good, solid, heavy duty, power cord.  
+3. It is an outstanding power cord. 
+4. The C2G/Cables to Go 03115 18 AWG Outlet Saver Power Extension Cord is an excellent buy and does exactly what i needed..  
+5. I need a good heavy duty short length power cord to keep with my Instant Power Jump Starter for charging, and this was perfect. 
+6. This cable works great to recharge my Energizer power pack. 
+7. what can I say, it does the job lmaooo it would power up anything that u need in 5 feet !
+8. I could probably buy a couple more of these things to be honest I have seen a couple of places where I could use these to free up room from all of the bulky transformers on my power strip..
+9. Typically you can not put three or more power supplies for those devices in a 6 Outlet power strip. 
+10. Solid power cord extensions from C2G, which should not come as a surprise to anyone. 
+11. These are perfect for power strips, especially when you have multiple devices that have large blocks at the plug.
+12. The liberator solves that problem.Also, some power adapters can be huge and heavy that its weight alone tends to loosen it from the wall, the liberator serves as a little extension to prevent it from loosening up. 
+13. The quality of the power cord is solid. 
+14. They look more that solid for extending the short power chord for my big screen TV.  
+15. Good, solid power extension cord. 
+16. Just don't plug a 1500 Watt space heater or hair dryer, or equivalent item above 1200 Watts power dissipation) into it.Will work well either:* with a surge protector strip where you need to plug in a large power cube off the actual power strip to conserve space* with a mini power strip such as theBelkin Mini Surge Protector Dual USB Charger. 
+17. Just don't plug a 1500 Watt space heater or hair dryer, or equivalent item above 1200 Watts power dissipation) into it.Will work well either:* with a surge protector strip where you need to plug in a large power cube off the actual power strip to conserve space* with a mini power strip such as theBelkin Mini Surge Protector Dual USB Charger. 
+18. Just don't plug a 1500 Watt space heater or hair dryer, or equivalent item above 1200 Watts power dissipation) into it.Will work well either:* with a surge protector strip where you need to plug in a large power cube off the actual power strip to conserve space* with a mini power strip such as theBelkin Mini Surge Protector Dual USB Charger. 
+19. Just don't plug a 1500 Watt space heater or hair dryer, or equivalent item above 1200 Watts power dissipation) into it.Will work well either:* with a surge protector strip where you need to plug in a large power cube off the actual power strip to conserve space* with a mini power strip such as theBelkin Mini Surge Protector Dual USB Charger. 
+20. The receptacle and plug both seem to fit well (e.g. plug into a wall outlet and receptacle into another AC plug).The 18 AWG wire is rated for 10 Amps capacity which should be completely fine for power cubes. 
+21. (Used for a low power device) - About the same style and price as local store but this was the exact length I needed.
+22. just what I needed to extend power source with out using additional cords. well made , works well , would reccomend
+23. There's not much to say about this power extension but the price is good for me and the item works well as described. 
+24. The P4400 Kill A Watt suport a Max Current of 15 amps.Precaution: The max power is 1,250 watts, if you connect equipment to pass this power, you'll have high temperature and will lose.P=VxIIf you buy a Ensupra Electricity Usage Monitor this not necesary.
+25. I used this extension cord for my DJ setup to extend the cord to the main power switch, Heavy duty and easily maneuverable I love it..
+26. I needed the 3-prong cord to plug my TV into a power strip, length worked great. 
+27. I use this heavy-duty extension cord to connect my compact power strip to a wall outlet that's too far away.  
+28. Great power cable, has plenty of length behind it for pretty much anything that you need to be plugged in at a distance.
+29. got this for a power bridge and it worked fine. its a power cord though so not that much to say about it.
+30. got this for a power bridge and it worked fine. its a power cord though so not that much to say about it.
+31. I'm using it to plug a wide AC adapter into a power strip, no problems here!
+32. I bought the power cord extension as several people had suggested and I found it was really a necessity!
+33. They are really handy and allow you to get those large power supplies (like for printers/scanners) off to the side, and out of the way from your power strips/surge protectors.  
+34. I used one on my patio---the short (1 foot) extension cord allowed me connect a heavy timer and fasten it to the wall, away from the AC outlet.A ham radio operator told me once that if you place all those heavy power supplies (that are off to the side of the power strip) on an old aluminum cookie sheet--- e.g., about 9x12", it will act as a "heat sink," thereby dissipating the heat.  
+35. these were perfect for extending some power cords that i was loosing a bit of length to due to the fact they were being run through the wall for a mounted tv and soundbar. the quality is good and the price is even better!
+36. Comes in handy dealing with large power packs. and tight spaces.
+37. Because how small this extension is, I can plug in new cords without being blocked by the current huge power supplies from my other electrical cords. 
+38. The issue is sometimes electronics have huge power supplies built right where the plug goes into the strip. 
+39. Needed a couple extra feet for my tv power cord and it does exactly what it is supposed to do. 
+40. Great to connect a power converter box of a device where there's not enough room.
+41. This power cable is incredible. 
+42. This is especially wise when those bulky adapters/power supplies are on CARPET---they DO get pretty warm. 
+43. I used one on my patio---the short (1 foot) extension cord allowed me connect a heavy timer and fasten it to the wall, away from the AC outlet.A ham radio operator told me once that if you place all those heavy power supplies (that are off to the side of the power strip) on an old aluminum cookie sheet--- e.g., about 9x12", it will act as a "heat sink," thereby dissipating the heat.  
+
+negative sentences : 
+1. This short extension cord was perfect for my battery charger, but I could also see using it to extend an outlet to allow multiple wall warts, DC adapters, power supplies to plug into an outlet without blocking each other.
+2. The adapter is oriented in a way that interferes with cabling I have coming out of the wall (I used a two gang box, one side for power and the other for cables).  
+3. The 25-foot version, on the other hand, would be very light-duty; I wouldn't want to power much more than a work light with it.Bottom line: Does the job within its limitations, but those limitations are substantial and should be made clear by the manufacturer.  
+4. It is exactly what I needed: heavy duty enough to carry the power and flexible enough to haul around the house; long enough to get where I wanted, and not so long I had excess cord to deal with. 
+5. I use it for adding all those odd shaped plugs into my power conditioner.For the price it cant be beat.
+6. These extension cords allow you to utilize all the outlets on a power strip.Despite being very inexpensive, they are made very well.
+7. I bought this short cable to connect my surge protector to the MIDLITE 4642-W Single Gang D&eacute;cor recessed power inlet. 
+8. Since the disposal is on a switch and the washer needs constant power, I could not switch the two plugs.  
+9. Had tore placed power cord due to poo ergonomics so the layout would be more comfortable for the user and this worked out Ver well.
+10. This extension cord is only rated for 13A, so be cautious when plugging devices into it (most other extension cords & power strips are rated 15A). 
+11. These short 1 ft extension cords are great and fit into tight spaces, on power strips and UPSs.  
+12. I was hesitant because I wasn't sure it would work for something that required that much power, but it starts up right away each time and hasn't failed me once. 
+13. This is an excellent replacement for extending a short power cord for any appliance, electronics, or anything that needs to have a longer power cord.  
+14. This is an excellent replacement for extending a short power cord for any appliance, electronics, or anything that needs to have a longer power cord.  
+15. Just a short extension cord to power an emergency jump starter. 
+16. It's very convenient that they are black as 90% of the appliances we have are with a black power cable and this allows for a smooth transaction between the two cables and goes unnoticeable to the eye and just looks nice overall.
+17. This frees up more outlets on your power strip for other cords.  
+18. I love this cable, it's just a short little extension that comes in really handy.Everyone has power outlets and strips in their house, you have one by your computer, by your television, and in many other spots where you have tons of electronics hogging the outlets. 
+19. I recommend this to anyone who has a low to moderate power consuming device and needs a few more inches ;)
+20. I also recommend the 6-inch extension cords that allow you to easily plug in bulbous DC power adapters.
+
+------------------------------------------------------------------
+feature : extension, positive Score : 84 and negative Score :-27
+------------------------------------------------------------------
+positive sentences : 
+1. Eliminated the need for long extension cord. 
+2. I was running the power cord from the tv mounted on the wall and I didn't want a big bulky extension cord dangling from my wall so this was perfect. 
+3. It is the perfect extension cord. 
+4. This is a very nice black extension cord that is quite flexible. 
+5. It's a good quality extension cord from a good manufacturer of cables.  
+6. this is a very nice 25 foot black extension cord.  
+7. Excellent product , work great .Should be used indoor only ,  I don't think this will last being an outdoor extension .Thanks
+8. This extension cord seems to be good and sturdy and just the length I needed. 
+9. The C2G/Cables to Go 03115 18 AWG Outlet Saver Power Extension Cord is an excellent buy and does exactly what i needed..  
+10. So when I found this extension cord and it was heavy duty and looked like it would really work. 
+11. Does what it's suppose to do, it gives you some extension when you need a few more inches. 
+12. Recommended if you need a small surge protector extension.
+13. I definitely recommend it if you need a nice long extension cord. 
+14. Needed a simple three-prong extension for my printer, and didn't want to deal with any power strips.One connection was all I needed, and this fit my needs perfectly.Hid my printer in the closet with the long 25ft, and hid the black cable without any trouble.
+15. I would recommend this to those who need a simple extension chord for any of those random times you would need one.
+16. Is a very good extension for your laptop.I use it every day now and it performs very good.I would recommend this to anyone.
+17. The liberator solves that problem.Also, some power adapters can be huge and heavy that its weight alone tends to loosen it from the wall, the liberator serves as a little extension to prevent it from loosening up. 
+18. Good, solid power extension cord. 
+19. I don't want to buy normal extension cord for it.  
+20. This is the perfect extension cord for charging my jump starter. 
+21. This extension cord worked just fine for my fairly light-use purposes (wedding lights) and I'm happy to have two of them on hand. 
+22. If I had payed full price for this product, this factor would have made me return it.OVERALL, a good extension cord at a cheap price.
+23. I payed ~$4 for the 3 foot cord - Much cheaper than the average hardware store.PROS: * Sturdy and durable * Not too heavy * Securely plugs into an outlet * CheapCON: Difficult to unplug something from the extension end - After a few attempts, this has become easier.  
+24. Nice extension cords. 
+25. Just a regular extension cord. 
+26. The extension does a perfectly adequate job of allowing me to plug something in further away from the wall.
+27. Good alternative to long extension cords.  
+28. Risk of electrical fire if you try to use it with appliances or heavily powered equipment.Other than that, it's a basic extension cable. 
+29. Be careful when using this extension cord as you must stay below 10 amps! 
+30. A regular extension cord may be a tad cheaper at Wal mart.  
+31. My only real gripe is that this cord is pretty stiff compared to a normal extension cord.  
+32. I needed this small extension cord in an enclosure and it works perfectly for that job.  
+33. A nice single plug extension chord. 
+34. Good size, accommodates our needs beautifully. 25 ft extension cable, not too much else to say about it.I would recommend this product to a friend.
+35. There's not much to say about this power extension but the price is good for me and the item works well as described. 
+36. I bought mine from ELMENOS and they shipped a nice 6-foot, 16 gauge extension cord model 102116 US-EXT6. 
+37. This extension cord is great. 
+38. I have had similar Extension Cords from Cables to Go and they all have been of Excellent Quality.
+39. They also help give a little extension where necessary.  
+40. I use this heavy-duty extension cord to connect my compact power strip to a wall outlet that's too far away.  
+41. These items do the job, I think, however, that one of them I installed from the wall to the Monster line conditioner and splitter should have been the same guage as the wire which comes out of it, but for that I would have had to buy a longer extension cord of heavier guage, defeating the purpose.
+42. I suppose $12 could be seen as expensive, but it seems to be of fairly high quality materials and is definitely sturdier than the typical extension cord. 
+43. It seems to be a good quality extension cord, and it says made in China. 
+44. They sent me THREE computer power cords instead of two three prong extension cords, safe to say they were unusable, too cheap to bother to return
+45. Looking for a small heavy duty extension cord and was sent something that looks like it is used on a ????
+46. Not a criticism of this cord, but rather as a marketing suggestion, it would be nice to be able to find short extension cords with less bulky plug and receptacles. 
+47. This extension cable is good quality. 
+48. i have no complaints. the extension cord works great. i just thought it was a little bit thick. thats all!
+49. I was not able to insert the charging cable into the extension cord because the bottom prong was to thick. 
+50. Didn't want a long extension, so this 3' one does the trick.
+51. I tried to plug the lamp transformer into a separate outlet in the room with a standard extension cord, but the interference continued.  
+52. This is a very durable extension -- three prong.  
+53. This is a simple indoor 3-prong extension cord. 
+54. I have found these extension cables to be good quality, just as described. 
+55. Just needed a simple extension cable with a clean look and this fit the bill. 
+56. Because how small this extension is, I can plug in new cords without being blocked by the current huge power supplies from my other electrical cords. 
+57. Perfect length, heavy duty 2 prong extension cord for the job.Well worth the money!
+58. Single, three prong extension. 18 gauge powers without any problems, no physical issues. 
+59. I used one on my patio---the short (1 foot) extension cord allowed me connect a heavy timer and fasten it to the wall, away from the AC outlet.A ham radio operator told me once that if you place all those heavy power supplies (that are off to the side of the power strip) on an old aluminum cookie sheet--- e.g., about 9x12", it will act as a "heat sink," thereby dissipating the heat.  
+60. I bought the power cord extension as several people had suggested and I found it was really a necessity!
+61. Unlike those extension cords, this one feels professional and I would use it for the more heavy duty extension cord related activities around the house, yard or garage.
+62. This was perfect to give me just a few inches needed to reach the power strip without having to use a full size extension cord.
+63. It's just a normal short extension cord.
+64. I am very happy with how this extension cords works just like a real extension cord. 
+65. I am very happy with how this extension cords works just like a real extension cord. 
+66. Got this in conjunction with a Clore Automotive JNC660 Jump-N-Carry 1,700 Peak Amp 12-Volt Jump Starter, also reviewed.Feels like a professional extension cord. 
+67. Unlike those extension cords, this one feels professional and I would use it for the more heavy duty extension cord related activities around the house, yard or garage.
+
+negative sentences : 
+1. short extension cord goes great with my Schumacher XP400 400 Peak Amp Instant Portable Power Source. 
+2. These short 1 ft extension cords are great and fit into tight spaces, on power strips and UPSs.  
+3. It's so hard to find black extension cords, but they look so much nicer than those garish orange ones.
+4. This extension cord is only rated for 13A, so be cautious when plugging devices into it (most other extension cords & power strips are rated 15A). 
+5. I needed short extension cables to clean up a semi-permanently mounted light rig.  
+6. This short extension cord was perfect for my battery charger, but I could also see using it to extend an outlet to allow multiple wall warts, DC adapters, power supplies to plug into an outlet without blocking each other.
+7. I needed a short extension chord for a recessed outlet behind my flat panel tv mount. 
+8. What more could you want from a black extension cord?  
+9. I DIDN'T RECEIVE THIS ONE FOOT CABLE THAT I ORDERED, I RECEIVED A BLACK 6 FOOT EXTENSION CORD. 
+10. This short little extension cord was perfect for under my sink.  
+11. Due to the fact that my surge protector was about a foot and half short this little extension cord filled that role very nicely. 
+12. I love this cable, it's just a short little extension that comes in really handy.Everyone has power outlets and strips in their house, you have one by your computer, by your television, and in many other spots where you have tons of electronics hogging the outlets. 
+13. This product works as advertised.It is a black extension cord.What else do you need to know about it?
+14. For the love of all that's holy why do they not make a SEVEN foot extension cord!!!  
+15. These short extension cords are great, but they are only rated for 10 Amps.  
+16. How much can be said about a short extension cord?  
+17. This is a very inexpensive, but extremely well made extension cord. 
+18. It can be used for a variety of purposes.Pros:Very rugged design.Inexpensive.Works as advertised.Saves outlets on your surge protector.Cons:None.This is a versatile, extremely rugged outlet saver extension cord. 
+19. Need some short extension cords  to use with a power strip and this is just what I needed. 
+20. Just a short extension cord to power an emergency jump starter. 
+21. I have plenty of $5 extension cords for those electric candles you put in your windows at Christmas. 
+22. As always, be sure to observe common-sense safety rules when using anything electrical like these short extension cords.
+23. Needed a short extension cable for my microwave and this guy does the job. 
+24. I also recommend the 6-inch extension cords that allow you to easily plug in bulbous DC power adapters.
+
+------------------------------------------------------------------
+feature : cord, positive Score : 111 and negative Score :-45
+------------------------------------------------------------------
+positive sentences : 
+1. I was not able to insert the charging cable into the extension cord because the bottom prong was to thick. 
+2. i have no complaints. the extension cord works great. i just thought it was a little bit thick. thats all!
+3. I have run several high energy items on the cord like an air compressor, saw, etc.
+4. got this for a power bridge and it worked fine. its a power cord though so not that much to say about it.
+5. I couldn't expect anything else from this cord.The package was small and it came fast.
+6. Looking for a small heavy duty extension cord and was sent something that looks like it is used on a ????
+7. It seems to be a good quality extension cord, and it says made in China. 
+8. When it said 1 foot, I was thinking the actual cord was 1 foot long(from plug to plug). 
+9. I suppose $12 could be seen as expensive, but it seems to be of fairly high quality materials and is definitely sturdier than the typical extension cord. 
+10. Very simple cord. 
+11. These items do the job, I think, however, that one of them I installed from the wall to the Monster line conditioner and splitter should have been the same guage as the wire which comes out of it, but for that I would have had to buy a longer extension cord of heavier guage, defeating the purpose.
+12. Nice to have a medium duty cord long enough to relieve strain on your appliance cords wiithout being so long it leaves a bulky tangled mess.  
+13. I use this heavy-duty extension cord to connect my compact power strip to a wall outlet that's too far away.  
+14. I needed the 3-prong cord to plug my TV into a power strip, length worked great. 
+15. This extension cord is great. 
+16. I bought mine from ELMENOS and they shipped a nice 6-foot, 16 gauge extension cord model 102116 US-EXT6. 
+17. I tried to plug the lamp transformer into a separate outlet in the room with a standard extension cord, but the interference continued.  
+18. I can easily bring the jump box into my patio area and use the 6 foot cord verses using the big heavy 50' cord I store in my truck tool box. 
+19. I can easily bring the jump box into my patio area and use the 6 foot cord verses using the big heavy 50' cord I store in my truck tool box. 
+20. But the nice thing is that the  actual wire cord itself isn't all that thick, which makes it more portable.  
+21. This 10 amp cord is perfect for my application.  
+22. This was perfect to give me just a few inches needed to reach the power strip without having to use a full size extension cord.
+23. I used this extension cord for my DJ setup to extend the cord to the main power switch, Heavy duty and easily maneuverable I love it..
+24. Shipping was fine cord is fine just don't need. 
+25. It's just a normal short extension cord.
+26. I am very happy with how this extension cords works just like a real extension cord. 
+27. Got this in conjunction with a Clore Automotive JNC660 Jump-N-Carry 1,700 Peak Amp 12-Volt Jump Starter, also reviewed.Feels like a professional extension cord. 
+28. Unlike those extension cords, this one feels professional and I would use it for the more heavy duty extension cord related activities around the house, yard or garage.
+29. I bought the power cord extension as several people had suggested and I found it was really a necessity!
+30. I used one on my patio---the short (1 foot) extension cord allowed me connect a heavy timer and fasten it to the wall, away from the AC outlet.A ham radio operator told me once that if you place all those heavy power supplies (that are off to the side of the power strip) on an old aluminum cookie sheet--- e.g., about 9x12", it will act as a "heat sink," thereby dissipating the heat.  
+31. I recieve this item it works great just for what i needed it for instead of a long cord that would be to long this cord was the right length.
+32. I recieve this item it works great just for what i needed it for instead of a long cord that would be to long this cord was the right length.
+33. The cord is thick and appears durable. 
+34. Perfect length, heavy duty 2 prong extension cord for the job.Well worth the money!
+35. Basic cord that's durable and well made and is perfect when you need a few several extra feet to reach an outlet.
+36. Great little cord.  
+37. This is a simple indoor 3-prong extension cord. 
+38. I needed to extend a 2 prong cord from my t.v. since I count not find a longer cord.This worked perfectly and now the t.v. is grounded.
+39. I need a good heavy duty short length power cord to keep with my Instant Power Jump Starter for charging, and this was perfect. 
+40. I definitely recommend it if you need a nice long extension cord. 
+41. it is rated at 18 AWG, so make sure what use plug it into is safe for this gauge of cord.
+42. So when I found this extension cord and it was heavy duty and looked like it would really work. 
+43. Now I have a nice long cord to plug my laptop charger in. 
+44. The C2G/Cables to Go 03115 18 AWG Outlet Saver Power Extension Cord is an excellent buy and does exactly what i needed..  
+45. This extension cord seems to be good and sturdy and just the length I needed. 
+46. this is a very nice 25 foot black extension cord.  
+47. It is a small cord, it passes the electricity just fine. 
+48. You can not find and purchase a cord for a specific purpose, for this price. 
+49. Great Cord, High Quality, Cant have enough cord choices around with all the new electonics and electrical devices. 
+50. Great Cord, High Quality, Cant have enough cord choices around with all the new electonics and electrical devices. 
+51. The only thing notable about this cord is that the black color is quite uniform; the writing on the cord is colored white but it is barely noticeable.  
+52. The only thing notable about this cord is that the black color is quite uniform; the writing on the cord is colored white but it is barely noticeable.  
+53. It's a good quality extension cord from a good manufacturer of cables.  
+54. This is a very nice black extension cord that is quite flexible. 
+55. It is the perfect extension cord. 
+56. It is an outstanding power cord. 
+57. This is a good, solid, heavy duty, power cord.  
+58. For years my high def TV sat there uselessly, as the cord wasn't quite long enough to reach the nearest outlet. 
+59. Just enough cord! 
+60. I was running the power cord from the tv mounted on the wall and I didn't want a big bulky extension cord dangling from my wall so this was perfect. 
+61. Solid power cord extensions from C2G, which should not come as a surprise to anyone. 
+62. My mom looked everywhere for this cord , but they were so expensive . 
+63. The cord seems very sturdy and durable.
+64. I purchased the 1 foot long version of this cord.  
+65. I wanted a good quality cord to keep with my portable jump starter. 
+66. Good, solid power extension cord. 
+67. I needed this small extension cord in an enclosure and it works perfectly for that job.  
+68. My only real gripe is that this cord is pretty stiff compared to a normal extension cord.  
+69. My only real gripe is that this cord is pretty stiff compared to a normal extension cord.  
+70. A regular extension cord may be a tad cheaper at Wal mart.  
+71. Be careful when using this extension cord as you must stay below 10 amps! 
+72. As it is not worth the return and hassle to send it back to Amazon I just purchased the cord I needed from a local source.  
+73. The cord is thick and strong (but won't bend easily, which you may or may not like).  
+74. This same cord is sold in various lengths.
+75. Despite what the product description says, 18 gauge wire is *NOT* &#34;heavy duty;&#34; it is in fact little better than lamp cord.  
+76. This cord will make tight spaces a breeze. 
+77. The quality of the power cord is solid. 
+78. Just a regular extension cord. 
+79. I used this as an extension cord and it does a great job at it. 
+80. It's just the size that I want and I feel like the cord has the high quality I would expect. 
+81. I payed ~$4 for the 3 foot cord - Much cheaper than the average hardware store.PROS: * Sturdy and durable * Not too heavy * Securely plugs into an outlet * CheapCON: Difficult to unplug something from the extension end - After a few attempts, this has become easier.  
+82. If I had payed full price for this product, this factor would have made me return it.OVERALL, a good extension cord at a cheap price.
+83. IT IS Real cord that I needed, what a cord,fantastico!!!  
+84. This extension cord worked just fine for my fairly light-use purposes (wedding lights) and I'm happy to have two of them on hand. 
+85. The cord itself seems about as thick as a piece of coaxial cable used for the TV. 
+86. I was concerned that the cord might get warm while heating up the Duracel, but that hasn't happened.So for the money I am satisfied. 
+87. This is the perfect extension cord for charging my jump starter. 
+88. I don't want to buy normal extension cord for it.  
+89. In using the unit with the CTG 3' Outlet Saver Power Cord I find it much easier to use.What can you say about a 3' extension cord...It's a well constructed cord for the money and does the job intended.
+90. This little exension cord is quite flexible and not as thick as the 1-foot 3-prong cables. 
+91. Eliminated the need for long extension cord. 
+92. The shorter it is, the more important accurate length is.Well the cord comes up about 25% short of a foot.  
+
+negative sentences : 
+1. I still rated this cord 5 stars because all other cords fit without any problems.
+2. The actual cord length, not measuring the plugs, is exactly nine inches long. 
+3. For the love of all that's holy why do they not make a SEVEN foot extension cord!!!  
+4. This is an excellent replacement for extending a short power cord for any appliance, electronics, or anything that needs to have a longer power cord.  
+5. This is an excellent replacement for extending a short power cord for any appliance, electronics, or anything that needs to have a longer power cord.  
+6. How much can be said about a short extension cord?  
+7. This was happily exactly what I was looking for, a cord to attach to a hot water pot that needed just a bit of extra length that did not need to be shortened by tying it up and that was not available in any of the local hardware stores.  
+8. Because it's noit a big, bulky cord, it doesn't take up all THAT much room.
+9. It can be used for a variety of purposes.Pros:Very rugged design.Inexpensive.Works as advertised.Saves outlets on your surge protector.Cons:None.This is a versatile, extremely rugged outlet saver extension cord. 
+10. Just a short extension cord to power an emergency jump starter. 
+11. For those that find the appliance cord just a wee bit to short, buy this instead of the 25, 50, 100 foot cords. 
+12. This product works as advertised.It is a black extension cord.What else do you need to know about it?
+13. Due to the fact that my surge protector was about a foot and half short this little extension cord filled that role very nicely. 
+14. It's not nearly as robust as the type of cord you'd expect to see in a shop or on a job site.
+15. short extension cord goes great with my Schumacher XP400 400 Peak Amp Instant Portable Power Source. 
+16. My cord arrived early and works perfectly, the only problem is I was sent the wrong length.  
+17. I bought one of these a couple years ago because a small kitchen appliance had a short cord; this was just the thing to make it longer. 
+18. I have an electric kettle with a short cord and an outlet that's a foot and a half up the wall. 
+19. I've been unable to find a short cord with a grounded plug and was happy to find it here.
+20. We used this cable to connect an electric cord that was too short to reach the outlet. 
+21. Had tore placed power cord due to poo ergonomics so the layout would be more comfortable for the user and this worked out Ver well.
+22. just the right size to charge battery jump box. no mess with a long cord and easy to keep up with.
+23. These are well constructed and very inexpensive I needed a smaller cord for my jump starter and this cord fit the bill!
+24. These are well constructed and very inexpensive I needed a smaller cord for my jump starter and this cord fit the bill!
+25. For a short cord, it looks very robust.  
+26. Anyone who needs a cable where a short cord is needed would find this very useful.  
+27. This short extension cord was perfect for my battery charger, but I could also see using it to extend an outlet to allow multiple wall warts, DC adapters, power supplies to plug into an outlet without blocking each other.
+28. Plug the cord into the outlet in the lamp, plug the Belkin unit into this short cord.
+29. That's what I wanted so I could extend my vacuum's cord but still wrap it on the built-in cord keeper.  
+30. I'm a mobile DJ and the black cord makes it easy to conceal.  
+31. It's a cord, short and it works. 
+32. I got a brand new tv and mounted it to the wall. the cord was just a bit short of being able to plug into my surge protector/ battery backup. got this. 
+33. What more could you want from a black extension cord?  
+34. It is exactly what I needed: heavy duty enough to carry the power and flexible enough to haul around the house; long enough to get where I wanted, and not so long I had excess cord to deal with. 
+35. I DIDN'T RECEIVE THIS ONE FOOT CABLE THAT I ORDERED, I RECEIVED A BLACK 6 FOOT EXTENSION CORD. 
+36. This short little extension cord was perfect for under my sink.  
+37. I needed 1.5 feet and I did not want to use a bulky 7' cord or two 1' cords.
+38. Its not a thin wimpy cord. 
