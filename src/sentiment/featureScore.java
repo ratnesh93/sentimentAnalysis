@@ -1,7 +1,7 @@
+//step : 10
+//generating feature wise score
 package sentiment;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -53,18 +53,18 @@ public class featureScore {
 			Long sentenceId;
 			String feature = "";
 			Integer positivescore;
-			
+
 			while (rs2.next()) {
 				feature = rs2.getString("feature");
 				positivescore = rs2.getInt("score");
-				sentenceId=rs2.getLong("sentenceId");
+				sentenceId = rs2.getLong("sentenceId");
 				if (positivescore > 0) {
 					if (hm.containsKey(feature)) {
 						hm.put(feature, hm.get(feature) + positivescore);
-						
+
 					} else {
 						hm.put(feature, positivescore);
-						
+
 					}
 					sql = "INSERT INTO findfeaturesentences VALUES(Null,?,?,?,?)";
 					ps = conn.prepareStatement(sql);
@@ -103,7 +103,7 @@ public class featureScore {
 				if (negativescore < 0) {
 					if (hm.containsKey(feature)) {
 						hm.put(feature, hm.get(feature) + negativescore);
-						
+
 					} else {
 						hm.put(feature, negativescore);
 					}
@@ -117,7 +117,7 @@ public class featureScore {
 					ps.executeUpdate();
 				}
 			}
-			
+
 			set = hm.entrySet();
 			// Get an iterator
 			i = set.iterator();
@@ -125,11 +125,12 @@ public class featureScore {
 			while (i.hasNext()) {
 				Map.Entry<String, Integer> me = (Map.Entry) i.next();
 
-				sql = "Select * from featurewisescore WHERE feature = " + '"' + me.getKey() + '"' + " and productId = " + '"'+ productId + '"';
+				sql = "Select * from featurewisescore WHERE feature = " + '"' + me.getKey() + '"' + " and productId = "
+						+ '"' + productId + '"';
 				rs3 = stmt3.executeQuery(sql);
 				if (rs3.next()) {
-					String updateTableSQL = "UPDATE featurewisescore SET negativeScore = ? WHERE feature = "
-							+ '"'+me.getKey()+'"' + "and productId = " + '"' + productId + '"';
+					String updateTableSQL = "UPDATE featurewisescore SET negativeScore = ? WHERE feature = " + '"'
+							+ me.getKey() + '"' + "and productId = " + '"' + productId + '"';
 					ps = conn.prepareStatement(updateTableSQL);
 					ps.setInt(1, me.getValue());
 					ps.executeUpdate();

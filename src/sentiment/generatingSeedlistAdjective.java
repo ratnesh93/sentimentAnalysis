@@ -1,3 +1,6 @@
+//step 6: 
+//generating seedlist of adjectives which we can assign polarity
+//in our seedlist we took 30 adjectives for which we are sure, this 30 are top 30 frequency wise in our data
 package sentiment;
 
 import java.io.BufferedReader;
@@ -33,7 +36,7 @@ public class generatingSeedlistAdjective {
 		stmt2 = (Statement) conn.createStatement();
 		stmt3 = (Statement) conn.createStatement();
 
-		String sql = "SELECT Count(*) as count,opinionWord FROM sentiment.opinion group by opinionWord order by  count desc";
+		String sql = "SELECT Count(*) as count,opinionWord FROM potentialfeature group by opinionWord order by  count desc";
 		rs = stmt.executeQuery(sql);
 
 		int count = 0;

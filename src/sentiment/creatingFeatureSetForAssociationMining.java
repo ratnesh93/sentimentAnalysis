@@ -1,3 +1,5 @@
+//step 3
+//generating set of nouns for doing association mining
 package sentiment;
 
 import java.io.BufferedWriter;
@@ -43,7 +45,8 @@ public class creatingFeatureSetForAssociationMining {
 
 			rs2 = stmt2.executeQuery(sql);
 			writer = new BufferedWriter(
-					new FileWriter("C:/Users/ratnesh/Documents/GitHub/sentimentAnalysis/src/featureSetProductWise/input" + productId + ".txt"));
+					new FileWriter("C:/Users/ratnesh/Documents/GitHub/sentimentAnalysis/src/featureSetProductWise/input"
+							+ productId + ".txt"));
 			String word = "";
 			Long prevsentenceId = -99L, sentenceId;
 			StringBuilder buffer = new StringBuilder();
@@ -51,19 +54,19 @@ public class creatingFeatureSetForAssociationMining {
 				sentenceId = rs2.getLong("sentenceId");
 				word = rs2.getString("word");
 				word = word.toLowerCase();
-				if (sentenceId != prevsentenceId && prevsentenceId!=-99L){
+				if (sentenceId != prevsentenceId && prevsentenceId != -99L) {
 					writer.write(buffer.toString());
 					writer.newLine();
 					buffer = new StringBuilder();
 				}
 
-				if(!buffer.toString().contains(word)){
-					buffer.append(word+" ");
+				if (!buffer.toString().contains(word)) {
+					buffer.append(word + " ");
 				}
 				prevsentenceId = sentenceId;
 			}
 			writer.write(buffer.toString());
-			
+
 			if (writer != null)
 				writer.close();
 

@@ -1,7 +1,8 @@
+//step 5
+//extract the opinion, those features which got opinions insert into potential feature table
 package sentiment;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.IOException;
 import java.sql.Connection;
@@ -63,7 +64,6 @@ public class opinionExtraction {
 				sql = "Select t1.id,t1.sentenceId from ((SELECT t.id,t.word,t.sentenceId,t.posTag,r.reviewId FROM tagwords t inner join reviewsentence r on t.sentenceId = r.id) t1 inner join electronics_review e on e.id = t1.reviewId) where e.prodId="
 						+ "'" + productId + "'" + "and t1.word=" + "'" + lineSplited[0] + "'";
 
-				
 				rs2 = stmt2.executeQuery(sql);
 
 				// String word="";
@@ -96,12 +96,13 @@ public class opinionExtraction {
 					}
 					if (minDistanceId != Long.MAX_VALUE) {
 
-						sql = "INSERT INTO opinion VALUES(NULL,?,?,?,?)";
+						sql = "INSERT INTO potentialfeature VALUES(NULL,?,?,?,?,?)";
 						ps = conn.prepareStatement(sql);
 						ps.setString(1, lineSplited[0]);
 						ps.setString(2, nearestOpinion);
 						ps.setString(3, productId);
 						ps.setLong(4, sentenceId);
+						ps.setLong(5, minDistanceId);
 						ps.executeUpdate();
 
 					}

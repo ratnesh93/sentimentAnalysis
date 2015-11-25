@@ -1,3 +1,5 @@
+//step 1
+//breaking review into sentences because post tagger takes input sentence wise
 package sentiment;
 
 import java.sql.Connection;

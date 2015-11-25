@@ -1,3 +1,5 @@
+//step : 11(final step)
+//generating aggregate reviews in the text file under package ProductWiseOpinionSenntences
 package sentiment;
 
 import java.io.BufferedWriter;
@@ -61,18 +63,19 @@ public class GeneratingProductWiseOpinionSentence {
 					negativeScore = rs4.getInt("negativeScore");
 
 					sql = "SELECT sentence,orientation FROM findfeaturesentences inner join reviewsentence r on sentenceId=r.id where feature="
-							+ '"' + feature + '"' + " and productId = +"+'"'+productId+'"'+"order by orientation desc";
+							+ '"' + feature + '"' + " and productId = +" + '"' + productId + '"'
+							+ "order by orientation desc";
 					rs3 = stmt3.executeQuery(sql);
 
 					writer.newLine();
 					writer.write("------------------------------------------------------------------");
 					writer.newLine();
-					writer.write("feature : " + feature + ", positive Score : " + positiveScore + " and negative Score :"
-							+ negativeScore);
+					writer.write("feature : " + feature + ", positive Score : " + positiveScore
+							+ " and negative Score :" + negativeScore);
 					writer.newLine();
 					writer.write("------------------------------------------------------------------");
 					writer.newLine();
-					int p = 0, n = 0,i=1;
+					int p = 0, n = 0, i = 1;
 					while (rs3.next()) {
 						if (rs3.getInt("orientation") == 1 && p == 0) {
 							writer.write("positive sentences : ");
@@ -84,13 +87,13 @@ public class GeneratingProductWiseOpinionSentence {
 							writer.write("negative sentences : ");
 							writer.newLine();
 							n++;
-							i=1;
+							i = 1;
 						}
-						writer.write(""+i+". "+rs3.getString("sentence"));
+						writer.write("" + i + ". " + rs3.getString("sentence"));
 						writer.newLine();
 						i++;
 					}
-					
+
 				}
 			}
 			if (writer != null)

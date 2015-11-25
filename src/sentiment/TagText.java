@@ -1,3 +1,5 @@
+//step 2
+//now tagging the sentences using stanFord post tagger
 package sentiment;
 
 import java.io.IOException;
