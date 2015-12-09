@@ -40,7 +40,10 @@ public class creatingFeatureSetForAssociationMining {
 			BufferedWriter writer = null;
 			productId = rs.getString("prodId");
 
-			sql = "Select w.sentenceId,w.word from electronics_review e inner join (SELECT r.reviewId,t.sentenceId,t.word,t.id FROM tagwords t INNER JOIN reviewsentence r on t.sentenceId = r.id and (t.posTag='NN' OR t.posTag='NNS')) w on w.reviewId = e.id and e.prodId="
+			sql = "Select w.sentenceId,w.word from electronics_review e inner join " +
+					"(SELECT r.reviewId,t.sentenceId,t.word,t.id " +
+					"FROM tagwords t INNER JOIN reviewsentence r on t.sentenceId = r.id " +
+					"and (t.posTag='NN' OR t.posTag='NNS')) w on w.reviewId = e.id and e.prodId="
 					+ "'" + productId + "'";
 
 			rs2 = stmt2.executeQuery(sql);
